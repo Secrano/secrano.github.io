@@ -1,4 +1,15 @@
 # secrano.github.io
+
+--- Git: Day 3
+
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1801307726599045205)
+
+
+
+---
+Archive:
+---
+
 Web
 
 Git: Signature move.
@@ -9,7 +20,7 @@ Git: Signature move.
 ##### Ref img, source: [twt@](https://x.com/yurari_banri/status/1800639644620767293)
 ##### Ref img, source: [twt@](https://x.com/unicouniuni3/status/1800893035213156822)
 
-Git: Day two.
+Git: Day 2
 
 ##### Ref img, source: [twt@](https://x.com/tabakko/status/1801057217954631789)
 ##### Ref img, source: [twt@](https://x.com/aerisephs/status/1800876314276303125)
