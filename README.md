@@ -10,5 +10,5 @@
 - Ref img, source: [twt@](https://x.com/Spideraxe30/status/1801564473796280333)
 
 # ---
-YT Music: "[A Year Long Story: Part III](https://www.youtube.com/watch?v=76Pdg2-BpG0)" uploaded by Aurora Night
+Music: "[A Year Long Story: Part III](https://www.youtube.com/watch?v=76Pdg2-BpG0)" uploaded by Aurora Night
 # ---
