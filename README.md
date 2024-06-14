@@ -4,7 +4,8 @@
 
 - Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1801307726599045205)
 
-
+- Ref img, source: [twt@](https://x.com/HAL09999/status/1801561588173779323)
+- Ref img, source: [twt@](https://x.com/neorarty3/status/1801393311883698210)
 
 # ---
 Archive:
