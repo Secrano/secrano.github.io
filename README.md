@@ -3,6 +3,7 @@
 --- Git: Day 6
 
 - Ref img, source: [twt@](https://x.com/HoDaRaKe/status/1802347901252751687)
+- Ref img, source: [twt@](https://x.com/sasukedailydose/status/1802107907275661611)
 - Ref img, source: [twt@](https://x.com/dailyJinchuriki/status/1802029234887467469)
 
 - Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1802388503914856469)
