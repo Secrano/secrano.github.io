@@ -1,16 +1,9 @@
 # secrano.github.io
 
---- Git: Day 4
+--- Git: Day 5
 
-- Ref img, source: [twt@](https://x.com/NARAKATHEGAME/status/1801646000353763710)
-- Ref img, source: [twt@](https://x.com/depressionlesss/status/1801547627559006356)
-
-- Ref img, source: [twt@](https://x.com/Spideraxe30/status/1801708138078642301)
-- Ref img, source: [twt@](https://x.com/Spideraxe30/status/1801709684505588079)
-- Ref img, source: [twt@](https://x.com/Spideraxe30/status/1801564473796280333)
-
-- --- Ref img, source: [twt@](https://x.com/i/bookmarks?post_id=1801534547730792867)
-
-# ---
-Music: "[A Year Long Story: Part III](https://www.youtube.com/watch?v=76Pdg2-BpG0)" uploaded by Aurora Night
-# ---
+- Ref img, source: [twt@](https://x.com/lusopps/status/1801607212302840087)
+- Ref img, source: [twt@](https://x.com/yurari_banri/status/1802134653878542357)
+- Ref img, source: [twt@](https://x.com/katsmuki/status/1801980748003459486)
+- Ref img, source: [twt@](https://x.com/khiawings/status/1801927392199385119)
+- Ref img, source: [twt@](https://x.com/mimi_aiart/status/1801902475601195131)
