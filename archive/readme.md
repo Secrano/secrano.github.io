@@ -29,16 +29,16 @@ Git: Day 3
 ##### Ref img, source: [twt@](https://x.com/HAL09999/status/1801561588173779323)
 ##### Ref img, source: [twt@](https://x.com/neorarty3/status/1801393311883698210)
 
---- Git: Day 4
+Git: Day 4
 
-- Ref img, source: [twt@](https://x.com/NARAKATHEGAME/status/1801646000353763710)
-- Ref img, source: [twt@](https://x.com/depressionlesss/status/1801547627559006356)
+##### Ref img, source: [twt@](https://x.com/NARAKATHEGAME/status/1801646000353763710)
+##### Ref img, source: [twt@](https://x.com/depressionlesss/status/1801547627559006356)
 
-- Ref img, source: [twt@](https://x.com/Spideraxe30/status/1801708138078642301)
-- Ref img, source: [twt@](https://x.com/Spideraxe30/status/1801709684505588079)
-- Ref img, source: [twt@](https://x.com/Spideraxe30/status/1801564473796280333)
+##### Ref img, source: [twt@](https://x.com/Spideraxe30/status/1801708138078642301)
+##### Ref img, source: [twt@](https://x.com/Spideraxe30/status/1801709684505588079)
+##### Ref img, source: [twt@](https://x.com/Spideraxe30/status/1801564473796280333)
 
-- --- Ref img, source: [twt@](https://x.com/i/bookmarks?post_id=1801534547730792867)
+##### Ref img, source: [twt@](https://x.com/i/bookmarks?post_id=1801534547730792867)
 
 # ---
 Music: "[A Year Long Story: Part III](https://www.youtube.com/watch?v=76Pdg2-BpG0)" uploaded by Aurora Night
