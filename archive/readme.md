@@ -58,15 +58,11 @@ Git: Day 6
 ##### Ref img, source: [twt@](https://x.com/sasukedailydose/status/1802107907275661611)
 ##### Ref img, source: [twt@](https://x.com/dailyJinchuriki/status/1802029234887467469)
 
-<br/>
-
 ##### Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1802388503914856469)
 ##### Ref img, source: [twt@](https://x.com/RinSS_HI/status/1802374736753651864)
 ##### Ref img, source: [twt@](https://x.com/BasedLIDA/status/1801919451383890037)
 ##### Ref img, source: [twt@](https://x.com/GifsAnime_/status/1802072174607708458)
 ##### Ref img, source: [twt@](https://x.com/Manim_Asg/status/1801964666375016596)
-
-<br/>
 
 ##### Ref img, source: [twt@](https://x.com/OnePieceDefend/status/1802115005464133830/photo/1)
 ##### Ref img, source: [twt@](https://x.com/george_10g/status/1802293742075777302)
