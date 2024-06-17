@@ -29,5 +29,5 @@
 - Ref img, source: [twt@](https://x.com/mimi_aiart/status/1801902475601195131)
 
 # ---
-Music: "[A Year Long Story: Part IV](https://www.youtube.com/watch?v=76Pdg2-BpG0)" uploaded by Aurora Night
+--- Music: "[A Year Long Story: Part IV](https://www.youtube.com/watch?v=sZX0bhVOevE)" uploaded by Aurora Night
 # ---
