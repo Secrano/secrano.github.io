@@ -21,8 +21,8 @@
 --- Git: Day 9
 
 - Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1803154209250173180)
-- Ref img, source: [twt@ - YT (G)](https://www.youtube.com/watch?v=AxQRV3qPxj8)
-- Ref img, source: [twt@ - YT (Y)](https://www.youtube.com/watch?v=ejRGUitWngk)
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=AxQRV3qPxj8)
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=ejRGUitWngk)
 - Ref img, source: [twt@](https://x.com/TFT/status/1801676514531934564)
 
 # ---
