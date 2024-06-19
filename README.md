@@ -26,5 +26,5 @@
 - Ref img, source: [twt@](https://x.com/TFT/status/1801676514531934564)
 
 # ---
-Music: "[Diamond Hearts by BLACKPINK](https://www.youtube.com/watch?v=76Pdg2-BpG0)" uploaded by LIV LAB
+Music: "[Diamond Hearts by BLACKPINK](https://www.youtube.com/watch?v=OojSuORlNr4)" uploaded by LIV LAB
 # ---
