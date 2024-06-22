@@ -13,7 +13,7 @@ He's a dick.
 - Ref img, source: [twt@](https://x.com/_mitsukiie/status/1799338977494990953)
 
 # ---
-Music: "[Aurora Night - A Year Long Story: Part II](https://www.youtube.com/watch?v=f7voHu76naw)" by Aurora Night
+--- Music: "[Aurora Night - A Year Long Story: Part II](https://www.youtube.com/watch?v=f7voHu76naw)" by Aurora Night
 # ---
 
 - Ref img, source: [twt@](https://x.com/PraiseTheFrom/status/1804271889121985008)
@@ -22,5 +22,5 @@ Music: "[Aurora Night - A Year Long Story: Part II](https://www.youtube.com/watc
 - Ref img, source: [twt@](https://x.com/AkashaLounge/status/1803660097148915799)
 
 # ---
-Music: "[BLACKPINK – The Happiest Girl](https://www.youtube.com/watch?v=qaHBS_VhNO8)" uploaded by anonlikes
+--- Music: "[BLACKPINK – The Happiest Girl](https://www.youtube.com/watch?v=qaHBS_VhNO8)" uploaded by anonlikes
 # ---
