@@ -1,6 +1,6 @@
 # secrano.github.io
 
---- Git: Day C
+--- Git: Day C - Revoked.
 
 - Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1804577513575719354)
 - Ref img, source: [twt@](https://x.com/Coharrie_AI/status/1804568538780479632)
