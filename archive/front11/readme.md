@@ -18,8 +18,6 @@ Archive
 - Ref img, source: [twt@](https://x.com/milkynoe/status/1804387033906913778)
 - Ref img, source: [twt@](https://x.com/duskgumi/status/1803955367103123759)
 
-# ---
-
 --- Git: Day D
 
 Do you read this. Meow.
