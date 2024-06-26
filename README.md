@@ -2,8 +2,6 @@
 
 --- Git: Week 3
 
-Time to fck.
-
 - Ref img, source: [twt@](https://x.com/gracecharisxo/status/1805281438117318953)
 - Ref img, source: [twt@](https://x.com/OpMugiwaraVibes/status/1805657464785834261)
 - Ref img, source: [twt@](https://x.com/oo_kk_aa/status/1805907571456487551)
@@ -27,6 +25,6 @@ Time to fck.
 - Ref img, source: [twt@](https://x.com/keiuzuki/status/1806049102138118543)
 - Ref img, source: [twt@](https://x.com/ayeejuju/status/1806030439314084249)
 - Ref img, source: [twt@](https://x.com/katsuhive/status/1805710810867712077)
-- Ref img, source: [twt@](https://www.youtube.com/watch?v=x_hj2ZJQ0do) - YT
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=x_hj2ZJQ0do)
 
 # ---
