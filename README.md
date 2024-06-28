@@ -9,7 +9,7 @@
 - Ref img, source: [twt@](https://x.com/ccreayus/status/1806307661769794036)
 
 # ---
-Music: [LISA - ROCKSTAR (official)](https://www.youtube.com/watch?v=hbcGx4MGUMg)" uploaded by LLOUD Official
+Music: "[LISA - ROCKSTAR (official)](https://www.youtube.com/watch?v=hbcGx4MGUMg)" uploaded by LLOUD Official
 # ---
 
 --- Git: Day 16 - Time skip.
