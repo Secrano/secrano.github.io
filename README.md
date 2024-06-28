@@ -1,5 +1,17 @@
 # secrano.github.io
 
+--- Git: Day 17 
+
+- Ref img, source: [twt@](https://x.com/Matrey02/status/1806091083270496434)
+- Ref img, source: [twt@](https://x.com/PopCulture2000s/status/1806479733909065902)
+- Ref img, source: [twt@](https://x.com/retro_twt/status/1806402211758407751)
+- Ref img, source: [twt@](https://x.com/BasedLIDA/status/1806548010265948478)
+- Ref img, source: [twt@](https://x.com/ccreayus/status/1806307661769794036)
+
+# ---
+Music: [LISA - ROCKSTAR (official)](https://www.youtube.com/watch?v=hbcGx4MGUMg)" uploaded by LLOUD Official
+# ---
+
 --- Git: Day 16 - Time skip.
 
 - Ref img, source: [twt@](https://x.com/historyinmemes/status/1806191347159671286)
