@@ -4,8 +4,8 @@
 
 - Ref img, source: [twt@](https://x.com/StillHazoDDD/status/1806472427439792372)
 - Ref img, source: [twt@](https://x.com/tonka_chen/status/1159103407057252352)
-- Ref img, source: [twt@](https://www.youtube.com/watch?v=Ksg-PbIMlFg) - YT
-- Ref img, source: [twt@](https://www.youtube.com/watch?v=fg8LxxhPdaA) - YT
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=Ksg-PbIMlFg)
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=fg8LxxhPdaA)
 - Ref img, source: [twt@](https://x.com/DanKantori/status/1806887906562195614)
 - Ref img, source: [twt@](https://x.com/jeonghaniste/status/1807030001545453956)
 - Ref img, source: [twt@](https://x.com/plasticwanker/status/1807007490418086137)
