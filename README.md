@@ -1,5 +1,13 @@
 # secrano.github.io
 
+--- Git: Day 18 - 
+
+- Ref img, source: [twt@](https://x.com/TheSliceofAnime/status/1806890295713583289)
+- Ref img, source: [twt@](https://x.com/MichiMochievee/status/1806764785654223071)
+- Ref img, source: [twt@](https://x.com/EldenringAlerts/status/1806636647418835138)
+
+# ---
+
 --- Git: Day 17 
 
 - Ref img, source: [twt@](https://x.com/Matrey02/status/1806091083270496434)
