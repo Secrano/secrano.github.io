@@ -1,5 +1,19 @@
 # secrano.github.io
 
+--- Git: Day 19 - 
+
+- Ref img, source: [twt@](https://x.com/StillHazoDDD/status/1806472427439792372)
+- Ref img, source: [twt@](https://x.com/tonka_chen/status/1159103407057252352)
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=Ksg-PbIMlFg) - YT
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=fg8LxxhPdaA) - YT
+- Ref img, source: [twt@](https://x.com/DanKantori/status/1806887906562195614)
+- Ref img, source: [twt@](https://x.com/jeonghaniste/status/1807030001545453956)
+- Ref img, source: [twt@](https://x.com/plasticwanker/status/1807007490418086137)
+- Ref img, source: [twt@](https://x.com/MissMikkaa/status/1807026200985882938)
+- Ref img, source: [twt@](https://x.com/sooyafilms/status/1806728889835622602)
+
+# ---
+
 --- Git: Day 18 - 
 
 - Ref img, source: [twt@](https://x.com/TheSliceofAnime/status/1806890295713583289)
