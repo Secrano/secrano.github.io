@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Inventory Demo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .inventory-container {
+            display: flex;
+            gap: 20px;
+        }
+        .inventory {
+            background-color: #fff;
+            border: 2px solid #333;
+            border-radius: 10px;
+            padding: 20px;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+        }
+        .item {
+            width: 50px;
+            height: 50px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 24px;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <div class="inventory-container">
+        <div class="inventory">
+	          <p> Hello World,
+        </div>
+
+        <div class="inventory">
+            <div class="item">🍎</div>
+            <div class="item">🍌</div>
+            <div class="item">🍇</div>
+            <div class="item">🍊</div>
+            <div class="item">🗡️</div>
+            <div class="item">🛡️</div>
+            <div class="item">🧪</div>
+            <div class="item">🔑</div>
+            <div class="item">💎</div>
+            <div class="item">🧭</div>
+            <div class="item">📜</div>
+            <div class="item">🔮</div>
+        </div>
+    </div>
+</body>
+</html>
