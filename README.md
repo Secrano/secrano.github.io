@@ -1,5 +1,15 @@
 # secrano.github.io
 
+--- Git: Day 20 - 
+
+- Ref img, source: [twt@](https://x.com/astasiadream/status/1807353702149206041)
+- Ref img, source: [twt@](https://x.com/ito_ito_18/status/1806923624311591216)
+- Ref img, source: [twt@](https://x.com/cutedoujin/status/1807161833746276766)
+- Ref img, source: [twt@](https://x.com/thx_r308/status/1806922116236779629)
+- Ref img, source: [twt@](https://x.com/milkynoe/status/1807204282548277757)
+
+# ---
+
 --- Git: Day 19 - 
 
 - Ref img, source: [twt@](https://x.com/StillHazoDDD/status/1806472427439792372)
