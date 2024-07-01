@@ -1,4 +1,4 @@
-### --- Overview:
+### Overview:
 
 - CSV loading bar
 - Game Inventory
