@@ -1,12 +1,10 @@
 # secrano.github.io
 
---- Git: Day 22 - Fire. 
+--- Git: Day 24 -
 
-- Ref img, source: [twt@](https://x.com/HamsterFragment/status/1807396639218536645)
-- Ref img, source: [twt@](https://www.youtube.com/watch?v=GHnqnbLDpc0)
-- Ref img, source: [twt@](https://www.youtube.com/watch?v=ykC7Jq0T77I)
-- Ref img, source: [twt@](https://www.youtube.com/watch?v=Hm2M54WNQQw)
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=QIMihDOXMpY)
+- Ref img, source: [twt@](https://x.com/naiivememe/status/1808071867468800483)
+- Ref img, source: [twt@](https://x.com/jenniepics/status/1808086960428441851)
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=X4Ot3xzWLMY)
 
-# ---
-Music: "[Kendrick Lamar - Rich Spirit](https://www.youtube.com/watch?v=toBTPGfurLc)"
 # ---
