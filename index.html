@@ -3,240 +3,217 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>火 vs 水 - Ryokan Elements</title>
+    <title>Hunting Game</title>
     <style>
         body {
-            font-family: 'MS Mincho', serif;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
             margin: 0;
-            background-color: #1a0000;
-            color: #ffd700;
+            background-color: #1a2f1a;
+            font-family: 'Arial', sans-serif;
+            background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23214121' fill-opacity='0.4'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
         }
-        #container {
-            background-color: #2a0a0a;
-            border: 20px solid #4a0000;
-            padding: 40px;
-            box-shadow: 0 0 20px rgba(255,0,0,0.3);
-            position: relative;
-        }
-        #container::before {
-            content: '';
-            position: absolute;
-            top: 10px;
-            left: 10px;
-            right: 10px;
-            bottom: 10px;
-            border: 2px solid #ffd700;
-            pointer-events: none;
-        }
-        h1 {
+        #game-container {
             text-align: center;
-            margin-bottom: 20px;
-            font-size: 28px;
-            letter-spacing: 4px;
+            background-color: #2c4c2c;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
         }
-        #grid {
-            display: grid;
-            grid-template-columns: repeat(19, 25px);
-            grid-template-rows: repeat(19, 25px);
-            gap: 1px;
-            background-color: #4a0000;
-            margin-bottom: 20px;
-            border: 2px solid #ffd700;
+        #game-board {
+            display: inline-block;
+            border: 15px solid #3a5f3a;
+            background-color: #4a7a4a;
+            border-radius: 5px;
+            overflow: hidden;
         }
         .cell {
             width: 25px;
             height: 25px;
-            background-color: #2a0a0a;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            font-size: 16px;
+            display: inline-block;
+            font-size: 20px;
+            line-height: 25px;
+            text-align: center;
+            vertical-align: middle;
         }
-        .obstacle { background-color: #3a0000; }
-        .buttons {
-            display: flex;
-            gap: 20px;
-            justify-content: center;
+        h1 {
+            color: #b8e0b8;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
         }
-        button {
-            padding: 10px 20px;
-            font-size: 16px;
-            cursor: pointer;
-            background-color: #4a0000;
-            color: #ffd700;
-            border: 1px solid #ffd700;
-            transition: background-color 0.3s;
-            font-family: 'MS Mincho', serif;
+        p {
+            color: #a0d8a0;
+            font-size: 18px;
+            margin: 10px 0;
         }
-        button:hover {
-            background-color: #600000;
+        #score {
+            font-weight: bold;
+            color: #d0f0d0;
         }
     </style>
 </head>
 <body>
-    <div id="container">
-        <h1>火 vs 水</h1>
-        <div id="grid"></div>
-        <div class="buttons">
-            <button id="refreshButton">再開</button>
-            <button id="randomizeButton">無作為</button>
-        </div>
+    <div id="game-container">
+        <h1>🌿 Hunting Game 🌿</h1>
+        <div id="game-board"></div>
+        <p>Score: <span id="score">0</span></p>
+        <p>Use arrow keys to move the hunter</p>
+        <p>Use W, A, S, D keys to move the bear</p>
     </div>
     <script>
-        const grid = document.getElementById('grid');
-        const refreshButton = document.getElementById('refreshButton');
-        const randomizeButton = document.getElementById('randomizeButton');
+        const board = document.getElementById('game-board');
+        const scoreElement = document.getElementById('score');
         const size = 19;
-        const cells = [];
-        const obstacles = ['🪑', '📺', '🛏️', '🪴', '🛋️'];
-        const delay = 50;
+        const emptyCell = '🌱';
+        const hunterHead = '🏹';
+        const food = '🍎';
+        const enemies = ['🐰', '🦊', '🦝'];
+        const bear = '🐻';
+        let hunter = {x: 9, y: 9};
+        let foodPosition = {};
+        let enemyPositions = [];
+        let bearPosition = {x: 5, y: 5}; // Initial bear position
+        let score = 0;
 
-        function createGrid() {
-            grid.innerHTML = '';
-            cells.length = 0;
-            for (let i = 0; i < size * size; i++) {
-                const cell = document.createElement('div');
-                cell.classList.add('cell');
-                grid.appendChild(cell);
-                cells.push(cell);
+        function createBoard() {
+            for (let y = 0; y < size; y++) {
+                for (let x = 0; x < size; x++) {
+                    const cell = document.createElement('div');
+                    cell.className = 'cell';
+                    cell.textContent = emptyCell;
+                    board.appendChild(cell);
+                }
+                board.appendChild(document.createElement('br'));
             }
-            cells[0].textContent = '🔥';
-            cells[size - 1].textContent = '💧';
-            cells[size * size - 1].textContent = '💨';
-            cells[size * (size - 1)].textContent = '💨';
         }
 
-        function addRandomObstacles() {
-            for (let i = 0; i < size * size; i++) {
-                if (![0, size - 1, size * size - 1, size * (size - 1)].includes(i)) {
-                    cells[i].classList.remove('obstacle');
-                    cells[i].textContent = '';
-                    if (Math.random() < 0.2) {
-                        cells[i].classList.add('obstacle');
-                        cells[i].textContent = obstacles[Math.floor(Math.random() * obstacles.length)];
+        function updateBoard() {
+            const cells = document.getElementsByClassName('cell');
+            for (let y = 0; y < size; y++) {
+                for (let x = 0; x < size; x++) {
+                    const index = y * size + x;
+                    if (x === hunter.x && y === hunter.y) {
+                        cells[index].textContent = hunterHead;
+                    } else if (x === foodPosition.x && y === foodPosition.y) {
+                        cells[index].textContent = food;
+                    } else if (enemyPositions.some(enemy => enemy.x === x && enemy.y === y)) {
+                        const enemy = enemyPositions.find(enemy => enemy.x === x && enemy.y === y);
+                        cells[index].textContent = enemy.type;
+                    } else if (x === bearPosition.x && y === bearPosition.y) {
+                        cells[index].textContent = bear;
+                    } else {
+                        cells[index].textContent = emptyCell;
                     }
                 }
             }
         }
 
-        async function aStar(start, end, emoji) {
-            const openSet = [start];
-            const closedSet = new Set();
-            const cameFrom = new Map();
-            const gScore = new Map();
-            const fScore = new Map();
+        function moveHunter(dx, dy) {
+            const newX = hunter.x + dx;
+            const newY = hunter.y + dy;
 
-            gScore.set(start, 0);
-            fScore.set(start, heuristic(start, end));
+            if (newX >= 0 && newX < size && newY >= 0 && newY < size) {
+                hunter.x = newX;
+                hunter.y = newY;
 
-            while (openSet.length > 0) {
-                await new Promise(resolve => setTimeout(resolve, delay));
-
-                const current = openSet.reduce((a, b) => fScore.get(a) < fScore.get(b) ? a : b);
-
-                if (current === end) {
-                    return reconstructPath(cameFrom, current, emoji);
+                if (hunter.x === bearPosition.x && hunter.y === bearPosition.y) {
+                    alert('Game Over! You encountered a bear! Your score: ' + score);
+                    resetGame();
+                    return;
                 }
 
-                openSet.splice(openSet.indexOf(current), 1);
-                closedSet.add(current);
-
-                const neighbors = getNeighbors(current);
-                for (const neighbor of neighbors) {
-                    if (closedSet.has(neighbor)) continue;
-
-                    const tentativeGScore = gScore.get(current) + 1;
-
-                    if (!openSet.includes(neighbor)) {
-                        openSet.push(neighbor);
-                    } else if (tentativeGScore >= gScore.get(neighbor)) {
-                        continue;
-                    }
-
-                    cameFrom.set(neighbor, current);
-                    gScore.set(neighbor, tentativeGScore);
-                    fScore.set(neighbor, gScore.get(neighbor) + heuristic(neighbor, end));
+                if (hunter.x === foodPosition.x && hunter.y === foodPosition.y) {
+                    score++;
+                    scoreElement.textContent = score;
+                    generateFood();
                 }
-            }
 
-            return null; // No path found
-        }
-
-        function heuristic(a, b) {
-            return Math.abs(a % size - b % size) + Math.abs(Math.floor(a / size) - Math.floor(b / size));
-        }
-
-        function getNeighbors(index) {
-            const neighbors = [];
-            const row = Math.floor(index / size);
-            const col = index % size;
-
-            if (row < size - 1) neighbors.push(index + size);
-            if (col > 0) neighbors.push(index - 1);
-            if (col < size - 1) neighbors.push(index + 1);
-
-            return neighbors.filter(n => !cells[n].classList.contains('obstacle'));
-        }
-
-        async function reconstructPath(cameFrom, current, emoji) {
-            const path = [current];
-            while (cameFrom.has(current)) {
-                await new Promise(resolve => setTimeout(resolve, delay));
-                current = cameFrom.get(current);
-                path.unshift(current);
-                if (cells[current].textContent === '🔥' && emoji === '💧') {
-                    convertFireToWater();
-                } else if (cells[current].textContent !== '💨') {
-                    cells[current].textContent = emoji;
+                const caughtEnemyIndex = enemyPositions.findIndex(enemy => enemy.x === hunter.x && enemy.y === hunter.y);
+                if (caughtEnemyIndex !== -1) {
+                    score += 2;
+                    scoreElement.textContent = score;
+                    enemyPositions.splice(caughtEnemyIndex, 1);
+                    generateEnemy();
                 }
-            }
-            return path;
-        }
 
-        function convertFireToWater() {
-            cells.forEach(cell => {
-                if (cell.textContent === '🔥') {
-                    cell.textContent = '💧';
-                }
-            });
-        }
-
-        async function runSearch() {
-            cells.forEach(cell => {
-                if (!cell.classList.contains('obstacle') && !['🔥', '💧', '💨'].includes(cell.textContent)) {
-                    cell.textContent = '';
-                }
-            });
-
-            const firePath = await aStar(0, size * size - 1, '🔥');
-            const waterPath = await aStar(size - 1, size * (size - 1), '💧');
-
-            if (!firePath || !waterPath) {
-                // If either path is not found, generate a new map and try again
-                createGrid();
-                addRandomObstacles();
-                runSearch();
+                updateBoard();
             }
         }
 
-        function init() {
-            createGrid();
-            addRandomObstacles();
-            runSearch();
+        function moveBear(dx, dy) {
+            const newX = bearPosition.x + dx;
+            const newY = bearPosition.y + dy;
+
+            if (newX >= 0 && newX < size && newY >= 0 && newY < size) {
+                bearPosition.x = newX;
+                bearPosition.y = newY;
+
+                if (bearPosition.x === hunter.x && bearPosition.y === hunter.y) {
+                    alert('Game Over! The bear caught the hunter! Your score: ' + score);
+                    resetGame();
+                    return;
+                }
+
+                updateBoard();
+            }
         }
 
-        refreshButton.addEventListener('click', runSearch);
-        randomizeButton.addEventListener('click', () => {
-            createGrid();
-            addRandomObstacles();
-            runSearch();
+        function generateFood() {
+            do {
+                foodPosition = {
+                    x: Math.floor(Math.random() * size),
+                    y: Math.floor(Math.random() * size)
+                };
+            } while (foodPosition.x === hunter.x && foodPosition.y === hunter.y ||
+                     enemyPositions.some(enemy => enemy.x === foodPosition.x && enemy.y === foodPosition.y) ||
+                     (foodPosition.x === bearPosition.x && foodPosition.y === bearPosition.y));
+        }
+
+        function generateEnemy() {
+            let newEnemy;
+            do {
+                newEnemy = {
+                    x: Math.floor(Math.random() * size),
+                    y: Math.floor(Math.random() * size),
+                    type: enemies[Math.floor(Math.random() * enemies.length)]
+                };
+            } while (newEnemy.x === hunter.x && newEnemy.y === hunter.y ||
+                     newEnemy.x === foodPosition.x && newEnemy.y === foodPosition.y ||
+                     enemyPositions.some(enemy => enemy.x === newEnemy.x && enemy.y === newEnemy.y) ||
+                     (newEnemy.x === bearPosition.x && newEnemy.y === bearPosition.y));
+            enemyPositions.push(newEnemy);
+        }
+
+        function resetGame() {
+            hunter = {x: 9, y: 9};
+            bearPosition = {x: 5, y: 5}; // Reset bear position
+            score = 0;
+            scoreElement.textContent = score;
+            enemyPositions = [];
+            generateFood();
+            for (let i = 0; i < 3; i++) {
+                generateEnemy();
+            }
+            updateBoard();
+        }
+
+        document.addEventListener('keydown', (e) => {
+            switch (e.key) {
+                case 'ArrowUp': moveHunter(0, -1); break;
+                case 'ArrowDown': moveHunter(0, 1); break;
+                case 'ArrowLeft': moveHunter(-1, 0); break;
+                case 'ArrowRight': moveHunter(1, 0); break;
+                case 'w': moveBear(0, -1); break;
+                case 's': moveBear(0, 1); break;
+                case 'a': moveBear(-1, 0); break;
+                case 'd': moveBear(1, 0); break;
+            }
         });
 
-        init();
+        createBoard();
+        resetGame();
     </script>
 </body>
 </html>
