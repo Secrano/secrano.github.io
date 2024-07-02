@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>火 vs 水 - Ryokan Elements</title>
+    <style>
+        body {
+            font-family: 'MS Mincho', serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #1a0000;
+            color: #ffd700;
+        }
+        #container {
+            background-color: #2a0a0a;
+            border: 20px solid #4a0000;
+            padding: 40px;
+            box-shadow: 0 0 20px rgba(255,0,0,0.3);
+            position: relative;
+        }
+        #container::before {
+            content: '';
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            right: 10px;
+            bottom: 10px;
+            border: 2px solid #ffd700;
+            pointer-events: none;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 28px;
+            letter-spacing: 4px;
+        }
+        #grid {
+            display: grid;
+            grid-template-columns: repeat(19, 25px);
+            grid-template-rows: repeat(19, 25px);
+            gap: 1px;
+            background-color: #4a0000;
+            margin-bottom: 20px;
+            border: 2px solid #ffd700;
+        }
+        .cell {
+            width: 25px;
+            height: 25px;
+            background-color: #2a0a0a;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 16px;
+        }
+        .obstacle { background-color: #3a0000; }
+        .buttons {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #4a0000;
+            color: #ffd700;
+            border: 1px solid #ffd700;
+            transition: background-color 0.3s;
+            font-family: 'MS Mincho', serif;
+        }
+        button:hover {
+            background-color: #600000;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <h1>火 vs 水</h1>
+        <div id="grid"></div>
+        <div class="buttons">
+            <button id="refreshButton">再開</button>
+            <button id="randomizeButton">無作為</button>
+        </div>
+    </div>
+    <script>
+        const grid = document.getElementById('grid');
+        const refreshButton = document.getElementById('refreshButton');
+        const randomizeButton = document.getElementById('randomizeButton');
+        const size = 19;
+        const cells = [];
+        const obstacles = ['🪑', '📺', '🛏️', '🪴', '🛋️'];
+        const delay = 50;
+
+        function createGrid() {
+            grid.innerHTML = '';
+            cells.length = 0;
+            for (let i = 0; i < size * size; i++) {
+                const cell = document.createElement('div');
+                cell.classList.add('cell');
+                grid.appendChild(cell);
+                cells.push(cell);
+            }
+            cells[0].textContent = '🔥';
+            cells[size - 1].textContent = '💧';
+            cells[size * size - 1].textContent = '💨';
+            cells[size * (size - 1)].textContent = '💨';
+        }
+
+        function addRandomObstacles() {
+            for (let i = 0; i < size * size; i++) {
+                if (![0, size - 1, size * size - 1, size * (size - 1)].includes(i)) {
+                    cells[i].classList.remove('obstacle');
+                    cells[i].textContent = '';
+                    if (Math.random() < 0.2) {
+                        cells[i].classList.add('obstacle');
+                        cells[i].textContent = obstacles[Math.floor(Math.random() * obstacles.length)];
+                    }
+                }
+            }
+        }
+
+        async function aStar(start, end, emoji) {
+            const openSet = [start];
+            const closedSet = new Set();
+            const cameFrom = new Map();
+            const gScore = new Map();
+            const fScore = new Map();
+
+            gScore.set(start, 0);
+            fScore.set(start, heuristic(start, end));
+
+            while (openSet.length > 0) {
+                await new Promise(resolve => setTimeout(resolve, delay));
+
+                const current = openSet.reduce((a, b) => fScore.get(a) < fScore.get(b) ? a : b);
+
+                if (current === end) {
+                    return reconstructPath(cameFrom, current, emoji);
+                }
+
+                openSet.splice(openSet.indexOf(current), 1);
+                closedSet.add(current);
+
+                const neighbors = getNeighbors(current);
+                for (const neighbor of neighbors) {
+                    if (closedSet.has(neighbor)) continue;
+
+                    const tentativeGScore = gScore.get(current) + 1;
+
+                    if (!openSet.includes(neighbor)) {
+                        openSet.push(neighbor);
+                    } else if (tentativeGScore >= gScore.get(neighbor)) {
+                        continue;
+                    }
+
+                    cameFrom.set(neighbor, current);
+                    gScore.set(neighbor, tentativeGScore);
+                    fScore.set(neighbor, gScore.get(neighbor) + heuristic(neighbor, end));
+                }
+            }
+
+            return null; // No path found
+        }
+
+        function heuristic(a, b) {
+            return Math.abs(a % size - b % size) + Math.abs(Math.floor(a / size) - Math.floor(b / size));
+        }
+
+        function getNeighbors(index) {
+            const neighbors = [];
+            const row = Math.floor(index / size);
+            const col = index % size;
+
+            if (row < size - 1) neighbors.push(index + size);
+            if (col > 0) neighbors.push(index - 1);
+            if (col < size - 1) neighbors.push(index + 1);
+
+            return neighbors.filter(n => !cells[n].classList.contains('obstacle'));
+        }
+
+        async function reconstructPath(cameFrom, current, emoji) {
+            const path = [current];
+            while (cameFrom.has(current)) {
+                await new Promise(resolve => setTimeout(resolve, delay));
+                current = cameFrom.get(current);
+                path.unshift(current);
+                if (cells[current].textContent === '🔥' && emoji === '💧') {
+                    convertFireToWater();
+                } else if (cells[current].textContent !== '💨') {
+                    cells[current].textContent = emoji;
+                }
+            }
+            return path;
+        }
+
+        function convertFireToWater() {
+            cells.forEach(cell => {
+                if (cell.textContent === '🔥') {
+                    cell.textContent = '💧';
+                }
+            });
+        }
+
+        async function runSearch() {
+            cells.forEach(cell => {
+                if (!cell.classList.contains('obstacle') && !['🔥', '💧', '💨'].includes(cell.textContent)) {
+                    cell.textContent = '';
+                }
+            });
+
+            const firePath = await aStar(0, size * size - 1, '🔥');
+            const waterPath = await aStar(size - 1, size * (size - 1), '💧');
+
+            if (!firePath || !waterPath) {
+                // If either path is not found, generate a new map and try again
+                createGrid();
+                addRandomObstacles();
+                runSearch();
+            }
+        }
+
+        function init() {
+            createGrid();
+            addRandomObstacles();
+            runSearch();
+        }
+
+        refreshButton.addEventListener('click', runSearch);
+        randomizeButton.addEventListener('click', () => {
+            createGrid();
+            addRandomObstacles();
+            runSearch();
+        });
+
+        init();
+    </script>
+</body>
+</html>
