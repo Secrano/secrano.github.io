@@ -5,7 +5,8 @@
 - Spherical globe (lobby)
 - A* search with threads demo
 - 2P Hunting Game
-
+- 2P Coop Game (w/moving obj and health bar)
+  
 # ---
 
 --- Git: Day 24 -
