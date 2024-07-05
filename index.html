@@ -3,217 +3,378 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hunting Game</title>
+    <title> Scattered Dream Cave </title>
     <style>
         body {
+            margin: 0;
+            padding: 0;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
-            margin: 0;
-            background-color: #1a2f1a;
-            font-family: 'Arial', sans-serif;
-            background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23214121' fill-opacity='0.4'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
-        }
-        #game-container {
-            text-align: center;
-            background-color: #2c4c2c;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
-        }
-        #game-board {
-            display: inline-block;
-            border: 15px solid #3a5f3a;
-            background-color: #4a7a4a;
-            border-radius: 5px;
+            background-color: #0a0a1a;
             overflow: hidden;
         }
-        .cell {
-            width: 25px;
-            height: 25px;
-            display: inline-block;
-            font-size: 20px;
-            line-height: 25px;
+        #gameCanvas {
+            border: 2px solid #4a5a6a;
+            background-color: #1a2a3a;
+        }
+        #endScreen {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(10, 20, 30, 0.8);
+            color: #b0c0d0;
+            padding: 20px;
             text-align: center;
-            vertical-align: middle;
+            display: none;
+            font-family: 'Arial', sans-serif;
         }
-        h1 {
-            color: #b8e0b8;
-            margin-bottom: 20px;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        #endScreen h2 {
+            margin: 0;
+            padding: 0;
+            font-size: 24px;
         }
-        p {
-            color: #a0d8a0;
-            font-size: 18px;
+        #endScreen p {
             margin: 10px 0;
+            padding: 0;
         }
-        #score {
-            font-weight: bold;
-            color: #d0f0d0;
+        #endScreen button {
+            background-color: #2a3a4a;
+            color: #b0c0d0;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        #enemyCounter {
+            position: absolute;
+            top: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: #b0c0d0;
+            font-family: 'Arial', sans-serif;
+            font-size: 20px;
         }
     </style>
 </head>
 <body>
-    <div id="game-container">
-        <h1>🌿 Hunting Game 🌿</h1>
-        <div id="game-board"></div>
-        <p>Score: <span id="score">0</span></p>
-        <p>Use arrow keys to move the hunter</p>
-        <p>Use W, A, S, D keys to move the bear</p>
+    <canvas id="gameCanvas" width="800" height="400"></canvas>
+    <div id="enemyCounter">Enemies Defeated: 0</div>
+    <div id="endScreen">
+        <h2>Game Over</h2>
+        <p>All your health is depleted</p>
+        <button onclick="restartGame()">Retry</button>
     </div>
     <script>
-        const board = document.getElementById('game-board');
-        const scoreElement = document.getElementById('score');
-        const size = 19;
-        const emptyCell = '🌱';
-        const hunterHead = '🏹';
-        const food = '🍎';
-        const enemies = ['🐰', '🦊', '🦝'];
-        const bear = '🐻';
-        let hunter = {x: 9, y: 9};
-        let foodPosition = {};
-        let enemyPositions = [];
-        let bearPosition = {x: 5, y: 5}; // Initial bear position
-        let score = 0;
+        const canvas = document.getElementById('gameCanvas');
+        const ctx = canvas.getContext('2d');
+        const endScreen = document.getElementById('endScreen');
+        const enemyCounter = document.getElementById('enemyCounter');
 
-        function createBoard() {
-            for (let y = 0; y < size; y++) {
-                for (let x = 0; x < size; x++) {
-                    const cell = document.createElement('div');
-                    cell.className = 'cell';
-                    cell.textContent = emptyCell;
-                    board.appendChild(cell);
-                }
-                board.appendChild(document.createElement('br'));
+        let player1, player2, platforms, enemies;
+        let enemiesDefeated = 0;
+        let currentMap = 1;
+
+        function initGame() {
+            player1 = {
+                x: 50,
+                y: 300,
+                width: 30,
+                height: 40,
+                speed: 5,
+                jumpForce: 12,
+                velY: 0,
+                isJumping: false,
+                isAttacking: false,
+                health: 5,
+                color: '#b0c0d0',
+                hornColor: '#d0e0f0',
+                healthEmoji: '💀',
+                isAlive: true
+            };
+
+            player2 = {
+                x: 100,
+                y: 300,
+                width: 30,
+                height: 40,
+                speed: 5,
+                jumpForce: 12,
+                velY: 0,
+                isJumping: false,
+                isAttacking: false,
+                health: 5,
+                color: '#d0a0f0',
+                hornColor: '#f0c0f0',
+                healthEmoji: '🦋',
+                isAlive: true
+            };
+
+            platforms = [
+                {x: 0, y: 350, width: 800, height: 50}
+            ];
+
+            // Generate random platforms
+            for (let i = 0; i < 5; i++) {
+                platforms.push({
+                    x: Math.random() * (canvas.width - 100),
+                    y: Math.random() * (canvas.height - 150) + 50,
+                    width: Math.random() * 100 + 50,
+                    height: 20
+                });
             }
-        }
 
-        function updateBoard() {
-            const cells = document.getElementsByClassName('cell');
-            for (let y = 0; y < size; y++) {
-                for (let x = 0; x < size; x++) {
-                    const index = y * size + x;
-                    if (x === hunter.x && y === hunter.y) {
-                        cells[index].textContent = hunterHead;
-                    } else if (x === foodPosition.x && y === foodPosition.y) {
-                        cells[index].textContent = food;
-                    } else if (enemyPositions.some(enemy => enemy.x === x && enemy.y === y)) {
-                        const enemy = enemyPositions.find(enemy => enemy.x === x && enemy.y === y);
-                        cells[index].textContent = enemy.type;
-                    } else if (x === bearPosition.x && y === bearPosition.y) {
-                        cells[index].textContent = bear;
-                    } else {
-                        cells[index].textContent = emptyCell;
-                    }
-                }
+            enemies = [];
+
+            // Generate random enemies on platforms
+            for (let i = 1; i < platforms.length; i++) {
+                enemies.push({
+                    x: platforms[i].x + Math.random() * (platforms[i].width - 30),
+                    y: platforms[i].y - 30,
+                    width: 30,
+                    height: 30,
+                    isAlive: true,
+                    speed: Math.random() * 2 + 1,
+                    direction: 1,
+                    platformIndex: i
+                });
             }
+
+            updateEnemyCounter();
         }
 
-        function moveHunter(dx, dy) {
-            const newX = hunter.x + dx;
-            const newY = hunter.y + dy;
-
-            if (newX >= 0 && newX < size && newY >= 0 && newY < size) {
-                hunter.x = newX;
-                hunter.y = newY;
-
-                if (hunter.x === bearPosition.x && hunter.y === bearPosition.y) {
-                    alert('Game Over! You encountered a bear! Your score: ' + score);
-                    resetGame();
-                    return;
-                }
-
-                if (hunter.x === foodPosition.x && hunter.y === foodPosition.y) {
-                    score++;
-                    scoreElement.textContent = score;
-                    generateFood();
-                }
-
-                const caughtEnemyIndex = enemyPositions.findIndex(enemy => enemy.x === hunter.x && enemy.y === hunter.y);
-                if (caughtEnemyIndex !== -1) {
-                    score += 2;
-                    scoreElement.textContent = score;
-                    enemyPositions.splice(caughtEnemyIndex, 1);
-                    generateEnemy();
-                }
-
-                updateBoard();
-            }
-        }
-
-        function moveBear(dx, dy) {
-            const newX = bearPosition.x + dx;
-            const newY = bearPosition.y + dy;
-
-            if (newX >= 0 && newX < size && newY >= 0 && newY < size) {
-                bearPosition.x = newX;
-                bearPosition.y = newY;
-
-                if (bearPosition.x === hunter.x && bearPosition.y === hunter.y) {
-                    alert('Game Over! The bear caught the hunter! Your score: ' + score);
-                    resetGame();
-                    return;
-                }
-
-                updateBoard();
-            }
-        }
-
-        function generateFood() {
-            do {
-                foodPosition = {
-                    x: Math.floor(Math.random() * size),
-                    y: Math.floor(Math.random() * size)
-                };
-            } while (foodPosition.x === hunter.x && foodPosition.y === hunter.y ||
-                     enemyPositions.some(enemy => enemy.x === foodPosition.x && enemy.y === foodPosition.y) ||
-                     (foodPosition.x === bearPosition.x && foodPosition.y === bearPosition.y));
-        }
-
-        function generateEnemy() {
-            let newEnemy;
-            do {
-                newEnemy = {
-                    x: Math.floor(Math.random() * size),
-                    y: Math.floor(Math.random() * size),
-                    type: enemies[Math.floor(Math.random() * enemies.length)]
-                };
-            } while (newEnemy.x === hunter.x && newEnemy.y === hunter.y ||
-                     newEnemy.x === foodPosition.x && newEnemy.y === foodPosition.y ||
-                     enemyPositions.some(enemy => enemy.x === newEnemy.x && enemy.y === newEnemy.y) ||
-                     (newEnemy.x === bearPosition.x && newEnemy.y === bearPosition.y));
-            enemyPositions.push(newEnemy);
-        }
-
-        function resetGame() {
-            hunter = {x: 9, y: 9};
-            bearPosition = {x: 5, y: 5}; // Reset bear position
-            score = 0;
-            scoreElement.textContent = score;
-            enemyPositions = [];
-            generateFood();
-            for (let i = 0; i < 3; i++) {
-                generateEnemy();
-            }
-            updateBoard();
-        }
+        const gravity = 0.5;
+        let keys = {};
 
         document.addEventListener('keydown', (e) => {
-            switch (e.key) {
-                case 'ArrowUp': moveHunter(0, -1); break;
-                case 'ArrowDown': moveHunter(0, 1); break;
-                case 'ArrowLeft': moveHunter(-1, 0); break;
-                case 'ArrowRight': moveHunter(1, 0); break;
-                case 'w': moveBear(0, -1); break;
-                case 's': moveBear(0, 1); break;
-                case 'a': moveBear(-1, 0); break;
-                case 'd': moveBear(1, 0); break;
-            }
+            keys[e.code] = true;
         });
 
-        createBoard();
-        resetGame();
+        document.addEventListener('keyup', (e) => {
+            keys[e.code] = false;
+        });
+
+        function drawHealthBar() {
+            ctx.font = '20px Arial';
+            let healthBar1 = '';
+            for (let i = 0; i < 5; i++) {
+                healthBar1 += i < player1.health ? player1.healthEmoji : '☠️';
+            }
+            ctx.fillStyle = player1.color;
+            ctx.fillText(healthBar1, 10, 30);
+
+            let healthBar2 = '';
+            for (let i = 0; i < 5; i++) {
+                healthBar2 += i < player2.health ? player2.healthEmoji : '☠️';
+            }
+            ctx.fillStyle = player2.color;
+            ctx.fillText(healthBar2, canvas.width - 150, 30);
+        }
+
+        function drawPlayer(player) {
+            if (!player.isAlive) return;
+
+            ctx.fillStyle = player.color;
+            ctx.fillRect(player.x, player.y, player.width, player.height);
+            
+            // Draw the knight's "horns"
+            ctx.fillStyle = player.hornColor;
+            ctx.beginPath();
+            ctx.moveTo(player.x, player.y);
+            ctx.lineTo(player.x + 15, player.y - 10);
+            ctx.lineTo(player.x + 30, player.y);
+            ctx.fill();
+
+            if (player.isAttacking) {
+                ctx.fillStyle = player.hornColor;
+                ctx.fillRect(player.x + player.width, player.y + 10, 20, 20);
+            }
+        }
+
+        function drawPlatforms() {
+            ctx.fillStyle = '#3a4a5a';
+            platforms.forEach(platform => {
+                ctx.fillRect(platform.x, platform.y, platform.width, platform.height);
+            });
+        }
+
+        function drawEnemies() {
+            ctx.fillStyle = '#7a8a9a';
+            enemies.forEach(enemy => {
+                if (enemy.isAlive) {
+                    ctx.beginPath();
+                    ctx.arc(enemy.x + 15, enemy.y + 15, 15, 0, Math.PI * 2);
+                    ctx.fill();
+                }
+            });
+        }
+
+        function movePlayer(player, leftKey, rightKey, jumpKey, attackKey) {
+            if (!player.isAlive) return;
+
+            if (keys[leftKey]) player.x -= player.speed;
+            if (keys[rightKey]) player.x += player.speed;
+            if (keys[jumpKey] && !player.isJumping) {
+                player.velY = -player.jumpForce;
+                player.isJumping = true;
+            }
+            if (keys[attackKey]) {
+                player.isAttacking = true;
+            } else {
+                player.isAttacking = false;
+            }
+
+            player.velY += gravity;
+            player.y += player.velY;
+
+            // Platform collision
+            platforms.forEach(platform => {
+                if (player.y + player.height > platform.y && 
+                    player.y < platform.y + platform.height &&
+                    player.x + player.width > platform.x &&
+                    player.x < platform.x + platform.width) {
+                    player.y = platform.y - player.height;
+                    player.velY = 0;
+                    player.isJumping = false;
+                }
+            });
+
+            // Boundary check
+            if (player.x < 0) player.x = 0;
+            if (player.x + player.width > canvas.width) player.x = canvas.width - player.width;
+            if (player.y + player.height > canvas.height) {
+                player.y = canvas.height - player.height;
+                player.velY = 0;
+                player.isJumping = false;
+            }
+        }
+
+        function moveEnemies() {
+            enemies.forEach(enemy => {
+                if (enemy.isAlive) {
+                    const platform = platforms[enemy.platformIndex];
+                    enemy.x += enemy.speed * enemy.direction;
+
+                    if (enemy.x <= platform.x || enemy.x + enemy.width >= platform.x + platform.width) {
+                        enemy.direction *= -1;
+                    }
+
+                    // Check for collision with player1
+                    if (player1.isAlive && player1.x < enemy.x + enemy.width &&
+                        player1.x + player1.width > enemy.x &&
+                        player1.y < enemy.y + enemy.height &&
+                        player1.y + player1.height > enemy.y) {
+                        player1.health = Math.max(0, player1.health - 1);
+                        if (player1.health <= 0) {
+                            player1.isAlive = false;
+                        } else {
+                            // Respawn player1
+                            player1.x = 50;
+                            player1.y = 300;
+                        }
+                    }
+
+                    // Check for collision with player2
+                    if (player2.isAlive && player2.x < enemy.x + enemy.width &&
+                        player2.x + player2.width > enemy.x &&
+                        player2.y < enemy.y + enemy.height &&
+                        player2.y + player2.height > enemy.y) {
+                        player2.health = Math.max(0, player2.health - 1);
+                        if (player2.health <= 0) {
+                            player2.isAlive = false;
+                        } else {
+                            // Respawn player2
+                            player2.x = 100;
+                            player2.y = 300;
+                        }
+                    }
+                }
+            });
+        }
+
+        function checkAttack() {
+            if (player1.isAttacking) {
+                enemies.forEach(enemy => {
+                    if (enemy.isAlive &&
+                        player1.x + player1.width + 20 > enemy.x &&
+                        player1.x < enemy.x + enemy.width &&
+                        player1.y + player1.height > enemy.y &&
+                        player1.y < enemy.y + enemy.height) {
+                        enemy.isAlive = false;
+                        enemiesDefeated++;
+                        updateEnemyCounter();
+                    }
+                });
+            }
+
+            if (player2.isAttacking) {
+                enemies.forEach(enemy => {
+                    if (enemy.isAlive &&
+                        player2.x + player2.width + 20 > enemy.x &&
+                        player2.x < enemy.x + enemy.width &&
+                        player2.y + player2.height > enemy.y &&
+                        player2.y < enemy.y + enemy.height) {
+                        enemy.isAlive = false;
+                        enemiesDefeated++;
+                        updateEnemyCounter();
+                    }
+                });
+            }
+        }
+
+        function updateEnemyCounter() {
+            enemyCounter.textContent = `Enemies Defeated: ${enemiesDefeated}`;
+        }
+
+        function checkGameEnd() {
+            if (!player1.isAlive && !player2.isAlive) {
+                endScreen.innerHTML = '<h2>Game Over</h2><p>All your health is depleted</p><button onclick="restartGame()">Retry</button>';
+                endScreen.style.display = 'block';
+                return true;
+            } else if (enemies.every(enemy => !enemy.isAlive)) {
+                endScreen.innerHTML = '<h2>Victory!</h2><p>All foes vanquished</p><button onclick="nextMap()">Next Map</button>';
+                endScreen.style.display = 'block';
+                return true;
+            }
+            return false;
+        }
+
+        function gameLoop() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            
+            movePlayer(player1, 'ArrowLeft', 'ArrowRight', 'ArrowUp', 'Space');
+            movePlayer(player2, 'KeyA', 'KeyD', 'KeyW', 'KeyQ');
+            moveEnemies();
+            checkAttack();
+            drawPlatforms();
+            drawEnemies();
+            drawPlayer(player1);
+            drawPlayer(player2);
+            drawHealthBar();
+
+            if (!checkGameEnd()) {
+                requestAnimationFrame(gameLoop);
+            }
+        }
+
+        function restartGame() {
+            enemiesDefeated = 0;
+            endScreen.style.display = 'none';
+            initGame();
+            gameLoop();
+        }
+
+        function nextMap() {
+            currentMap++;
+            endScreen.style.display = 'none';
+            initGame();
+            gameLoop();
+        }
+
+        initGame();
+        gameLoop();
     </script>
 </body>
 </html>
