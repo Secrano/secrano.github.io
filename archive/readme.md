@@ -6,7 +6,17 @@
 - A* search with threads demo
 - 2P Hunting Game (modified my snake game)
 - 2P Coop Game (w/moving obj and health bar)
-  
+
+# ---
+Archive
+# ---
+
+# ---
+
+--- Git: Day 26 -
+
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=Zj6uMMt6xI8)
+
 # ---
 
 --- Git: Day 24 -
