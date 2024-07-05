@@ -5,7 +5,7 @@
 - Spherical globe (lobby)
 - A* search with threads demo
 - 2P Hunting Game (modified my snake game)
-- 2P Coop Game (w/moving obj and health bar)
+- 2P Coop Game (w/moving obj)
   
 # ---
 
