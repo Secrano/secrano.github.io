@@ -15,5 +15,5 @@
 - Ref img, source: [twt@](https://x.com/KingNidhogg/status/1809410308240285794)
 
 # ---
-Music: "[FROZEN IN TIME - Beautiful Inspirational Orchestral Music Mix](https://www.youtube.com/watch?v=Zj6uMMt6xI8)"
+Music: "[FROZEN IN TIME - Beautiful Inspirational Orchestral Music Mix](https://www.youtube.com/watch?v=Zj6uMMt6xI8)" - uploaded by Pandora Journey
 # ---
