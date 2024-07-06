@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Scattered Dream Cave </title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #0a0a1a;
+            overflow: hidden;
+        }
+        #gameCanvas {
+            border: 2px solid #4a5a6a;
+            background-color: #1a2a3a;
+        }
+        #endScreen {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(10, 20, 30, 0.8);
+            color: #b0c0d0;
+            padding: 20px;
+            text-align: center;
+            display: none;
+            font-family: 'Arial', sans-serif;
+        }
+        #endScreen h2 {
+            margin: 0;
+            padding: 0;
+            font-size: 24px;
+        }
+        #endScreen p {
+            margin: 10px 0;
+            padding: 0;
+        }
+        #endScreen button {
+            background-color: #2a3a4a;
+            color: #b0c0d0;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        #enemyCounter {
+            position: absolute;
+            top: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: #b0c0d0;
+            font-family: 'Arial', sans-serif;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="gameCanvas" width="800" height="400"></canvas>
+    <div id="enemyCounter">Enemies Defeated: 0</div>
+    <div id="endScreen">
+        <h2>Game Over</h2>
+        <p>All your health is depleted</p>
+        <button onclick="restartGame()">Retry</button>
+    </div>
+    <script>
+        const canvas = document.getElementById('gameCanvas');
+        const ctx = canvas.getContext('2d');
+        const endScreen = document.getElementById('endScreen');
+        const enemyCounter = document.getElementById('enemyCounter');
+
+        let player1, player2, platforms, enemies;
+        let enemiesDefeated = 0;
+        let currentMap = 1;
+
+        function initGame() {
+            player1 = {
+                x: 50,
+                y: 300,
+                width: 30,
+                height: 40,
+                speed: 5,
+                jumpForce: 12,
+                velY: 0,
+                isJumping: false,
+                isAttacking: false,
+                health: 5,
+                color: '#b0c0d0',
+                hornColor: '#d0e0f0',
+                healthEmoji: '💀',
+                isAlive: true
+            };
+
+            player2 = {
+                x: 100,
+                y: 300,
+                width: 30,
+                height: 40,
+                speed: 5,
+                jumpForce: 12,
+                velY: 0,
+                isJumping: false,
+                isAttacking: false,
+                health: 5,
+                color: '#d0a0f0',
+                hornColor: '#f0c0f0',
+                healthEmoji: '🦋',
+                isAlive: true
+            };
+
+            platforms = [
+                {x: 0, y: 350, width: 800, height: 50}
+            ];
+
+            // Generate random platforms
+            for (let i = 0; i < 5; i++) {
+                platforms.push({
+                    x: Math.random() * (canvas.width - 100),
+                    y: Math.random() * (canvas.height - 150) + 50,
+                    width: Math.random() * 100 + 50,
+                    height: 20
+                });
+            }
+
+            enemies = [];
+
+            // Generate random enemies on platforms
+            for (let i = 1; i < platforms.length; i++) {
+                enemies.push({
+                    x: platforms[i].x + Math.random() * (platforms[i].width - 30),
+                    y: platforms[i].y - 30,
+                    width: 30,
+                    height: 30,
+                    isAlive: true,
+                    speed: Math.random() * 2 + 1,
+                    direction: 1,
+                    platformIndex: i
+                });
+            }
+
+            updateEnemyCounter();
+        }
+
+        const gravity = 0.5;
+        let keys = {};
+
+        document.addEventListener('keydown', (e) => {
+            keys[e.code] = true;
+        });
+
+        document.addEventListener('keyup', (e) => {
+            keys[e.code] = false;
+        });
+
+        function drawHealthBar() {
+            ctx.font = '20px Arial';
+            let healthBar1 = '';
+            for (let i = 0; i < 5; i++) {
+                healthBar1 += i < player1.health ? player1.healthEmoji : '☠️';
+            }
+            ctx.fillStyle = player1.color;
+            ctx.fillText(healthBar1, 10, 30);
+
+            let healthBar2 = '';
+            for (let i = 0; i < 5; i++) {
+                healthBar2 += i < player2.health ? player2.healthEmoji : '☠️';
+            }
+            ctx.fillStyle = player2.color;
+            ctx.fillText(healthBar2, canvas.width - 150, 30);
+        }
+
+        function drawPlayer(player) {
+            if (!player.isAlive) return;
+
+            ctx.fillStyle = player.color;
+            ctx.fillRect(player.x, player.y, player.width, player.height);
+            
+            // Draw the knight's "horns"
+            ctx.fillStyle = player.hornColor;
+            ctx.beginPath();
+            ctx.moveTo(player.x, player.y);
+            ctx.lineTo(player.x + 15, player.y - 10);
+            ctx.lineTo(player.x + 30, player.y);
+            ctx.fill();
+
+            if (player.isAttacking) {
+                ctx.fillStyle = player.hornColor;
+                ctx.fillRect(player.x + player.width, player.y + 10, 20, 20);
+            }
+        }
+
+        function drawPlatforms() {
+            ctx.fillStyle = '#3a4a5a';
+            platforms.forEach(platform => {
+                ctx.fillRect(platform.x, platform.y, platform.width, platform.height);
+            });
+        }
+
+        function drawEnemies() {
+            ctx.fillStyle = '#7a8a9a';
+            enemies.forEach(enemy => {
+                if (enemy.isAlive) {
+                    ctx.beginPath();
+                    ctx.arc(enemy.x + 15, enemy.y + 15, 15, 0, Math.PI * 2);
+                    ctx.fill();
+                }
+            });
+        }
+
+        function movePlayer(player, leftKey, rightKey, jumpKey, attackKey) {
+            if (!player.isAlive) return;
+
+            if (keys[leftKey]) player.x -= player.speed;
+            if (keys[rightKey]) player.x += player.speed;
+            if (keys[jumpKey] && !player.isJumping) {
+                player.velY = -player.jumpForce;
+                player.isJumping = true;
+            }
+            if (keys[attackKey]) {
+                player.isAttacking = true;
+            } else {
+                player.isAttacking = false;
+            }
+
+            player.velY += gravity;
+            player.y += player.velY;
+
+            // Platform collision
+            platforms.forEach(platform => {
+                if (player.y + player.height > platform.y && 
+                    player.y < platform.y + platform.height &&
+                    player.x + player.width > platform.x &&
+                    player.x < platform.x + platform.width) {
+                    player.y = platform.y - player.height;
+                    player.velY = 0;
+                    player.isJumping = false;
+                }
+            });
+
+            // Boundary check
+            if (player.x < 0) player.x = 0;
+            if (player.x + player.width > canvas.width) player.x = canvas.width - player.width;
+            if (player.y + player.height > canvas.height) {
+                player.y = canvas.height - player.height;
+                player.velY = 0;
+                player.isJumping = false;
+            }
+        }
+
+        function moveEnemies() {
+            enemies.forEach(enemy => {
+                if (enemy.isAlive) {
+                    const platform = platforms[enemy.platformIndex];
+                    enemy.x += enemy.speed * enemy.direction;
+
+                    if (enemy.x <= platform.x || enemy.x + enemy.width >= platform.x + platform.width) {
+                        enemy.direction *= -1;
+                    }
+
+                    // Check for collision with player1
+                    if (player1.isAlive && player1.x < enemy.x + enemy.width &&
+                        player1.x + player1.width > enemy.x &&
+                        player1.y < enemy.y + enemy.height &&
+                        player1.y + player1.height > enemy.y) {
+                        player1.health = Math.max(0, player1.health - 1);
+                        if (player1.health <= 0) {
+                            player1.isAlive = false;
+                        } else {
+                            // Respawn player1
+                            player1.x = 50;
+                            player1.y = 300;
+                        }
+                    }
+
+                    // Check for collision with player2
+                    if (player2.isAlive && player2.x < enemy.x + enemy.width &&
+                        player2.x + player2.width > enemy.x &&
+                        player2.y < enemy.y + enemy.height &&
+                        player2.y + player2.height > enemy.y) {
+                        player2.health = Math.max(0, player2.health - 1);
+                        if (player2.health <= 0) {
+                            player2.isAlive = false;
+                        } else {
+                            // Respawn player2
+                            player2.x = 100;
+                            player2.y = 300;
+                        }
+                    }
+                }
+            });
+        }
+
+        function checkAttack() {
+            if (player1.isAttacking) {
+                enemies.forEach(enemy => {
+                    if (enemy.isAlive &&
+                        player1.x + player1.width + 20 > enemy.x &&
+                        player1.x < enemy.x + enemy.width &&
+                        player1.y + player1.height > enemy.y &&
+                        player1.y < enemy.y + enemy.height) {
+                        enemy.isAlive = false;
+                        enemiesDefeated++;
+                        updateEnemyCounter();
+                    }
+                });
+            }
+
+            if (player2.isAttacking) {
+                enemies.forEach(enemy => {
+                    if (enemy.isAlive &&
+                        player2.x + player2.width + 20 > enemy.x &&
+                        player2.x < enemy.x + enemy.width &&
+                        player2.y + player2.height > enemy.y &&
+                        player2.y < enemy.y + enemy.height) {
+                        enemy.isAlive = false;
+                        enemiesDefeated++;
+                        updateEnemyCounter();
+                    }
+                });
+            }
+        }
+
+        function updateEnemyCounter() {
+            enemyCounter.textContent = `Enemies Defeated: ${enemiesDefeated}`;
+        }
+
+        function checkGameEnd() {
+            if (!player1.isAlive && !player2.isAlive) {
+                endScreen.innerHTML = '<h2>Game Over</h2><p>All your health is depleted</p><button onclick="restartGame()">Retry</button>';
+                endScreen.style.display = 'block';
+                return true;
+            } else if (enemies.every(enemy => !enemy.isAlive)) {
+                endScreen.innerHTML = '<h2>Victory!</h2><p>All foes vanquished</p><button onclick="nextMap()">Next Map</button>';
+                endScreen.style.display = 'block';
+                return true;
+            }
+            return false;
+        }
+
+        function gameLoop() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            
+            movePlayer(player1, 'ArrowLeft', 'ArrowRight', 'ArrowUp', 'Space');
+            movePlayer(player2, 'KeyA', 'KeyD', 'KeyW', 'KeyQ');
+            moveEnemies();
+            checkAttack();
+            drawPlatforms();
+            drawEnemies();
+            drawPlayer(player1);
+            drawPlayer(player2);
+            drawHealthBar();
+
+            if (!checkGameEnd()) {
+                requestAnimationFrame(gameLoop);
+            }
+        }
+
+        function restartGame() {
+            enemiesDefeated = 0;
+            endScreen.style.display = 'none';
+            initGame();
+            gameLoop();
+        }
+
+        function nextMap() {
+            currentMap++;
+            endScreen.style.display = 'none';
+            initGame();
+            gameLoop();
+        }
+
+        initGame();
+        gameLoop();
+    </script>
+</body>
+</html>
