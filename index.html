@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Scattered Dream Cave </title>
+    <title> Scattered Dream Cave Alt </title>
     <style>
         body {
             margin: 0;
@@ -178,7 +178,7 @@
 
             ctx.fillStyle = player.color;
             ctx.fillRect(player.x, player.y, player.width, player.height);
-            
+
             // Draw the knight's "horns"
             ctx.fillStyle = player.hornColor;
             ctx.beginPath();
@@ -231,7 +231,7 @@
 
             // Platform collision
             platforms.forEach(platform => {
-                if (player.y + player.height > platform.y && 
+                if (player.y + player.height > platform.y &&
                     player.y < platform.y + platform.height &&
                     player.x + player.width > platform.x &&
                     player.x < platform.x + platform.width) {
@@ -329,8 +329,12 @@
         }
 
         function checkGameEnd() {
-            if (!player1.isAlive && !player2.isAlive) {
-                endScreen.innerHTML = '<h2>Game Over</h2><p>All your health is depleted</p><button onclick="restartGame()">Retry</button>';
+    	    if (!player1.isAlive || !player2.isAlive) {
+                let deadPlayer = !player1.isAlive ? "Player 1" : "Player 2";
+                endScreen.innerHTML = `<h2>${deadPlayer} has fallen</h2>
+                    <p>Do you want to start a new dream?</p>
+                    <button onclick="startNewDream()">Yes, start a new dream</button>
+                    <button onclick="restartGame()">No, retry this dream</button>`;
                 endScreen.style.display = 'block';
                 return true;
             } else if (enemies.every(enemy => !enemy.isAlive)) {
@@ -341,9 +345,13 @@
             return false;
         }
 
+	function startNewDream() {
+    	    window.location.href = 'https://secrano.github.io/archive/subpages/sub5.html';
+	}
+
         function gameLoop() {
             ctx.clearRect(0, 0, canvas.width, canvas.height);
-            
+
             movePlayer(player1, 'ArrowLeft', 'ArrowRight', 'ArrowUp', 'Space');
             movePlayer(player2, 'KeyA', 'KeyD', 'KeyW', 'KeyQ');
             moveEnemies();
