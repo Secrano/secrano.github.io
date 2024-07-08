@@ -57,6 +57,37 @@
             font-family: 'Arial', sans-serif;
             font-size: 20px;
         }
+
+        #victoryScreen {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(10, 20, 30, 0.8);
+            color: #b0c0d0;
+            padding: 20px;
+            text-align: center;
+            display: none;
+            font-family: 'Arial', sans-serif;
+        }
+        #victoryScreen h2 {
+            margin: 0;
+            padding: 0;
+            font-size: 24px;
+        }
+        #victoryScreen p {
+            margin: 10px 0;
+            padding: 0;
+        }
+        #victoryScreen button {
+            background-color: #2a3a4a;
+            color: #b0c0d0;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 5px;
+        }
     </style>
 </head>
 <body>
@@ -66,6 +97,12 @@
         <h2>Game Over</h2>
         <p>All your health is depleted</p>
         <button onclick="restartGame()">Retry</button>
+    </div>
+    <div id="victoryScreen">
+    <h2>Victory!</h2>
+        <p>All enemies defeated. What would you like to do?</p>
+        <button onclick="stayInDream()">Stay in this dream</button>
+        <button onclick="goToFinalStage()">Go to final stage</button>
     </div>
     <script>
         const canvas = document.getElementById('gameCanvas');
@@ -480,6 +517,28 @@
             currentMap = 1;
             initGame();
             updateEnemyCounter();
+        }
+
+        function showVictoryScreen() {
+            document.getElementById('victoryScreen').style.display = 'block';
+        }
+
+        function stayInDream() {
+            window.location.href = 'https://secrano.github.io/archive/subpages/sub5.html';
+        }
+
+        function goToFinalStage() {
+            window.location.href = 'https://secrano.github.io/archive/subpages/sub5final.html';
+        }
+
+        // Modify the checkCollisions function to check for victory condition
+        function checkCollisions() {
+            // ... (existing collision code)
+
+            // Check if all enemies are defeated
+            if (enemies.every(enemy => !enemy.isAlive)) {
+                showVictoryScreen();
+            }
         }
 
         function gameLoop() {
