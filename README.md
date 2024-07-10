@@ -1,5 +1,13 @@
 # secrano.github.io
 
+--- Git: Day 40 - 
+
+- Ref img, source: [twt@](https://x.com/NeneneAI/status/1810811245119127906)
+- Ref img, source: [twt@](https://x.com/NeneneAI/status/1811018025661006268)
+- Ref img, source: [twt@](https://x.com/NeneneAI/status/1810085992860438581)
+
+# ---
+
 --- Git: Day 38 - 
 
 - Ref img, source: [twt@](https://x.com/DUOJ_ji/status/1810396215059882312/photo/1)
