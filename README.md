@@ -1,5 +1,11 @@
 # secrano.github.io
 
+--- Git: Day 42 - If I had a daughter.
+
+- Ref img, source: [twt@](https://x.com/Tooku_0/status/1810612019596550225)
+
+# ---
+
 --- Git: Day 40 - 
 
 - Ref img, source: [twt@](https://x.com/NeneneAI/status/1810811245119127906)
