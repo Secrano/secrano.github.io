@@ -1,5 +1,13 @@
 # secrano.github.io
 
+--- Git: Day 44 - Tailwind
+
+- Ref img, source: [twt@](https://x.com/reinrinn/status/1811344100475719851)
+- Ref img, source: [twt@](https://x.com/GAx5jx8Lsq4mBIn/status/1811675110316642723)
+- Ref img, source: [twt@](https://x.com/MangaContexts/status/1810974499551973425)
+
+# ---
+
 --- Git: Day 42 - If I had a daughter.
 
 - Ref img, source: [twt@](https://x.com/Tooku_0/status/1810612019596550225)
