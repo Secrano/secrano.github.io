@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Fairy Forest Flutter </title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #2e8b57;
+            font-family: 'Arial', sans-serif;
+        }
+        #game-container {
+            display: flex;
+            text-align: center;
+            background-color: #3cb371;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+        }
+        #health-bar {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-right: 10px;
+        }
+        #game-board {
+            display: inline-block;
+            border: 15px solid #228b22;
+            background-color: #32cd32;
+            border-radius: 5px;
+            overflow: hidden;
+            position: relative;
+        }
+        .cell {
+            width: 25px;
+            height: 25px;
+            display: inline-block;
+            font-size: 20px;
+            line-height: 25px;
+            text-align: center;
+            vertical-align: middle;
+        }
+        h1 {
+            color: #ff1493;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+        p {
+            color: #c71585;
+            font-size: 18px;
+            margin: 10px 0;
+        }
+        #score {
+            font-weight: bold;
+            color: #ff69b4;
+        }
+        #radiant {
+            position: absolute;
+            border-radius: 50%;
+            background: radial-gradient(circle, rgba(255,215,0,0.8) 0%, rgba(255,140,0,0.6) 30%, rgba(255,69,0,0.4) 60%, rgba(255,255,255,0) 80%);
+            pointer-events: none;
+            box-shadow: 0 0 20px rgba(255,215,0,0.8), 0 0 40px rgba(255,140,0,0.6), 0 0 60px rgba(255,69,0,0.4);
+            transition: all 0.05s ease-out;
+        }
+        #shield {
+            position: absolute;
+            border-radius: 50%;
+            background: radial-gradient(circle, rgba(0,191,255,0.8) 0%, rgba(30,144,255,0.6) 30%, rgba(0,0,255,0.4) 60%, rgba(255,255,255,0) 80%);
+            pointer-events: none;
+            box-shadow: 0 0 10px rgba(0,191,255,0.8), 0 0 20px rgba(30,144,255,0.6), 0 0 30px rgba(0,0,255,0.4);
+            transition: all 0.05s ease-out;
+        }
+        #message {
+            display: none;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(0, 0, 0, 0.7);
+            color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div id="game-container">
+        <div id="health-bar"></div>
+        <div>
+            <h1>🦋 Fairy Forest Flutter 🦋</h1>
+            <div id="game-board"></div>
+            <p>Score: <span id="score">0</span></p>
+            <p>Use arrow keys to move</p>
+            <p>Press spacebar to activate radiant</p>
+            <p>Press 'S' to activate shield</p>
+            <p>Press 'Down' to move faster downwards</p>
+        </div>
+    </div>
+    <div id="radiant"></div>
+    <div id="message"></div>
+    <script>
+        const board = document.getElementById('game-board');
+        const scoreElement = document.getElementById('score');
+        const healthBar = document.getElementById('health-bar');
+        const messageElement = document.getElementById('message');
+        const size = 19;
+        const forestCell = '🌳';
+        const butterflyEmoji = '🦋';
+        const grassEmoji = '🌿';
+        const breadEmoji = '🍞';
+        const collectibles = [
+            {emoji: '🍎', points: 1},
+            {emoji: '🍐', points: 2},
+            {emoji: '🍊', points: 3},
+            {emoji: '🍋', points: 4},
+            {emoji: '🍌', points: 5}
+        ];
+        const trashVehicles = ['🚗', '🚕', '🚙', '🚌', '🚑', '🚓'];
+        const hearts = ['❤️', '💛', '💚', '💙', '💜'];
+        let butterfly = {x: 9, y: 9};
+        let breadPosition = {x: 0, y: size - 1};
+        let collectiblePositions = [];
+        let trashPositions = [];
+        let heartPositions = [];
+        let score = 0;
+        let fallSpeed = 0.1;
+        let velocity = 0;
+        let radiantActive = false;
+        let radiantCooldown = false;
+        let shieldActive = false;
+        let shieldCooldown = false;
+        let health = 5;
+
+        function createBoard() {
+            for (let y = 0; y < size; y++) {
+                for (let x = 0; x < size; x++) {
+                    const cell = document.createElement('div');
+                    cell.className = 'cell';
+                    cell.textContent = y >= size - 2 ? grassEmoji : forestCell;
+                    board.appendChild(cell);
+                }
+                board.appendChild(document.createElement('br'));
+            }
+            updateHealthBar();
+            createShield();
+        }
+
+        function createShield() {
+            const shield = document.createElement('div');
+            shield.id = 'shield';
+            shield.style.display = 'none';
+            board.appendChild(shield);
+        }
+
+        function updateHealthBar() {
+            healthBar.innerHTML = '';
+            for (let i = 0; i < 10; i++) {
+                const healthUnit = document.createElement('div');
+                healthUnit.textContent = i < health ? '🦋' : '🤍';
+                healthBar.appendChild(healthUnit);
+            }
+        }
+
+        function updateBoard() {
+            const cells = document.getElementsByClassName('cell');
+            for (let y = 0; y < size; y++) {
+                for (let x = 0; x < size; x++) {
+                    const index = y * size + x;
+                    if (x === Math.floor(butterfly.x) && y === Math.floor(butterfly.y)) {
+                        cells[index].textContent = butterflyEmoji;
+                    } else if (x === breadPosition.x && y === breadPosition.y) {
+                        cells[index].textContent = breadEmoji;
+                    } else if (collectiblePositions.some(item => Math.floor(item.x) === x && Math.floor(item.y) === y)) {
+                        const item = collectiblePositions.find(item => Math.floor(item.x) === x && Math.floor(item.y) === y);
+                        cells[index].textContent = item.type.emoji;
+                    } else if (heartPositions.some(item => Math.floor(item.x) === x && Math.floor(item.y) === y)) {
+                        const item = heartPositions.find(item => Math.floor(item.x) === x && Math.floor(item.y) === y);
+                        cells[index].textContent = item.type;
+                    } else if (trashPositions.some(item => Math.floor(item.x) === x && Math.floor(item.y) === y)) {
+                        const item = trashPositions.find(item => Math.floor(item.x) === x && Math.floor(item.y) === y);
+                        cells[index].textContent = item.type;
+                    } else if (y >= size - 2) {
+                        cells[index].textContent = grassEmoji;
+                    } else {
+                        cells[index].textContent = forestCell;
+                    }
+                }
+            }
+            updateShieldPosition();
+        }
+
+        function updateShieldPosition() {
+            if (shieldActive) {
+                const shield = document.getElementById('shield');
+                const cellSize = 25; // Size of each cell
+                shield.style.left = `${butterfly.x * cellSize - cellSize/2}px`;
+                shield.style.top = `${butterfly.y * cellSize - cellSize/2}px`;
+            }
+        }
+
+        function moveButterfly() {
+            velocity += fallSpeed;
+            butterfly.y += velocity;
+
+            if (butterfly.y < 0) butterfly.y = 0;
+            if (butterfly.y >= size - 2) {
+                butterfly.y = size - 2;
+                takeDamage();
+            }
+
+            checkCollision();
+            updateBoard();
+        }
+
+        function moveBread() {
+            breadPosition.x = (breadPosition.x + 1) % size;
+            updateBoard();
+        }
+
+        function flap(direction) {
+            velocity = -0.5;
+            if (direction === 'left' && butterfly.x > 0) butterfly.x--;
+            if (direction === 'right' && butterfly.x < size - 1) butterfly.x++;
+            if (direction === 'down') velocity = 1;
+        }
+
+        function generateCollectible() {
+            const newItem = {
+                x: Math.floor(Math.random() * size),
+                y: 0,
+                type: collectibles[Math.floor(Math.random() * collectibles.length)]
+            };
+            collectiblePositions.push(newItem);
+        }
+
+        function generateTrash() {
+            const newItem = {
+                x: Math.floor(Math.random() * size),
+                y: 0,
+                type: trashVehicles[Math.floor(Math.random() * trashVehicles.length)]
+            };
+            trashPositions.push(newItem);
+        }
+
+        function generateHeart() {
+            const newItem = {
+                x: Math.floor(Math.random() * size),
+                y: 0,
+                type: hearts[Math.floor(Math.random() * hearts.length)]
+            };
+            heartPositions.push(newItem);
+        }
+
+        function moveItems() {
+            collectiblePositions = collectiblePositions.filter(item => {
+                item.y += fallSpeed;
+                return item.y < size - 2;
+            });
+
+            trashPositions = trashPositions.filter(item => {
+                item.y += fallSpeed;
+                if (item.y >= size - 3) {
+                    item.y = size - 3;
+                    return true;
+                }
+                return item.y < size - 3;
+            });
+
+            heartPositions = heartPositions.filter(item => {
+                item.y += fallSpeed;
+                return item.y < size - 2;
+            });
+
+            updateBoard();
+        }
+
+        function checkCollision() {
+            const collidedItem = collectiblePositions.find(item =>
+                Math.floor(item.x) === Math.floor(butterfly.x) && Math.floor(item.y) === Math.floor(butterfly.y)
+            );
+            if (collidedItem) {
+                score += collidedItem.type.points;
+                scoreElement.textContent = score;
+                collectiblePositions = collectiblePositions.filter(item => item !== collidedItem);
+            }
+
+            const collidedTrash = trashPositions.find(item =>
+                Math.floor(item.x) === Math.floor(butterfly.x) && Math.floor(item.y) === Math.floor(butterfly.y)
+            );
+            if (collidedTrash) {
+                takeDamage();
+            }
+
+            const collidedHeart = heartPositions.find(item =>
+                Math.floor(item.x) === Math.floor(butterfly.x) && Math.floor(item.y) === Math.floor(butterfly.y)
+            );
+            if (collidedHeart) {
+                if (health < 10) health++;
+                if (health === 10) {
+                    activateShield();
+                }
+                updateHealthBar();
+                heartPositions = heartPositions.filter(item => item !== collidedHeart);
+            }
+
+            if (Math.floor(butterfly.x) === breadPosition.x && Math.floor(butterfly.y) === breadPosition.y) {
+                takeDamage();
+            }
+        }
+
+        function takeDamage() {
+            if (shieldActive) {
+                deactivateShield();
+            } else {
+                health--;
+                updateHealthBar();
+                if (health <= 0) {
+                    gameOver();
+                }
+            }
+        }
+
+        function activateRadiant() {
+            if (radiantActive || radiantCooldown) return;
+            radiantActive = true;
+            const radiant = document.getElementById('radiant');
+            const cellSize = 25; // Size of each cell
+            const boardRect = document.getElementById('game-board').getBoundingClientRect();
+            const centerX = boardRect.left + (butterfly.x * cellSize) + (cellSize / 2);
+            const centerY = boardRect.top + (butterfly.y * cellSize) + (cellSize / 2);
+
+            radiant.style.left = `${centerX}px`;
+            radiant.style.top = `${centerY}px`;
+            radiant.style.width = '0px';
+            radiant.style.height = '0px';
+            radiant.style.display = 'block';
+
+            let size = 0;
+            const maxSize = Math.max(window.innerWidth, window.innerHeight) * 2;
+            const expandInterval = setInterval(() => {
+                size += 20;
+                radiant.style.width = `${size}px`;
+                radiant.style.height = `${size}px`;
+                radiant.style.left = `${centerX - size/2}px`;
+                radiant.style.top = `${centerY - size/2}px`;
+
+                trashPositions = [];
+
+                if (size >= maxSize) {
+                    clearInterval(expandInterval);
+                    radiant.style.display = 'none';
+                    radiantActive = false;
+                    showMessage("You saved the world");
+                }
+            }, 20);
+
+            radiantCooldown = true;
+            setTimeout(() => {
+                radiantCooldown = false;
+            }, 10000); // 10-second cooldown
+        }
+
+        function activateShield() {
+            if (shieldActive || shieldCooldown) return;
+            shieldActive = true;
+            const shield = document.getElementById('shield');
+            const cellSize = 25; // Size of each cell
+
+            shield.style.width = `${cellSize * 2}px`;
+            shield.style.height = `${cellSize * 2}px`;
+            shield.style.display = 'block';
+
+            updateShieldPosition();
+
+            setTimeout(deactivateShield, 5000); // Shield lasts for 5 seconds
+
+            shieldCooldown = true;
+            setTimeout(() => {
+                shieldCooldown = false;
+            }, 15000); // 15-second cooldown
+        }
+
+        function deactivateShield() {
+            shieldActive = false;
+            document.getElementById('shield').style.display = 'none';
+        }
+
+        function gameOver() {
+            showMessage("You couldn't help Fluffy bread saving the world, wanna try again");
+            setTimeout(() => {
+                resetGame();
+            }, 5000);
+        }
+
+        function resetGame() {
+            butterfly = {x: 9, y: 9};
+            breadPosition = {x: 0, y: size - 1};
+            collectiblePositions = [];
+            trashPositions = [];
+            heartPositions = [];
+            score = 0;
+            velocity = 0;
+            health = 5;
+            scoreElement.textContent = score;
+            updateHealthBar();
+            updateBoard();
+            hideMessage();
+        }
+
+        function showMessage(message) {
+            messageElement.textContent = message;
+            messageElement.style.display = 'block';
+        }
+
+        function hideMessage() {
+            messageElement.style.display = 'none';
+        }
+
+        document.addEventListener('keydown', (e) => {
+            switch(e.key) {
+                case 'ArrowUp':
+                    flap();
+                    break;
+                case 'ArrowLeft':
+                    flap('left');
+                    break;
+                case 'ArrowRight':
+                    flap('right');
+                    break;
+                case 'ArrowDown':
+                    flap('down');
+                    break;
+                case ' ':
+                    activateRadiant();
+                    break;
+                case 's':
+                case 'S':
+                    activateShield();
+                    break;
+            }
+        });
+
+        createBoard();
+        resetGame();
+        setInterval(moveButterfly, 50);
+        setInterval(moveBread, 500);
+        setInterval(generateCollectible, 2000);
+        setInterval(generateTrash, 3000);
+        setInterval(generateHeart, 7000);
+        setInterval(moveItems, 50);
+    </script>
+</body>
+</html>
