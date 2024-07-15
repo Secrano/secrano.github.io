@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Circle and Squares Animation</title>
+    <style>
+        canvas {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="animationCanvas" width="500" height="500"></canvas>
+    <script>
+        const canvas = document.getElementById('animationCanvas');
+        const ctx = canvas.getContext('2d');
+
+        const centerX = canvas.width / 2;
+        const centerY = canvas.height / 2;
+        const radius = 200;
+        const squareSize = radius * Math.sqrt(2); // Diagonal of square equals diameter of circle
+        const numSquares = 8;
+        const rotationSpeed = 0.02;
+
+        let angle = 0;
+
+        function drawCircle() {
+            ctx.beginPath();
+            ctx.arc(centerX, centerY, radius, 0, Math.PI * 2);
+            ctx.stroke();
+        }
+
+        function drawSquare(startAngle) {
+            ctx.save();
+            ctx.translate(centerX, centerY);
+            ctx.rotate(startAngle);
+
+            ctx.beginPath();
+            ctx.rect(-squareSize / 2, -squareSize / 2, squareSize, squareSize);
+            ctx.stroke();
+
+            // Draw the moving point
+            const pointX = Math.cos(angle) * squareSize / 2;
+            const pointY = Math.sin(angle) * squareSize / 2;
+            ctx.fillStyle = 'red';
+            ctx.beginPath();
+            ctx.arc(pointX, pointY, 3, 0, Math.PI * 2);
+            ctx.fill();
+
+            ctx.restore();
+        }
+
+        function animate() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+            drawCircle();
+
+            for (let i = 0; i < numSquares; i++) {
+                const startAngle = (i / numSquares) * Math.PI * 2 + angle;
+                drawSquare(startAngle);
+            }
+
+            angle += rotationSpeed;
+            requestAnimationFrame(animate);
+        }
+
+        animate();
+    </script>
+</body>
+</html>
