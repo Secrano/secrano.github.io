@@ -15,7 +15,8 @@
 - 1P Flutter Game w/upgrades (arcade game inspired)
 - Card Game with Triquetra Design
 - Circle and squares in motion (warning).
-  
+- Galatic Circular motion of bodies.
+
 # ---
 - Hello world.
 # ---
