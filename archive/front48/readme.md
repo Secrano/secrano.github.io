@@ -1,6 +1,10 @@
 
 --- Git: Day 48 -
 
+- Ref img, source: [twt@](https://x.com/TatsuyaBot/status/1812698318096708024) || update
+
+# ---
+
 - Ref img, source: [twt@](https://www.youtube.com/shorts/VrGjcgbjhy4) || update
 - Ref img, source: [twt@](https://x.com/opdaiIy/status/1812292155110519086) 
 
