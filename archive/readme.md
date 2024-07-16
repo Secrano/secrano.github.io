@@ -16,6 +16,7 @@
 - Card Game with Triquetra Design
 - Circle and squares in motion (warning).
 - Galatic Circular motion of bodies.
+- Mandelbrot set in the complex plane.
 
 # ---
 - Hello world.
