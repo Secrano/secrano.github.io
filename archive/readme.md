@@ -17,6 +17,7 @@
 - Circle and squares in motion (warning).
 - Galatic Circular motion of bodies.
 - Mandelbrot set in the complex plane.
+- Galactic spline animation.
 
 # ---
 - Hello world.
