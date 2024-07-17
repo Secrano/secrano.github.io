@@ -1,12 +1,19 @@
 # secrano.github.io
 
---- Git: Day 50 -
+--- Git: Day 52 - Taepot.
 
-- Ref img, source: [twt@](https://x.com/ByteRockers/status/1808878441476800658)
-- Ref img, source: [twt@](https://x.com/psychotronica_/status/1812672392025559236)
-- Ref img, source: [twt@](https://x.com/sseraribts/status/1812883789460250934) 
-- Ref img, source: [twt@](https://x.com/TAftermath2020/status/1812720497492422879)
-- Ref img, source: [twt@](https://x.com/The25thNigga/status/1812637594259243344)
-- Ref img, source: [twt@](https://x.com/HoDaRaKe/status/1812464563713188035)
+- Ref img, source: [twt@](https://x.com/PT_CROW/status/1813463160759939301)
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1813074988435407071)
+- Ref img, source: [twt@](https://x.com/ShitpostGate/status/1813476229451862341) 
+- Ref img, source: [twt@](https://x.com/CeoofRomcom/status/1813281729299292266)
 
+- Ref img, source: [twt@](https://x.com/TopGyaru/status/1813273421624799428)
+- Ref img, source: [twt@](https://x.com/GAx5jx8Lsq4mBIn/status/1813529831793123474)
+- Ref img, source: [twt@](https://x.com/Aunty_TeeTee/status/1812820795619459202)
+
+- Ref img, source: [twt@](https://x.com/GAx5jx8Lsq4mBIn/status/1813245615532613859)
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1765747416144265687)
+
+# ---
+ Music: "[quite solitude.](https://www.youtube.com/watch?v=DFuFDdL9sl4)" - uploaded by made from dreams
 # ---
