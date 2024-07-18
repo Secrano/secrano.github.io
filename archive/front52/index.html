@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galactic Spline Animation</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #000000;
+        }
+        canvas {
+            border: 1px solid #00ffff;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="animationCanvas" width="600" height="600"></canvas>
+    <script>
+        const canvas = document.getElementById('animationCanvas');
+        const ctx = canvas.getContext('2d');
+
+        const centerX = canvas.width / 2;
+        const centerY = canvas.height / 2;
+        const radius = 250;
+        const numSquares = 12;
+        const rotationSpeed = 0.01;
+
+        const squareSizes = [];
+        for (let i = 0; i < numSquares; i++) {
+            const size = radius * 2 / (i + 2);
+            squareSizes.push(size);
+        }
+
+        let angle = 0;
+
+        function drawStarfield() {
+            ctx.fillStyle = 'rgba(255, 255, 255, 0.5)';
+            for (let i = 0; i < 100; i++) {
+                const x = Math.random() * canvas.width;
+                const y = Math.random() * canvas.height;
+                const size = Math.random() * 2;
+                ctx.beginPath();
+                ctx.arc(x, y, size, 0, Math.PI * 2);
+                ctx.fill();
+            }
+        }
+
+        function drawCircle() {
+            ctx.strokeStyle = '#00ffff';
+            ctx.lineWidth = 2;
+            ctx.beginPath();
+            ctx.arc(centerX, centerY, radius, 0, Math.PI * 2);
+            ctx.stroke();
+        }
+
+        function drawSquare(startAngle, size, index) {
+            ctx.save();
+            ctx.translate(centerX, centerY);
+            ctx.rotate(startAngle);
+
+            ctx.strokeStyle = `hsl(180, 100%, ${50 + index * 3}%)`;
+            ctx.lineWidth = 1;
+            ctx.beginPath();
+            ctx.rect(-size / 2, -size / 2, size, size);
+            ctx.stroke();
+
+            const pointAngle = angle * (index + 1);
+            const pointX = Math.cos(pointAngle) * size / 2;
+            const pointY = Math.sin(pointAngle) * size / 2;
+            ctx.fillStyle = '#ff00ff';
+            ctx.beginPath();
+            ctx.arc(pointX, pointY, 3, 0, Math.PI * 2);
+            ctx.fill();
+
+            ctx.restore();
+        }
+
+        function spline() {
+            const numPoints = 5;
+            const points = [];
+
+            for (let i = 0; i < numPoints; i++) {
+                points.push({
+                    x: Math.random() * canvas.width,
+                    y: Math.random() * canvas.height,
+                    radius: 20 + Math.random() * 40
+                });
+            }
+
+            ctx.beginPath();
+            ctx.moveTo(points[0].x, points[0].y);
+
+            for (let i = 1; i < points.length; i++) {
+                const xc = (points[i].x + points[i-1].x) / 2;
+                const yc = (points[i].y + points[i-1].y) / 2;
+                ctx.quadraticCurveTo(points[i-1].x, points[i-1].y, xc, yc);
+            }
+
+            ctx.quadraticCurveTo(points[numPoints-1].x, points[numPoints-1].y, points[0].x, points[0].y);
+
+            const gradient = ctx.createLinearGradient(0, 0, canvas.width, canvas.height);
+            gradient.addColorStop(0, 'rgba(0, 255, 255, 0.2)');
+            gradient.addColorStop(0.5, 'rgba(255, 0, 255, 0.2)');
+            gradient.addColorStop(1, 'rgba(0, 255, 255, 0.2)');
+
+            ctx.fillStyle = gradient;
+            ctx.fill();
+
+            points.forEach(point => {
+                ctx.beginPath();
+                ctx.arc(point.x, point.y, point.radius, 0, Math.PI * 2);
+                ctx.fillStyle = 'rgba(255, 255, 255, 0.1)';
+                ctx.fill();
+            });
+        }
+
+        function animate() {
+            ctx.fillStyle = 'rgba(0, 0, 0, 0.1)';
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+            drawStarfield();
+            spline();
+            drawCircle();
+
+            for (let i = 0; i < numSquares; i++) {
+                const startAngle = (i / numSquares) * Math.PI * 2 + angle;
+                drawSquare(startAngle, squareSizes[i], i);
+            }
+
+            angle += rotationSpeed;
+            requestAnimationFrame(animate);
+        }
+
+        animate();
+    </script>
+</body>
+</html>
