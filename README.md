@@ -1,5 +1,11 @@
 # secrano.github.io
 
+--- Git: Day 56 - 
+
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1813704213530026453)
+
+# ---
+
 --- Git: Day 54 - 
 
 - Ref img, source: [twt@](https://x.com/natsume0v0/status/1813596320571302027)
