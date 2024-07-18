@@ -18,6 +18,7 @@
 - Galatic Circular motion of bodies.
 - Mandelbrot set in the complex plane.
 - Galactic spline animation.
+- Beach.
 
 # ---
 - Hello world.
