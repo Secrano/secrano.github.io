@@ -18,8 +18,5 @@
 - Galatic Circular motion of bodies.
 - Mandelbrot set in the complex plane.
 - Galactic spline animation.
-- Beach.
-
-# ---
-- Hello world.
-# ---
+- Beach (ai art).
+- Rolling rogue like games (zelda/link inspired).
