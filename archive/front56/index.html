@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beautiful Sunset</title>
+    <style>
+        body { display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; background-color: #f0f0f0; }
+        canvas { border: 10px solid #8B4513; }
+    </style>
+</head>
+<body>
+    <canvas id="sunsetCanvas" width="150" height="150"></canvas>
+    <script>
+        const canvas = document.getElementById('sunsetCanvas');
+        const ctx = canvas.getContext('2d');
+
+        // Sky
+        let gradient = ctx.createLinearGradient(0, 0, 0, 150);
+        gradient.addColorStop(0, "#FF6B6B");
+        gradient.addColorStop(0.6, "#FFD93D");
+        gradient.addColorStop(1, "#4D96FF");
+        ctx.fillStyle = gradient;
+        ctx.fillRect(0, 0, 150, 150);
+
+        // Sun
+        ctx.beginPath();
+        ctx.arc(75, 100, 20, 0, Math.PI * 2);
+        ctx.fillStyle = "#FF6B6B";
+        ctx.fill();
+
+        // Ocean
+        ctx.fillStyle = "#4D96FF";
+        ctx.fillRect(0, 100, 150, 50);
+
+        // Beach
+        ctx.beginPath();
+        ctx.moveTo(0, 140);
+        ctx.lineTo(150, 130);
+        ctx.lineTo(150, 150);
+        ctx.lineTo(0, 150);
+        ctx.closePath();
+        ctx.fillStyle = "#F4D03F";
+        ctx.fill();
+    </script>
+</body>
+</html>
