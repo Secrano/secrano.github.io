@@ -6,6 +6,8 @@
 - Ref img, source: [twt@](https://x.com/Yoda4ever/status/1814489907555119255)
 - Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1814587303194505327)
 
+# ---
+
 --- Git: Day 58 - Crowdstrike.
 
 - Ref img, source: [twt@](https://www.youtube.com/shorts/db6iySUdP10)
