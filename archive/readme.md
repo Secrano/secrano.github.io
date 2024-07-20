@@ -20,7 +20,8 @@
 - Galactic spline animation.
 - Beach.
 - Rolling rogue like games (zelda/link inspired).
-
+- 1P Chasing game (applied A*star algo to hunting game).
+  
 # ---
 - Hello world.
 # ---
