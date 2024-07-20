@@ -2,6 +2,13 @@
 
 --- Git: Day 58 - Crowdstrike.
 
+- Ref img, source: [twt@](https://www.youtube.com/shorts/db6iySUdP10)
+- Ref img, source: [twt@](https://x.com/100reason2smile/status/1814246859277246712)
+- Ref img, source: [twt@](https://x.com/luffygyatt/status/1814200383662895271)
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1814010763960525221)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/TheFigen_/status/1814064361071087978)
 - Ref img, source: [twt@](https://x.com/hoodcrazy_/status/1813997169319481363)
 - Ref img, source: [twt@](https://x.com/Yoda4ever/status/1813961940399788316)
