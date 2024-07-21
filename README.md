@@ -1,5 +1,13 @@
 # secrano.github.io
 
+--- Git: Day 62 - 
+
+- Ref img, source: [twt@](https://x.com/KittiesInternet/status/1814539987460763650)
+- Ref img, source: [twt@](https://x.com/instablog9ja/status/1814671484352074165)
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1814331894152175723)
+
+# ---
+
 --- Git: Day 60 - || bear.
 
 - Ref img, source: [twt@](https://x.com/synkwntr/status/1814695032672211278)
