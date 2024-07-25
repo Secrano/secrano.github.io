@@ -2,6 +2,22 @@
 
 --- Git: Day 70 - Ocean.
 
+- Ref img, source: [twt@](https://x.com/buitengebieden/status/1816550835033461001)
+- Ref img, source: [twt@](https://x.com/keyokku/status/1816567604334522575)
+- Ref img, source: [twt@](https://x.com/buitengebieden/status/1816451037026255119)
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1816456656710193571)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/buitengebieden/status/1816439161764659377)
+- Ref img, source: [twt@](https://x.com/Ahmedmedhat000/status/1816438161842573369)
+- Ref img, source: [twt@](https://x.com/VALORANT/status/1816518965092638754)
+- Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1816439775680741788)
+- Ref img, source: [twt@](https://x.com/DramaAlert/status/1816293811808579686)
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1816528899695890832)
+
+# ---
+
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=eipMD3lALXU)
 
 # ---
