@@ -22,6 +22,8 @@
 - Rolling rogue like games (zelda/link inspired).
 - 1P Chasing game (applied A*star to hunting game).
 
+# ---
+
 ### Part 3:
 
 - 1P Ocean submarine Navigation (track demo)
