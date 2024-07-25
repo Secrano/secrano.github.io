@@ -2,7 +2,7 @@
 
 --- Git: Day 70 - Ocean.
 
-- Ref img, source: [twt@](https://www.youtube.com/watch?v=eipMD3lALXU)
+Ref img, source: [twt@](https://www.youtube.com/watch?v=eipMD3lALXU)
 
 # ---
 
