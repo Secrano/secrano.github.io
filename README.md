@@ -1,5 +1,35 @@
 # secrano.github.io
 
+--- Git: Day 70 - Ocean.
+
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=eipMD3lALXU)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/vinstar66/status/1816143486627856444)
+- Ref img, source: [twt@](https://x.com/_B___S/status/1816237252730875969)
+- Ref img, source: [twt@](https://x.com/KingAvery64/status/1815848377558409544)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1816106067144921491)
+- Ref img, source: [twt@](https://x.com/buitengebieden/status/1816236645420785668)
+- Ref img, source: [twt@](https://x.com/ironmouse/status/1816274398531441068)
+- Ref img, source: [twt@](https://x.com/__c_9/status/1816392047236170065)
+- Ref img, source: [twt@](https://x.com/PostsOfCats/status/1816304317084606520)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/OTKnetwork/status/1816228206527013124)
+- Ref img, source: [twt@](https://x.com/weirddalle/status/1815903975591534602)
+
+# ---
+Music: "[Lisa - Loud](https://www.youtube.com/watch?v=D0B8bNshpyw)" - uploaded by KV OFFICIAL
+# ---
+
+<br/>
+# ---
+
 --- Git: Day 68 - Nethan.
 
 - Ref img, source: [twt@](https://x.com/Yoda4ever/status/1815939459394986054)
