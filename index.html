@@ -3,301 +3,302 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Diving Submarine Game</title>
+    <title> 🌿 Urban Forest Adventure 🏙️ </title> // Hello World
     <style>
-        body { margin: 0; overflow: hidden; display: flex; }
-        #gameCanvas { flex: 1; }
-        #sidebar {
-            width: 200px;
-            background-color: rgba(0, 0, 0, 0.7);
-            color: white;
-            padding: 10px;
+        body {
             font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #4a5;
         }
-        #speciesGrid {
+        #game-container {
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        }
+        #game-board {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 5px;
+            grid-template-columns: repeat(40, 12px);
+            grid-gap: 1px;
+            background-color: #3a4;
+            padding: 5px;
+            width: fit-content;
+            border: 2px solid #2a3;
+            border-radius: 5px;
         }
-        .species {
-            font-size: 24px;
-            text-align: center;
+        .cell {
+            width: 12px;
+            height: 12px;
+            background-color: #4b6;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 10px;
+        }
+        .fog {
+            background-color: #000;
+            color: transparent;
+        }
+        .discovered {
+            background-color: #6c8;
+        }
+        .vision-aura {
+            box-shadow: inset 0 0 5px rgba(255, 255, 255, 0.5);
         }
     </style>
 </head>
 <body>
-    <div id="gameCanvas"></div>
-    <div id="sidebar">
-        <h2>Discoveries</h2>
-        <div id="speciesGrid"></div>
-        <h2>Score: <span id="score">0</span></h2>
+    <div id="game-container">
+        <h1>🌿 Urban Forest Adventure 🏙️</h1>
+        <div id="game-board"></div>
+        <p>Score: <span id="score">0</span></p>
+        <p>Use arrow keys to move the explorer</p>
+        <p>Use W, A, S, D keys to move the fox</p>
+        <p>Press 'C' to place a city (costs 10 metal)</p>
     </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+
     <script>
-        const GRID_SIZE = 19;
-        const CELL_SIZE = 1;
+        const BOARD_SIZE = 40;
+        const EMPTY = '🌱';
+        const EXPLORER = '🥾';
+        const FOX = '🦊';
+        const TREE = '🌳';
+        const CAR = '🚗';
+        const HOUSE = '🏠';
+        const CITY = '🏙️';
+        const VISION_RADIUS = 5;
 
-        let scene, camera, renderer, submarine;
-        let crabs = [], squids = [], fish = [], sharks = [], algae = [], seaweed = [];
+        let board = [];
+        let fogOfWar = [];
+        let explorerX, explorerY, foxX, foxY;
         let score = 0;
-        let discoveredSpecies = new Set();
+        let woodCount = 0;
+        let metalCount = 0;
+        let brickCount = 0;
 
-        function init() {
-            scene = new THREE.Scene();
-            camera = new THREE.PerspectiveCamera(75, (window.innerWidth - 200) / window.innerHeight, 0.1, 1000);
-            renderer = new THREE.WebGLRenderer();
-            renderer.setSize(window.innerWidth - 200, window.innerHeight);
-            document.getElementById('gameCanvas').appendChild(renderer.domElement);
+        function initializeGame() {
+            board = Array(BOARD_SIZE).fill().map(() => Array(BOARD_SIZE).fill(EMPTY));
+            fogOfWar = Array(BOARD_SIZE).fill().map(() => Array(BOARD_SIZE).fill(true));
+            explorerX = Math.floor(Math.random() * BOARD_SIZE);
+            explorerY = Math.floor(Math.random() * BOARD_SIZE);
+            board[explorerY][explorerX] = EXPLORER;
 
-            scene.background = new THREE.Color(0x0077be);
+            do {
+                foxX = Math.floor(Math.random() * BOARD_SIZE);
+                foxY = Math.floor(Math.random() * BOARD_SIZE);
+            } while (foxX === explorerX && foxY === explorerY);
+            board[foxY][foxX] = FOX;
 
-            const ambientLight = new THREE.AmbientLight(0xffffff, 0.7);
-            scene.add(ambientLight);
-            const directionalLight = new THREE.DirectionalLight(0xffffff, 0.8);
-            directionalLight.position.set(0, 1, 0);
-            scene.add(directionalLight);
-
-            submarine = createSubmarine();
-            scene.add(submarine);
-
-            const floorGeometry = new THREE.PlaneGeometry(GRID_SIZE * CELL_SIZE, GRID_SIZE * CELL_SIZE);
-            const floorMaterial = new THREE.MeshBasicMaterial({ color: 0xc2b280 });
-            const floor = new THREE.Mesh(floorGeometry, floorMaterial);
-            floor.rotation.x = -Math.PI / 2;
-            floor.position.y = -GRID_SIZE / 2;
-            scene.add(floor);
-
-            for (let i = 0; i < 10; i++) {
-                crabs.push(createCrab());
-                squids.push(createSquid());
-                fish.push(createFish());
-                sharks.push(createShark());
-                algae.push(createAlgae());
-                seaweed.push(createSeaweed());
-            }
-
-            crabs.forEach(crab => scene.add(crab));
-            squids.forEach(squid => scene.add(squid));
-            fish.forEach(fish => scene.add(fish));
-            sharks.forEach(shark => scene.add(shark));
-            algae.forEach(alga => scene.add(alga));
-            seaweed.forEach(weed => scene.add(weed));
-
-            camera.position.set(0, 0, GRID_SIZE);
-            animate();
-        }
-
-        function createSubmarine() {
-            const geometry = new THREE.CylinderGeometry(CELL_SIZE / 2, CELL_SIZE / 2, CELL_SIZE * 2, 32);
-            const material = new THREE.MeshPhongMaterial({ color: 0xffff00 });
-            const sub = new THREE.Mesh(geometry, material);
-            sub.rotation.z = Math.PI / 2;
-            sub.position.set(0, 0, 0);
-            return sub;
-        }
-
-        function createCrab() {
-            const geometry = new THREE.SphereGeometry(CELL_SIZE / 4, 8, 8);
-            const material = new THREE.MeshPhongMaterial({ color: 0xff0000 });
-            const crab = new THREE.Mesh(geometry, material);
-            crab.position.set(
-                Math.random() * GRID_SIZE - GRID_SIZE / 2,
-                -GRID_SIZE / 2 + CELL_SIZE / 4,
-                Math.random() * GRID_SIZE - GRID_SIZE / 2
-            );
-            return crab;
-        }
-
-        function createSquid() {
-            const geometry = new THREE.ConeGeometry(CELL_SIZE / 4, CELL_SIZE, 8);
-            const material = new THREE.MeshPhongMaterial({ color: 0x800080 });
-            const squid = new THREE.Mesh(geometry, material);
-            squid.position.set(
-                Math.random() * GRID_SIZE - GRID_SIZE / 2,
-                Math.random() * GRID_SIZE - GRID_SIZE / 2,
-                Math.random() * GRID_SIZE - GRID_SIZE / 2
-            );
-            return squid;
-        }
-
-        function createFish() {
-            const geometry = new THREE.ConeGeometry(CELL_SIZE / 4, CELL_SIZE / 2, 32);
-            const material = new THREE.MeshPhongMaterial({ color: 0x00ffff });
-            const fish = new THREE.Mesh(geometry, material);
-            fish.rotation.y = Math.PI / 2;
-            fish.position.set(
-                Math.random() * GRID_SIZE - GRID_SIZE / 2,
-                Math.random() * GRID_SIZE - GRID_SIZE / 2,
-                Math.random() * GRID_SIZE - GRID_SIZE / 2
-            );
-            return fish;
-        }
-
-        function createShark() {
-            const geometry = new THREE.ConeGeometry(CELL_SIZE / 3, CELL_SIZE, 32);
-            const material = new THREE.MeshPhongMaterial({ color: 0x808080 });
-            const shark = new THREE.Mesh(geometry, material);
-            shark.rotation.y = Math.PI / 2;
-            shark.position.set(
-                Math.random() * GRID_SIZE - GRID_SIZE / 2,
-                Math.random() * GRID_SIZE - GRID_SIZE / 2,
-                Math.random() * GRID_SIZE - GRID_SIZE / 2
-            );
-            return shark;
-        }
-
-        function createAlgae() {
-            const geometry = new THREE.SphereGeometry(CELL_SIZE / 5, 8, 8);
-            const material = new THREE.MeshPhongMaterial({ color: 0x00ff00 });
-            const alga = new THREE.Mesh(geometry, material);
-            alga.position.set(
-                Math.random() * GRID_SIZE - GRID_SIZE / 2,
-                -GRID_SIZE / 2 + CELL_SIZE / 5,
-                Math.random() * GRID_SIZE - GRID_SIZE / 2
-            );
-            return alga;
-        }
-
-        function createSeaweed() {
-            const geometry = new THREE.CylinderGeometry(CELL_SIZE / 10, CELL_SIZE / 10, CELL_SIZE, 8);
-            const material = new THREE.MeshPhongMaterial({ color: 0x008000 });
-            const weed = new THREE.Mesh(geometry, material);
-            weed.position.set(
-                Math.random() * GRID_SIZE - GRID_SIZE / 2,
-                -GRID_SIZE / 2 + CELL_SIZE / 2,
-                Math.random() * GRID_SIZE - GRID_SIZE / 2
-            );
-            return weed;
-        }
-
-        function animate() {
-            requestAnimationFrame(animate);
-
-            applyPhysics();
-            moveCreatures();
-            checkCollections();
-
-            renderer.render(scene, camera);
-        }
-
-        function applyPhysics() {
-            const gravity = -0.01;
-            const buoyancy = 0.008;
-            submarine.position.y += gravity + buoyancy;
-            submarine.position.y = Math.max(Math.min(submarine.position.y, GRID_SIZE / 2), -GRID_SIZE / 2);
-        }
-
-        function moveCreatures() {
-            moveGroup(crabs, 0.05);
-            moveGroup(squids, 0.1);
-            moveGroup(fish, 0.15);
-            moveGroup(sharks, 0.2);
-            moveGroup(algae, 0.02);
-            moveGroup(seaweed, 0.01);
-        }
-
-        function moveGroup(group, speed) {
-            group.forEach(creature => {
-                creature.position.x += (Math.random() - 0.5) * speed;
-                creature.position.y += (Math.random() - 0.5) * speed;
-                creature.position.z += (Math.random() - 0.5) * speed;
-                creature.position.x = Math.max(Math.min(creature.position.x, GRID_SIZE / 2), -GRID_SIZE / 2);
-                creature.position.y = Math.max(Math.min(creature.position.y, GRID_SIZE / 2), -GRID_SIZE / 2);
-                creature.position.z = Math.max(Math.min(creature.position.z, GRID_SIZE / 2), -GRID_SIZE / 2);
-            });
-        }
-
-        function checkCollections() {
-            const collectionRange = CELL_SIZE;
-            [
-                { creatures: crabs, type: 'crab', emoji: '🦀', score: 10 },
-                { creatures: squids, type: 'squid', emoji: '🦑', score: 20 },
-                { creatures: fish, type: 'fish', emoji: '🐠', score: 15 },
-                { creatures: sharks, type: 'shark', emoji: '🦈', score: 50 },
-                { creatures: algae, type: 'algae', emoji: '🦠', score: 5 },
-                { creatures: seaweed, type: 'seaweed', emoji: '🌿', score: 8 }
-            ].forEach(({ creatures, type, emoji, score: points }) => {
-                creatures.forEach((creature, index) => {
-                    if (submarine.position.distanceTo(creature.position) < collectionRange) {
-                        collect(creature, creatures, index, type, emoji, points);
-                    }
-                });
-            });
-        }
-
-        function collect(creature, creatures, index, type, emoji, points) {
-            scene.remove(creature);
-            creatures.splice(index, 1);
-            score += points;
+            placeRandomTrees();
+            placeRandomCars();
+            placeRandomHouses();
+            updateVision();
+            updateGame();
             updateScore();
-            discovery(type, emoji);
         }
 
-        function discovery(type, emoji) {
-            if (!discoveredSpecies.has(type)) {
-                discoveredSpecies.add(type);
-                updateDiscoveryGrid(emoji);
-                showDiscoveryMessage(type);
+        function placeRandomTrees() {
+            placeRandomElements(TREE, 80);
+        }
+
+        function placeRandomCars() {
+            placeRandomElements(CAR, 30);
+        }
+
+        function placeRandomHouses() {
+            placeRandomElements(HOUSE, 20);
+        }
+
+        function placeRandomElements(element, count) {
+            for (let i = 0; i < count; i++) {
+                let x, y;
+                do {
+                    x = Math.floor(Math.random() * BOARD_SIZE);
+                    y = Math.floor(Math.random() * BOARD_SIZE);
+                } while (board[y][x] !== EMPTY);
+                board[y][x] = element;
+            }
+        }
+
+        function updateVision() {
+            for (let y = 0; y < BOARD_SIZE; y++) {
+                for (let x = 0; x < BOARD_SIZE; x++) {
+                    if (isInCircularVision(x, y, explorerX, explorerY) || isInCircularVision(x, y, foxX, foxY)) {
+                        fogOfWar[y][x] = false;
+                    }
+                }
+            }
+        }
+
+        function isInCircularVision(x, y, centerX, centerY) {
+            const dx = x - centerX;
+            const dy = y - centerY;
+            return dx * dx + dy * dy <= VISION_RADIUS * VISION_RADIUS;
+        }
+
+        function updateGame() {
+            const gameBoard = document.getElementById('game-board');
+            gameBoard.innerHTML = '';
+            for (let y = 0; y < BOARD_SIZE; y++) {
+                for (let x = 0; x < BOARD_SIZE; x++) {
+                    const cell = document.createElement('div');
+                    cell.className = 'cell';
+                    if (fogOfWar[y][x]) {
+                        cell.classList.add('fog');
+                        cell.textContent = EMPTY;
+                    } else {
+                        cell.textContent = board[y][x];
+                        cell.classList.add('discovered');
+                        if (isInCircularVision(x, y, explorerX, explorerY) || isInCircularVision(x, y, foxX, foxY)) {
+                            cell.classList.add('vision-aura');
+                        }
+                    }
+                    gameBoard.appendChild(cell);
+                }
             }
         }
 
         function updateScore() {
-            document.getElementById('score').textContent = score;
+            document.getElementById('score').textContent = `Caught: ${score} | Wood: ${woodCount} | Metal: ${metalCount} | Bricks: ${brickCount}`;
         }
 
-        function updateDiscoveryGrid(emoji) {
-            const speciesGrid = document.getElementById('speciesGrid');
-            const speciesElement = document.createElement('div');
-            speciesElement.className = 'species';
-            speciesElement.textContent = emoji;
-            speciesGrid.appendChild(speciesElement);
+        function destroy(x, y) {
+            switch (board[y][x]) {
+                case TREE:
+                    board[y][x] = EMPTY;
+                    woodCount++;
+                    break;
+                case CAR:
+                    board[y][x] = EMPTY;
+                    metalCount++;
+                    break;
+                case HOUSE:
+                    board[y][x] = EMPTY;
+                    brickCount++;
+                    break;
+                case CITY:
+                    board[y][x] = EMPTY;
+                    metalCount += 10;
+                    break;
+            }
+            updateScore();
         }
 
-        function showDiscoveryMessage(type) {
-            const message = document.createElement('div');
-            message.textContent = `New species discovered: ${type}!`;
-            message.style.position = 'absolute';
-            message.style.top = '10px';
-            message.style.left = '50%';
-            message.style.transform = 'translateX(-50%)';
-            message.style.background = 'rgba(255, 255, 255, 0.8)';
-            message.style.padding = '10px';
-            message.style.borderRadius = '5px';
-            document.body.appendChild(message);
-            setTimeout(() => document.body.removeChild(message), 3000);
+        function moveExplorer(dx, dy) {
+            const newX = explorerX + dx;
+            const newY = explorerY + dy;
+
+            if (isValidMove(newX, newY)) {
+                if (board[newY][newX] !== EMPTY && board[newY][newX] !== FOX) {
+                    destroy(newX, newY);
+                }
+                board[explorerY][explorerX] = EMPTY;
+                explorerX = newX;
+                explorerY = newY;
+                board[explorerY][explorerX] = EXPLORER;
+                updateVision();
+                updateGame();
+                checkCollision();
+            }
+        }
+
+        function moveFox(dx, dy) {
+            const newX = foxX + dx;
+            const newY = foxY + dy;
+
+            if (isValidMove(newX, newY)) {
+                if (board[newY][newX] !== EMPTY && board[newY][newX] !== EXPLORER) {
+                    destroy(newX, newY);
+                }
+                board[foxY][foxX] = EMPTY;
+                foxX = newX;
+                foxY = newY;
+                board[foxY][foxX] = FOX;
+                updateVision();
+                updateGame();
+                checkCollision();
+            }
+        }
+
+        function isValidMove(x, y) {
+            return x >= 0 && x < BOARD_SIZE && y >= 0 && y < BOARD_SIZE;
+        }
+
+        function checkCollision() {
+            if (explorerX === foxX && explorerY === foxY) {
+                score++;
+                updateScore();
+                resetFoxPosition();
+            }
+        }
+
+        function resetFoxPosition() {
+            do {
+                foxX = Math.floor(Math.random() * BOARD_SIZE);
+                foxY = Math.floor(Math.random() * BOARD_SIZE);
+            } while (foxX === explorerX && foxY === explorerY || board[foxY][foxX] !== EMPTY);
+            board[foxY][foxX] = FOX;
+            updateVision();
+            updateGame();
+        }
+
+        function placeCity() {
+            if (metalCount >= 10) {
+                const startX = Math.max(0, explorerX - 1);
+                const startY = Math.max(0, explorerY - 1);
+                const endX = Math.min(BOARD_SIZE - 1, startX + 1);
+                const endY = Math.min(BOARD_SIZE - 1, startY + 1);
+
+                let canPlace = true;
+                for (let y = startY; y <= endY; y++) {
+                    for (let x = startX; x <= endX; x++) {
+                        if (board[y][x] !== EMPTY && board[y][x] !== EXPLORER) {
+                            canPlace = false;
+                            break;
+                        }
+                    }
+                    if (!canPlace) break;
+                }
+
+                if (canPlace) {
+                    for (let y = startY; y <= endY; y++) {
+                        for (let x = startX; x <= endX; x++) {
+                            if (board[y][x] !== EXPLORER) {
+                                board[y][x] = CITY;
+                            }
+                        }
+                    }
+                    metalCount -= 10;
+                    updateScore();
+                    updateGame();
+                    alert("City placed successfully!");
+                } else {
+                    alert("Cannot place city here. Make sure the area is clear.");
+                }
+            } else {
+                alert("Not enough metal to place a city. You need 10 metal.");
+            }
         }
 
         document.addEventListener('keydown', (event) => {
-            const moveDistance = 0.1;
             switch (event.key) {
-                case 'ArrowUp':
-                    submarine.position.z -= moveDistance;
-                    break;
-                case 'ArrowDown':
-                    submarine.position.z += moveDistance;
-                    break;
-                case 'ArrowLeft':
-                    submarine.position.x -= moveDistance;
-                    break;
-                case 'ArrowRight':
-                    submarine.position.x += moveDistance;
-                    break;
-                case 'w':
-                    submarine.position.y += moveDistance;
-                    break;
-                case 's':
-                    submarine.position.y -= moveDistance;
-                    break;
+                case 'ArrowUp': moveExplorer(0, -1); break;
+                case 'ArrowDown': moveExplorer(0, 1); break;
+                case 'ArrowLeft': moveExplorer(-1, 0); break;
+                case 'ArrowRight': moveExplorer(1, 0); break;
+                case 'w': case 'W': moveFox(0, -1); break;
+                case 's': case 'S': moveFox(0, 1); break;
+                case 'a': case 'A': moveFox(-1, 0); break;
+                case 'd': case 'D': moveFox(1, 0); break;
+                case 'c': case 'C': placeCity(); break;
             }
         });
 
-        window.addEventListener('resize', () => {
-            camera.aspect = (window.innerWidth - 200) / window.innerHeight;
-            camera.updateProjectionMatrix();
-            renderer.setSize(window.innerWidth - 200, window.innerHeight);
-        });
-
-        init();
+        initializeGame();
     </script>
 </body>
 </html>
