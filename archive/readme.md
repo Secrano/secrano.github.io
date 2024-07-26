@@ -25,6 +25,7 @@
 ### - Part 3:
 
 - 1P Ocean submarine Navigation (track demo)
+- 1P Urban adventure w/added fog of war features (inf exploration).
   
 # ---
 - Hello world.
