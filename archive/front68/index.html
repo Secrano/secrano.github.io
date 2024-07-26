@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diving Submarine Game</title>
+    <style>
+        body { margin: 0; overflow: hidden; display: flex; }
+        #gameCanvas { flex: 1; }
+        #sidebar {
+            width: 200px;
+            background-color: rgba(0, 0, 0, 0.7);
+            color: white;
+            padding: 10px;
+            font-family: Arial, sans-serif;
+        }
+        #speciesGrid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 5px;
+        }
+        .species {
+            font-size: 24px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="gameCanvas"></div>
+    <div id="sidebar">
+        <h2>Discoveries</h2>
+        <div id="speciesGrid"></div>
+        <h2>Score: <span id="score">0</span></h2>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script>
+        const GRID_SIZE = 19;
+        const CELL_SIZE = 1;
+
+        let scene, camera, renderer, submarine;
+        let crabs = [], squids = [], fish = [], sharks = [], algae = [], seaweed = [];
+        let score = 0;
+        let discoveredSpecies = new Set();
+
+        function init() {
+            scene = new THREE.Scene();
+            camera = new THREE.PerspectiveCamera(75, (window.innerWidth - 200) / window.innerHeight, 0.1, 1000);
+            renderer = new THREE.WebGLRenderer();
+            renderer.setSize(window.innerWidth - 200, window.innerHeight);
+            document.getElementById('gameCanvas').appendChild(renderer.domElement);
+
+            scene.background = new THREE.Color(0x0077be);
+
+            const ambientLight = new THREE.AmbientLight(0xffffff, 0.7);
+            scene.add(ambientLight);
+            const directionalLight = new THREE.DirectionalLight(0xffffff, 0.8);
+            directionalLight.position.set(0, 1, 0);
+            scene.add(directionalLight);
+
+            submarine = createSubmarine();
+            scene.add(submarine);
+
+            const floorGeometry = new THREE.PlaneGeometry(GRID_SIZE * CELL_SIZE, GRID_SIZE * CELL_SIZE);
+            const floorMaterial = new THREE.MeshBasicMaterial({ color: 0xc2b280 });
+            const floor = new THREE.Mesh(floorGeometry, floorMaterial);
+            floor.rotation.x = -Math.PI / 2;
+            floor.position.y = -GRID_SIZE / 2;
+            scene.add(floor);
+
+            for (let i = 0; i < 10; i++) {
+                crabs.push(createCrab());
+                squids.push(createSquid());
+                fish.push(createFish());
+                sharks.push(createShark());
+                algae.push(createAlgae());
+                seaweed.push(createSeaweed());
+            }
+
+            crabs.forEach(crab => scene.add(crab));
+            squids.forEach(squid => scene.add(squid));
+            fish.forEach(fish => scene.add(fish));
+            sharks.forEach(shark => scene.add(shark));
+            algae.forEach(alga => scene.add(alga));
+            seaweed.forEach(weed => scene.add(weed));
+
+            camera.position.set(0, 0, GRID_SIZE);
+            animate();
+        }
+
+        function createSubmarine() {
+            const geometry = new THREE.CylinderGeometry(CELL_SIZE / 2, CELL_SIZE / 2, CELL_SIZE * 2, 32);
+            const material = new THREE.MeshPhongMaterial({ color: 0xffff00 });
+            const sub = new THREE.Mesh(geometry, material);
+            sub.rotation.z = Math.PI / 2;
+            sub.position.set(0, 0, 0);
+            return sub;
+        }
+
+        function createCrab() {
+            const geometry = new THREE.SphereGeometry(CELL_SIZE / 4, 8, 8);
+            const material = new THREE.MeshPhongMaterial({ color: 0xff0000 });
+            const crab = new THREE.Mesh(geometry, material);
+            crab.position.set(
+                Math.random() * GRID_SIZE - GRID_SIZE / 2,
+                -GRID_SIZE / 2 + CELL_SIZE / 4,
+                Math.random() * GRID_SIZE - GRID_SIZE / 2
+            );
+            return crab;
+        }
+
+        function createSquid() {
+            const geometry = new THREE.ConeGeometry(CELL_SIZE / 4, CELL_SIZE, 8);
+            const material = new THREE.MeshPhongMaterial({ color: 0x800080 });
+            const squid = new THREE.Mesh(geometry, material);
+            squid.position.set(
+                Math.random() * GRID_SIZE - GRID_SIZE / 2,
+                Math.random() * GRID_SIZE - GRID_SIZE / 2,
+                Math.random() * GRID_SIZE - GRID_SIZE / 2
+            );
+            return squid;
+        }
+
+        function createFish() {
+            const geometry = new THREE.ConeGeometry(CELL_SIZE / 4, CELL_SIZE / 2, 32);
+            const material = new THREE.MeshPhongMaterial({ color: 0x00ffff });
+            const fish = new THREE.Mesh(geometry, material);
+            fish.rotation.y = Math.PI / 2;
+            fish.position.set(
+                Math.random() * GRID_SIZE - GRID_SIZE / 2,
+                Math.random() * GRID_SIZE - GRID_SIZE / 2,
+                Math.random() * GRID_SIZE - GRID_SIZE / 2
+            );
+            return fish;
+        }
+
+        function createShark() {
+            const geometry = new THREE.ConeGeometry(CELL_SIZE / 3, CELL_SIZE, 32);
+            const material = new THREE.MeshPhongMaterial({ color: 0x808080 });
+            const shark = new THREE.Mesh(geometry, material);
+            shark.rotation.y = Math.PI / 2;
+            shark.position.set(
+                Math.random() * GRID_SIZE - GRID_SIZE / 2,
+                Math.random() * GRID_SIZE - GRID_SIZE / 2,
+                Math.random() * GRID_SIZE - GRID_SIZE / 2
+            );
+            return shark;
+        }
+
+        function createAlgae() {
+            const geometry = new THREE.SphereGeometry(CELL_SIZE / 5, 8, 8);
+            const material = new THREE.MeshPhongMaterial({ color: 0x00ff00 });
+            const alga = new THREE.Mesh(geometry, material);
+            alga.position.set(
+                Math.random() * GRID_SIZE - GRID_SIZE / 2,
+                -GRID_SIZE / 2 + CELL_SIZE / 5,
+                Math.random() * GRID_SIZE - GRID_SIZE / 2
+            );
+            return alga;
+        }
+
+        function createSeaweed() {
+            const geometry = new THREE.CylinderGeometry(CELL_SIZE / 10, CELL_SIZE / 10, CELL_SIZE, 8);
+            const material = new THREE.MeshPhongMaterial({ color: 0x008000 });
+            const weed = new THREE.Mesh(geometry, material);
+            weed.position.set(
+                Math.random() * GRID_SIZE - GRID_SIZE / 2,
+                -GRID_SIZE / 2 + CELL_SIZE / 2,
+                Math.random() * GRID_SIZE - GRID_SIZE / 2
+            );
+            return weed;
+        }
+
+        function animate() {
+            requestAnimationFrame(animate);
+
+            applyPhysics();
+            moveCreatures();
+            checkCollections();
+
+            renderer.render(scene, camera);
+        }
+
+        function applyPhysics() {
+            const gravity = -0.01;
+            const buoyancy = 0.008;
+            submarine.position.y += gravity + buoyancy;
+            submarine.position.y = Math.max(Math.min(submarine.position.y, GRID_SIZE / 2), -GRID_SIZE / 2);
+        }
+
+        function moveCreatures() {
+            moveGroup(crabs, 0.05);
+            moveGroup(squids, 0.1);
+            moveGroup(fish, 0.15);
+            moveGroup(sharks, 0.2);
+            moveGroup(algae, 0.02);
+            moveGroup(seaweed, 0.01);
+        }
+
+        function moveGroup(group, speed) {
+            group.forEach(creature => {
+                creature.position.x += (Math.random() - 0.5) * speed;
+                creature.position.y += (Math.random() - 0.5) * speed;
+                creature.position.z += (Math.random() - 0.5) * speed;
+                creature.position.x = Math.max(Math.min(creature.position.x, GRID_SIZE / 2), -GRID_SIZE / 2);
+                creature.position.y = Math.max(Math.min(creature.position.y, GRID_SIZE / 2), -GRID_SIZE / 2);
+                creature.position.z = Math.max(Math.min(creature.position.z, GRID_SIZE / 2), -GRID_SIZE / 2);
+            });
+        }
+
+        function checkCollections() {
+            const collectionRange = CELL_SIZE;
+            [
+                { creatures: crabs, type: 'crab', emoji: '🦀', score: 10 },
+                { creatures: squids, type: 'squid', emoji: '🦑', score: 20 },
+                { creatures: fish, type: 'fish', emoji: '🐠', score: 15 },
+                { creatures: sharks, type: 'shark', emoji: '🦈', score: 50 },
+                { creatures: algae, type: 'algae', emoji: '🦠', score: 5 },
+                { creatures: seaweed, type: 'seaweed', emoji: '🌿', score: 8 }
+            ].forEach(({ creatures, type, emoji, score: points }) => {
+                creatures.forEach((creature, index) => {
+                    if (submarine.position.distanceTo(creature.position) < collectionRange) {
+                        collect(creature, creatures, index, type, emoji, points);
+                    }
+                });
+            });
+        }
+
+        function collect(creature, creatures, index, type, emoji, points) {
+            scene.remove(creature);
+            creatures.splice(index, 1);
+            score += points;
+            updateScore();
+            discovery(type, emoji);
+        }
+
+        function discovery(type, emoji) {
+            if (!discoveredSpecies.has(type)) {
+                discoveredSpecies.add(type);
+                updateDiscoveryGrid(emoji);
+                showDiscoveryMessage(type);
+            }
+        }
+
+        function updateScore() {
+            document.getElementById('score').textContent = score;
+        }
+
+        function updateDiscoveryGrid(emoji) {
+            const speciesGrid = document.getElementById('speciesGrid');
+            const speciesElement = document.createElement('div');
+            speciesElement.className = 'species';
+            speciesElement.textContent = emoji;
+            speciesGrid.appendChild(speciesElement);
+        }
+
+        function showDiscoveryMessage(type) {
+            const message = document.createElement('div');
+            message.textContent = `New species discovered: ${type}!`;
+            message.style.position = 'absolute';
+            message.style.top = '10px';
+            message.style.left = '50%';
+            message.style.transform = 'translateX(-50%)';
+            message.style.background = 'rgba(255, 255, 255, 0.8)';
+            message.style.padding = '10px';
+            message.style.borderRadius = '5px';
+            document.body.appendChild(message);
+            setTimeout(() => document.body.removeChild(message), 3000);
+        }
+
+        document.addEventListener('keydown', (event) => {
+            const moveDistance = 0.1;
+            switch (event.key) {
+                case 'ArrowUp':
+                    submarine.position.z -= moveDistance;
+                    break;
+                case 'ArrowDown':
+                    submarine.position.z += moveDistance;
+                    break;
+                case 'ArrowLeft':
+                    submarine.position.x -= moveDistance;
+                    break;
+                case 'ArrowRight':
+                    submarine.position.x += moveDistance;
+                    break;
+                case 'w':
+                    submarine.position.y += moveDistance;
+                    break;
+                case 's':
+                    submarine.position.y -= moveDistance;
+                    break;
+            }
+        });
+
+        window.addEventListener('resize', () => {
+            camera.aspect = (window.innerWidth - 200) / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth - 200, window.innerHeight);
+        });
+
+        init();
+    </script>
+</body>
+</html>
