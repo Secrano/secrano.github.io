@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/SayaScarlet01/status/1817102182963118084)
 
 # ---
-# ---
 
 --- Git: Day 72 - V.
 
