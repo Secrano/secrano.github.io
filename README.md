@@ -1,5 +1,14 @@
 # secrano.github.io
 
+--- Git: Day 76 - 
+
+- Ref img, source: [twt@](https://www.youtube.com/shorts/vFsaruNtk3A)
+- Ref img, source: [twt@](https://x.com/DrLoupis/status/1817469667625054244)
+- Ref img, source: [twt@](https://x.com/Amouranth/status/1817463700292342110)
+
+# ---
+# ---
+
 --- Git: Day 74 - France.
 
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=5sT20edl02I)
