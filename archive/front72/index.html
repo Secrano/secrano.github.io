@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> 🌿 Urban Forest Adventure 🏙️ </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #4a5;
+        }
+        #game-container {
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        }
+        #game-board {
+            display: grid;
+            grid-template-columns: repeat(40, 12px);
+            grid-gap: 1px;
+            background-color: #3a4;
+            padding: 5px;
+            width: fit-content;
+            border: 2px solid #2a3;
+            border-radius: 5px;
+        }
+        .cell {
+            width: 12px;
+            height: 12px;
+            background-color: #4b6;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 10px;
+        }
+        .fog {
+            background-color: #000;
+            color: transparent;
+        }
+        .discovered {
+            background-color: #6c8;
+        }
+        .vision-aura {
+            box-shadow: inset 0 0 5px rgba(255, 255, 255, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <div id="game-container">
+        <h1>🌿 Urban Forest Adventure 🏙️</h1>
+        <div id="game-board"></div>
+        <p>Score: <span id="score">0</span></p>
+        <p>Use arrow keys to move the explorer</p>
+        <p>Use W, A, S, D keys to move the fox</p>
+        <p>Press 'C' to place a city (costs 10 metal)</p>
+    </div>
+
+    <script>
+        const BOARD_SIZE = 40;
+        const EMPTY = '🌱';
+        const EXPLORER = '🥾';
+        const FOX = '🦊';
+        const TREE = '🌳';
+        const CAR = '🚗';
+        const HOUSE = '🏠';
+        const CITY = '🏙️';
+        const VISION_RADIUS = 5;
+
+        let board = [];
+        let fogOfWar = [];
+        let explorerX, explorerY, foxX, foxY;
+        let score = 0;
+        let woodCount = 0;
+        let metalCount = 0;
+        let brickCount = 0;
+
+        function initializeGame() {
+            board = Array(BOARD_SIZE).fill().map(() => Array(BOARD_SIZE).fill(EMPTY));
+            fogOfWar = Array(BOARD_SIZE).fill().map(() => Array(BOARD_SIZE).fill(true));
+            explorerX = Math.floor(Math.random() * BOARD_SIZE);
+            explorerY = Math.floor(Math.random() * BOARD_SIZE);
+            board[explorerY][explorerX] = EXPLORER;
+
+            do {
+                foxX = Math.floor(Math.random() * BOARD_SIZE);
+                foxY = Math.floor(Math.random() * BOARD_SIZE);
+            } while (foxX === explorerX && foxY === explorerY);
+            board[foxY][foxX] = FOX;
+
+            placeRandomTrees();
+            placeRandomCars();
+            placeRandomHouses();
+            updateVision();
+            updateGame();
+            updateScore();
+        }
+
+        function placeRandomTrees() {
+            placeRandomElements(TREE, 80);
+        }
+
+        function placeRandomCars() {
+            placeRandomElements(CAR, 30);
+        }
+
+        function placeRandomHouses() {
+            placeRandomElements(HOUSE, 20);
+        }
+
+        function placeRandomElements(element, count) {
+            for (let i = 0; i < count; i++) {
+                let x, y;
+                do {
+                    x = Math.floor(Math.random() * BOARD_SIZE);
+                    y = Math.floor(Math.random() * BOARD_SIZE);
+                } while (board[y][x] !== EMPTY);
+                board[y][x] = element;
+            }
+        }
+
+        function updateVision() {
+            for (let y = 0; y < BOARD_SIZE; y++) {
+                for (let x = 0; x < BOARD_SIZE; x++) {
+                    if (isInCircularVision(x, y, explorerX, explorerY) || isInCircularVision(x, y, foxX, foxY)) {
+                        fogOfWar[y][x] = false;
+                    }
+                }
+            }
+        }
+
+        function isInCircularVision(x, y, centerX, centerY) {
+            const dx = x - centerX;
+            const dy = y - centerY;
+            return dx * dx + dy * dy <= VISION_RADIUS * VISION_RADIUS;
+        }
+
+        function updateGame() {
+            const gameBoard = document.getElementById('game-board');
+            gameBoard.innerHTML = '';
+            for (let y = 0; y < BOARD_SIZE; y++) {
+                for (let x = 0; x < BOARD_SIZE; x++) {
+                    const cell = document.createElement('div');
+                    cell.className = 'cell';
+                    if (fogOfWar[y][x]) {
+                        cell.classList.add('fog');
+                        cell.textContent = EMPTY;
+                    } else {
+                        cell.textContent = board[y][x];
+                        cell.classList.add('discovered');
+                        if (isInCircularVision(x, y, explorerX, explorerY) || isInCircularVision(x, y, foxX, foxY)) {
+                            cell.classList.add('vision-aura');
+                        }
+                    }
+                    gameBoard.appendChild(cell);
+                }
+            }
+        }
+
+        function updateScore() {
+            document.getElementById('score').textContent = `Caught: ${score} | Wood: ${woodCount} | Metal: ${metalCount} | Bricks: ${brickCount}`;
+        }
+
+        function destroy(x, y) {
+            switch (board[y][x]) {
+                case TREE:
+                    board[y][x] = EMPTY;
+                    woodCount++;
+                    break;
+                case CAR:
+                    board[y][x] = EMPTY;
+                    metalCount++;
+                    break;
+                case HOUSE:
+                    board[y][x] = EMPTY;
+                    brickCount++;
+                    break;
+                case CITY:
+                    board[y][x] = EMPTY;
+                    metalCount += 10;
+                    break;
+            }
+            updateScore();
+        }
+
+        function moveExplorer(dx, dy) {
+            const newX = explorerX + dx;
+            const newY = explorerY + dy;
+
+            if (isValidMove(newX, newY)) {
+                if (board[newY][newX] !== EMPTY && board[newY][newX] !== FOX) {
+                    destroy(newX, newY);
+                }
+                board[explorerY][explorerX] = EMPTY;
+                explorerX = newX;
+                explorerY = newY;
+                board[explorerY][explorerX] = EXPLORER;
+                updateVision();
+                updateGame();
+                checkCollision();
+            }
+        }
+
+        function moveFox(dx, dy) {
+            const newX = foxX + dx;
+            const newY = foxY + dy;
+
+            if (isValidMove(newX, newY)) {
+                if (board[newY][newX] !== EMPTY && board[newY][newX] !== EXPLORER) {
+                    destroy(newX, newY);
+                }
+                board[foxY][foxX] = EMPTY;
+                foxX = newX;
+                foxY = newY;
+                board[foxY][foxX] = FOX;
+                updateVision();
+                updateGame();
+                checkCollision();
+            }
+        }
+
+        function isValidMove(x, y) {
+            return x >= 0 && x < BOARD_SIZE && y >= 0 && y < BOARD_SIZE;
+        }
+
+        function checkCollision() {
+            if (explorerX === foxX && explorerY === foxY) {
+                score++;
+                updateScore();
+                resetFoxPosition();
+            }
+        }
+
+        function resetFoxPosition() {
+            do {
+                foxX = Math.floor(Math.random() * BOARD_SIZE);
+                foxY = Math.floor(Math.random() * BOARD_SIZE);
+            } while (foxX === explorerX && foxY === explorerY || board[foxY][foxX] !== EMPTY);
+            board[foxY][foxX] = FOX;
+            updateVision();
+            updateGame();
+        }
+
+        function placeCity() {
+            if (metalCount >= 10) {
+                const startX = Math.max(0, explorerX - 1);
+                const startY = Math.max(0, explorerY - 1);
+                const endX = Math.min(BOARD_SIZE - 1, startX + 1);
+                const endY = Math.min(BOARD_SIZE - 1, startY + 1);
+
+                let canPlace = true;
+                for (let y = startY; y <= endY; y++) {
+                    for (let x = startX; x <= endX; x++) {
+                        if (board[y][x] !== EMPTY && board[y][x] !== EXPLORER) {
+                            canPlace = false;
+                            break;
+                        }
+                    }
+                    if (!canPlace) break;
+                }
+
+                if (canPlace) {
+                    for (let y = startY; y <= endY; y++) {
+                        for (let x = startX; x <= endX; x++) {
+                            if (board[y][x] !== EXPLORER) {
+                                board[y][x] = CITY;
+                            }
+                        }
+                    }
+                    metalCount -= 10;
+                    updateScore();
+                    updateGame();
+                    alert("City placed successfully!");
+                } else {
+                    alert("Cannot place city here. Make sure the area is clear.");
+                }
+            } else {
+                alert("Not enough metal to place a city. You need 10 metal.");
+            }
+        }
+
+        document.addEventListener('keydown', (event) => {
+            switch (event.key) {
+                case 'ArrowUp': moveExplorer(0, -1); break;
+                case 'ArrowDown': moveExplorer(0, 1); break;
+                case 'ArrowLeft': moveExplorer(-1, 0); break;
+                case 'ArrowRight': moveExplorer(1, 0); break;
+                case 'w': case 'W': moveFox(0, -1); break;
+                case 's': case 'S': moveFox(0, 1); break;
+                case 'a': case 'A': moveFox(-1, 0); break;
+                case 'd': case 'D': moveFox(1, 0); break;
+                case 'c': case 'C': placeCity(); break;
+            }
+        });
+
+        initializeGame();
+    </script>
+</body>
+</html>
