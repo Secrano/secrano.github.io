@@ -28,6 +28,7 @@
 - 1P Urban adventure w/added fog of war features (inf exploration).
 - Skill Tree (I've heard he likes tech trees).
 - Collection of fractal sets (trying mobile format)
+- Wave function demo.
   
 # ---
 - Hello world.
