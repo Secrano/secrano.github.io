@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Mandelbrot Set and Julia Set </title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <style>
+        body {
+            background-color: #121212;
+            color: #e0e0e0;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 0 10px;
+        }
+        h1, h2, p {
+            margin: 10px 0;
+        }
+        h1 {
+            margin-top: 20px;
+        }
+        canvas {
+            display: block;
+            margin: 20px auto;
+            background-color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <h1>Fractal set series</h1>
+    <h2>Mandelbrot Set</h2>
+    <p>The Mandelbrot set is <br/>
+	defined by the iterative equation:</p>
+    <p>
+        \[
+        z_{n+1} = z_n^2 + c
+        \]
+    </p>
+
+    <canvas id="mandelbrotCanvas" width="400" height="400"></canvas>
+
+
+    <h2>Julia Set</h2>
+    <p>The Julia set is another beautiful fractal <br/>
+	defined by a similar iterative process:</p>
+    <p>
+        \[
+        z_{n+1} = z_n^2 + k
+        \]
+    </p>
+    <canvas id="juliaCanvas" width="400" height="400"></canvas>
+
+    <script>
+        // 2D Mandelbrot Set Visualization
+        function drawMandelbrot(canvas, maxIterations) {
+            const ctx = canvas.getContext('2d');
+            const width = canvas.width;
+            const height = canvas.height;
+            const imageData = ctx.createImageData(width, height);
+            const data = imageData.data;
+
+            const xMin = -2.5;
+            const xMax = 1.5;
+            const yMin = -2.0;
+            const yMax = 2.0;
+
+            for (let px = 0; px < width; px++) {
+                for (let py = 0; py < height; py++) {
+                    const x0 = xMin + (px / width) * (xMax - xMin);
+                    const y0 = yMin + (py / height) * (yMax - yMin);
+                    let x = 0.0;
+                    let y = 0.0;
+                    let iteration = 0;
+
+                    while (x * x + y * y <= 4 && iteration < maxIterations) {
+                        const xTemp = x * x - y * y + x0;
+                        y = 2 * x * y + y0;
+                        x = xTemp;
+                        iteration++;
+                    }
+
+                    const color = iteration === maxIterations ? 0 : Math.floor(255 * iteration / maxIterations);
+                    const pixelIndex = 4 * (py * width + px);
+                    data[pixelIndex] = color; // Red
+                    data[pixelIndex + 1] = color; // Green
+                    data[pixelIndex + 2] = color; // Blue
+                    data[pixelIndex + 3] = 255; // Alpha
+                }
+            }
+
+            ctx.putImageData(imageData, 0, 0);
+        }
+
+        // Julia Set Visualization
+        function drawJulia(canvas, c, maxIterations) {
+            const ctx = canvas.getContext('2d');
+            const width = canvas.width;
+            const height = canvas.height;
+            const imageData = ctx.createImageData(width, height);
+            const data = imageData.data;
+
+            const xMin = -2.0;
+            const xMax = 2.0;
+            const yMin = -2.0;
+            const yMax = 2.0;
+
+            for (let px = 0; px < width; px++) {
+                for (let py = 0; py < height; py++) {
+                    const x0 = xMin + (px / width) * (xMax - xMin);
+                    const y0 = yMin + (py / height) * (yMax - yMin);
+                    let x = x0;
+                    let y = y0;
+                    let iteration = 0;
+
+                    while (x * x + y * y <= 4 && iteration < maxIterations) {
+                        const xTemp = x * x - y * y + c.real;
+                        y = 2 * x * y + c.imag;
+                        x = xTemp;
+                        iteration++;
+                    }
+
+                    const color = iteration === maxIterations ? 0 : Math.floor(255 * iteration / maxIterations);
+                    const pixelIndex = 4 * (py * width + px);
+                    data[pixelIndex] = color; // Red
+                    data[pixelIndex + 1] = color; // Green
+                    data[pixelIndex + 2] = color; // Blue
+                    data[pixelIndex + 3] = 255; // Alpha
+                }
+            }
+
+            ctx.putImageData(imageData, 0, 0);
+        }
+
+        window.onload = function() {
+            const mandelbrotCanvas = document.getElementById('mandelbrotCanvas');
+            const maxIterations = 1000;
+            drawMandelbrot(mandelbrotCanvas, maxIterations);
+
+            const juliaCanvas = document.getElementById('juliaCanvas');
+            const c = { real: -0.4, imag: 0.6 };
+            drawJulia(juliaCanvas, c, maxIterations);
+        };
+    </script>
+</body>
+</html>
