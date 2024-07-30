@@ -3,276 +3,146 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Mystic Eden Skill Tree 3.0 </title>
+    <title> Mandelbrot Set and Julia Set </title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <style>
         body {
-            background-color: #000000;
-            color: #00ffff;
-            font-family: 'Arial', sans-serif;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            overflow: hidden;
+            background-color: #121212;
+            color: #e0e0e0;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 0 10px;
         }
-        #skillTree {
-            border: 1px solid #00ffff;
+        h1, h2, p {
+            margin: 10px 0;
         }
-        #skillInfo {
-            position: absolute;
-            top: 10px;
-            left: 10px;
-            background-color: rgba(0, 0, 0, 0.7);
-            padding: 10px;
-            border-radius: 5px;
+        h1 {
+            margin-top: 20px;
+        }
+        canvas {
+            display: block;
+            margin: 20px auto;
+            background-color: #ffffff;
         }
     </style>
 </head>
 <body>
-    <canvas id="skillTree"></canvas>
-    <div id="skillInfo">
-        <h2>Mystic Eden Skill Tree 3.0</h2>
-        <p>Player lvl: <span id="playerLevel">0</span></p>
-        <p>Available Points: <span id="availablePoints">100</span></p>
-        <p>Selected Skill: <span id="selectedSkill">None</span></p>
-        <p>Skill Level: <span id="skillLevel">0</span></p>
-        <button id="addPoint">Add Point</button>
-    </div>
+    <h1>Fractal set series</h1>
+    <h2>Mandelbrot Set</h2>
+    <p>The Mandelbrot set is <br/>
+	defined by the iterative equation:</p>
+    <p>
+        \[
+        z_{n+1} = z_n^2 + c
+        \]
+    </p>
+
+    <canvas id="mandelbrotCanvas" width="400" height="400"></canvas>
+
+
+    <h2>Julia Set</h2>
+    <p>The Julia set is another beautiful fractal <br/>
+	defined by a similar iterative process:</p>
+    <p>
+        \[
+        z_{n+1} = z_n^2 + k
+        \]
+    </p>
+    <canvas id="juliaCanvas" width="400" height="400"></canvas>
 
     <script>
-        const canvas = document.getElementById('skillTree');
-        const ctx = canvas.getContext('2d');
-        const skillInfo = document.getElementById('skillInfo');
-        const playerLevelEl = document.getElementById('playerLevel');
-        const availablePointsEl = document.getElementById('availablePoints');
-        const selectedSkillEl = document.getElementById('selectedSkill');
-        const skillLevelEl = document.getElementById('skillLevel');
-        const addPointButton = document.getElementById('addPoint');
+        // 2D Mandelbrot Set Visualization
+        function drawMandelbrot(canvas, maxIterations) {
+            const ctx = canvas.getContext('2d');
+            const width = canvas.width;
+            const height = canvas.height;
+            const imageData = ctx.createImageData(width, height);
+            const data = imageData.data;
 
-        canvas.width = window.innerWidth;
-        canvas.height = window.innerHeight;
+            const xMin = -2.5;
+            const xMax = 1.5;
+            const yMin = -2.0;
+            const yMax = 2.0;
 
-        const centerX = canvas.width / 2;
-        const centerY = canvas.height / 2;
-        const innerRadius = Math.min(canvas.width, canvas.height) * 0.25;
-        const middleRadius = Math.min(canvas.width, canvas.height) * 0.35;
-        const outerRadius = Math.min(canvas.width, canvas.height) * 0.45;
+            for (let px = 0; px < width; px++) {
+                for (let py = 0; py < height; py++) {
+                    const x0 = xMin + (px / width) * (xMax - xMin);
+                    const y0 = yMin + (py / height) * (yMax - yMin);
+                    let x = 0.0;
+                    let y = 0.0;
+                    let iteration = 0;
 
-        const baseSkills = [
-            { name: 'Fire', category: 'Attack', color: '#ff4500' },
-            { name: 'Lightning', category: 'Attack', color: '#ffff00' },
-            { name: 'Ice', category: 'Attack', color: '#00ffff' },
-            { name: 'Shield', category: 'Support', color: '#4169e1' },
-            { name: 'Cleanse', category: 'Support', color: '#7fffd4' },
-            { name: 'Healing', category: 'Support', color: '#90ee90' },
-            { name: 'HP', category: 'Stats', color: '#ff69b4' },
-            { name: 'STR', category: 'Stats', color: '#ff6347' },
-            { name: 'INT', category: 'Stats', color: '#9370db' },
-            { name: 'MP', category: 'Stats', color: '#1e90ff' },
-            { name: 'SPD', category: 'Stats', color: '#32cd32' },
-            { name: 'CRT', category: 'Stats', color: '#ffa500' }
-        ];
+                    while (x * x + y * y <= 4 && iteration < maxIterations) {
+                        const xTemp = x * x - y * y + x0;
+                        y = 2 * x * y + y0;
+                        x = xTemp;
+                        iteration++;
+                    }
 
-        const skills = [
-            ...baseSkills.map(skill => ({...skill, x: 0, y: 0, level: 0, maxLevel: 5, tier: 1})),
-            ...baseSkills.map(skill => ({...skill, name: `${skill.name} 2.0`, x: 0, y: 0, level: 0, maxLevel: 5, tier: 2})),
-            ...baseSkills.map(skill => ({...skill, name: `${skill.name} 3.0`, x: 0, y: 0, level: 0, maxLevel: 5, tier: 3}))
-        ];
-
-        let availablePoints = 100;
-        let playerLevel = 0;
-        let selectedSkill = null;
-
-        function positionSkills() {
-            const angleStep = (Math.PI * 2) / baseSkills.length;
-            skills.forEach((skill, index) => {
-                const baseIndex = index % baseSkills.length;
-                const angle = angleStep * baseIndex;
-                let radius;
-                if (skill.tier === 1) radius = innerRadius;
-                else if (skill.tier === 2) radius = middleRadius;
-                else radius = outerRadius;
-                skill.x = centerX + Math.cos(angle) * radius;
-                skill.y = centerY + Math.sin(angle) * radius;
-            });
-        }
-
-        function drawEdenTree(startX, startY, angle, depth) {
-            if (depth === 0) return;
-
-            const length = innerRadius * 0.15 * depth;
-            const endX = startX + Math.cos(angle) * length;
-            const endY = startY + Math.sin(angle) * length;
-
-            ctx.beginPath();
-            ctx.moveTo(startX, startY);
-            ctx.lineTo(endX, endY);
-            ctx.strokeStyle = `hsl(${depth * 30}, 100%, 50%)`;
-            ctx.lineWidth = depth;
-            ctx.stroke();
-
-            drawEdenTree(endX, endY, angle - 0.5, depth - 1);
-            drawEdenTree(endX, endY, angle + 0.5, depth - 1);
-        }
-
-        function drawBloodbornePattern(x, y, size) {
-            const gradient = ctx.createRadialGradient(x, y, 0, x, y, size);
-            gradient.addColorStop(0, 'rgba(139, 0, 0, 0.1)');
-            gradient.addColorStop(1, 'rgba(75, 0, 0, 0.1)');
-
-            ctx.beginPath();
-            ctx.arc(x, y, size, 0, Math.PI * 2);
-            ctx.fillStyle = gradient;
-            ctx.fill();
-
-            ctx.strokeStyle = 'rgba(255, 0, 0, 0.2)';
-            ctx.lineWidth = 2;
-            for (let i = 0; i < 3; i++) {
-                const angle = (i / 3) * Math.PI * 2;
-                const sx = x + Math.cos(angle) * size * 0.5;
-                const sy = y + Math.sin(angle) * size * 0.5;
-
-                ctx.beginPath();
-                ctx.moveTo(sx - size * 0.1, sy - size * 0.1);
-                ctx.lineTo(sx + size * 0.1, sy + size * 0.1);
-                ctx.moveTo(sx + size * 0.1, sy - size * 0.1);
-                ctx.lineTo(sx - size * 0.1, sy + size * 0.1);
-                ctx.stroke();
-            }
-        }
-
-        function drawSkillTree() {
-            ctx.clearRect(0, 0, canvas.width, canvas.height);
-
-            // Draw Bloodborne-inspired pattern
-            for (let i = 0; i < 50; i++) {
-                const x = Math.random() * canvas.width;
-                const y = Math.random() * canvas.height;
-                const size = Math.random() * 100 + 50;
-                drawBloodbornePattern(x, y, size);
-            }
-
-            // Draw Eden tree
-            for (let i = 0; i < 12; i++) {
-                const angle = (i / 12) * Math.PI * 2;
-                drawEdenTree(centerX, centerY, angle, 7);
-            }
-
-            // Draw connections
-            ctx.beginPath();
-            ctx.moveTo(centerX, centerY);
-            skills.forEach(skill => {
-                ctx.lineTo(skill.x, skill.y);
-            });
-            ctx.strokeStyle = '#00ffff';
-            ctx.lineWidth = 1;
-            ctx.stroke();
-
-            // Draw skills
-            skills.forEach(skill => {
-                const skillSize = 20 + skill.tier * 5;
-                ctx.beginPath();
-                ctx.arc(skill.x, skill.y, skillSize, 0, Math.PI * 2);
-                ctx.fillStyle = skill === selectedSkill ? darkenColor(skill.color, 30) : '#1a1a1a';
-                ctx.fill();
-                ctx.strokeStyle = skill.color;
-                ctx.lineWidth = 2;
-                ctx.stroke();
-
-                ctx.fillStyle = skill.color;
-                ctx.font = `${8 + skill.tier * 2}px Arial`;
-                ctx.textAlign = 'center';
-                ctx.fillText(skill.name, skill.x, skill.y);
-                ctx.fillText(`${skill.level}/${skill.maxLevel}`, skill.x, skill.y + skillSize * 0.5);
-            });
-
-            // Draw player level in center
-            ctx.beginPath();
-            ctx.arc(centerX, centerY, 40, 0, Math.PI * 2);
-            ctx.fillStyle = '#1a1a1a';
-            ctx.fill();
-            ctx.strokeStyle = '#00ffff';
-            ctx.lineWidth = 2;
-            ctx.stroke();
-
-            ctx.fillStyle = '#00ffff';
-            ctx.font = '20px Arial';
-            ctx.textAlign = 'center';
-            ctx.fillText(`level`, centerX, centerY - 10);
-            ctx.fillText(`${playerLevel}`, centerX, centerY + 15);
-        }
-
-        function darkenColor(color, percent) {
-            const num = parseInt(color.replace("#", ""), 16);
-            const amt = Math.round(2.55 * percent);
-            const R = (num >> 16) - amt;
-            const G = (num >> 8 & 0x00FF) - amt;
-            const B = (num & 0x0000FF) - amt;
-            return "#" + (0x1000000 + (R < 255 ? (R < 1 ? 0 : R) : 255) * 0x10000 +
-                (G < 255 ? (G < 1 ? 0 : G) : 255) * 0x100 +
-                (B < 255 ? (B < 1 ? 0 : B) : 255)).toString(16).slice(1);
-        }
-
-        function handleClick(event) {
-            const rect = canvas.getBoundingClientRect();
-            const x = event.clientX - rect.left;
-            const y = event.clientY - rect.top;
-
-            selectedSkill = skills.find(skill => {
-                const skillSize = 20 + skill.tier * 5;
-                return Math.sqrt((x - skill.x) ** 2 + (y - skill.y) ** 2) < skillSize;
-            });
-
-            if (selectedSkill) {
-                selectedSkillEl.textContent = selectedSkill.name;
-                skillLevelEl.textContent = selectedSkill.level;
-            } else {
-                selectedSkillEl.textContent = 'None';
-                skillLevelEl.textContent = '0';
-            }
-
-            drawSkillTree();
-        }
-
-        function addPoint() {
-            if (selectedSkill && availablePoints > 0 && selectedSkill.level < selectedSkill.maxLevel) {
-                const baseSkillName = selectedSkill.name.split(' ')[0];
-                const prevTier = selectedSkill.tier - 1;
-                const prevSkill = skills.find(s => s.name === `${baseSkillName}${prevTier > 1 ? ` ${prevTier}.0` : ''}`);
-
-                if (prevTier === 0 || (prevSkill && prevSkill.level > 0)) {
-                    selectedSkill.level++;
-                    availablePoints--;
-                    playerLevel++;
-                    availablePointsEl.textContent = availablePoints;
-                    playerLevelEl.textContent = playerLevel;
-                    skillLevelEl.textContent = selectedSkill.level;
-                    drawSkillTree();
-                } else {
-                    alert("You need to upgrade the previous tier of this skill first!");
+                    const color = iteration === maxIterations ? 0 : Math.floor(255 * iteration / maxIterations);
+                    const pixelIndex = 4 * (py * width + px);
+                    data[pixelIndex] = color; // Red
+                    data[pixelIndex + 1] = color; // Green
+                    data[pixelIndex + 2] = color; // Blue
+                    data[pixelIndex + 3] = 255; // Alpha
                 }
             }
+
+            ctx.putImageData(imageData, 0, 0);
         }
 
-        positionSkills();
-        drawSkillTree();
+        // Julia Set Visualization
+        function drawJulia(canvas, c, maxIterations) {
+            const ctx = canvas.getContext('2d');
+            const width = canvas.width;
+            const height = canvas.height;
+            const imageData = ctx.createImageData(width, height);
+            const data = imageData.data;
 
-        canvas.addEventListener('click', handleClick);
-        addPointButton.addEventListener('click', addPoint);
+            const xMin = -2.0;
+            const xMax = 2.0;
+            const yMin = -2.0;
+            const yMax = 2.0;
 
-        window.addEventListener('resize', () => {
-            canvas.width = window.innerWidth;
-            canvas.height = window.innerHeight;
-            centerX = canvas.width / 2;
-            centerY = canvas.height / 2;
-            innerRadius = Math.min(canvas.width, canvas.height) * 0.25;
-            middleRadius = Math.min(canvas.width, canvas.height) * 0.35;
-            outerRadius = Math.min(canvas.width, canvas.height) * 0.45;
-            positionSkills();
-            drawSkillTree();
-        });
+            for (let px = 0; px < width; px++) {
+                for (let py = 0; py < height; py++) {
+                    const x0 = xMin + (px / width) * (xMax - xMin);
+                    const y0 = yMin + (py / height) * (yMax - yMin);
+                    let x = x0;
+                    let y = y0;
+                    let iteration = 0;
+
+                    while (x * x + y * y <= 4 && iteration < maxIterations) {
+                        const xTemp = x * x - y * y + c.real;
+                        y = 2 * x * y + c.imag;
+                        x = xTemp;
+                        iteration++;
+                    }
+
+                    const color = iteration === maxIterations ? 0 : Math.floor(255 * iteration / maxIterations);
+                    const pixelIndex = 4 * (py * width + px);
+                    data[pixelIndex] = color; // Red
+                    data[pixelIndex + 1] = color; // Green
+                    data[pixelIndex + 2] = color; // Blue
+                    data[pixelIndex + 3] = 255; // Alpha
+                }
+            }
+
+            ctx.putImageData(imageData, 0, 0);
+        }
+
+        window.onload = function() {
+            const mandelbrotCanvas = document.getElementById('mandelbrotCanvas');
+            const maxIterations = 1000;
+            drawMandelbrot(mandelbrotCanvas, maxIterations);
+
+            const juliaCanvas = document.getElementById('juliaCanvas');
+            const c = { real: -0.4, imag: 0.6 };
+            drawJulia(juliaCanvas, c, maxIterations);
+        };
     </script>
 </body>
 </html>
+
