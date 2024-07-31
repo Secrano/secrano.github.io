@@ -29,6 +29,7 @@
 - Skill Tree (I've heard he likes tech trees).
 - Collection of fractal sets (trying mobile format)
 - Wave function demo.
+- Ice Shard Attack (VFX attempt, Prince of Persia DOS inspired)
   
 # ---
 - Hello world.
