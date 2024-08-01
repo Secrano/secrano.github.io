@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> 3D Ice Shard Attack - Ultra Dense </title>
+    <style>
+        body { margin: 0; overflow: hidden; }
+        canvas { display: block; }
+    </style>
+</head>
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
+    <script>
+        let scene, camera, renderer, floor;
+        let iceShardsGroup = new THREE.Group();
+
+        function init() {
+            scene = new THREE.Scene();
+            camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+            camera.position.set(0, 30, 30);
+            camera.lookAt(0, 0, 0);
+
+            renderer = new THREE.WebGLRenderer({ antialias: true });
+            renderer.setSize(window.innerWidth, window.innerHeight);
+            document.body.appendChild(renderer.domElement);
+
+            scene.background = new THREE.Color(0x0a0a2a);
+
+            const floorGeometry = new THREE.PlaneGeometry(60, 60);
+            const floorMaterial = new THREE.MeshPhongMaterial({
+                color: 0x3a3a5a,
+                shininess: 100,
+                metalness: 0.8,
+                roughness: 0.2
+            });
+            floor = new THREE.Mesh(floorGeometry, floorMaterial);
+            floor.rotation.x = -Math.PI / 2;
+            scene.add(floor);
+
+            const ambientLight = new THREE.AmbientLight(0x404040);
+            scene.add(ambientLight);
+
+            const directionalLight = new THREE.DirectionalLight(0xffffff, 0.5);
+            directionalLight.position.set(5, 5, 5);
+            scene.add(directionalLight);
+
+            scene.add(iceShardsGroup);
+
+            window.addEventListener('click', triggerIceShardAttack);
+            animate();
+        }
+
+        function createIceShard(angle, radius, spiralOffset, height, color) {
+            const radiusTop = 0.05 + Math.random() * 0.05;
+            const radiusBottom = 0.3 + Math.random() * 0.2;
+            const geometry = new THREE.CylinderGeometry(radiusTop, radiusBottom, height, 6);
+            const material = new THREE.MeshPhongMaterial({
+                color: color,
+                shininess: 100,
+                transparent: true,
+                opacity: 0.8
+            });
+            const iceShard = new THREE.Mesh(geometry, material);
+
+            const spiralAngle = angle + spiralOffset;
+            const x = Math.cos(spiralAngle) * radius;
+            const z = Math.sin(spiralAngle) * radius;
+            iceShard.position.set(x, 0, z);
+            iceShard.rotation.y = Math.random() * Math.PI * 2;
+            iceShard.scale.y = 0;
+
+            return iceShard;
+        }
+
+        function addGlossEffect(iceShard) {
+            const glossGeometry = new THREE.SphereGeometry(0.1, 32, 32);
+            const glossMaterial = new THREE.MeshPhongMaterial({
+                color: 0xffffff,
+                shininess: 100,
+                transparent: true,
+                opacity: 0,
+            });
+            const glossSphere = new THREE.Mesh(glossGeometry, glossMaterial);
+            glossSphere.position.y = iceShard.geometry.parameters.height / 2;
+            iceShard.add(glossSphere);
+
+            gsap.to(glossMaterial, {
+                opacity: 0.8,
+                duration: 0.2,
+                yoyo: true,
+                repeat: 1,
+                ease: "power2.inOut"
+            });
+        }
+
+        function addFractalSpikes(iceShard) {
+            const numSpikes = 5 + Math.floor(Math.random() * 5);
+            const baseHeight = iceShard.geometry.parameters.height;
+
+            for (let i = 0; i < numSpikes; i++) {
+                const spikeHeight = baseHeight * (0.3 + Math.random() * 0.3);
+                const spikeGeometry = new THREE.ConeGeometry(0.05, spikeHeight, 4);
+                const spikeMaterial = new THREE.MeshPhongMaterial({
+                    color: iceShard.material.color,
+                    shininess: 100,
+                    transparent: true,
+                    opacity: 0.6
+                });
+                const spike = new THREE.Mesh(spikeGeometry, spikeMaterial);
+
+                const angle = Math.random() * Math.PI * 2;
+                const radius = 0.1 + Math.random() * 0.2;
+                spike.position.set(
+                    Math.cos(angle) * radius,
+                    (Math.random() - 0.5) * baseHeight * 0.8,
+                    Math.sin(angle) * radius
+                );
+                spike.rotation.z = (Math.random() - 0.5) * Math.PI * 0.5;
+                spike.rotation.x = (Math.random() - 0.5) * Math.PI * 0.5;
+
+                iceShard.add(spike);
+            }
+        }
+
+        function triggerIceShardAttack() {
+            const rings = [
+                { numShards: 120, radius: 14 },
+                { numShards: 90, radius: 10 },
+                { numShards: 60, radius: 6 }
+            ];
+
+            const colors = [
+                new THREE.Color(0xa0e5ff), // Light blue
+                new THREE.Color(0x4d94ff), // Medium blue
+                new THREE.Color(0x0047ab)  // Dark blue
+            ];
+
+            rings.forEach((ring, ringIndex) => {
+                for (let layer = 0; layer < 3; layer++) {
+                    const layerRadius = ring.radius + (layer - 1) * 0.5;
+                    for (let i = 0; i < ring.numShards; i++) {
+                        const angle = (i / ring.numShards) * Math.PI * 2;
+                        const spiralOffset = (i / ring.numShards) * Math.PI * 0.5;
+                        const height = 4 + Math.random() * 6; // Doubled height
+                        const color = colors[layer].clone().lerp(colors[(layer + 1) % 3], Math.random());
+                        const iceShard = createIceShard(angle, layerRadius, spiralOffset, height, color);
+                        iceShardsGroup.add(iceShard);
+
+                        gsap.to(iceShard.scale, {
+                            y: 1,
+                            duration: 0.5 + Math.random() * 0.5,
+                            ease: "power2.out",
+                            onComplete: () => {
+                                addGlossEffect(iceShard);
+                                addFractalSpikes(iceShard);
+                                gsap.to(iceShard.scale, {
+                                    y: 0,
+                                    delay: 2,
+                                    duration: 0.3,
+                                    ease: "power2.in",
+                                    onComplete: () => {
+                                        iceShardsGroup.remove(iceShard);
+                                    }
+                                });
+                            }
+                        });
+                    }
+                }
+            });
+        }
+
+        function animate() {
+            requestAnimationFrame(animate);
+            renderer.render(scene, camera);
+        }
+
+        init();
+    </script>
+</body>
+</html>
