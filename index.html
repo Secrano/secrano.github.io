@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> 3D Ice Shard Attack - Ultra Dense </title>
+    <title> 3D Ice Shard Attack - Wind Swept </title>
     <style>
         body { margin: 0; overflow: hidden; }
         canvas { display: block; }
@@ -15,6 +15,7 @@
     <script>
         let scene, camera, renderer, floor;
         let iceShardsGroup = new THREE.Group();
+        let windCylinder;
 
         function init() {
             scene = new THREE.Scene();
@@ -47,6 +48,13 @@
             scene.add(directionalLight);
 
             scene.add(iceShardsGroup);
+
+            // Create invisible wind cylinder
+            const cylinderGeometry = new THREE.CylinderGeometry(20, 20, 20, 32);
+            const cylinderMaterial = new THREE.MeshBasicMaterial({ visible: false });
+            windCylinder = new THREE.Mesh(cylinderGeometry, cylinderMaterial);
+            windCylinder.position.set(-30, 10, 0);
+            scene.add(windCylinder);
 
             window.addEventListener('click', triggerIceShardAttack);
             animate();
@@ -124,6 +132,45 @@
             }
         }
 
+        function applyWindEffect(iceShard) {
+            const windForce = new THREE.Vector3(1, 0.2, 0);
+            const distance = iceShard.position.distanceTo(windCylinder.position);
+            const maxDistance = 30;
+            const forceMagnitude = Math.max(0, 1 - distance / maxDistance);
+
+            const targetPosition = iceShard.position.clone().add(windForce.multiplyScalar(10 * forceMagnitude));
+            const targetRotation = new THREE.Euler(
+                iceShard.rotation.x + Math.PI * forceMagnitude,
+                iceShard.rotation.y,
+                iceShard.rotation.z + Math.PI * 0.5 * forceMagnitude
+            );
+
+            gsap.to(iceShard.position, {
+                x: targetPosition.x,
+                y: targetPosition.y,
+                z: targetPosition.z,
+                duration: 1,
+                ease: "power2.in"
+            });
+
+            gsap.to(iceShard.rotation, {
+                x: targetRotation.x,
+                y: targetRotation.y,
+                z: targetRotation.z,
+                duration: 1,
+                ease: "power2.in"
+            });
+
+            gsap.to(iceShard.material, {
+                opacity: 0,
+                duration: 1,
+                ease: "power2.in",
+                onComplete: () => {
+                    iceShardsGroup.remove(iceShard);
+                }
+            });
+        }
+
         function triggerIceShardAttack() {
             const rings = [
                 { numShards: 120, radius: 14 },
@@ -143,7 +190,7 @@
                     for (let i = 0; i < ring.numShards; i++) {
                         const angle = (i / ring.numShards) * Math.PI * 2;
                         const spiralOffset = (i / ring.numShards) * Math.PI * 0.5;
-                        const height = 4 + Math.random() * 6; // Doubled height
+                        const height = 4 + Math.random() * 6;
                         const color = colors[layer].clone().lerp(colors[(layer + 1) % 3], Math.random());
                         const iceShard = createIceShard(angle, layerRadius, spiralOffset, height, color);
                         iceShardsGroup.add(iceShard);
@@ -155,18 +202,20 @@
                             onComplete: () => {
                                 addGlossEffect(iceShard);
                                 addFractalSpikes(iceShard);
-                                gsap.to(iceShard.scale, {
-                                    y: 0,
-                                    delay: 2,
-                                    duration: 0.3,
-                                    ease: "power2.in",
-                                    onComplete: () => {
-                                        iceShardsGroup.remove(iceShard);
-                                    }
-                                });
+                                gsap.delayedCall(1.5, () => applyWindEffect(iceShard));
                             }
                         });
                     }
+                }
+            });
+
+            // Animate wind cylinder
+            gsap.to(windCylinder.position, {
+                x: 30,
+                duration: 2,
+                ease: "power1.in",
+                onComplete: () => {
+                    windCylinder.position.x = -30;
                 }
             });
         }
