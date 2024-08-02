@@ -1,5 +1,11 @@
 # secrano.github.io
 
+--- Git: Day 88 -
+
+- Ref img, source: [twt@](https://x.com/AI_CyberDreams/status/1819261851152073182)
+
+# ---
+
 --- Git: Day 86 - Break.
 
 - Ref img, source: [twt@](https://x.com/PunchingCat/status/1818913609592062046)
