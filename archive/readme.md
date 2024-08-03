@@ -30,7 +30,8 @@
 - Collection of fractal sets (trying mobile format)
 - Wave function demo.
 - Ice Shard Attack (VFX attempt, Prince of Persia DOS inspired), added fading.
-  
+- Spatial Geometric art of photon/electron 3d duality (w/ physical touch)
+    
 # ---
 - Hello world.
 # ---
