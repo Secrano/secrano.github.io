@@ -1,69 +1,39 @@
 # secrano.github.io
 
---- Git: Day 90 -
+--- Git: Day 92 - Stroke.
 
-- Ref img, source: [twt@](https://x.com/himechidraw/status/1819321813564117223)
-- Ref img, source: [twt@](https://x.com/Callimiya/status/1819352535024783842)
-- Ref img, source: [twt@](https://x.com/EverstoneEvie/status/1818792123308572681)
-- Ref img, source: [twt@](https://x.com/710wonderdev/status/1819561076222283959)
-
-<br/>
-
-- Ref img, source: [twt@](https://x.com/majeliskucing/status/1819177797795172625)
-- Ref img, source: [twt@](https://x.com/retro_twt/status/1819259351657250874)
-- Ref img, source: [twt@](https://www.youtube.com/shorts/5FPruc21chA)
-- Ref img, source: [twt@](https://x.com/3724_haru/status/1819681384627392524)
-
-# ---
-
-- Ref img, source: [twt@](https://x.com/JujutsuTwts/status/1819336525055746355)
-
-# ---
-
---- Git: Day 88 -
-
-- Ref img, source: [twt@](https://x.com/AI_CyberDreams/status/1819261851152073182)
-
-# ---
-
---- Git: Day 86 - Break.
-
-- Ref img, source: [twt@](https://x.com/PunchingCat/status/1818913609592062046)
-- Ref img, source: [twt@](https://x.com/retro_twt/status/1818896953221996862)
-- Ref img, source: [twt@](https://x.com/draggles/status/1819035858458247317)
+- Ref img, source: [twt@](https://x.com/nihmune/status/1819438161212346508)
+- Ref img, source: [twt@](https://x.com/pewpiece/status/1819899303143375303)
+- Ref img, source: [twt@](https://x.com/critical_reflex/status/1818506865258500303)
+- Ref img, source: [twt@](https://x.com/silv_ex/status/1819715637540950327)
 
 <br/>
 
-- Ref img, source: [twt@](https://x.com/SABO_SHINJI4/status/1818639448273269174)
-- Ref img, source: [twt@](https://x.com/majeliskucing/status/1818638493804880064)
-- Ref img, source: [twt@](https://www.youtube.com/shorts/5QtOcSUxO6E)
+- Ref img, source: [twt@](https://x.com/MangaContexts/status/1819725915435254213)
+- Ref img, source: [twt@](https://x.com/msfujoshi23/status/1819885465107071106)
+- Ref img, source: [twt@](https://x.com/miniapeur/status/1819926391569162522)
+- Ref img, source: [twt@](https://x.com/xbtGBH/status/1819708596709388508)
+- Ref img, source: [twt@](https://x.com/qiandailove/status/1820019020424167703)
 
 <br/>
 
-- Ref img, source: [twt@](https://www.youtube.com/watch?v=JtizZDzSxMs)
+- Ref img, source: [twt@](https://x.com/Dino_illus/status/1819985481318240654)
+- Ref img, source: [twt@](https://x.com/sori_cosplay/status/1819978065919008975)
+- Ref img, source: [twt@](https://x.com/loong_blo/status/1819654012251369814)
+- Ref img, source: [twt@](https://x.com/ying0yi/status/1819583208520142896)
 
 <br/>
 
-- Ref img, source: [twt@](https://x.com/WokelyCorrect/status/1818330894954041654)
-- Ref img, source: [twt@](https://x.com/buitengebieden/status/1818971194046939639)
-- Ref img, source: [twt@](https://x.com/womenpostingws/status/1818699502301450603)
+- Ref img, source: [twt@](https://x.com/noland0707/status/1819382272799527426)
+- Ref img, source: [twt@](https://x.com/contextdogs/status/1819754447167508987)
+- Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1819777697536487690)
+- Ref img, source: [twt@](https://x.com/GifsAnime_/status/1819484930432528467)
 
 <br/>
 
-- Ref img, source: [twt@](https://www.youtube.com/shorts/i56_8Nyxi4E)
-- Ref img, source: [twt@](https://x.com/TheFigen_/status/1818790156020728296)
-- Ref img, source: [twt@](https://www.youtube.com/shorts/a8huLUKkZ08)
-
-<br/>
-
-- Ref img, source: [twt@](https://x.com/PunchingCat/status/1818913609592062046)
-- Ref img, source: [twt@](https://x.com/womenpostingws/status/1818864203605672352)
-
-<br/> 
-
-- Ref img, source: [twt@](https://x.com/PrzemekShura/status/1818936513398182367)
-- Ref img, source: [twt@](https://www.youtube.com/shorts/Mt187r0Ec9A)
-- Ref img, source: [twt@](https://www.youtube.com/watch?v=KHPOEEAGENk)
+- Ref img, source: [twt@](https://x.com/majeliskucing/status/1819677087709729178)
+- Ref img, source: [twt@](https://x.com/itswords_/status/1819742638066618790)
+- Ref img, source: [twt@](https://x.com/TheHotterDancer/status/1819578960730378547)
 
 # ---
 # ---
