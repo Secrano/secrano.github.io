@@ -31,7 +31,8 @@
 - Wave function demo.
 - Ice Shard Attack (VFX attempt, Prince of Persia DOS inspired), added fading.
 - Spatial Geometric art of photon/electron 3d duality (w/ physical touch)
-    
+- Single stroke demo of photon bullet (particle), movement in 2d electromagnetic fields.
+
 # ---
 - Hello world.
 # ---
