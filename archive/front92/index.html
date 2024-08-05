@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Photon/Electron Wave-Particle Visualization </title>
+    <style>
+        body { margin: 0; overflow: hidden; background-color: #000; }
+        canvas { display: block; }
+    </style>
+</head>
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script>
+        const scene = new THREE.Scene();
+        const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+        const renderer = new THREE.WebGLRenderer({ antialias: true });
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        document.body.appendChild(renderer.domElement);
+
+        camera.position.set(0, 2, 5);
+        camera.lookAt(0, 0, 0);
+        scene.background = new THREE.Color(0x000000);
+
+        // Particle path
+        const pathGeometry = new THREE.BufferGeometry();
+        const pathMaterial = new THREE.LineBasicMaterial({ color: 0xffffff });
+        const pathPoints = [];
+        for (let i = -10; i <= 10; i += 0.1) {
+            pathPoints.push(new THREE.Vector3(i, 0, 0));
+        }
+        pathGeometry.setFromPoints(pathPoints);
+        const pathLine = new THREE.Line(pathGeometry, pathMaterial);
+        scene.add(pathLine);
+
+        // Particle
+        const particleGeometry = new THREE.SphereGeometry(0.05, 32, 32);
+        const particleMaterial = new THREE.MeshBasicMaterial({ color: 0xffff00 });
+        const particle = new THREE.Mesh(particleGeometry, particleMaterial);
+        scene.add(particle);
+
+        // Wave function
+        const waveGeometry = new THREE.BufferGeometry();
+        const waveMaterial = new THREE.LineBasicMaterial({ color: 0x00ffff });
+        const wavePoints = new Float32Array(200 * 3);
+        waveGeometry.setAttribute('position', new THREE.BufferAttribute(wavePoints, 3));
+        const waveLine = new THREE.Line(waveGeometry, waveMaterial);
+        scene.add(waveLine);
+
+        // Electromagnetic field vectors
+        const vectorFieldGroup = new THREE.Group();
+        scene.add(vectorFieldGroup);
+
+        function createFieldVector(x, y, z) {
+            const arrowHelper = new THREE.ArrowHelper(
+                new THREE.Vector3(0, 1, 0),
+                new THREE.Vector3(x, y, z),
+                0.2,
+                0x00ff00
+            );
+            vectorFieldGroup.add(arrowHelper);
+            return arrowHelper;
+        }
+
+        const fieldVectors = [];
+        for (let x = -2; x <= 2; x += 0.5) {
+            for (let z = -0.5; z <= 0.5; z += 0.5) {
+                fieldVectors.push(createFieldVector(x, 0, z));
+            }
+        }
+
+        // Animation
+        let time = 0;
+        function animate() {
+            requestAnimationFrame(animate);
+            time += 0.05;
+
+            // Update particle position
+            particle.position.x = Math.sin(time) * 2;
+
+            // Update wave function
+            const positions = waveGeometry.attributes.position.array;
+            for (let i = 0; i < 200; i++) {
+                const x = (i / 20) - 5;
+                const y = Math.sin(10 * (x - time * 0.5)) * 0.2;
+                positions[i * 3] = x;
+                positions[i * 3 + 1] = y;
+                positions[i * 3 + 2] = 0;
+            }
+            waveGeometry.attributes.position.needsUpdate = true;
+
+            // Update electromagnetic field vectors
+            fieldVectors.forEach((vector, index) => {
+                const x = vector.position.x;
+                const z = vector.position.z;
+                const angle = Math.atan2(z, x - particle.position.x);
+                const strength = 1 / (1 + Math.abs(x - particle.position.x));
+                vector.setDirection(new THREE.Vector3(Math.cos(angle), Math.sin(angle + time * 2), 0));
+                vector.setLength(0.2 * strength);
+            });
+
+            renderer.render(scene, camera);
+        }
+
+        animate();
+
+        // Handle window resize
+        window.addEventListener('resize', () => {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        });
+    </script>
+</body>
+</html>
