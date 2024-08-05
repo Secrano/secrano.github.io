@@ -3,113 +3,505 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Photon/Electron Wave-Particle Visualization </title>
+    <title> Bugging Rogue-like Hexagonal Map with Tree Chopping </title>
     <style>
-        body { margin: 0; overflow: hidden; background-color: #000; }
-        canvas { display: block; }
+        body {
+            background-color: #1a2f1a;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        #game-container {
+            display: flex;
+            gap: 20px;
+        }
+        #map {
+            display: grid;
+            grid-template-columns: repeat(19, 1fr);
+            gap: 1px;
+            background-color: #0a1f0a;
+            padding: 10px;
+            border-radius: 10px;
+            position: relative;
+        }
+        .hex {
+            width: 30px;
+            height: 34px;
+            background-color: #2a4f2a;
+            clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 12px;
+            color: white;
+            transition: all 0.3s ease;
+        }
+        .hex.fog { background-color: #1a2f1a; }
+        .hex.visible { background-color: #3a6f3a; }
+        .hex.player { background-color: #ff6b6b; }
+        .hex.enemy { background-color: #4ecdc4; }
+        .hex.tree { background-color: #1a3f1a; }
+        .hex.stump { background-color: #2a4f2a; }
+        #swingAnimation {
+            position: absolute;
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            background: radial-gradient(circle, rgba(255,255,255,0.8) 0%, rgba(255,255,255,0) 70%);
+            pointer-events: none;
+            display: none;
+        }
+        #lightningAnimation {
+            position: absolute;
+            width: 30px;
+            height: 34px;
+            background: rgba(255, 223, 0, 0.8);
+            clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+            pointer-events: none;
+            display: none;
+        }
+        #laserAnimation {
+            position: absolute;
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            background: radial-gradient(circle, rgba(255,223,0,0.8) 0%, rgba(255,223,0,0) 70%);
+            pointer-events: none;
+            display: none;
+        }
+        #extremeFractalAnimation {
+            position: absolute;
+            width: 30px;
+            height: 34px;
+            background: rgba(0, 255, 255, 0.8);
+            clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+            pointer-events: none;
+            display: none;
+        }
+        #sidebar {
+            background-color: #0a1f0a;
+            padding: 20px;
+            border-radius: 10px;
+            color: white;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        #sidebar table {
+            width: 100%;
+            text-align: center;
+        }
+        #sidebar th {
+            font-size: 24px;
+            padding-bottom: 10px;
+        }
+        #sidebar td {
+            font-size: 20px;
+        }
+        #gauge {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+        .hex-gauge {
+            width: 30px;
+            height: 34px;
+            background-color: #4ecdc4;
+            clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 12px;
+            color: white;
+            transition: background-color 0.3s ease, box-shadow 0.3s ease;
+        }
+        .hex-gauge.filled {
+            background-color: #ffd700;
+            box-shadow: 0 0 10px #ffd700, 0 0 20px #ffd700, 0 0 30px #ffd700;
+        }
     </style>
 </head>
 <body>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <div id="game-container">
+        <div id="map"></div>
+        <div id="swingAnimation"></div>
+        <div id="lightningAnimation"></div>
+        <div id="laserAnimation"></div>
+        <div id="extremeFractalAnimation"></div>
+        <div id="sidebar">
+            <table>
+                <tr>
+                    <th>W</th>
+                </tr>
+                <tr>
+                    <td id="woodScore">0</td>
+                </tr>
+            </table>
+            <div id="gauge">
+                <div class="hex-gauge" id="gauge1">G</div>
+                <div class="hex-gauge" id="gauge2">G</div>
+                <div class="hex-gauge" id="gauge3">G</div>
+                <div class="hex-gauge" id="gauge4">G</div>
+            </div>
+        </div>
+    </div>
+
     <script>
-        const scene = new THREE.Scene();
-        const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
-        const renderer = new THREE.WebGLRenderer({ antialias: true });
-        renderer.setSize(window.innerWidth, window.innerHeight);
-        document.body.appendChild(renderer.domElement);
+        const mapSize = 19;
+        const map = document.getElementById('map');
+        const swingAnimation = document.getElementById('swingAnimation');
+        const lightningAnimation = document.getElementById('lightningAnimation');
+        const laserAnimation = document.getElementById('laserAnimation');
+        const extremeFractalAnimation = document.getElementById('extremeFractalAnimation');
+        const woodScoreElement = document.getElementById('woodScore');
+        const gaugeElements = [
+            document.getElementById('gauge1'),
+            document.getElementById('gauge2'),
+            document.getElementById('gauge3'),
+            document.getElementById('gauge4')
+        ];
+        let cells = [];
+        let playerPosition = { x: 9, y: 9 };
+        let enemies = [];
+        let trees = [];
+        let woodScore = 0;
+        let gaugeCount = 0;
 
-        camera.position.set(0, 2, 5);
-        camera.lookAt(0, 0, 0);
-        scene.background = new THREE.Color(0x000000);
-
-        // Particle path
-        const pathGeometry = new THREE.BufferGeometry();
-        const pathMaterial = new THREE.LineBasicMaterial({ color: 0xffffff });
-        const pathPoints = [];
-        for (let i = -10; i <= 10; i += 0.1) {
-            pathPoints.push(new THREE.Vector3(i, 0, 0));
+        function createMap() {
+            for (let y = 0; y < mapSize; y++) {
+                for (let x = 0; x < mapSize; x++) {
+                    const cell = document.createElement('div');
+                    cell.classList.add('hex', 'fog');
+                    cell.dataset.x = x;
+                    cell.dataset.y = y;
+                    map.appendChild(cell);
+                    cells.push(cell);
+                }
+            }
         }
-        pathGeometry.setFromPoints(pathPoints);
-        const pathLine = new THREE.Line(pathGeometry, pathMaterial);
-        scene.add(pathLine);
 
-        // Particle
-        const particleGeometry = new THREE.SphereGeometry(0.05, 32, 32);
-        const particleMaterial = new THREE.MeshBasicMaterial({ color: 0xffff00 });
-        const particle = new THREE.Mesh(particleGeometry, particleMaterial);
-        scene.add(particle);
+        function updateVisibility() {
+            cells.forEach(cell => {
+                const dx = Math.abs(cell.dataset.x - playerPosition.x);
+                const dy = Math.abs(cell.dataset.y - playerPosition.y);
+                if (dx + dy <= 3) {
+                    cell.classList.remove('fog');
+                    cell.classList.add('visible');
+                } else {
+                    cell.classList.add('fog');
+                    cell.classList.remove('visible');
+                }
+            });
+        }
 
-        // Wave function
-        const waveGeometry = new THREE.BufferGeometry();
-        const waveMaterial = new THREE.LineBasicMaterial({ color: 0x00ffff });
-        const wavePoints = new Float32Array(200 * 3);
-        waveGeometry.setAttribute('position', new THREE.BufferAttribute(wavePoints, 3));
-        const waveLine = new THREE.Line(waveGeometry, waveMaterial);
-        scene.add(waveLine);
-
-        // Electromagnetic field vectors
-        const vectorFieldGroup = new THREE.Group();
-        scene.add(vectorFieldGroup);
-
-        function createFieldVector(x, y, z) {
-            const arrowHelper = new THREE.ArrowHelper(
-                new THREE.Vector3(0, 1, 0),
-                new THREE.Vector3(x, y, z),
-                0.2,
-                0x00ff00
+        function placePlayer() {
+            const playerCell = cells.find(cell => 
+                cell.dataset.x == playerPosition.x && cell.dataset.y == playerPosition.y
             );
-            vectorFieldGroup.add(arrowHelper);
-            return arrowHelper;
+            playerCell.classList.add('player');
+            playerCell.textContent = 'P';
         }
 
-        const fieldVectors = [];
-        for (let x = -2; x <= 2; x += 0.5) {
-            for (let z = -0.5; z <= 0.5; z += 0.5) {
-                fieldVectors.push(createFieldVector(x, 0, z));
+        function placeEnemies(count) {
+            for (let i = 0; i < count; i++) {
+                let x, y;
+                do {
+                    x = Math.floor(Math.random() * mapSize);
+                    y = Math.floor(Math.random() * mapSize);
+                } while (x === playerPosition.x && y === playerPosition.y);
+
+                enemies.push({ x, y });
+                const enemyCell = cells.find(cell => cell.dataset.x == x && cell.dataset.y == y);
+                enemyCell.classList.add('enemy');
+                enemyCell.textContent = 'E';
             }
         }
 
-        // Animation
-        let time = 0;
-        function animate() {
-            requestAnimationFrame(animate);
-            time += 0.05;
+        function placeTrees(count) {
+            for (let i = 0; i < count; i++) {
+                let x, y;
+                do {
+                    x = Math.floor(Math.random() * mapSize);
+                    y = Math.floor(Math.random() * mapSize);
+                } while (
+                    (x === playerPosition.x && y === playerPosition.y) ||
+                    enemies.some(enemy => enemy.x === x && enemy.y === y) ||
+                    trees.some(tree => tree.x === x && tree.y === y)
+                );
 
-            // Update particle position
-            particle.position.x = Math.sin(time) * 2;
-
-            // Update wave function
-            const positions = waveGeometry.attributes.position.array;
-            for (let i = 0; i < 200; i++) {
-                const x = (i / 20) - 5;
-                const y = Math.sin(10 * (x - time * 0.5)) * 0.2;
-                positions[i * 3] = x;
-                positions[i * 3 + 1] = y;
-                positions[i * 3 + 2] = 0;
+                trees.push({ x, y, stage: 'tree' });
+                const treeCell = cells.find(cell => cell.dataset.x == x && cell.dataset.y == y);
+                treeCell.classList.add('tree');
+                treeCell.textContent = 'T';
             }
-            waveGeometry.attributes.position.needsUpdate = true;
+        }
 
-            // Update electromagnetic field vectors
-            fieldVectors.forEach((vector, index) => {
-                const x = vector.position.x;
-                const z = vector.position.z;
-                const angle = Math.atan2(z, x - particle.position.x);
-                const strength = 1 / (1 + Math.abs(x - particle.position.x));
-                vector.setDirection(new THREE.Vector3(Math.cos(angle), Math.sin(angle + time * 2), 0));
-                vector.setLength(0.2 * strength);
+        function autoBattle() {
+            enemies.forEach(enemy => {
+                if (enemy.x === playerPosition.x && enemy.y === playerPosition.y) {
+                    if (Math.random() > 0.5) {
+                        const enemyCell = cells.find(cell => cell.dataset.x == enemy.x && cell.dataset.y == enemy.y);
+                        enemyCell.classList.remove('enemy');
+                        enemyCell.textContent = '';
+                        enemies = enemies.filter(e => e !== enemy);
+                        incrementGauge();
+                    } else {
+                        alert('You were defeated!');
+                        initGame();
+                    }
+                }
+            });
+        }
+
+        function movePlayer(dx, dy) {
+            const newX = playerPosition.x + dx;
+            const newY = playerPosition.y + dy;
+            if (newX >= 0 && newX < mapSize && newY >= 0 && newY < mapSize) {
+                const oldCell = cells.find(cell => cell.dataset.x == playerPosition.x && cell.dataset.y == playerPosition.y);
+                oldCell.classList.remove('player');
+                oldCell.textContent = '';
+
+                playerPosition = { x: newX, y: newY };
+                const newCell = cells.find(cell => cell.dataset.x == newX && cell.dataset.y == newY);
+                newCell.classList.add('player');
+                newCell.textContent = 'P';
+
+                updateVisibility();
+                autoBattle();
+                chopTreeOnTouch();
+            }
+        }
+
+        function swing() {
+            const rect = map.getBoundingClientRect();
+            swingAnimation.style.left = `${rect.left - 45}px`;
+            swingAnimation.style.top = `${rect.top - 45}px`;
+            swingAnimation.style.display = 'block';
+
+            swingAnimation.animate([
+                { opacity: 0, transform: 'scale(0)' },
+                { opacity: 1, transform: 'scale(1)' },
+                { opacity: 0, transform: 'scale(1.5)' }
+            ], {
+                duration: 500,
+                easing: 'ease-out'
+            }).onfinish = () => {
+                swingAnimation.style.display = 'none';
+            };
+
+            enemies.forEach(enemy => {
+                const distance = Math.abs(enemy.x - playerPosition.x) + Math.abs(enemy.y - playerPosition.y);
+                if (distance <= 2) {
+                    const enemyCell = cells.find(cell => cell.dataset.x == enemy.x && cell.dataset.y == enemy.y);
+                    enemyCell.classList.remove('enemy');
+                    enemyCell.textContent = '';
+                    enemies = enemies.filter(e => e !== enemy);
+                    incrementGauge();
+                }
             });
 
-            renderer.render(scene, camera);
+            chopTrees();
         }
 
-        animate();
+        function chopTrees() {
+            trees.forEach(tree => {
+                const distance = Math.abs(tree.x - playerPosition.x) + Math.abs(tree.y - playerPosition.y);
+                if (distance <= 2) {
+                    const treeCell = cells.find(cell => cell.dataset.x == tree.x && cell.dataset.y == tree.y);
+                    if (tree.stage === 'tree') {
+                        tree.stage = 'stump';
+                        treeCell.classList.remove('tree');
+                        treeCell.classList.add('stump');
+                        treeCell.textContent = 't';
+                        woodScore += 5;
+                    } else if (tree.stage === 'stump') {
+                        treeCell.classList.remove('stump');
+                        treeCell.textContent = '';
+                        trees = trees.filter(t => t !== tree);
+                        woodScore += 5;
+                    }
+                    updateWoodScore();
+                }
+            });
+        }
 
-        // Handle window resize
-        window.addEventListener('resize', () => {
-            camera.aspect = window.innerWidth / window.innerHeight;
-            camera.updateProjectionMatrix();
-            renderer.setSize(window.innerWidth, window.innerHeight);
+        function chopTreeOnTouch() {
+            const touchedTree = trees.find(tree => tree.x === playerPosition.x && tree.y === playerPosition.y);
+            if (touchedTree) {
+                const treeCell = cells.find(cell => cell.dataset.x == touchedTree.x && cell.dataset.y == touchedTree.y);
+                if (touchedTree.stage === 'tree') {
+                    touchedTree.stage = 'stump';
+                    treeCell.classList.remove('tree');
+                    treeCell.classList.add('stump');
+                    treeCell.textContent = 't';
+                    woodScore += 5;
+                } else if (touchedTree.stage === 'stump') {
+                    treeCell.classList.remove('stump');
+                    treeCell.textContent = '';
+                    trees = trees.filter(t => t !== touchedTree);
+                    woodScore += 5;
+                }
+                updateWoodScore();
+            }
+        }
+
+        function updateWoodScore() {
+            woodScoreElement.textContent = woodScore;
+        }
+
+        function incrementGauge() {
+            if (gaugeCount < 4) {
+                gaugeElements[gaugeCount].classList.add('filled');
+                gaugeCount++;
+                if (gaugeCount === 4) {
+                    setTimeout(triggerFractalLightning, 500); // Delay to make it visible
+                }
+            }
+        }
+
+        function resetGauge() {
+            gaugeElements.forEach(gauge => gauge.classList.remove('filled'));
+            gaugeCount = 0;
+        }
+
+        function triggerFractalLightning() {
+            // Clear all enemies
+            enemies.forEach(enemy => {
+                const enemyCell = cells.find(cell => cell.dataset.x == enemy.x && cell.dataset.y == enemy.y);
+                enemyCell.classList.remove('enemy');
+                enemyCell.textContent = '';
+            });
+            enemies = [];
+
+            // Reduce all trees to stumps
+            trees.forEach(tree => {
+                if (tree.stage === 'tree') {
+                    tree.stage = 'stump';
+                    const treeCell = cells.find(cell => cell.dataset.x == tree.x && cell.dataset.y == tree.y);
+                    treeCell.classList.remove('tree');
+                    treeCell.classList.add('stump');
+                    treeCell.textContent = 't';
+                }
+            });
+
+            // Animate lightning
+            animateLightning();
+
+            // Animate lasers
+            animateLasers();
+
+            // Trigger extreme fractal expansion after 10 seconds
+            setTimeout(triggerExtremeFractal, 10000);
+
+            resetGauge();
+        }
+
+        function animateLightning() {
+            const rect = map.getBoundingClientRect();
+            lightningAnimation.style.left = `${rect.left + playerPosition.x * 31}px`;
+            lightningAnimation.style.top = `${rect.top + playerPosition.y * 35}px`;
+            lightningAnimation.style.display = 'block';
+            lightningAnimation.style.opacity = 1;
+            lightningAnimation.animate([
+                { opacity: 1 },
+                { opacity: 0 }
+            ], {
+                duration: 1000,
+                easing: 'ease-out'
+            }).onfinish = () => {
+                lightningAnimation.style.display = 'none';
+            };
+        }
+
+        function animateLasers() {
+            const rect = map.getBoundingClientRect();
+            laserAnimation.style.left = `${rect.left + playerPosition.x * 31}px`;
+            laserAnimation.style.top = `${rect.top + playerPosition.y * 35}px`;
+            laserAnimation.style.display = 'block';
+            laserAnimation.style.opacity = 1;
+            const laserEffect = laserAnimation.cloneNode(true);
+            laserEffect.style.display = 'block';
+            laserEffect.style.left = `${laserAnimation.style.left}px`;
+            laserEffect.style.top = `${laserAnimation.style.top}px`;
+            document.body.appendChild(laserEffect);
+            laserEffect.animate([
+                { opacity: 1 },
+                { opacity: 0 }
+            ], {
+                duration: 3000,
+                easing: 'ease-out'
+            }).onfinish = () => {
+                laserEffect.remove();
+            };
+        }
+
+        function triggerExtremeFractal() {
+            // Completely remove all trees
+            trees.forEach(tree => {
+                const treeCell = cells.find(cell => cell.dataset.x == tree.x && cell.dataset.y == tree.y);
+                treeCell.classList.remove('stump');
+                treeCell.textContent = '';
+            });
+            trees = [];
+
+            // Animate extreme fractal
+            animateExtremeFractal();
+        }
+
+        function animateExtremeFractal() {
+            const rect = map.getBoundingClientRect();
+            extremeFractalAnimation.style.left = `${rect.left + playerPosition.x * 31}px`;
+            extremeFractalAnimation.style.top = `${rect.top + playerPosition.y * 35}px`;
+            extremeFractalAnimation.style.display = 'block';
+            extremeFractalAnimation.style.opacity = 1;
+            const extremeEffect = extremeFractalAnimation.cloneNode(true);
+            extremeEffect.style.display = 'block';
+            extremeEffect.style.left = `${extremeFractalAnimation.style.left}px`;
+            extremeEffect.style.top = `${extremeFractalAnimation.style.top}px`;
+            document.body.appendChild(extremeEffect);
+            extremeEffect.animate([
+                { opacity: 1 },
+                { opacity: 0 }
+            ], {
+                duration: 3000,
+                easing: 'ease-out'
+            }).onfinish = () => {
+                extremeEffect.remove();
+            };
+        }
+
+        function initGame() {
+            map.innerHTML = '';
+            cells = [];
+            enemies = [];
+            trees = [];
+            playerPosition = { x: 9, y: 9 };
+            woodScore = 0;
+            gaugeCount = 0;
+
+            createMap();
+            placePlayer();
+            placeEnemies(10);
+            placeTrees(30);
+            updateVisibility();
+            updateWoodScore();
+            resetGauge();
+        }
+
+        document.addEventListener('keydown', (e) => {
+            switch (e.key) {
+                case 'ArrowUp': movePlayer(0, -1); break;
+                case 'ArrowDown': movePlayer(0, 1); break;
+                case 'ArrowLeft': movePlayer(-1, 0); break;
+                case 'ArrowRight': movePlayer(1, 0); break;
+                case ' ': swing(); break;
+            }
         });
+
+        initGame();
     </script>
 </body>
 </html>
