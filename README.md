@@ -1,5 +1,11 @@
 # secrano.github.io
 
+--- Git: Day 96 - 
+
+- Ref img, source: [twt@](https://x.com/sayaka_aiart/status/1820757541531648318)
+
+# ---
+
 --- Git: Day 94 - 
 
 - Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1820357028662903261)
