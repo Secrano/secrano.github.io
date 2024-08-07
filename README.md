@@ -1,13 +1,10 @@
 # secrano.github.io
 
---- Git: Day 98 - Crush.
+--- Git: Day 98 - 
 
 - Ref img, source: [twt@](https://x.com/toji_fusihiguro/status/1820828669356474780)
 - Ref img, source: [twt@](https://x.com/AriseX0/status/1820829384409780464)
 - Ref img, source: [twt@](https://x.com/zenin_toji123/status/1820846115920453644)
-
-<br/>
-
 - Ref img, source: [twt@](https://x.com/onepiecepanel/status/1820417770825130072)
 
 # ---
