@@ -43,7 +43,7 @@
 # ---
 # ---
 
---- Git: Day 96 - TFT.
+--- Git: Day 96 -
 
 - Ref img, source: [twt@](https://x.com/nigeldanson/status/1820471306728427575)
 - Ref img, source: [twt@](https://x.com/HoDaRaKe/status/1820792482353041633)
