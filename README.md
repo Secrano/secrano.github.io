@@ -1,6 +1,6 @@
 # secrano.github.io
 
---- Git: Day A0 - Timmy.
+--- Git: Day A0 -
 
 - Ref img, source: [twt@](https://x.com/womenpostingws/status/1821010429679956391)
 - Ref img, source: [twt@](https://x.com/ayeejuju/status/1821185298430357759)
@@ -30,6 +30,7 @@
 - Ref img, source: [twt@](https://x.com/itsme_urstruly/status/1821202091823734794)
 - Ref img, source: [twt@](https://x.com/FeynirLeaf/status/1821199642333188257)
 
+# ---
 # ---
 
 --- Git: Day 98 - 
