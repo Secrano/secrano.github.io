@@ -1,5 +1,37 @@
 # secrano.github.io
 
+--- Git: Day A0 - Timmy.
+
+- Ref img, source: [twt@](https://x.com/womenpostingws/status/1821010429679956391)
+- Ref img, source: [twt@](https://x.com/ayeejuju/status/1821185298430357759)
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1821148303352066264)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/HumansNoContext/status/1821132685756027366)
+- Ref img, source: [twt@](https://x.com/Enezator/status/1821139987867287837)
+- Ref img, source: [twt@](https://x.com/JasonHendrich/status/1821229494243619052)
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1821194612595470723)
+- Ref img, source: [twt@](https://x.com/ElonChapo/status/1820900508602654893)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1821183907531739327)
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1820848623522861442)
+- Ref img, source: [twt@](https://x.com/ChefReactions/status/1821171468857753897)
+- Ref img, source: [twt@](https://x.com/PicturesFoIder/status/1821109082834534806)
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1821186885663834323)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1820932915997409592)
+- Ref img, source: [twt@](https://x.com/DesiSanatani/status/1821188995315085711)
+- Ref img, source: [twt@](https://x.com/PostsOfCats/status/1821100748697915879)
+- Ref img, source: [twt@](https://x.com/itsme_urstruly/status/1821202091823734794)
+- Ref img, source: [twt@](https://x.com/FeynirLeaf/status/1821199642333188257)
+
+# ---
+
 --- Git: Day 98 - 
 
 - Ref img, source: [twt@](https://x.com/toji_fusihiguro/status/1820828669356474780)
