@@ -1,6 +1,6 @@
 # secrano.github.io
 
---- Git: Day A0 -
+--- Git: Day A0 - Timmy.
 
 - Ref img, source: [twt@](https://x.com/womenpostingws/status/1821010429679956391)
 - Ref img, source: [twt@](https://x.com/ayeejuju/status/1821185298430357759)
@@ -43,7 +43,7 @@
 # ---
 # ---
 
---- Git: Day 96 -
+--- Git: Day 96 - TFT.
 
 - Ref img, source: [twt@](https://x.com/nigeldanson/status/1820471306728427575)
 - Ref img, source: [twt@](https://x.com/HoDaRaKe/status/1820792482353041633)
