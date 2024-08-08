@@ -1,5 +1,11 @@
 # secrano.github.io
 
+--- Git: Day A2 - Cunt.
+
+- Ref img, source: [twt@](https://x.com/Coharrie_AI/status/1821486988081713446)
+
+# ---
+
 --- Git: Day A0 - Timmy.
 
 - Ref img, source: [twt@](https://x.com/womenpostingws/status/1821010429679956391)
