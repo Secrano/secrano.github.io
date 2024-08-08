@@ -1,5 +1,23 @@
 # secrano.github.io
 
+--- Git: Day A4 - Cupcakes.
+
+- Ref img, source: [twt@](https://x.com/The25thNigga/status/1821387024344977524)
+- Ref img, source: [twt@](https://x.com/DumbsYT/status/1821629871917060294)
+- Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1821457845621051572)
+- Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1821267709184692612)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/FearedBuck/status/1820977939288355021)
+- Ref img, source: [twt@](https://x.com/SomaKazima/status/1821393661185360299)
+- Ref img, source: [twt@](https://x.com/SweetCuteCarry/status/1817350139477905594)
+- Ref img, source: [twt@](https://x.com/wandakunpls/status/1821650809467388247)
+- Ref img, source: [twt@](https://x.com/bklynb4by/status/1821504503301976341)
+- Ref img, source: [twt@](https://x.com/Hatchofly_/status/1821539972421140733)
+
+# ---
+
 --- Git: Day A2 - Cunt.
 
 - Ref img, source: [twt@](https://x.com/Coharrie_AI/status/1821486988081713446)
