@@ -2,6 +2,21 @@
 
 --- Git: Day A4 - Cupcakes.
 
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1821632510515933481)
+- Ref img, source: [twt@](https://x.com/kkdeg23/status/1821263310425338208)
+- Ref img, source: [twt@](https://www.youtube.com/shorts/zwKQoWMPyb0)
+- Ref img, source: [twt@](https://x.com/THEvictoratangs/status/1821802637089522168)
+- Ref img, source: [twt@](https://x.com/Enezator/status/1821671873890881877)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1821585915464269943)
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1821892951586328851)
+- Ref img, source: [twt@](https://x.com/dr_vee95/status/1809999652454048192)
+- Ref img, source: [twt@](https://x.com/popsvibe/status/1821928607976976730)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/The25thNigga/status/1821387024344977524)
 - Ref img, source: [twt@](https://x.com/DumbsYT/status/1821629871917060294)
 - Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1821457845621051572)
