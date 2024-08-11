@@ -1,5 +1,16 @@
 # secrano.github.io
 
+--- Git: Day A6 - Temples.
+
+- Ref img, source: [twt@](https://x.com/velvet_lol/status/1822538330573058077)
+- Ref img, source: [twt@](https://x.com/TateNews_/status/1822664417047191580)
+- Ref img, source: [twt@](https://x.com/karu220x/status/1822647236595273768)
+- Ref img, source: [twt@](https://x.com/GAx5jx8Lsq4mBIn/status/1822659296443920790)
+- Ref img, source: [twt@](https://x.com/khyleri/status/1822301890413236542)
+- Ref img, source: [twt@](https://x.com/JujutsuFandom/status/1822635446385447052)
+
+# ---
+
 --- Git: Day A4 - Cupcakes.
 
 - Ref img, source: [twt@](https://x.com/EmiliaClarkeGEN/status/1821926049611174343)
