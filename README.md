@@ -1,5 +1,32 @@
 # secrano.github.io
 
+--- Git: Day A8 - Purple Hollow.
+
+- Ref img, source: [twt@](https://x.com/KingOfLighting/status/1822839405884715342)
+- Ref img, source: [twt@](https://x.com/relatablepanels/status/1822926822171943312)
+- Ref img, source: [twt@](https://x.com/mariak212/status/1822952897086419035/photo/2)
+- Ref img, source: [twt@](https://x.com/joannejang/status/1822823410994683912)
+- Ref img, source: [twt@](https://www.youtube.com/shorts/kgXjgvMC9ZE)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Lilium725/status/1822855663636418801)
+- Ref img, source: [twt@](https://x.com/bonevvitch/status/1822716243515703475)
+- Ref img, source: [twt@](https://x.com/IdiotsInCamera/status/1822827000626594215)
+- Ref img, source: [twt@](https://x.com/_salvatretzzo/status/1822662725807296779)
+- Ref img, source: [twt@](https://x.com/roshidere/status/1822920972284158192)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/interesting_aIl/status/1822845521913930149)
+- Ref img, source: [twt@](https://x.com/anukaakash/status/1822615321578181075)
+- Ref img, source: [twt@](https://x.com/majeliskucing/status/1822718609883541818)
+- Ref img, source: [twt@](https://x.com/ai_zerara/status/1822917187029405893)
+- Ref img, source: [twt@](https://x.com/zoropng/status/1822382336916529329)
+- Ref img, source: [twt@](https://x.com/Hatchofly_/status/1822807854979363193)
+
+# ---
+
 --- Git: Day A6 - Temples.
 
 - Ref img, source: [twt@](https://x.com/velvet_lol/status/1822538330573058077)
