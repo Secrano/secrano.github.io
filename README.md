@@ -1,5 +1,52 @@
 # secrano.github.io
 
+--- Git: Day B2 -
+
+- Ref img, source: [twt@](https://x.com/pyurr_/status/1823589869807132937/photo/1)
+- Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1823399126865780765)
+
+- Ref img, source: [twt@](https://x.com/LibertyCappy/status/1823630386284367986)
+- Ref img, source: [twt@](https://x.com/ACTBrigitte/status/1823423327748202631)
+- Ref img, source: [twt@](https://x.com/EuropeInvasionn/status/1823396485129482620)
+- Ref img, source: [twt@](https://x.com/ArtistRemaining/status/1823203134673400175)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1823447135666192495)
+- Ref img, source: [twt@](https://x.com/cutepanel/status/1823581350806376899)
+- Ref img, source: [twt@](https://x.com/DailyOPMemes/status/1823345096957268396)
+- Ref img, source: [twt@](https://x.com/hrtapp/status/1823565785182155224)
+- Ref img, source: [twt@](https://x.com/TopGyaru/status/1823567981546271190)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/moyashichan_nee/status/1823286307533324726)
+- Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1823639216565190920)
+- Ref img, source: [twt@](https://x.com/hasanthehun/status/1823572538997506447)
+- Ref img, source: [twt@](https://x.com/617393Melody/status/1823635823016993259)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/yftleena/status/1823160427104325649)
+- Ref img, source: [twt@](https://x.com/DjFunkBoss/status/1823590260208754941)
+- Ref img, source: [twt@](https://x.com/GAx5jx8Lsq4mBIn/status/1823476000753377356)
+- Ref img, source: [twt@](https://x.com/GAx5jx8Lsq4mBIn/status/1823640704893247821)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1823370314534850622)
+
+- Ref img, source: [twt@](https://x.com/majeliskucing/status/1823371681890443347)
+- Ref img, source: [twt@](https://x.com/greg16676935420/status/1823632119861567787)
+- Ref img, source: [twt@](https://x.com/ai_zerara/status/1823641962676736057)
+- Ref img, source: [twt@](https://x.com/Taacts/status/1823531057544642724)
+- Ref img, source: [twt@](https://x.com/JujutsuTwts/status/1823171439870243285)
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1823600442443456740)
+- Ref img, source: [twt@](https://x.com/GAx5jx8Lsq4mBIn/status/1823503550694957282)
+
+# ---
+# ---
+
 --- Git: Day B0 - Breathe.
 
 - Ref img, source: [twt@](https://x.com/EverstoneEvie/status/1823057938564432333)
