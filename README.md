@@ -1,5 +1,31 @@
 # secrano.github.io
 
+--- Git: Day B6 --- Oopsie.
+
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1824252752454951402)
+- Ref img, source: [twt@](https://x.com/Romanticaps_/status/1824116899824705989)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1824280927138353640)
+
+<br/> 
+
+- Ref img, source: [twt@](https://x.com/HIDEO_KOJIMA_EN/status/1824301807063142434)
+- Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1824296411686412701)
+- Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1824327131674890266)
+
+<br/> 
+
+- Ref img, source: [twt@](https://x.com/Nawakii02/status/1824082494569783708)
+- Ref img, source: [twt@](https://x.com/Rana_kamran43/status/1824321660276838717)
+- Ref img, source: [twt@](https://x.com/MithunKaikaisen/status/1824081529104187572)
+
+<br/> 
+
+- Ref img, source: [twt@](https://x.com/Q72go/status/1824093926548177323)
+- Ref img, source: [twt@](https://x.com/refisan17/status/1823752883491553746)
+- Ref img, source: [twt@](https://x.com/Dino_illus/status/1824001654800200169)
+
+# ---
+
 --- Git: Day B4 --- Outer dimensions.
 
 - Ref img, source: [twt@](https://www.youtube.com/shorts/hqsegfQ7oi4)
