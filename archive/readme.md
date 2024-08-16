@@ -34,6 +34,7 @@
 - Single stroke demo of photon bullet (particle), movement in 2d electromagnetic fields.
 - 1P Rouge-like game, upgraded Gauge meter with dimensional bugs.
 - Flying black hole (cat been sent to outer space).
+- Dimension reduction, Model: phase transition.
 
 # ---
 - Hello world.
