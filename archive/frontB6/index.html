@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Multi-Phase Particle Simulation (balloon machine) </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #f0f0f0;
+        }
+        #canvas {
+            border: 1px solid #000;
+            background-color: #fff;
+        }
+        .controls {
+            margin-top: 20px;
+        }
+        button, select {
+            padding: 10px;
+            margin: 0 10px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Multi-Phase Particle Simulation</h1>
+    <canvas id="canvas" width="800" height="400"></canvas>
+    <div class="controls">
+        <button id="resetGrid">Reset Grid</button>
+        <button id="toggleFlow">Toggle Flow</button>
+        <button id="addParticle">Add Floating Particle</button>
+        <select id="phaseSelect">
+            <option value="liquid">Liquid Phase</option>
+            <option value="gas">Gas Phase</option>
+        </select>
+    </div>
+
+    <script>
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+
+        const gridSize = 20;
+        const particleSize = 2;
+        const floatingParticleSize = 4;
+        const numColumns = Math.floor(canvas.width / gridSize);
+        const numRows = Math.floor(canvas.height / gridSize);
+
+        let particles = [];
+        let floatingParticles = [];
+        let flowEnabled = true;
+        let isGasPhase = false;
+        const flowSpeed = 0.1;
+        const gravity = 0.01;
+        const friction = 0.99;
+        const elasticity = 0.5;
+
+        class Particle {
+            constructor(x, y) {
+                this.x = x;
+                this.y = y;
+                this.originalX = x;
+                this.originalY = y;
+                this.vx = 0;
+                this.vy = 0;
+                this.color = this.getGradientColor();
+            }
+
+            getGradientColor() {
+                const r = Math.floor((this.x / canvas.width) * 255);
+                const g = Math.floor((this.y / canvas.height) * 255);
+                const b = Math.floor(((this.x + this.y) / (canvas.width + canvas.height)) * 255);
+                return `rgb(${r},${g},${b})`;
+            }
+
+            draw() {
+                ctx.fillStyle = this.color;
+                ctx.fillRect(this.x - particleSize / 2, this.y - particleSize / 2, particleSize, particleSize);
+            }
+
+            update() {
+                if (flowEnabled) {
+                    this.x += flowSpeed;
+                }
+                this.vy += gravity;
+                this.x += this.vx;
+                this.y += this.vy;
+
+                this.vx *= friction;
+                this.vy *= friction;
+
+                // Bounce off edges
+                if (this.x + particleSize / 2 > canvas.width) {
+                    this.x = canvas.width - particleSize / 2;
+                    this.vx = -this.vx * elasticity;
+                } else if (this.x - particleSize / 2 < 0) {
+                    this.x = particleSize / 2;
+                    this.vx = -this.vx * elasticity;
+                }
+
+                if (this.y + particleSize / 2 > canvas.height) {
+                    this.y = canvas.height - particleSize / 2;
+                    this.vy = -this.vy * elasticity;
+                } else if (this.y - particleSize / 2 < 0) {
+                    this.y = particleSize / 2;
+                    this.vy = -this.vy * elasticity;
+                }
+
+                // Attract back to original position
+                const dx = this.originalX - this.x;
+                const dy = this.originalY - this.y;
+                const distance = Math.sqrt(dx * dx + dy * dy);
+                const attractionForce = 0.01;
+
+                this.vx += (dx / distance) * attractionForce;
+                this.vy += (dy / distance) * attractionForce;
+            }
+        }
+
+        class FloatingParticle {
+            constructor() {
+                this.reset();
+            }
+
+            reset() {
+                // Randomly choose an inlet (left, top, or right)
+                const inlet = Math.floor(Math.random() * 3);
+                if (inlet === 0) { // Left
+                    this.x = 0;
+                    this.y = Math.random() * canvas.height;
+                    this.vx = Math.random() * 2 + 1;
+                    this.vy = Math.random() * 2 - 1;
+                } else if (inlet === 1) { // Top
+                    this.x = Math.random() * canvas.width;
+                    this.y = 0;
+                    this.vx = Math.random() * 2 - 1;
+                    this.vy = Math.random() * 2 + 1;
+                } else { // Right
+                    this.x = canvas.width;
+                    this.y = Math.random() * canvas.height;
+                    this.vx = -(Math.random() * 2 + 1);
+                    this.vy = Math.random() * 2 - 1;
+                }
+                this.color = `hsl(${Math.random() * 360}, 100%, 50%)`;
+            }
+
+            draw() {
+                ctx.fillStyle = this.color;
+                ctx.beginPath();
+                ctx.arc(this.x, this.y, floatingParticleSize / 2, 0, Math.PI * 2);
+                ctx.fill();
+            }
+
+            update() {
+                this.x += this.vx;
+                this.y += this.vy;
+
+                if (isGasPhase) {
+                    this.vy -= 0.01; // Slight upward force for gas
+                } else {
+                    this.vy += 0.01; // Slight downward force for liquid
+                }
+
+                // Bounce off edges
+                if (this.x + floatingParticleSize / 2 > canvas.width) {
+                    this.x = canvas.width - floatingParticleSize / 2;
+                    this.vx = -this.vx * elasticity;
+                } else if (this.x - floatingParticleSize / 2 < 0) {
+                    this.x = floatingParticleSize / 2;
+                    this.vx = -this.vx * elasticity;
+                }
+
+                if (this.y + floatingParticleSize / 2 > canvas.height) {
+                    this.y = canvas.height - floatingParticleSize / 2;
+                    this.vy = -this.vy * elasticity;
+                } else if (this.y - floatingParticleSize / 2 < 0) {
+                    this.y = floatingParticleSize / 2;
+                    this.vy = -this.vy * elasticity;
+                }
+
+                // Apply friction
+                this.vx *= friction;
+                this.vy *= friction;
+
+                // Reset if out of bounds
+                if (this.x < -floatingParticleSize || this.x > canvas.width + floatingParticleSize ||
+                    this.y < -floatingParticleSize || this.y > canvas.height + floatingParticleSize) {
+                    this.reset();
+                }
+            }
+        }
+
+        function initializeGrid() {
+            particles = [];
+            for (let i = 0; i < numColumns; i++) {
+                for (let j = 0; j < numRows; j++) {
+                    const x = i * gridSize + gridSize / 2;
+                    const y = j * gridSize + gridSize / 2;
+                    particles.push(new Particle(x, y));
+                }
+            }
+        }
+
+        function animate() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+            for (let particle of particles) {
+                particle.update();
+                particle.draw();
+            }
+
+            for (let floatingParticle of floatingParticles) {
+                floatingParticle.update();
+                floatingParticle.draw();
+            }
+
+            requestAnimationFrame(animate);
+        }
+
+        function resetGrid() {
+            initializeGrid();
+        }
+
+        function addFloatingParticle() {
+            floatingParticles.push(new FloatingParticle());
+        }
+
+        document.getElementById('resetGrid').addEventListener('click', resetGrid);
+        document.getElementById('toggleFlow').addEventListener('click', () => flowEnabled = !flowEnabled);
+        document.getElementById('addParticle').addEventListener('click', addFloatingParticle);
+        document.getElementById('phaseSelect').addEventListener('change', (e) => {
+            isGasPhase = e.target.value === 'gas';
+        });
+
+        // Handle window resize
+        window.addEventListener('resize', () => {
+            canvas.width = Math.min(800, window.innerWidth - 40);
+            canvas.height = Math.min(400, window.innerHeight - 200);
+            resetGrid();
+        });
+
+        // Handle edge case: device pixel ratio
+        function handleDevicePixelRatio() {
+            const dpr = window.devicePixelRatio || 1;
+            const rect = canvas.getBoundingClientRect();
+            canvas.width = rect.width * dpr;
+            canvas.height = rect.height * dpr;
+            ctx.scale(dpr, dpr);
+            canvas.style.width = `${rect.width}px`;
+            canvas.style.height = `${rect.height}px`;
+        }
+
+        // Initialize
+        handleDevicePixelRatio();
+        initializeGrid();
+        animate();
+    </script>
+</body>
+</html>
