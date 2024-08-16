@@ -35,6 +35,7 @@
 - 1P Rouge-like game, upgraded Gauge meter with dimensional bugs.
 - Flying black hole (cat been sent to outer space).
 - Dimension reduction, Model: phase transition.
+- The Piano, a gift from heaven (with sound demo samples).
 
 # ---
 - Hello world.
