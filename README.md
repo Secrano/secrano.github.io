@@ -41,7 +41,7 @@
 - Ref img, source: [twt@](https://x.com/cutepanel/status/1824819136167657983)
 - Ref img, source: [twt@](https://x.com/lovesickdoe/status/1824537991093817686)
 
-<br/> || clobal
+<br/>
 
 - Ref img, source: [twt@](https://x.com/realKalgamer710/status/1824515873362633040)
 - Ref img, source: [twt@](https://x.com/1zeelo/status/1824885948720779386)
