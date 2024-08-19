@@ -1,5 +1,24 @@
 # secrano.github.io
 
+--- Git: Day C2 ---- School starts.
+
+- Ref img, source: [twt@](https://x.com/retro_twt/status/1825314239264772437)
+- Ref img, source: [twt@](https://x.com/katevolvedgf/status/1825429538991431695)
+- Ref img, source: [twt@](https://x.com/webegga/status/1825289244736397770)
+- Ref img, source: [twt@](https://x.com/majeliskucing/status/1825358231474221507)
+- Ref img, source: [twt@](https://x.com/ReT0ky0/status/1825354113372369353)
+- Ref img, source: [twt@](https://x.com/butterywaterboi/status/1825462716670390312)
+- Ref img, source: [twt@](https://x.com/stairwayto3dom/status/1825372113076637697)
+- Ref img, source: [twt@](https://x.com/JujutsuTwts/status/1825336286233997458)
+- Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1825431530308522271)
+- Ref img, source: [twt@](https://x.com/majeliskucing/status/1825413385623597290)
+- Ref img, source: [twt@](https://x.com/ghiblipicture/status/1825465277007401405)
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1825412390164246976)
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1825367082382287304)
+
+# ---
+# ---
+
 --- Git: Day C0 ---- AI.
 
 - Ref img, source: [twt@](https://x.com/yuri102_/status/1824749469058924573)
