@@ -1,5 +1,16 @@
 # secrano.github.io
 
+--- Git: Day C6 --- Still vacation.
+
+- Ref img, source: [twt@](https://x.com/SayaScarlet01/status/1825862936440746253)
+- Ref img, source: [twt@](https://x.com/25th_ilka/status/1825951876820644259)
+- Ref img, source: [twt@](https://x.com/PokemanZ0N6/status/1825952913832992817)
+- Ref img, source: [twt@](https://x.com/TheFigen_/status/1825906147871625692)
+- Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1825958431939039658)
+
+# ---
+# ---
+
 --- Git: Day C4 ---- Teachers.
 
 - Ref img, source: [twt@](https://x.com/apofissx/status/1825600331281215887)
