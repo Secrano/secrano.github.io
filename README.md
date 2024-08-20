@@ -1,5 +1,48 @@
 # secrano.github.io
 
+--- Git: Day C4 ---- Teachers.
+
+- Ref img, source: [twt@](https://x.com/apofissx/status/1825600331281215887)
+- Ref img, source: [twt@](https://x.com/ClothesAesthe/status/1825513593644711984)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ueapaixonei/status/1825670830954602914)
+- Ref img, source: [twt@](https://x.com/FreyaHolmer/status/1825797825050947651)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/milkmochabear/status/1825518417287454773)
+- Ref img, source: [twt@](https://x.com/168views/status/1825563429693739461)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/184ram/status/1825494898499543083)
+- Ref img, source: [twt@](https://x.com/sara21222122/status/1825826299371475141)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Opal_00_58/status/1825417716817179008)
+- Ref img, source: [twt@](https://x.com/Mortdog/status/1825557884085928401)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/neorarty3/status/1825670473952174089)
+- Ref img, source: [twt@](https://x.com/blueveedesign/status/1825547522863214776)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/khyleri/status/1825570340333883886)
+- Ref img, source: [twt@](https://x.com/ito_ito_18/status/1825005373587431443)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/TONYxTWO/status/1824653081075712190)
+- Ref img, source: [twt@](https://x.com/BasedZaku/status/1825329819216654354)
+
+# ---
+# ---
+
 --- Git: Day C2 ---- School starts.
 
 - Ref img, source: [twt@](https://x.com/retro_twt/status/1825314239264772437)
