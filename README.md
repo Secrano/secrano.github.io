@@ -1,5 +1,58 @@
 # secrano.github.io
 
+--- Git: Day C8 -- Stoopid shiet.
+
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1826182462571151604)
+- Ref img, source: [twt@](https://x.com/opdaiIy/status/1826173681187368961)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ghiblipicture/status/1825805176302637184)
+- Ref img, source: [twt@](https://x.com/pewpiece/status/1826243114866204949)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1826181638671204620)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1826137758269845800)
+- Ref img, source: [twt@](https://x.com/AniNewsAndFacts/status/1826179417930092623)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ghiblipicture/status/1825873057975619944)
+- Ref img, source: [twt@](https://x.com/lion_sey/status/1826183208339169651)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1826185363733217632)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1826081415563456860)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/cb_doge/status/1826178678260388234)
+- Ref img, source: [twt@](https://x.com/beensmoked/status/1825599536590688641)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PostsOfCats/status/1826157484869894276)
+- Ref img, source: [twt@](https://x.com/PokemanZ0N6/status/1825883117590294652)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/TheCinesthetic/status/1826181194544828688)
+- Ref img, source: [twt@](https://x.com/messedupfoods/status/1826135896313442675)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/catswithaura/status/1826159263305314453)
+- Ref img, source: [twt@](https://x.com/sneako/status/1826177142008520912)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/sara21222122/status/1826181376493986122)
+
+# ---
+# ---
+
 --- Git: Day C6 --- Still vacation.
 
 - Ref img, source: [twt@](https://x.com/SayaScarlet01/status/1825862936440746253)
