@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/Eminem/status/1826273331202716089)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/ghiblipicture/status/1825805176302637184)
 - Ref img, source: [twt@](https://x.com/pewpiece/status/1826243114866204949)
