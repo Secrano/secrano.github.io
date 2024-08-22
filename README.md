@@ -2,6 +2,13 @@
 
 --- Git: Day C8 -- Stoopid shiet.
 
+- Ref img, source: [twt@](https://x.com/minchoi/status/1826008208315670610)
+- Ref img, source: [twt@](https://x.com/tayvzzx2/status/1826289977749377338)
+- Ref img, source: [twt@](https://x.com/Eminem/status/1826273331202716089)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/ghiblipicture/status/1825805176302637184)
 - Ref img, source: [twt@](https://x.com/pewpiece/status/1826243114866204949)
 
