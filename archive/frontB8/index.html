@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Cosmic Piano - Für Elise (yes) </title>
+    <style>
+        body { background-color: #000; margin: 0; overflow: hidden; font-family: Arial, sans-serif; }
+        canvas { display: block; position: absolute; }
+        #backgroundCanvas { z-index: 1; }
+        #fallingNotesCanvas { z-index: 2; }
+        #pianoCanvas { bottom: 0; z-index: 3; }
+        #controls { position: absolute; top: 10px; left: 10px; z-index: 4; }
+        button { background-color: rgba(0, 100, 255, 0.5); border: none; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px; }
+        button:hover { background-color: rgba(0, 150, 255, 0.7); }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tone/14.8.49/Tone.js"></script>
+</head>
+<body>
+    <div id="controls">
+        <button id="playButton">Play Für Elise</button>
+        <button id="stopButton">Stop</button>
+        <button id="guidedPlayButton">Start Guided Play</button>
+    </div>
+    <canvas id="backgroundCanvas"></canvas>
+    <canvas id="fallingNotesCanvas"></canvas>
+    <canvas id="pianoCanvas"></canvas>
+    <script>
+        const backgroundCanvas = document.getElementById('backgroundCanvas');
+        const bgCtx = backgroundCanvas.getContext('2d');
+        const pianoCanvas = document.getElementById('pianoCanvas');
+        const pianoCtx = pianoCanvas.getContext('2d');
+        const fallingNotesCanvas = document.getElementById('fallingNotesCanvas');
+        const fallingNotesCtx = fallingNotesCanvas.getContext('2d');
+
+        backgroundCanvas.width = fallingNotesCanvas.width = pianoCanvas.width = window.innerWidth;
+        backgroundCanvas.height = fallingNotesCanvas.height = window.innerHeight;
+        pianoCanvas.height = window.innerHeight * 0.3;
+
+        const keys = ['C', 'D', 'E', 'F', 'G', 'A', 'B'];
+        const blackKeys = ['C#', 'D#', 'F#', 'G#', 'A#'];
+
+        const keyWidth = pianoCanvas.width / (7 * 4); // 4 octaves
+        const keyHeight = pianoCanvas.height;
+
+        const fallingNotes = [];
+        const blocksPieces = [];
+        let guidedNotes = [];
+
+        // Tone.js setup
+        const synth = new Tone.Sampler({
+            urls: {
+                A0: "A0.mp3", C1: "C1.mp3", "D#1": "Ds1.mp3", "F#1": "Fs1.mp3", A1: "A1.mp3",
+                C2: "C2.mp3", "D#2": "Ds2.mp3", "F#2": "Fs2.mp3", A2: "A2.mp3", C3: "C3.mp3",
+                "D#3": "Ds3.mp3", "F#3": "Fs3.mp3", A3: "A3.mp3", C4: "C4.mp3", "D#4": "Ds4.mp3",
+                "F#4": "Fs4.mp3", A4: "A4.mp3", C5: "C5.mp3", "D#5": "Ds5.mp3", "F#5": "Fs5.mp3",
+                A5: "A5.mp3", C6: "C6.mp3", "D#6": "Ds6.mp3", "F#6": "Fs6.mp3", A6: "A6.mp3",
+                C7: "C7.mp3", "D#7": "Ds7.mp3", "F#7": "Fs7.mp3", A7: "A7.mp3", C8: "C8.mp3"
+            },
+            release: 1,
+            baseUrl: "https://tonejs.github.io/audio/salamander/"
+        }).toDestination();
+
+        // Für Elise sequence (first few measures)
+        const furElise = [
+            { note: 'E5', duration: '8n' }, { note: 'D#5', duration: '8n' },
+            { note: 'E5', duration: '8n' }, { note: 'D#5', duration: '8n' },
+            { note: 'E5', duration: '8n' }, { note: 'B4', duration: '8n' },
+            { note: 'D5', duration: '8n' }, { note: 'C5', duration: '8n' },
+            { note: 'A4', duration: '4n' }, { note: 'C4', duration: '8n' },
+            { note: 'E4', duration: '8n' }, { note: 'A4', duration: '8n' },
+            { note: 'B4', duration: '4n' }, { note: 'E4', duration: '8n' },
+            { note: 'G#4', duration: '8n' }, { note: 'B4', duration: '8n' },
+            { note: 'C5', duration: '4n' },
+            // Add more notes to complete the sequence
+        ];
+
+        let isPlaying = false;
+        let isGuidedPlay = false;
+
+        function createGradient(ctx, x, y, width, height, colorStops) {
+            const gradient = ctx.createLinearGradient(x, y, x + width, y + height);
+            colorStops.forEach(([stop, color]) => gradient.addColorStop(stop, color));
+            return gradient;
+        }
+
+        function drawPiano() {
+            pianoCtx.clearRect(0, 0, pianoCanvas.width, pianoCanvas.height);
+
+            for (let octave = 0; octave < 4; octave++) {
+                for (let i = 0; i < 7; i++) {
+                    const x = (octave * 7 + i) * keyWidth;
+
+                    // White key gradient (cosmic theme)
+                    const whiteKeyGradient = createGradient(pianoCtx, x, 0, keyWidth, keyHeight, [
+                        [0, '#000033'],   // Very dark blue
+                        [0.5, '#000066'], // Dark blue
+                        [1, '#0000AA']    // Medium blue
+                    ]);
+                    pianoCtx.fillStyle = whiteKeyGradient;
+                    pianoCtx.fillRect(x, 0, keyWidth, keyHeight);
+
+                    // Key frame (cosmic glow)
+                    pianoCtx.strokeStyle = '#00FFFF'; // Bright cyan frame
+                    pianoCtx.lineWidth = 2;
+                    pianoCtx.strokeRect(x, 0, keyWidth, keyHeight);
+
+                    if (i !== 2 && i !== 6) {
+                        // Black key gradient
+                        const blackKeyGradient = createGradient(pianoCtx, x + keyWidth * 0.65, 0, keyWidth * 0.7, keyHeight * 0.6, [
+                            [0, '#000000'],   // Black
+                            [0.5, '#111111'], // Very dark gray
+                            [1, '#222222']    // Dark gray
+                        ]);
+                        pianoCtx.fillStyle = blackKeyGradient;
+                        pianoCtx.fillRect(x + keyWidth * 0.65, 0, keyWidth * 0.7, keyHeight * 0.6);
+
+                        // Black key frame (cosmic glow)
+                        pianoCtx.strokeStyle = '#00FFFF'; // Bright cyan frame
+                        pianoCtx.strokeRect(x + keyWidth * 0.65, 0, keyWidth * 0.7, keyHeight * 0.6);
+                    }
+                }
+            }
+        }
+
+        function highlightKey(note, color = 'rgba(255, 255, 0, 0.5)') {
+            const noteInfo = Tone.Frequency(note).toMidi();
+            const octave = Math.floor(noteInfo / 12) - 1;
+            const keyIndex = noteInfo % 12;
+            const x = (octave * 7 + (keyIndex < 5 ? Math.floor(keyIndex * 7 / 12) : Math.floor((keyIndex + 1) * 7 / 12))) * keyWidth;
+            const isBlackKey = blackKeys.includes(note.replace(/\d+/, ''));
+
+            pianoCtx.fillStyle = color;
+            if (isBlackKey) {
+                pianoCtx.fillRect(x + keyWidth * 0.65, 0, keyWidth * 0.7, keyHeight * 0.6);
+            } else {
+                pianoCtx.fillRect(x, 0, keyWidth, keyHeight);
+            }
+        }
+
+        function playNote(note) {
+            synth.triggerAttackRelease(note, "8n");
+            createFallingNote(note);
+            highlightKey(note);
+            createblocksPiece(note);
+        }
+
+        function createFallingNote(note) {
+            const noteInfo = Tone.Frequency(note).toMidi();
+            const octave = Math.floor(noteInfo / 12) - 1;
+            const keyIndex = noteInfo % 12;
+            const x = (octave * 7 + (keyIndex < 5 ? Math.floor(keyIndex * 7 / 12) : Math.floor((keyIndex + 1) * 7 / 12))) * keyWidth;
+
+            fallingNotes.push({
+                x: x + keyWidth / 2,
+                y: 0,
+                speed: 5,
+                color: `hsl(${Math.random() * 360}, 100%, 50%)`,
+                note: note
+            });
+        }
+
+        function createblocksPiece(note) {
+            const noteInfo = Tone.Frequency(note).toMidi();
+            const octave = Math.floor(noteInfo / 12) - 1;
+            const keyIndex = noteInfo % 12;
+            const x = (octave * 7 + (keyIndex < 5 ? Math.floor(keyIndex * 7 / 12) : Math.floor((keyIndex + 1) * 7 / 12))) * keyWidth;
+
+            blocksPieces.push({
+                x: x + keyWidth / 2,
+                y: 0,
+                width: keyWidth * 0.8,
+                height: keyWidth * 0.8,
+                speed: 2,
+                color: `hsl(${Math.random() * 360}, 100%, 50%)`
+            });
+        }
+
+        function updateFallingElements() {
+            fallingNotesCtx.clearRect(0, 0, fallingNotesCanvas.width, fallingNotesCanvas.height);
+
+            // Update falling notes
+            for (let i = fallingNotes.length - 1; i >= 0; i--) {
+                const note = fallingNotes[i];
+                note.y += note.speed;
+
+                fallingNotesCtx.fillStyle = note.color;
+                fallingNotesCtx.beginPath();
+                fallingNotesCtx.moveTo(note.x, note.y);
+                fallingNotesCtx.lineTo(note.x - keyWidth / 4, note.y + keyWidth / 2);
+                fallingNotesCtx.lineTo(note.x + keyWidth / 4, note.y + keyWidth / 2);
+                fallingNotesCtx.closePath();
+                fallingNotesCtx.fill();
+
+                fallingNotesCtx.fillStyle = 'white';
+                fallingNotesCtx.font = '12px Arial';
+                fallingNotesCtx.textAlign = 'center';
+                fallingNotesCtx.fillText(note.note, note.x, note.y + keyWidth / 4);
+
+                if (note.y > fallingNotesCanvas.height) {
+                    fallingNotes.splice(i, 1);
+                }
+            }
+
+            // Update blocks pieces
+            for (let i = blocksPieces.length - 1; i >= 0; i--) {
+                const piece = blocksPieces[i];
+                piece.y += piece.speed;
+
+                fallingNotesCtx.fillStyle = piece.color;
+                fallingNotesCtx.fillRect(piece.x - piece.width / 2, piece.y, piece.width, piece.height);
+
+                if (piece.y > fallingNotesCanvas.height) {
+                    blocksPieces.splice(i, 1);
+                }
+            }
+        }
+
+        function drawStarryBackground() {
+            bgCtx.fillStyle = '#000033';
+            bgCtx.fillRect(0, 0, backgroundCanvas.width, backgroundCanvas.height);
+
+            for (let i = 0; i < 200; i++) {
+                const x = Math.random() * backgroundCanvas.width;
+                const y = Math.random() * backgroundCanvas.height;
+                const radius = Math.random() * 1.5;
+                const hue = Math.random() * 60 + 180; // Blue to cyan
+                bgCtx.fillStyle = `hsl(${hue}, 100%, 80%)`;
+                bgCtx.beginPath();
+                bgCtx.arc(x, y, radius, 0, Math.PI * 2);
+                bgCtx.fill();
+            }
+        }
+
+        function animate() {
+            updateFallingElements();
+            requestAnimationFrame(animate);
+        }
+
+        function startAutoplay() {
+            if (isPlaying) return;
+            isPlaying = true;
+            guidedNotes = [...furElise];
+            playGuided();
+        }
+
+        function stopAutoplay() {
+            isPlaying = false;
+            isGuidedPlay = false;
+        }
+
+        function playGuided() {
+            if (guidedNotes.length > 0 && (isPlaying || isGuidedPlay)) {
+                const { note, duration } = guidedNotes.shift();
+                playNote(note);
+                highlightKey(note, 'rgba(0, 255, 255, 0.5)');
+                setTimeout(() => {
+                    drawPiano();
+                    playGuided();
+                }, Tone.Time(duration).toMilliseconds());
+            } else {
+                isPlaying = false;
+                isGuidedPlay = false;
+            }
+        }
+
+        function startGuidedPlay() {
+            if (isGuidedPlay) return;
+            isGuidedPlay = true;
+            guidedNotes = [...furElise];
+            playGuided();
+        }
+
+        pianoCanvas.addEventListener('mousedown', (event) => {
+            const rect = pianoCanvas.getBoundingClientRect();
+            const x = event.clientX - rect.left;
+            const y = event.clientY - rect.top;
+
+            const octave = Math.floor(x / (keyWidth * 7));
+            const keyIndex = Math.floor((x % (keyWidth * 7)) / keyWidth);
+
+	let note;
+            if (y < keyHeight * 0.6 && (keyIndex !== 2 && keyIndex !== 6)) {
+                // Check if black key is pressed
+                if (x % keyWidth > keyWidth * 0.65) {
+                    const blackKeyIndex = (keyIndex < 3) ? keyIndex : keyIndex - 1;
+                    note = blackKeys[blackKeyIndex] + (octave + 4);
+                } else {
+                    note = keys[keyIndex] + (octave + 4);
+                }
+            } else {
+                note = keys[keyIndex] + (octave + 4);
+            }
+            playNote(note);
+
+            if (isGuidedPlay && guidedNotes.length > 0) {
+                if (note === guidedNotes[0].note) {
+                    guidedNotes.shift();
+                    highlightKey(note, 'rgba(0, 255, 0, 0.5)'); // Green for correct note
+                } else {
+                    highlightKey(note, 'rgba(255, 0, 0, 0.5)'); // Red for incorrect note
+                }
+                setTimeout(drawPiano, 200);
+            }
+        });
+
+        document.getElementById('playButton').addEventListener('click', startAutoplay);
+        document.getElementById('stopButton').addEventListener('click', stopAutoplay);
+        document.getElementById('guidedPlayButton').addEventListener('click', startGuidedPlay);
+
+        function init() {
+            drawStarryBackground();
+            drawPiano();
+            animate();
+        }
+
+        init();
+    </script>
+</body>
+</html>
