@@ -36,6 +36,7 @@
 - Flying black hole (cat been sent to outer space).
 - Dimension reduction, Model: phase transition.
 - The Piano, a gift from heaven (with sound demo samples).
+- Meanwhile asking AI on math display (6 AI art samples of hidden prompts).
 
 # ---
 - Hello world.
