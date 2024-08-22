@@ -1,5 +1,11 @@
 # secrano.github.io
 
+--- Git: Day D0 - 
+
+- Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1826550523366953437)
+
+# ---
+
 --- Git: Day C8 -- Stoopid shiet.
 
 - Ref img, source: [twt@](https://x.com/minchoi/status/1826008208315670610)
