@@ -1,9 +1,20 @@
 # secrano.github.io
 
---- Git: Day D0 - 
+--- Git: Day D0 - Dreams.
+
+- Ref img, source: [twt@](https://x.com/fopminui/status/1826659579658469704)
+- Ref img, source: [twt@](https://x.com/fopminui/status/1826659579658469704)
+- Ref img, source: [twt@](https://x.com/tiwonnies/status/1826842848861241609)
+- Ref img, source: [twt@](https://x.com/milkynoe/status/1826727863984292099)
+- Ref img, source: [twt@](https://x.com/majeliskucing/status/1826882565896102129)
+- Ref img, source: [twt@](https://x.com/SydusArts/status/1826690355435372828)
+
+# ---
 
 - Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1826550523366953437)
 
+# ---
+Music: "[alan ～kuwon no kawa～ Chinese version](https://www.youtube.com/watch?v=uc7Mr2oseP8)" uploaded by floyd canvas miu
 # ---
 
 --- Git: Day C8 -- Stoopid shiet.
