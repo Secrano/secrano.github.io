@@ -1,5 +1,11 @@
 # secrano.github.io
 
+--- Git: Day D2 - DEI.
+
+- Ref img, source: [twt@](https://x.com/MangaContexts/status/1826995820559782334)
+
+# ---
+
 --- Git: Day D0 - Dreams.
 
 - Ref img, source: [twt@](https://x.com/fopminui/status/1826659579658469704)
