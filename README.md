@@ -1,5 +1,24 @@
 # secrano.github.io
 
+--- Git: Day D4 - Path of progress.
+
+- Ref img, source: [twtx@](https://x.com/washanapple/status/1827312937352229226)
+- Ref img, source: [twtx@](https://x.com/PhysInHistory/status/1827240119780155730)
+- Ref img, source: [twtx@](https://x.com/ito_ito_18/status/1827217214573039859)
+- Ref img, source: [twtx@](https://x.com/ito_ito_18/status/1826984345682555119)
+
+- Ref img, source: [twtx@](https://x.com/K293310/status/1827290318837850451)
+- Ref img, source: [twtx@](https://x.com/gorillasu/status/1827332149126533485)
+- Ref img, source: [twtx@](https://x.com/zozozoshion/status/1827331681642225937)
+- Ref img, source: [twtx@](https://x.com/AnatoFinnstark/status/1827013809543798935)
+
+- Ref img, source: [twtx@](https://x.com/p1ct0a1/status/1826955350555472053)
+- Ref img, source: [twtx@](https://x.com/Buti202303/status/1826944978909892759)
+- Ref img, source: [twtx@](https://x.com/NoCatsNoLife_m/status/1827363992429338987)
+- Ref img, source: [twtx@](https://x.com/ennui11521/status/1826773220986683438)
+
+# ---
+
 --- Git: Day D2 - DEI.
 
 - Ref img, source: [twt@](https://x.com/MangaContexts/status/1826995820559782334)
