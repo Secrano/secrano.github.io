@@ -1,5 +1,33 @@
 # secrano.github.io
 
+--- Git: Day D8 - Senpai.
+
+- Ref img, source: [twtx@](https://x.com/MangaContexts/status/1827653155301073301)
+- Ref img, source: [twtx@](https://x.com/AiBreakfast/status/1827725355563856345)
+- Ref img, source: [twtx@](https://x.com/meltenx/status/1827775160381767784)
+
+<br/>
+
+- Ref img, source: [twtx@](https://x.com/anadearmasdaily/status/1827770926550901007)
+- Ref img, source: [twtx@](https://x.com/retro_twt/status/1827684858354659599)
+- Ref img, source: [twtx@](https://x.com/ai_zerara/status/1827628229261177158)
+- Ref img, source: [twtx@](https://x.com/yomuyakadashi/status/1827708006471012699)
+
+<br/>
+
+- Ref img, source: [twtx@](https://x.com/allontanarsio/status/1827766660490498497)
+- Ref img, source: [twtx@](https://x.com/MangaContexts/status/1827750793501409548)
+- Ref img, source: [twtx@](https://x.com/allontanarsio/status/1827766238090563630)
+- Ref img, source: [twtx@](https://x.com/AnActualPersn/status/1827739174151110980)
+
+<br/>
+
+- Ref img, source: [twtx@](https://x.com/HisenseIntl/status/1825733584025784523)
+- Ref img, source: [twtx@](https://x.com/miboso__/status/1827699962920173839)
+- Ref img, source: [twtx@](https://x.com/BubbleXc27vr2/status/1827735727251329426)
+
+# ---
+
 --- Git: Day D6 - Book release.
 
 - Ref img, source: [twtx@](https://x.com/sevenotsu/status/1729308200539967901/photo/1)
