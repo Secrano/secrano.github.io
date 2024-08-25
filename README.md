@@ -1,5 +1,21 @@
 # secrano.github.io
 
+--- Git: Day D6 - Book release.
+
+- Ref img, source: [twtx@](https://x.com/sevenotsu/status/1729308200539967901/photo/1)
+- Ref img, source: [twtx@](https://x.com/MangaContexts/status/1827592750377660593)
+
+<br/>
+
+- Ref img, source: [twtx@](https://x.com/PunchingCat/status/1827501719728861213)
+- Ref img, source: [twtx@](https://x.com/netflix/status/1827481013632573501)
+- Ref img, source: [twtx@](https://x.com/cb_doge/status/1827616668035772867)
+- Ref img, source: [twtx@](https://x.com/NoCatsNoLife_m/status/1827540466830864568)
+
+# ---
+Music: "[Goddesse of the Ocean](https://www.youtube.com/watch?v=2TLqPX_6l5s)" uploaded by Panic Music
+# ---
+
 --- Git: Day D4 - Path of progress.
 
 - Ref img, source: [twtx@](https://x.com/washanapple/status/1827312937352229226)
