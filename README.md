@@ -28,4 +28,3 @@
 - Ref img, source: [twtx@](https://x.com/GXAuraOfficial/status/1827866065696624866)
 
 # ---
-# ---
