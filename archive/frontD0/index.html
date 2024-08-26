@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Generated AI art display </title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(to bottom, #0d0d0d, #1a1a1a);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      height: 100vh;
+      font-family: Arial, sans-serif;
+    }
+
+    #display-container {
+      position: relative;
+      width: 500px;
+      height: 500px;
+      margin-top: 50px;
+    }
+
+    #display-canvas {
+      width: 100%;
+      height: 100%;
+      border: 2px solid #4d4d4d;
+      box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+    }
+
+    .icon {
+      width: 12px;
+      height: 12px;
+      margin: 0 5px;
+      background-color: #4d4d4d;
+      border-radius: 50%;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+
+    .icon.active {
+      background-color: #fff;
+    }
+
+    #icon-container {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div id="display-container">
+    <canvas id="display-canvas"></canvas>
+  </div>
+  <div id="icon-container"></div>
+
+  <script>
+    // List of WebP image URLs
+    const images = [
+      'https://secrano.github.io/archive/subpages/image1.webp',
+      'https://secrano.github.io/archive/subpages/image2.webp',
+      'https://secrano.github.io/archive/subpages/image3.webp',
+      'https://secrano.github.io/archive/subpages/image4.webp',
+      'https://secrano.github.io/archive/subpages/image5.webp',
+      'https://secrano.github.io/archive/subpages/image6.webp',
+    ];
+
+    // Get the canvas element
+    const canvas = document.getElementById('display-canvas');
+    const ctx = canvas.getContext('2d');
+
+    // Set the canvas size to be square
+    canvas.width = 500;
+    canvas.height = 500;
+
+    // Create the icon container
+    const iconContainer = document.getElementById('icon-container');
+
+    // Current image index
+    let currentIndex = 0;
+
+    // Function to display the image
+    function displayImage(index) {
+      const img = new Image();
+      img.src = images[index];
+      img.onload = function() {
+        // Resize the image to fit the canvas
+        const scale = Math.min(canvas.width / img.width, canvas.height / img.height);
+        const x = (canvas.width - img.width * scale) / 2;
+        const y = (canvas.height - img.height * scale) / 2;
+        ctx.drawImage(img, x, y, img.width * scale, img.height * scale);
+      };
+    }
+
+    // Function to create the icons
+    function createIcons() {
+      images.forEach((_, index) => {
+        const iconElement = document.createElement('div');
+        iconElement.classList.add('icon');
+        iconElement.addEventListener('click', () => {
+          currentIndex = index;
+          updateIcons();
+          displayImage(currentIndex);
+        });
+        iconContainer.appendChild(iconElement);
+      });
+
+      updateIcons();
+    }
+
+    // Function to update the active icon
+    function updateIcons() {
+      const icons = iconContainer.querySelectorAll('.icon');
+      icons.forEach((icon, index) => {
+        if (index === currentIndex) {
+          icon.classList.add('active');
+        } else {
+          icon.classList.remove('active');
+        }
+      });
+    }
+
+    // Display the first image
+    displayImage(currentIndex);
+
+    // Create the icons
+    createIcons();
+
+    // Add event listeners for navigation
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'a' || e.key === 'ArrowLeft') {
+        currentIndex = (currentIndex - 1 + images.length) % images.length;
+        updateIcons();
+        displayImage(currentIndex);
+      } else if (e.key === 'd' || e.key === 'ArrowRight') {
+        currentIndex = (currentIndex + 1) % images.length;
+        updateIcons();
+        displayImage(currentIndex);
+      }
+    });
+  </script>
+</body>
+</html>
