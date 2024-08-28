@@ -1,5 +1,56 @@
 # secrano.github.io
 
+--- Git: Day E4 - Size issue.
+
+- Ref img, source: [twtx@](https://x.com/AniNewsAndFacts/status/1828444919502893113)
+- Ref img, source: [twtx@](https://x.com/hourly_shitpost/status/1828719233032712575)
+- Ref img, source: [twtx@](https://x.com/matriix_heat/status/1828601136569352387)
+- Ref img, source: [twtx@](https://x.com/PostsOfCats/status/1828486608401629445)
+
+<br/>
+
+- Ref img, source: [twtx@](https://x.com/LoLUKN/status/1828477855719682053)
+- Ref img, source: [twtx@](https://x.com/Fs_Hao_/status/1828369845362020564)
+- Ref img, source: [twtx@](https://x.com/yumesyokunin/status/1828011171955519944)
+- Ref img, source: [twtx@](https://x.com/ILLUMINUSNUMB_/status/1828096457070756056)
+
+<br/>
+
+- Ref img, source: [twtx@](https://x.com/Shefali__J/status/1828047240788652056)
+- Ref img, source: [twtx@](https://x.com/iamlordzeus/status/1828323622622314739)
+- Ref img, source: [twtx@](https://x.com/newworldartur/status/1828062508365848740)
+- Ref img, source: [twtx@](https://x.com/Ira_TheArtist/status/1828428227674567017)
+
+<br/>
+
+- Ref img, source: [twtx@](https://x.com/makeine_anime/status/1828628576352211057)
+- Ref img, source: [twtx@](https://x.com/WomenBeingAwful/status/1828180441083379940)
+- Ref img, source: [twtx@](https://x.com/ifoundyoufaker/status/1828143901192134752)
+- Ref img, source: [twtx@](https://x.com/Schl4fy/status/1828046007398985857)
+
+<br/>
+
+- Ref img, source: [twtx@](https://x.com/ShouldHaveCat/status/1828257129238536697)
+- Ref img, source: [twtx@](https://x.com/GIO_PAINT/status/1828301150438772908)
+- Ref img, source: [twtx@](https://x.com/milkynoe/status/1828199690547920929)
+- Ref img, source: [twtx@](https://x.com/PunchingCat/status/1828527987710636388)
+
+<br/>
+
+- Ref img, source: [twtx@](https://x.com/shibayu4/status/1828719175654691109)
+- Ref img, source: [twtx@](https://x.com/KrSpeed_/status/1828118692250468845)
+- Ref img, source: [twtx@](https://x.com/Yoda4ever/status/1828419714080813361)
+- Ref img, source: [twtx@](https://x.com/RoboticSteve/status/1828519179525173566)
+
+<br/>
+
+- Ref img, source: [twtx@](https://x.com/SkinSpotlights/status/1828502718324834436)
+- Ref img, source: [twtx@](https://x.com/DocStrangelove2/status/1828507119055745050)
+- Ref img, source: [twtx@](https://x.com/ValkyraeUpdates/status/1828546010018095342)
+- Ref img, source: [twtx@](https://x.com/pragquartet/status/1828125195196059978)
+
+# ---
+
 --- Git: Day E2 - Getting served.
 
 - Ref img, source: [twtx@](https://x.com/retro_twt/status/1828266214734319626)
