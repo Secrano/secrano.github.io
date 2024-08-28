@@ -1,5 +1,53 @@
 # secrano.github.io
 
+--- Git: Day E6 - ur brother.
+
+- Ref img, source: [twt@](https://x.com/antan356142/status/1828892673065005179)
+- Ref img, source: [twtx@](https://x.com/zozozoshion/status/1828792567280152960)
+- Ref img, source: [twtx@](https://x.com/Miu_ryy/status/1828855429319012480)
+- Ref img, source: [twtx@](https://x.com/TheFigen_/status/1828776392152215912)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/sasukeKantana/status/1828542642613035492)
+- Ref img, source: [twtx@](https://x.com/AMAZlNGNATURE/status/1828783397763752240)
+- Ref img, source: [twtx@](https://x.com/hourly_shitpost/status/1828919241296257301)
+- Ref img, source: [twtx@](https://x.com/RickRubin/status/1828462449646846209)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/natsu_nokimi/status/1828723777427083736)
+- Ref img, source: [twtx@](https://x.com/yumesyokunin/status/1828552306998288551)
+- Ref img, source: [twtx@](https://x.com/vasilisassoul/status/1828573510135906617)
+- Ref img, source: [twtx@](https://x.com/NeneneAI/status/1828569380176961975)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/piotrbinkowski/status/1828850114871627989)
+- Ref img, source: [twtx@](https://x.com/ALCrego_/status/1828638208009093525)
+- Ref img, source: [twtx@](https://x.com/dailynaruto__/status/1828511609935061107)
+- Ref img, source: [twtx@](https://x.com/PunchingCat/status/1828865094123696241)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/piotrbinkowski/status/1828874430958727365)
+- Ref img, source: [twtx@](https://x.com/duolingo/status/1828885432592986143)
+- Ref img, source: [twtx@](https://x.com/CatWorkers/status/1828901282859368757)
+- Ref img, source: [twtx@](https://x.com/ShouldHaveCat/status/1828855152851210596)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/shibagani48/status/1828809771282989076)
+- Ref img, source: [twtx@](https://x.com/Miu_ryy/status/1828772192269766849)
+- Ref img, source: [twtx@](https://x.com/kuchan_AI/status/1828900853912351216)
+- Ref img, source: [twtx@](https://x.com/PunchingCat/status/1828904937184690686)
+- Ref img, source: [twtx@](https://x.com/BubbleXc27vr2/status/1828824818634129576)
+- Ref img, source: [twt@](https://x.com/miboso__/status/1828624446762164693)
+
+# ---
+Music: "[Chris Christodoulou - Risk of Rain 2 (2020)](https://www.youtube.com/watch?v=RUN6Kqd9xgs)" uploaded by Chris Christodoulou
+# ---
+
 --- Git: Day E4 - Size issue.
 
 - Ref img, source: [twtx@](https://x.com/AniNewsAndFacts/status/1828444919502893113)
