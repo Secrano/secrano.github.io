@@ -3,343 +3,72 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Wukong Quantum Stick 3D Final </title>
+    <title> WebP Image Git Display </title>
     <style>
-        body { margin: 0; overflow: hidden; }
-        canvas { display: block; }
+        body {
+            background-color: #1a1a1a;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .image-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        .image-container {
+            background-color: #2a2a2a;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .image-container img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
     </style>
 </head>
 <body>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <div class="image-grid" id="imageGrid"></div>
+
     <script>
-        let scene, camera, renderer, stick, templeGroup, sparks, finalSpark;
-        let isExpanding = false;
-        let isSwinging = false;
-        const rods = [];
-        const rodCount = 3;
-        let swingStartTime = 0;
-        let swingPhase = 0; // 0: expanding, 1: spinning, 2: collapsing, 3: fading, 4: final spark
+        const images = [
+            'https://secrano.github.io/archive/subpages/image7.webp',
+            'https://secrano.github.io/archive/subpages/image8.webp',
+            'image4.webp',
+            'image4b.webp'
+        ];
 
-        function init() {
-            scene = new THREE.Scene();
-            scene.background = new THREE.Color(0x87CEEB);
+        const imageGrid = document.getElementById('imageGrid');
 
-            camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
-            renderer = new THREE.WebGLRenderer({ antialias: true });
-            renderer.setSize(window.innerWidth, window.innerHeight);
-            renderer.shadowMap.enabled = true;
-            renderer.shadowMap.type = THREE.PCFSoftShadowMap;
-            document.body.appendChild(renderer.domElement);
+        // Function to create and append image elements
+        function displayImages(count) {
+            imageGrid.innerHTML = '';
+            for (let i = 0; i < count; i++) {
+                if (i < images.length) {
+                    const container = document.createElement('div');
+                    container.className = 'image-container';
 
-            createTemple();
-            createStick();
-            createRods();
-            createSparks();
-            createRelics();
-            createFinalSpark();
-            setupLighting();
+                    const img = document.createElement('img');
+                    img.src = images[i];
+                    img.alt = `Image ${i + 1}`;
 
-            camera.position.set(0, 5, 10);
-            camera.lookAt(0, 10, 0);
-
-            window.addEventListener('resize', onWindowResize, false);
-            window.addEventListener('keydown', onKeyDown, false);
-        }
-
-        function createStick() {
-            const geometry = new THREE.CylinderGeometry(0.033, 0.033, 2, 32);
-            const material = new THREE.MeshStandardMaterial({
-                color: 0xFFD700,
-                metalness: 0.8,
-                roughness: 0.2,
-                emissive: 0xFFD700,
-                emissiveIntensity: 0.2
-            });
-            stick = new THREE.Mesh(geometry, material);
-            addDecorations(stick);
-            stick.position.y = 6.5; // Moved to top of the roof
-            stick.castShadow = true;
-            scene.add(stick);
-        }
-
-        function createRods() {
-            for (let i = 0; i < rodCount; i++) {
-                const rod = stick.clone();
-                rod.position.set(0, 6.5, 0); // Moved to top of the roof
-                rod.scale.set(0.1, 0.1, 30);
-                rod.visible = false;
-                rods.push(rod);
-                scene.add(rod);
-            }
-        }
-
-        function createSparks() {
-            sparks = new THREE.Group();
-            const sparkMaterial = new THREE.SpriteMaterial({
-                map: new THREE.TextureLoader().load('https://threejsfundamentals.org/threejs/resources/images/star.png'),
-                color: 0xFFFF00,
-                blending: THREE.AdditiveBlending,
-                transparent: true
-            });
-            for (let i = 0; i < 200; i++) {
-                const spark = new THREE.Sprite(sparkMaterial);
-                spark.scale.set(0.1, 0.1, 0.1);
-                spark.position.set(
-                    (Math.random() - 0.5) * 8,
-                    (Math.random() - 0.5) * 8 + 6.5, // Centered around the top of the roof
-                    (Math.random() - 0.5) * 8
-                );
-                sparks.add(spark);
-            }
-            scene.add(sparks);
-            sparks.visible = false;
-        }
-
-        function createFinalSpark() {
-            const geometry = new THREE.SphereGeometry(0.1, 32, 32);
-            const material = new THREE.MeshBasicMaterial({
-                color: 0xFFFF00,
-                transparent: true,
-                opacity: 0
-            });
-            finalSpark = new THREE.Mesh(geometry, material);
-            finalSpark.position.set(0, 6.5, 0); // Centered at the top of the roof
-            scene.add(finalSpark);
-        }
-
-        function createRelics() {
-            const relicGeometry = new THREE.TorusKnotGeometry(0.3, 0.1, 128, 16);
-            const relicMaterial = new THREE.MeshStandardMaterial({
-                color: 0xA020F0,
-                metalness: 0.7,
-                roughness: 0.2,
-                emissive: 0x4B0082,
-                emissiveIntensity: 0.2
-            });
-
-            const relic1 = new THREE.Mesh(relicGeometry, relicMaterial);
-            relic1.position.set(-5, 6.5, 0); // Moved to top of the roof
-            relic1.castShadow = true;
-            scene.add(relic1);
-
-            const relic2 = new THREE.Mesh(relicGeometry, relicMaterial);
-            relic2.position.set(5, 6.5, 0); // Moved to top of the roof
-            relic2.castShadow = true;
-            scene.add(relic2);
-        }
-
-        function addDecorations(stickMesh) {
-            const ringGeometry = new THREE.TorusGeometry(0.05, 0.01, 32, 100);
-            const ringMaterial = new THREE.MeshStandardMaterial({
-                color: 0xFFA500,
-                metalness: 0.8,
-                roughness: 0.2,
-                emissive: 0xFF4500,
-                emissiveIntensity: 0.2
-            });
-
-            for (let i = 0; i < 5; i++) {
-                const ring = new THREE.Mesh(ringGeometry, ringMaterial);
-                ring.position.y = -0.9 + i * 0.45;
-                ring.rotation.x = Math.PI / 2;
-                stickMesh.add(ring);
-            }
-        }
-
-        function createTemple() {
-            templeGroup = new THREE.Group();
-
-            // Pillars
-            const pillarGeometry = new THREE.CylinderGeometry(0.2, 0.2, 4, 32);
-            const pillarMaterial = new THREE.MeshPhongMaterial({
-                color: 0xD2691E,
-                specular: 0x111111,
-                shininess: 30
-            });
-            for (let i = 0; i < 12; i++) {
-                const pillar = new THREE.Mesh(pillarGeometry, pillarMaterial);
-                pillar.position.set(
-                    (i % 4 - 1.5) * 5,
-                    2,
-                    Math.floor(i / 4) * 5 - 5
-                );
-                pillar.castShadow = true;
-                pillar.receiveShadow = true;
-                templeGroup.add(pillar);
-            }
-
-            scene.add(templeGroup);
-        }
-
-        function setupLighting() {
-            const ambientLight = new THREE.AmbientLight(0x404040, 0.5);
-            scene.add(ambientLight);
-
-            const directionalLight = new THREE.DirectionalLight(0xffffff, 0.8);
-            directionalLight.position.set(5, 10, 5);
-            directionalLight.castShadow = true;
-            directionalLight.shadow.mapSize.width = 1024;
-            directionalLight.shadow.mapSize.height = 1024;
-            directionalLight.shadow.camera.near = 1;
-            directionalLight.shadow.camera.far = 20;
-            scene.add(directionalLight);
-
-            const pointLight = new THREE.PointLight(0xFF6347, 1, 100);
-            pointLight.position.set(0, 10, 0);
-            scene.add(pointLight);
-        }
-
-        function onWindowResize() {
-            camera.aspect = window.innerWidth / window.innerHeight;
-            camera.updateProjectionMatrix();
-            renderer.setSize(window.innerWidth, window.innerHeight);
-        }
-
-        function onKeyDown(event) {
-            switch(event.key) {
-                case 'e':
-                    isExpanding = !isExpanding;
-                    break;
-                case 's':
-                    if (!isSwinging) {
-                        startSwingAttack();
-                    }
-                    break;
-            }
-        }
-
-        function startSwingAttack() {
-            isSwinging = true;
-            swingPhase = 0;
-            swingStartTime = Date.now();
-            stick.visible = false;
-            sparks.visible = true;
-            rods.forEach(rod => {
-                rod.visible = true;
-                rod.scale.set(0.1, 0.1, 3); // Start with original length
-                rod.position.set(0, 1, 0);
-                rod.material.opacity = 1;
-            });
-        }
-
-        function expandStick() {
-            if (isExpanding) {
-                if (stick.scale.x < 2) {
-                    stick.scale.x += 0.01;
-                    stick.scale.y += 0.01;
-                    stick.scale.z += 0.01;
-                }
-            } else {
-                if (stick.scale.x > 1) {
-                    stick.scale.x -= 0.01;
-                    stick.scale.y -= 0.01;
-                    stick.scale.z -= 0.01;
+                    container.appendChild(img);
+                    imageGrid.appendChild(container);
                 }
             }
         }
 
-        function swingAttack(time) {
-            if (isSwinging) {
-                const elapsedTime = (Date.now() - swingStartTime) / 1000;
+        // Initially display 2 images
+        displayImages(2);
 
-                switch (swingPhase) {
-                    case 0: // Expanding
-                        if (elapsedTime < 1) {
-                            rods.forEach(rod => {
-                                rod.scale.z = 3 + (30 - 3) * elapsedTime;
-                            });
-                        } else {
-                            swingPhase = 1;
-                            swingStartTime = Date.now();
-                        }
-                        break;
-                    case 1: // Spinning
-                        if (elapsedTime < 3) {
-                            for (let i = 0; i < rodCount; i++) {
-                                const rod = rods[i];
-                                rod.rotation.x = Math.sin(time * 0.01 + i * 2) * Math.PI;
-                                rod.rotation.y = Math.cos(time * 0.01 + i * 2) * Math.PI;
-                                rod.rotation.z = Math.sin(time * 0.01 + i * 2 + Math.PI/2) * Math.PI;
-
-                                const distance = 3;
-                                rod.position.set(
-                                    Math.cos(i * 2 * Math.PI / rodCount) * distance,
-                                    6.5 + Math.sin(time * 0.005) * 0.5,
-                                    Math.sin(i * 2 * Math.PI / rodCount) * distance
-                                );
-                            }
-                        } else {
-                            swingPhase = 2;
-                            swingStartTime = Date.now();
-                        }
-                        break;
-                    case 2: // Collapsing
-                        if (elapsedTime < 1) {
-                            rods.forEach(rod => {
-                                rod.scale.z = 30 - (30 - 3) * elapsedTime;
-                                rod.position.lerp(new THREE.Vector3(0, 6.5, 0), elapsedTime);
-                            });
-                        } else {
-                            swingPhase = 3;
-                            swingStartTime = Date.now();
-                        }
-                        break;
-                    case 3: // Fading
-                        if (elapsedTime < 1) {
-                            rods.forEach(rod => {
-                                rod.material.opacity = 1 - elapsedTime;
-                            });
-                        } else {
-                            swingPhase = 4;
-                            swingStartTime = Date.now();
-                        }
-                        break;
-                    case 4: // Final spark
-                        if (elapsedTime < 1) {
-                            finalSpark.scale.set(1 + elapsedTime * 20, 1 + elapsedTime * 20, 1 + elapsedTime * 20);
-                            finalSpark.material.opacity = 1 - elapsedTime;
-                        } else {
-                            endSwingAttack();
-                        }
-                        break;
-                }
-            }
-        }
-
-        function endSwingAttack() {
-            isSwinging = false;
-            stick.visible = true;
-            sparks.visible = false;
-            rods.forEach(rod => {
-                rod.visible = false;
-            });
-            finalSpark.scale.set(1, 1, 1);
-            finalSpark.material.opacity = 0;
-        }
-
-        function animateSparks(time) {
-            if (isSwinging) {
-                sparks.children.forEach((spark, index) => {
-                    spark.position.x = Math.sin(time * 0.02 + index) * 4;
-                    spark.position.y = Math.cos(time * 0.02 + index) * 4 + 6.5; // Centered around the top of the roof
-                    spark.position.z = Math.sin(time * 0.02 + index + Math.PI/2) * 4;
-                    spark.material.opacity = (Math.sin(time * 0.01 + index) + 1) / 2;
-                });
-            }
-        }
-
-        function animate(time) {
-            requestAnimationFrame(animate);
-
-            expandStick();
-            swingAttack(time);
-            animateSparks(time);
-
-            renderer.render(scene, camera);
-        }
-
-        init();
-        animate();
+        // You can change the number of displayed images by calling displayImages(n)
+        // where n is 2, 3, or 4
+        // For example: displayImages(4);
     </script>
 </body>
 </html>
