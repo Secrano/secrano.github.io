@@ -9,9 +9,9 @@
 
 <br/>
 
-- Ref img, source: [twt@](https://x.com/TFT/status/1828500322144186623
-- Ref img, source: [twtx@](https://x.com/_ai_doll_/status/1828024843788505258
-- Ref img, source: [twtx@](https://x.com/RichardNadler1/status/1828883259893367093
+- Ref img, source: [twt@](https://x.com/TFT/status/1828500322144186623)
+- Ref img, source: [twtx@](https://x.com/_ai_doll_/status/1828024843788505258)
+- Ref img, source: [twtx@](https://x.com/RichardNadler1/status/1828883259893367093)
 
 # ---
 Music: "[Across The Drift (Riftborn Theme) - Endless Space 2 OST](https://www.youtube.com/watch?v=fM0JHl_EZJ8)" uploaded by G4F Records
