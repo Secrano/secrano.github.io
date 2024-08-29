@@ -1,6 +1,6 @@
 # secrano.github.io
 
---- Git: Day E8 - Inner world || , depth.
+--- Git: Day E8 - Inner world || , depths.
 
 - Ref img, source: [twt@](https://x.com/YUDHO_XYZ/status/1828679342811164960)
 - Ref img, source: [twtx@](https://x.com/Jakob_Wahlberg/status/1828758288093286560)
