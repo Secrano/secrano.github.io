@@ -39,7 +39,7 @@
 - Meanwhile asking AI on math display (6 AI art samples of hidden prompts).
 - Special thanks to Sun wukong and Game Science (replika || e, s).
 - Duplicate git display in tabular fashion (book samples).
-- Game concept proposal rito MMO (contrast to reality).
+- Push to inner world (game concept proposal rito MMO), contrast to reality.
   
 # ---
 - Hello world.
