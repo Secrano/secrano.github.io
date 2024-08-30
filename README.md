@@ -1,5 +1,11 @@
 # secrano.github.io
 
+--- Git: Day F2 - Flaw'd.
+
+- Ref img, source: [twtx@](https://x.com/Miu_ryy/status/1829443851607589042)
+
+# ---
+
 --- Git: Day F0 - Not fantasy.
 
 - Ref img, source: [twt@](https://x.com/MarcoGrandFleet/status/1829137966557798576)
