@@ -3,72 +3,91 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> WebP Image Git Display </title>
+    <title> CSV Data Loading Progress (mod delay) </title>
     <style>
         body {
-            background-color: #1a1a1a;
-            color: #ffffff;
             font-family: Arial, sans-serif;
-            margin: 0;
+            max-width: 600px;
+            margin: 0 auto;
             padding: 20px;
         }
-        .image-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 20px;
-            max-width: 1000px;
-            margin: 0 auto;
+        .progress-container {
+            background-color: #f0f0f0;
+            border-radius: 5px;
+            margin: 10px 0;
         }
-        .image-container {
-            background-color: #2a2a2a;
-            border-radius: 8px;
-            overflow: hidden;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        .progress-bar {
+            width: 0;
+            height: 20px;
+            background-color: #4CAF50;
+            border-radius: 5px;
+            transition: width 0.3s ease-in-out;
         }
-        .image-container img {
-            width: 100%;
-            height: auto;
-            display: block;
+        .progress-label {
+            margin-top: 5px;
         }
     </style>
 </head>
 <body>
-    <div class="image-grid" id="imageGrid"></div>
+    Hello World.
+
+    <h1>CSV Data Downloading Progress</h1>
+    
+    <h2>User Data</h2>
+    <div class="progress-container">
+        <div class="progress-bar" id="userProgress"></div>
+    </div>
+    <div class="progress-label" id="userLabel">0%</div>
+    
+    <h2>Settings</h2>
+    <div class="progress-container">
+        <div class="progress-bar" id="settingsProgress"></div>
+    </div>
+    <div class="progress-label" id="settingsLabel">0%</div>
+    
+    <h2>Uploaded Data</h2>
+    <div class="progress-container">
+        <div class="progress-bar" id="uploadProgress"></div>
+    </div>
+    <div class="progress-label" id="uploadLabel">0%</div>
 
     <script>
-        const images = [
-            'https://secrano.github.io/archive/subpages/image7.webp',
-            'https://secrano.github.io/archive/subpages/image8.webp',
-            'image4.webp',
-            'image4b.webp'
-        ];
-
-        const imageGrid = document.getElementById('imageGrid');
-
-        // Function to create and append image elements
-        function displayImages(count) {
-            imageGrid.innerHTML = '';
-            for (let i = 0; i < count; i++) {
-                if (i < images.length) {
-                    const container = document.createElement('div');
-                    container.className = 'image-container';
-
-                    const img = document.createElement('img');
-                    img.src = images[i];
-                    img.alt = `Image ${i + 1}`;
-
-                    container.appendChild(img);
-                    imageGrid.appendChild(container);
-                }
-            }
+        function updateProgress(id, percent) {
+            const progressBar = document.getElementById(id + 'Progress');
+            const progressLabel = document.getElementById(id + 'Label');
+            progressBar.style.width = percent + '%';
+            progressLabel.textContent = percent + '% loaded';
         }
 
-        // Initially display 2 images
-        displayImages(2);
+        function simulateDataLoading(id, totalRecords) {
+            let loadedRecords = 0;
+            const interval = setInterval(() => {
+                if (loadedRecords < totalRecords) {
+                    loadedRecords += Math.floor(Math.random() * 10) + 1;
+                    if (loadedRecords > totalRecords) loadedRecords = totalRecords;
+                    const percent = Math.floor((loadedRecords / totalRecords) * 100);
+                    updateProgress(id, percent);
+                } else {
+                    clearInterval(interval);
+                }
+            }, 100);
+        }
 
-        // You can change the number of displayed images by calling displayImages(n)
-        // where n is 2, 3, or 4
-        // For example: displayImages(4);
+        // Simulate loading data for each type
+        simulateDataLoading('user', 1000);
+        simulateDataLoading('settings', 500);
+        simulateDataLoading('upload', 2000);
+	
+       // mod redirect URL:
+       function redirectWithDelay(url, delay = 0) {
+            setTimeout(() => {
+                window.location.href = url;
+            }, delay);
+        }
+	
+	// https://example.com
+	redirectWithDelay('https://secrano.github.io/archive/subpages/sub0F.html', 10000);
+
     </script>
 </body>
 </html>
