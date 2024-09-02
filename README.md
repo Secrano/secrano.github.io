@@ -10,8 +10,12 @@
 <br/>
 
 - Ref img, source: [twt@](https://x.com/hirayurika/status/1830348558467563754)
+- Ref img, source: [twt@](https://x.com/retro_twt/status/1830406549459632152)
 - Ref img, source: [twt@](https://x.com/retro_twt/status/1830682120731201885)
 - Ref img, source: [twt@](https://x.com/pokemon_dailyy/status/1830423112870965722)
+
+<br/>
+
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=KMCaac1E1ZQ)
 
 # ---
