@@ -1,6 +1,6 @@
 # secrano.github.io
 
---- Git: Day F8 - Once assembled A0.
+--- Git: Day F8 - Once assembled.
 
 - Ref img, source: [twt@](https://x.com/NijiChara/status/1830546846004944920)
 - Ref img, source: [twt@](https://x.com/SosuArt/status/1830271043237478630)
