@@ -1,5 +1,13 @@
 # secrano.github.io
 
+--- Git: Day F6 - Scatter (ed).
+
+- Ref img, source: [twt@](https://x.com/KenpachZki/status/1829922717849509896)
+
+# ---
+Music: "[Fairytales and Heroes](https://www.youtube.com/watch?v=Ri-q0dgTqCA)" uploaded by Gabriel Saban.
+# ---
+
 --- Git: Day F4 - World of everything.
 
 - Ref img, source: [twtxS@](https://www.youtube.com/watch?v=UkQENyhV88c)
