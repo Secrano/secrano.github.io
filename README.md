@@ -1,6 +1,6 @@
 # secrano.github.io
 
---- Git: Day F8 - Once assembled.
+--- Git: Day F8 - Once assembled A0.
 
 - Ref img, source: [twt@](https://x.com/NijiChara/status/1830546846004944920)
 - Ref img, source: [twt@](https://x.com/SosuArt/status/1830271043237478630)
@@ -13,9 +13,6 @@
 - Ref img, source: [twt@](https://x.com/retro_twt/status/1830406549459632152)
 - Ref img, source: [twt@](https://x.com/retro_twt/status/1830682120731201885)
 - Ref img, source: [twt@](https://x.com/pokemon_dailyy/status/1830423112870965722)
-
-<br/>
-
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=KMCaac1E1ZQ)
 
 # ---
