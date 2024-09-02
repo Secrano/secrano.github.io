@@ -5,7 +5,6 @@
 - Ref img, source: [twt@](https://x.com/NijiChara/status/1830546846004944920)
 - Ref img, source: [twt@](https://x.com/SosuArt/status/1830271043237478630)
 - Ref img, source: [twt@](https://x.com/AiWithYou1/status/1830535746283082178)
-- Ref img, source: [twt@](https://x.com/PicturesFoIder/status/1830330604446982371)
 - Ref img, source: [twt@](https://x.com/TopGyaru/status/1830670384267714764)
 - Ref img, source: [twt@](https://x.com/hirayurika/status/1830348558467563754)
 - Ref img, source: [twt@](https://x.com/retro_twt/status/1830682120731201885)
