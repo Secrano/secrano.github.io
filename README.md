@@ -1,5 +1,21 @@
 # secrano.github.io
 
+--- Git: Day F8 - Once assembled A0.
+
+- Ref img, source: [twt@](https://x.com/NijiChara/status/1830546846004944920)
+- Ref img, source: [twt@](https://x.com/SosuArt/status/1830271043237478630)
+- Ref img, source: [twt@](https://x.com/AiWithYou1/status/1830535746283082178)
+- Ref img, source: [twt@](https://x.com/PicturesFoIder/status/1830330604446982371)
+- Ref img, source: [twt@](https://x.com/TopGyaru/status/1830670384267714764)
+- Ref img, source: [twt@](https://x.com/hirayurika/status/1830348558467563754)
+- Ref img, source: [twt@](https://x.com/cuteofcouples/status/1830343251536306222)
+- Ref img, source: [twt@](https://x.com/retro_twt/status/1830682120731201885)
+- Ref img, source: [twt@](https://x.com/pokemon_dailyy/status/1830423112870965722)
+
+# ---
+Music: "[BEAUTIFUL PIANO MUSIC | Emotional & Relaxing Music](https://www.youtube.com/watch?v=KMCaac1E1ZQ)" uploaded by Epic Music World.
+# ---
+
 --- Git: Day F6 - Scatter (ed).
 
 - Ref img, source: [twt@](https://x.com/KenpachZki/status/1829922717849509896)
