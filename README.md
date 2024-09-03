@@ -1,5 +1,58 @@
 # secrano.github.io
 
+--- Git: Day G2 - Chill.
+
+- Ref img, source: [twt@](https://x.com/YourAnonNews/status/1830946550002131240)
+- Ref img, source: [twt@](https://x.com/boymolish/status/1830802349578650095)
+- Ref img, source: [twt@](https://x.com/TateTheTalisman/status/1831042793403543597)
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1831003206865850860)
+- Ref img, source: [twt@](https://x.com/yugioh7/status/1830873653669699603)
+- Ref img, source: [twt@](https://x.com/onepiecedaiIys/status/1830926443146105091)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/zQR9GDi0Jr39594/status/1830913385325838666)
+- Ref img, source: [twt@](https://x.com/puppies_video/status/1830760268005286298)
+- Ref img, source: [twt@](https://x.com/sasukeKantana/status/1830984542662074484)
+- Ref img, source: [twt@](https://x.com/ai_moistkun/status/1830953898967806413) ||
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/lokas_as0/status/1830988371017003281)
+- Ref img, source: [twt@](https://x.com/theArendellian/status/1830922471953862816)
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1830948870135619804)
+- Ref img, source: [twt@](https://x.com/zQR9GDi0Jr39594/status/1830551436746465377)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/julianalyss_ph/status/1830873803380998516)
+- Ref img, source: [twt@](https://x.com/La1999s/status/1830959484728205450)
+- Ref img, source: [twt@](https://x.com/SmoneMallow/status/1831019243330248747)
+- Ref img, source: [twt@](https://x.com/TheWillOfMarco/status/1830914851918549266)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/monicamoonx/status/1830659696971391032)
+- Ref img, source: [twt@](https://x.com/dailyitachi/status/1830956195710185478) ||
+- Ref img, source: [twt@](https://x.com/710wonderdev/status/1831017916462178495)
+- Ref img, source: [twt@](https://x.com/retro_twt/status/1831034685268316258)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/TheCatsX/status/1830692351620284912)
+- Ref img, source: [twt@](https://x.com/hourly_shitpost/status/1831025619380908289)
+- Ref img, source: [twt@](https://x.com/DemonSlayerSc/status/1830892997069644125)
+- Ref img, source: [twt@](https://x.com/sunday_ogura/status/1830812165135298569)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/DemonSlayerPS/status/1830919403992502610)
+- Ref img, source: [twt@](https://x.com/Regike_/status/1830718863694037230)
+- Ref img, source: [twt@](https://x.com/catshouldnt/status/1830636981006541017)
+- Ref img, source: [twt@](https://x.com/crazedanime_/status/1830804259224346982)
+
+# ---
+
 --- Git: Day G0 - Revenge.
 
 - Ref img, source: [twt@](https://x.com/Jay_00J/status/1830681111749648728)
