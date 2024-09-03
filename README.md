@@ -1,5 +1,42 @@
 # secrano.github.io
 
+--- Git: Day G0 - Revenge.
+
+- Ref img, source: [twt@](https://x.com/Jay_00J/status/1830681111749648728)
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1830621713790566710)
+- Ref img, source: [twt@](https://x.com/DiscussingFilm/status/1830619049820311563)
+- Ref img, source: [twt@](https://x.com/SydusArts/status/1830802905382736259)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/WholesomeMeme/status/1830420977013895480)
+- Ref img, source: [twt@](https://x.com/Kiyoon/status/1830697633838416018)
+- Ref img, source: [twt@](https://x.com/charli_xcx/status/1830695037925237025)
+- Ref img, source: [twt@](https://x.com/cameron_pfiffer/status/1830706410990248267)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/relatablepanels/status/1830344880402596321)
+- Ref img, source: [twt@](https://x.com/ramealexandre/status/1830593922738844110)
+- Ref img, source: [twt@](https://x.com/cameron_pfiffer/status/1830637605039554986)
+- Ref img, source: [twt@](https://x.com/theweeknd/status/1830675428346118645)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/yamatoll0840/status/1830580951371690488)
+- Ref img, source: [twt@](https://x.com/yarn_03/status/1830806673054691739)
+- Ref img, source: [twt@](https://x.com/Esqueer_/status/1830747298818556117)
+- Ref img, source: [twt@](https://x.com/EverythingOOC/status/1830271005211893872)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/retro_twt/status/1830274425586843822)
+- Ref img, source: [twt@](https://x.com/brendafarro/status/1830075673806864815)
+- Ref img, source: [twt@](https://x.com/pdrmnvd/status/1830456505059213345)
+- Ref img, source: [twt@](https://x.com/nzxt_cam/status/1830529930800877584)
+
+# ---
+
 --- Git: Day F8 - Once assembled A0.
 
 - Ref img, source: [twt@](https://x.com/NijiChara/status/1830546846004944920)
