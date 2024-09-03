@@ -14,7 +14,7 @@
 - Ref img, source: [twt@](https://x.com/zQR9GDi0Jr39594/status/1830913385325838666)
 - Ref img, source: [twt@](https://x.com/puppies_video/status/1830760268005286298)
 - Ref img, source: [twt@](https://x.com/sasukeKantana/status/1830984542662074484)
-- Ref img, source: [twt@](https://x.com/ai_moistkun/status/1830953898967806413) ||
+- Ref img, source: [twt@](https://x.com/ai_moistkun/status/1830953898967806413) 
 
 <br/>
 
@@ -33,7 +33,7 @@
 <br/>
 
 - Ref img, source: [twt@](https://x.com/monicamoonx/status/1830659696971391032)
-- Ref img, source: [twt@](https://x.com/dailyitachi/status/1830956195710185478) ||
+- Ref img, source: [twt@](https://x.com/dailyitachi/status/1830956195710185478) 
 - Ref img, source: [twt@](https://x.com/710wonderdev/status/1831017916462178495)
 - Ref img, source: [twt@](https://x.com/retro_twt/status/1831034685268316258)
 
