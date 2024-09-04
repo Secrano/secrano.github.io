@@ -7,9 +7,10 @@
 - Ref img, source: [twt@](https://x.com/bestmangapost/status/1830964184261202361)
 - Ref img, source: [twt@](https://x.com/cameron_pfiffer/status/1831203896725066135)
 - Ref img, source: [twt@](https://x.com/Rivvman/status/1830975173992030577)
+- Ref img, source: [twt@](https://x.com/zero_index_/status/1830621714470093025)
 - Ref img, source: [twt@](https://x.com/4s_nito/status/1831121419780178289)
 - Ref img, source: [twt@](https://x.com/HAL09999/status/1831013344368628057)
-- Ref img, source: [twt@](https://x.com/refisan17/status/1831086958774485309/photo/1)
+- Ref img, source: [twt@](https://x.com/refisan17/status/1831086958774485309)
 
 # ---
 
