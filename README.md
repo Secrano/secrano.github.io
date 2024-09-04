@@ -1,5 +1,46 @@
 # secrano.github.io
 
+--- Git: Day G6 - Split.
+
+- Ref img, source: [twt@](https://x.com/borgbattlerT/status/1831251417459474623)
+- Ref img, source: [twt@](https://x.com/fatfatpankocat/status/1831383614120210635)
+- Ref img, source: [twt@](https://x.com/DemonSlayerSc/status/1831370799959437631)
+- Ref img, source: [twt@](https://x.com/Catshealdeprsn/status/1831180385423958053)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1831408908323172607)
+- Ref img, source: [twt@](https://x.com/onepiecepanel/status/1830973863980867820)
+- Ref img, source: [twt@](https://x.com/catshouldnt/status/1831135131001610427)
+- Ref img, source: [twt@](https://x.com/astralbaes/status/1831375829240312194)
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1830996676888199553)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/MangaContexts/status/1831126032188846171)
+- Ref img, source: [twt@](https://x.com/LibertyCappy/status/1831406471697027405)
+- Ref img, source: [twt@](https://x.com/astralbaes/status/1831384186437226933)
+- Ref img, source: [twt@](https://x.com/retro_twt/status/1831407047637606541)
+- Ref img, source: [twt@](https://x.com/DailyOPMemes/status/1831275680270586163)
+- Ref img, source: [twt@](https://x.com/MangaContexts/status/1831050535446691962)
+- Ref img, source: [twt@](https://x.com/DailyOPMemes/status/1831327623307534452)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1831378197713449465)
+- Ref img, source: [twt@](https://x.com/NARAKATHEGAME/status/1831391914244895093)
+- Ref img, source: [twt@](https://x.com/Nagato890/status/1830953656721486019)
+- Ref img, source: [twt@](https://x.com/linsteryy/status/1831304309666963568)
+- Ref img, source: [twt@](https://x.com/isseydrive/status/1830993626446344460)
+- Ref img, source: [twt@](https://x.com/SunhiLegend/status/1747683606737060171)
+- Ref img, source: [twt@](https://x.com/SunhiLegend/status/1826325869696352376)
+- Ref img, source: [twt@](https://x.com/SunhiLegend/status/1813642872966529469)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/SunhiLegend/status/1808201833644712064)
+- Ref img, source: [twt@](https://x.com/SunhiLegend/status/1810003192047952189)
+- Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1831355955889512543)
+
+# ---
+
 --- Git: Day G4 - Cook.
 
 - Ref img, source: [twt@](https://x.com/Manim_Asg/status/1831039818928935202)
