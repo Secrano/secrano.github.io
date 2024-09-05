@@ -1,5 +1,13 @@
 # secrano.github.io
 
+--- Git: Day G8 - Trash.
+
+- Ref img, source: [twt@](https://x.com/InkSkinAesth/status/1831481125338034546)
+- Ref img, source: [twt@](https://x.com/TFT/status/1831776815498551439)
+- Ref img, source: [twt@](https://x.com/HAL09999/status/1831803107019518110)
+
+# ---
+
 --- Git: Day G6 - Split.
 
 - Ref img, source: [twt@](https://x.com/borgbattlerT/status/1831251417459474623)
