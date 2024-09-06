@@ -1,5 +1,13 @@
 # secrano.github.io
 
+--- Git: Day H0 - Bleach.
+
+- Ref img, source: [twt@](https://x.com/locketharts/status/1831904992430903433)
+- Ref img, source: [twt@](https://x.com/Wind_ofDeath/status/1831686530987118863)
+- Ref img, source: [twt@](https://x.com/kamikorinaa/status/1831428869947322665)
+
+# ---
+
 --- Git: Day G8 - Trash.
 
 - Ref img, source: [twt@](https://x.com/InkSkinAesth/status/1831481125338034546)
