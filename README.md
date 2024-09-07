@@ -2,6 +2,46 @@
 
 --- Git: Day H0 - Bleach.
 
+- Ref img, source: [twt@x](https://x.com/hourly_shitpost/status/1832297781865722221)
+- Ref img, source: [twt@x](https://x.com/azerarara/status/1832014876837040625)
+- Ref img, source: [twt@x](https://x.com/Nixie_amv/status/1832077445572530623)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/strrifes/status/1832256944142487705)
+- Ref img, source: [twt@x](https://x.com/HumansNoContext/status/1832011374123196617)
+- Ref img, source: [twt@x](https://x.com/Catsillyness/status/1832082890756419933)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/strrifes/status/1832231103391740127)
+- Ref img, source: [twt@x](https://x.com/ItsMeDeaner/status/1831878427768656113)
+- Ref img, source: [twt@x](https://x.com/JJKcontents/status/1832129004520010184)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/culturejpg/status/1832045189201850408)
+- Ref img, source: [twt@x](https://x.com/thealexrossart/status/1832116063255064653)
+- Ref img, source: [twt@x](https://x.com/fatfatpankocat/status/1832269535119802863)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/_strifehart/status/1832235943023014159)
+- Ref img, source: [twt@x](https://x.com/PunchingCat/status/1831885584610238914)
+- Ref img, source: [twt@x](https://x.com/Yoda4ever/status/1832051132505714984)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/Jay_00J/status/1832273681244156280)
+- Ref img, source: [twt@x](https://x.com/cutestscats/status/1831961784749846554)
+- Ref img, source: [twt@x](https://x.com/CatWorkers/status/1832106178610131317)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/NoCatsNoLife_m/status/1832321674601279647)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/locketharts/status/1831904992430903433)
 - Ref img, source: [twt@](https://x.com/Wind_ofDeath/status/1831686530987118863)
 - Ref img, source: [twt@](https://x.com/kamikorinaa/status/1831428869947322665)
