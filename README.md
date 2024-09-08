@@ -14,7 +14,7 @@
 
 - Ref img, source: [twt@x](https://x.com/_eggerton/status/1832491944393777641)
 - Ref img, source: [twt@x](https://x.com/zero_index_/status/1832340631668363355)
-- Ref img, source: [twhttps://x.com/zQR9GDi0Jr39594/status/1832718334112178378)
+- Ref img, source: [twt@x](https://x.com/zQR9GDi0Jr39594/status/1832718334112178378)
 
 <br/>
 
