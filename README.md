@@ -2,6 +2,50 @@
 
 --- Git: Day H0 - Bleach.
 
+- Ref img, source: [twt@x](https://x.com/realzoro_o/status/1832472132971868297)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/CarmesJocelin/status/1832370423863849345)
+- Ref img, source: [twt@x](https://x.com/newworldartur/status/1832584587085594671)
+- Ref img, source: [twt@x](https://x.com/gracile_jp/status/1832706483295068505)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/_eggerton/status/1832491944393777641)
+- Ref img, source: [twt@x](https://x.com/zero_index_/status/1832340631668363355)
+- Ref img, source: [twhttps://x.com/zQR9GDi0Jr39594/status/1832718334112178378)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/poyon449064/status/1832375312111259704)
+- Ref img, source: [twt@x](https://x.com/miboso__/status/1832530802032439598)
+- Ref img, source: [twt@x](https://x.com/Hinatazip/status/1831979438944448929)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/RmJudette/status/1832449640001909146)
+- Ref img, source: [twt@x](https://x.com/Mhdfattal111Al/status/1832443665635274841)
+- Ref img, source: [twt@x](https://x.com/PunchingCat/status/1832303223589499034)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/anime_twits/status/1832242639401300351)
+- Ref img, source: [twt@x](https://x.com/hourly_shitpost/status/1832524282431209751)
+- Ref img, source: [twt@x](https://x.com/bleach_twt/status/1832416134731329683)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/_FRiizer/status/1832236831817015478)
+- Ref img, source: [twt@x](https://x.com/interesting_aIl/status/1832494106011947362)
+- Ref img, source: [twt@x](https://x.com/retro_twt/status/1832494138991743382)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/altphotos_pl/status/1832527535097118750)
+
+# ---
+
 - Ref img, source: [twt@x](https://x.com/hourly_shitpost/status/1832297781865722221)
 - Ref img, source: [twt@x](https://x.com/azerarara/status/1832014876837040625)
 - Ref img, source: [twt@x](https://x.com/Nixie_amv/status/1832077445572530623)
