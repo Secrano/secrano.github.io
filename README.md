@@ -1,5 +1,39 @@
 # secrano.github.io
 
+--- Git: Day H4 - Nut.
+
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1833179455583297999)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ripalekk/status/1832875079492919652)
+- Ref img, source: [twt@](https://x.com/laurenxburch/status/1833165252923666653)
+- Ref img, source: [twt@](https://x.com/Pierrepilled/status/1833004336487580143)
+- Ref img, source: [twt@](https://x.com/TheSliceofAnime/status/1833158419806916785)
+- Ref img, source: [twt@](https://x.com/ProgressBar202_/status/1833127468695220268)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/NARAKATHEGAME/status/1833173747198517431)
+- Ref img, source: [twt@](https://x.com/Cloudonachocobo/status/1833173958234964257)
+- Ref img, source: [twt@](https://x.com/milkynoe/status/1833174147918180772)
+- Ref img, source: [twt@](https://x.com/papuchochoe/status/1833175366279553406)
+- Ref img, source: [twt@](https://x.com/laurentsaidaily/status/1833150746881376367)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/jakethebrick_/status/1832876583738061126)
+- Ref img, source: [twt@](https://x.com/CFC_Janty/status/1832887604921991310)
+- Ref img, source: [twt@](https://x.com/NewBabyDrake/status/1832899282946654238)
+- Ref img, source: [twt@](https://x.com/milkynoe/status/1833025292321124378)
+- Ref img, source: [twt@](https://x.com/papuchochoe/status/1833182007909556619)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/aniiix_x/status/1833105998493438163)
+
+# ---
+
 --- Git: Day H2 - Cat.
 
 - Ref img, source: [twt@](https://x.com/atayu44/status/1634498764311531523)
