@@ -2,6 +2,38 @@
 
 --- Git: Day H2 - Cat.
 
+- Ref img, source: [twt@](https://x.com/atayu44/status/1634498764311531523)
+- Ref img, source: [twt@](https://x.com/QUASARCAKE/status/1833011346470060539)
+- Ref img, source: [twt@](https://x.com/Elna_ai3/status/1832741528022004059)
+- Ref img, source: [twt@](https://x.com/retro_twt/status/1833082676061851815)
+- Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1833089409228407029)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/CeoofRomcom/status/1832860367220847100)
+- Ref img, source: [twt@](https://x.com/curl_Q_/status/1833068021734162475)
+- Ref img, source: [twt@](https://x.com/WillieChou/status/1832779991249306024)
+- Ref img, source: [twt@](https://x.com/WillieChou/status/1832780008018096466)
+- Ref img, source: [twt@](https://x.com/cutepanel/status/1832791288896266547)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/retro_twt/status/1832878581656994118)
+- Ref img, source: [twt@](https://x.com/betchesugh/status/1832958837332353085)
+- Ref img, source: [twt@](https://x.com/dalleOnlyJesus/status/1832760887611961553)
+- Ref img, source: [twt@](https://x.com/retro_twt/status/1832954581522780412)
+- Ref img, source: [twt@](https://x.com/MangaContexts/status/1832741679016603837)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Bleach_Rebirth/status/1832460387691970708)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/othingstodo_com/status/1832877317124927681)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1832691463647588436)
 - Ref img, source: [twt@](https://x.com/animel7316/status/1832640029598134276)
 - Ref img, source: [twt@](https://x.com/SunhiLegend/status/1832830801475490068)
