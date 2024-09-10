@@ -1,5 +1,12 @@
 # secrano.github.io
 
+--- Git: Day H6 - Ravens.
+
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=SyTT9nvFLaM)
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1833365481371185328)
+
+# ---
+
 --- Git: Day H4 - Nut.
 
 - Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1833179455583297999)
