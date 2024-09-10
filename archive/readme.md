@@ -40,7 +40,8 @@
 - Special thanks to Sun wukong and Game Science (replika || e, s).
 - Duplicate git display in tabular fashion (book samples).
 - Push to inner world (game concept proposal rito MMO), contrast to reality.
-  
+- Black and white approach to art from ancient worlds (AI).
+    
 # ---
 - Hello world.
 # ---
