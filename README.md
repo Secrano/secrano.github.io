@@ -4,6 +4,36 @@
 
 # ---
 
+- Ref img, source: [twt@x](https://x.com/SlyPerformer/status/1834010251366150220)
+- Ref img, source: [twt@x](https://x.com/GenshinImpactOC/status/1834055317195297225)
+- Ref img, source: [twt@x](https://x.com/miboso__/status/1834105550478737860)
+- Ref img, source: [twt@x](https://x.com/Tifa_Caelum/status/1833929089046249776)
+- Ref img, source: [twt@x](https://x.com/ValorantUpdated/status/1830312948796940391)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/LoLBeginners/status/1834052740244537698)
+- Ref img, source: [twt@x](https://x.com/jasminericegirl/status/1834100933195956240)
+- Ref img, source: [twt@x](https://x.com/animel7316/status/1834139547707543735)
+- Ref img, source: [twt@x](https://x.com/ReignOfPride/status/1833998898022510730)
+- Ref img, source: [twt@x](https://x.com/eatsleep1111/status/1834132338412060796)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/CeoofRomcom/status/1833920945830199756)
+- Ref img, source: [twt@x](https://x.com/xxhajixxx/status/1833854700803993974)
+- Ref img, source: [twt@x](https://x.com/NarutoExplained/status/1833851577213342167)
+- Ref img, source: [twt@x](https://x.com/NeuralParadox/status/1833810762122621192)
+- Ref img, source: [twt@x](https://x.com/WorldHallOfFun/status/1834056674899857549)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/ameenxooo/status/1833522336412418050)
+- Ref img, source: [twt@x](https://www.youtube.com/watch?v=Ohn6Ok-D1pk)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=U7v1zqgc2JQ)
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=k4EQilGwtus)
 
