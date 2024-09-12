@@ -16,7 +16,6 @@
 - Ref img, source: [twt@](https://x.com/Miyandraw/status/1833862017360466214)
 
 # ---
-# ---
 
 - Ref img, source (YT): [twt@](https://www.youtube.com/watch?v=tvFOG3ExatY)
 - Ref img, source (YT): [twt@](https://www.youtube.com/watch?v=_kUFws-dHEI)
