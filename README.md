@@ -4,6 +4,20 @@
 
 # ---
 
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=U7v1zqgc2JQ)
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=k4EQilGwtus)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/RegoleSlayer/status/1833779899028427152)
+- Ref img, source: [twt@](https://x.com/Miyandraw/status/1834017226997010501)
+- Ref img, source: [twt@](https://x.com/TheFabraxxx/status/1833879429614809248)
+- Ref img, source: [twt@](https://x.com/masami777777/status/1833816319915065537)
+- Ref img, source: [twt@](https://x.com/Miyandraw/status/1833862017360466214)
+
+# ---
+# ---
+
 - Ref img, source (YT): [twt@](https://www.youtube.com/watch?v=tvFOG3ExatY)
 - Ref img, source (YT): [twt@](https://www.youtube.com/watch?v=_kUFws-dHEI)
 
