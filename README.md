@@ -4,6 +4,15 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/WaifusHotAI/status/1833991153068249218)
+- Ref img, source: [twt@](https://x.com/KimetsuDaily/status/1833907278891917494)
+
+# ---
+Music: "[L's Theme | Intense Version](https://www.youtube.com/watch?v=cfbKrF84p-o)" - uploaded by Guilherme Bidin
+# ---
+
+# ---
+
 - Ref img, source: [twt@x](https://x.com/SlyPerformer/status/1834010251366150220)
 - Ref img, source: [twt@x](https://x.com/GenshinImpactOC/status/1834055317195297225)
 - Ref img, source: [twt@x](https://x.com/miboso__/status/1834105550478737860)
