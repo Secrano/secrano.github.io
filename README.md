@@ -2,6 +2,39 @@
 
 --- Git: Day H6 - Ravens.
 
+# --- Bankai
+
+- Ref img, source: [twt@](https://x.com/keiuzuki/status/1834677280251248856)
+- Ref img, source: [twt@](https://x.com/sighyam/status/1834621185956458508)
+- Ref img, source: [twt@](https://x.com/sakugacontent/status/1834659635212497205)
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=LG4hK8aYToM)
+- Ref img, source: [twt@](https://x.com/Jay_00J/status/1834608056535290270)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1834687003927138653)
+- Ref img, source: [twt@](https://x.com/Dillinja939/status/1834365552124428657)
+- Ref img, source: [twt@](https://x.com/tjduna/status/1834616778934059427)
+- Ref img, source: [twt@](https://x.com/Skyrn99/status/1834843242590093697)
+- Ref img, source: [twt@](https://x.com/Genjiruu/status/1834850540674547880)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PostsOfCats/status/1834642574683853021)
+- Ref img, source: [twt@](https://x.com/rahen/status/1834577940799180935)
+- Ref img, source: [twt@](https://x.com/ko132417/status/1834820059447033943)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/rahen/status/1834524375028207748)
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1834633298699845686)
+- Ref img, source: [twt@](https://x.com/rahen/status/1834702458486194599)
+- Ref img, source: [twt@](https://x.com/SydusArts/status/1834912641728627057)
+
+# ---
+Music: "[End Your Day with Relaxing Lofi Music](https://www.youtube.com/watch?v=yjJSZ00VMis)" - uploaded by PL
+# ---
+
 # ---
 
 - Ref img, source: [twt@](https://x.com/WaifusHotAI/status/1833991153068249218)
