@@ -2,6 +2,17 @@
 
 --- Git: Day H6 - Ravens.
 
+# ---
+
+# --- Time sphere.
+
+- Ref img, source: [twt@](https://x.com/lion_sey/status/1835196347542057313)
+- Ref img, source: [twt@](https://www.youtube.com/shorts/Uhg1-p9WWHM)
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=iAKSz3wHomc)
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=tmiNgebd1zw)
+
+# ---
+
 # --- Bankai
 
 - Ref img, source: [twt@](https://x.com/keiuzuki/status/1834677280251248856)
