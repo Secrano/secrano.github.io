@@ -4,7 +4,7 @@
 
 # ---
 
-# --- Time sphere.
+--- Time sphere.
 
 - Ref img, source: [twt@](https://x.com/lion_sey/status/1835196347542057313)
 - Ref img, source: [twt@](https://www.youtube.com/shorts/Uhg1-p9WWHM)
