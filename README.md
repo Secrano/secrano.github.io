@@ -13,8 +13,9 @@
 - Ref img, source: [twt@](https://x.com/XX_xx_art/status/1835431634687963384)
 
 <br/>
-
+- Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1835670345933824285)
 - Ref img, source: [twt@](https://x.com/ripalekk/status/1835705535326253063)
+- Ref img, source: [twt@](https://x.com/ta5ylp/status/1835905910813741405)
 - Ref img, source: [twt@](https://x.com/ta5ylp/status/1835905910813741405)
 - Ref img, source: [twt@](https://x.com/AniNewsAndFacts/status/1835711449361977542)
 
