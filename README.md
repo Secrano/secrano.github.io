@@ -1,5 +1,56 @@
 # secrano.github.io
 
+--- Git: Day H8 - Ghost or aliens.
+
+|| --- Git: Day H6 - Ravens.
+
+# --- 
+
+- Ref img, source: [twt@](https://x.com/lion_sey/status/1835967682187088372)
+- Ref img, source: [twt@](https://x.com/yingying520025/status/1835970990452703241)
+- Ref img, source: [twt@](https://x.com/maycolmbloom/status/1835500401631592906)
+- Ref img, source: [twt@](https://x.com/aurai_aiart/status/1835746341085134965)
+- Ref img, source: [twt@](https://x.com/AlbedoBlender/status/1835669680549179731)
+- Ref img, source: [twt@](https://x.com/YuyuYu946981832/status/1835938488178634965)
+- Ref img, source: [twt@](https://x.com/XX_xx_art/status/1835431634687963384)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ripalekk/status/1835705535326253063)
+- Ref img, source: [twt@](https://x.com/ta5ylp/status/1835905910813741405)
+- Ref img, source: [twt@](https://x.com/AniNewsAndFacts/status/1835711449361977542)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/reijuhive/status/1835753826311344614)
+- Ref img, source: [twt@](https://x.com/zQR9GDi0Jr39594/status/1835631436818432216)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ryoryoxxxxxx/status/1835672158028419437)
+- Ref img, source: [twt@](https://x.com/sawara_______/status/1835895443382780137)
+- Ref img, source: [twt@](https://x.com/SydusArts/status/1835847362687725604)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/1v9GG_/status/1835292119772065831)
+- Ref img, source: [twt@](https://x.com/MarcoGrandFleet/status/1835725248290820261)
+- Ref img, source: [twt@](https://x.com/strrifes/status/1835750588753338749)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Viatrent/status/1835890782164697219)
+- Ref img, source: [twt@](https://x.com/Miyandraw/status/1835939608783208696)
+- Ref img, source: [twt@](https://x.com/BlacktyonteXavi/status/1835695605747781897)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/opdaiIy/status/1835770144271843426)
+- Ref img, source: [twt@](https://x.com/Casdainee/status/1835305599157797202)
+- Ref img, source: [twt@](https://x.com/lion_sey/status/1835921879099711718)
+
+# ---
+
 --- Git: Day H6 - Ravens.
 
 # ---
