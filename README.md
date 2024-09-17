@@ -1,6 +1,6 @@
 # secrano.github.io
 
---- Git: Day H8 - Ghost or aliens.
+# --- Git: Day H8 - Ghost or aliens.
 
 # --- 
 
