@@ -2,8 +2,6 @@
 
 --- Git: Day H8 - Ghost or aliens.
 
-|| --- Git: Day H6 - Ravens.
-
 # --- 
 
 - Ref img, source: [twt@](https://x.com/lion_sey/status/1835967682187088372)
