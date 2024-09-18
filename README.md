@@ -2,7 +2,7 @@
 
 # --- Git: Day H8 - Ghost or aliens.
 
-# --- Fire.
+# --- Fire
 
 - Ref img, source: [twt@](https://x.com/GAx5jx8Lsq4mBIn/status/1836310942390587816)
 - Ref img, source: [twt@](https://x.com/rlawnsgr7/status/1836050706958274818)
