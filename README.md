@@ -2,6 +2,23 @@
 
 # --- Git: Day H8 - Ghost or aliens.
 
+# --- Fire.
+
+- Ref img, source: [twt@](https://x.com/GAx5jx8Lsq4mBIn/status/1836310942390587816)
+- Ref img, source: [twt@](https://x.com/rlawnsgr7/status/1836050706958274818)
+- Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1836233783793877452)
+- Ref img, source: [twt@](https://x.com/JJKaisenArt/status/1835621363869966671)
+- Ref img, source: [twt@](https://x.com/sephyethereal/status/1835993436253728951)
+- Ref img, source: [twt@](https://x.com/Skyrn99/status/1836310439506121084)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/BigornoMr/status/1835970078556258652)
+- Ref img, source: [twt@](https://x.com/0rototeen128451/status/1836153251257102634)
+- Ref img, source: [twt@](https://x.com/Nagato890/status/1836191582137053531)
+- Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1836140570093531233)
+
+# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/lion_sey/status/1835967682187088372)
