@@ -4,6 +4,12 @@
 
 # --- Fire
 
+- Ref img, source: [twt@](https://x.com/SUtanokami/status/1836313710538961163)
+- Ref img, source: [twt@](https://x.com/opdaiIy/status/1836208271604035932)
+- Ref img, source: [twt@](https://x.com/opdaiIy/status/1836268670034551238)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/GAx5jx8Lsq4mBIn/status/1836310942390587816)
 - Ref img, source: [twt@](https://x.com/rlawnsgr7/status/1836050706958274818)
 - Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1836233783793877452)
