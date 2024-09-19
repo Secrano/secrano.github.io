@@ -2,6 +2,7 @@
 
 # --- Git: Day G4 - Timeskip.
 
+- Ref img, source: [twt@](https://x.com/jim2point0/status/1836436198371258778)
 - Ref img, source: [twt@](https://x.com/FortniteGame/status/1836420151689801974)
 - Ref img, source: [twt@](https://x.com/PT_CROW/status/1836492489932574925)
 
