@@ -1,5 +1,28 @@
 # secrano.github.io
 
+# --- Git: Day G4 - Timeskip.
+
+- Ref img, source: [twt@](https://x.com/FortniteGame/status/1836420151689801974)
+- Ref img, source: [twt@](https://x.com/PT_CROW/status/1836492489932574925)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/TopGyaru/status/1836525681074663465)
+- Ref img, source: [twt@](https://x.com/DanKantori/status/1836474004351390140)
+- Ref img, source: [twt@](https://x.com/FortniteGame/status/1836525665908076715)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/basedbinkie/status/1836409684137513005)
+- Ref img, source: [twt@](https://x.com/Coharrie_AI/status/1836349194157649981)
+- Ref img, source: [twt@](https://x.com/neirorien/status/1836404065535680625)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/vincentraos/status/1836297607074697599)
+
+# ---
+
 # --- Git: Day H8 - Ghost or aliens.
 
 # --- Fire
