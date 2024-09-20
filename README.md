@@ -30,7 +30,7 @@
 
 - Ref img, source: [twt@](https://x.com/Animesempai0/status/1836749031176896948)
 - Ref img, source: [twt@](https://x.com/cIoudgf/status/1836924680441139572)
-- Ref img, source: [twt@](https://x.com/TheFabraxxx/status/1836427415435763918=
+- Ref img, source: [twt@](https://x.com/TheFabraxxx/status/1836427415435763918)
 
 <br/>
 
