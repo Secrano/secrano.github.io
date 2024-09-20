@@ -20,7 +20,7 @@
 
 <br/>
 
-|| - Ref img, source: [twt@](https://x.com/ichihimepics/status/1836961825843183995)
+- Ref img, source: [twt@](https://x.com/ichihimepics/status/1836961825843183995)
 - Ref img, source: [twt@](https://x.com/radman_v2/status/1836753305726226599)
 - Ref img, source: [twt@](https://x.com/LilyLit_/status/1836852641906770111)
 - Ref img, source: [twt@](https://x.com/HoDaRaKe/status/1836745687637307552)
