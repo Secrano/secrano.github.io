@@ -4,6 +4,51 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/unonumero_56/status/1836821207120757048)
+- Ref img, source: [twt@](https://x.com/unonumero_56/status/1836819727739437374)
+- Ref img, source: [twt@](https://x.com/unonumero_56/status/1836818403350151406)
+- Ref img, source: [twt@](https://x.com/opdaiIy/status/1836691470985658426)
+- Ref img, source: [twt@](https://x.com/Drvoodooo/status/1836937571798331714)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/arraveri/status/1836915012406800411)
+- Ref img, source: [twt@](https://x.com/MangaContexts/status/1836425958384873788)
+- Ref img, source: [twt@](https://x.com/Kiyoon/status/1836571852338069530)
+- Ref img, source: [twt@](https://x.com/rogerlmaoo/status/1836692965210951825)
+- Ref img, source: [twt@](https://x.com/miaowiee/status/1836930669483528521)
+
+<br/>
+
+|| - Ref img, source: [twt@](https://x.com/ichihimepics/status/1836961825843183995)
+- Ref img, source: [twt@](https://x.com/radman_v2/status/1836753305726226599)
+- Ref img, source: [twt@](https://x.com/LilyLit_/status/1836852641906770111)
+- Ref img, source: [twt@](https://x.com/HoDaRaKe/status/1836745687637307552)
+- Ref img, source: [twt@](https://x.com/TheFabraxxx/status/1836427415435763918)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Animesempai0/status/1836749031176896948)
+- Ref img, source: [twt@](https://x.com/cIoudgf/status/1836924680441139572)
+- Ref img, source: [twt@](https://x.com/TheFabraxxx/status/1836427415435763918=
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/NAMIORII/status/1836894805810630737)
+- Ref img, source: [twt@](https://x.com/Jay_00J/status/1836555031979659485)
+- Ref img, source: [twt@](https://x.com/opdaiIy/status/1836796900000878983)
+- Ref img, source: [twt@](https://x.com/MacTuitui/status/1836842550763614244)
+- Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1836698237895348527)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/JurassicWorld/status/1836834142962798893)
+- Ref img, source: [twt@](https://x.com/Viatrent/status/1836831362122403955)
+- Ref img, source: [twt@](https://x.com/miboso__/status/1836993716231471232)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/__Espada0__/status/1836336052300100027)
 - Ref img, source: [twt@](https://x.com/kelseyhightower/status/1836324766535553426)
 - Ref img, source: [twt@](https://x.com/vividfirework/status/1835989445230915960)
