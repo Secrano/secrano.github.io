@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/miboso__/status/1837701003292049680) || gn moon
+- Ref img, source: [twt@](https://x.com/strrifes/status/1837548143845515599) || tifa
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=YEb8wYfySoY) || alan
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/cravedcuddle/status/1837233774037209517)
 - Ref img, source: [twt@](https://x.com/yeskiri/status/1837413813349457929)
 - Ref img, source: [twt@](https://x.com/Jay_00J/status/1836779005003047249)
