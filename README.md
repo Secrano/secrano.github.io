@@ -4,9 +4,9 @@
 
 # ---
 
-- Ref img, source: [twt@](https://x.com/miboso__/status/1837701003292049680) || gn moon
-- Ref img, source: [twt@](https://x.com/strrifes/status/1837548143845515599) || tifa
-- Ref img, source: [twt@](https://www.youtube.com/watch?v=YEb8wYfySoY) || alan
+- Ref img, source: [twt@](https://x.com/miboso__/status/1837701003292049680) 
+- Ref img, source: [twt@](https://x.com/strrifes/status/1837548143845515599) 
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=YEb8wYfySoY) 
 
 # ---
 # ---
