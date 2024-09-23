@@ -1,5 +1,33 @@
 # secrano.github.io
 
+--- Git: Day DB4 - Fav dish.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Luce_chanchan/status/1837845387521970665)
+- Ref img, source: [twt@](https://x.com/AerithCloud3/status/1837883692406001990)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/refisan17/status/1837795750031642743)
+- Ref img, source: [twt@](https://x.com/moodengx/status/1837963152497299475)
+- Ref img, source: [twt@](https://x.com/a_sam_ko_/status/1837903933072945448)
+- Ref img, source: [twt@](https://x.com/Romanticaps_/status/1837837621160038412)
+- Ref img, source: [twt@](https://x.com/astralbaes/status/1837994144754733176)
+- Ref img, source: [twt@](https://x.com/Macbaconai/status/1837954136593060161)
+
+<br/>
+
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=TZum6HEj5Bk)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1837821160081236132)
+- Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1838084524015530337)
+- Ref img, source: [twt@](https://x.com/animel7316/status/1838078013596131637)
+
+# ---
+
 # --- Git: Day G4 - Timeskip.
 
 # ---
