@@ -1,5 +1,49 @@
 # secrano.github.io
 
+--- Git: Day DB8 - Crown.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/lolesports/status/1838602183563960630)
+- Ref img, source: [twt@](https://x.com/createdlea/status/1838436507620663579)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/StrawderryST/status/1838596713491153034)
+- Ref img, source: [twt@](https://x.com/morgengischt/status/1838294401656992111)
+- Ref img, source: [twt@](https://x.com/rlawnsgr7/status/1838463721733263574)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/lockharrted/status/1837943984578257240)
+- Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1838570842332237834)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/DiamantGlass/status/1838646386021048536)
+- Ref img, source: [twt@](https://x.com/LoLUKN/status/1838638427581133020)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/cloudstrfes/status/1838337709804523851)
+- Ref img, source: [twt@](https://x.com/Sreliata/status/1838593822722334945)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ParasiticEager2/status/1838586590605775021)
+- Ref img, source: [twt@](https://x.com/sonwooang/status/1838620702448193860)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/philazora/status/1838594790809624898)
+- Ref img, source: [twt@](https://x.com/robinsongz/status/1838619857572761889)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/lolesports/status/1838604906011222385)
+
+# ---
+
 --- Git: Day DB4 - Fav dish.
 
 # ---
