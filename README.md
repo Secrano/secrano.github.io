@@ -4,6 +4,11 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/sixtutu622/status/1838878132885172415)
+- Ref img, source: [twt@](https://x.com/sixtutu622/status/1813442378562457989)
+  
+# ---
+
 - Ref img, source: [twt@](https://x.com/lolesports/status/1838602183563960630)
 - Ref img, source: [twt@](https://x.com/createdlea/status/1838436507620663579)
 
