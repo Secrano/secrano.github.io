@@ -1,5 +1,60 @@
 # secrano.github.io
 
+--- Git Day: DC0 - AI.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Macbaconai/status/1839701301145252109)
+- Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1839723475084398938)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/b1sexualpanic/status/1839531610741338460)
+- Ref img, source: [twt@](https://x.com/Macbaconai/status/1838968760712994857)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/TFT/status/1839424711375085847)
+- Ref img, source: [twt@](https://x.com/Tali_N7/status/1839473883981701606)
+- Ref img, source: [twt@](https://x.com/1v9GG_/status/1839401943535583606)
+- Ref img, source: [twt@](https://x.com/Silvesster_/status/1839351080221921677)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1839723446806425669)
+- Ref img, source: [twt@](https://x.com/lolesports/status/1839690281383252374)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/IvoryLane_plus/status/1839666309262668092)
+- Ref img, source: [twt@](https://x.com/GAMesportsVN/status/1839682162443870639)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/GXAuraOfficial/status/1839717252586975514)
+- Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1839714305832562711)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/wadainotwi/status/1839632015747911841)
+- Ref img, source: [twt@](https://x.com/rogerlmaoo/status/1839585495753601065)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/historyinmemes/status/1839703295490703569)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1839547732265988531)
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1839608068272804240)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/nzxt_cam/status/1839591241455124625)
+
+# ---
+# ---
+
 --- Git: Day DB8 - Crown.
 
 # ---
