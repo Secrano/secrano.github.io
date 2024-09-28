@@ -4,6 +4,14 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/godmitzu/status/1840016858428186870)
+- Ref img, source: [twt@](https://x.com/iamyejyt/status/1839839707108086234)
+- Ref img, source: [twt@](https://x.com/PT_CROW/status/1840097226573656577)
+
+# ---
+
+# ---
+
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=5ak-ngHMTd8)
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=QHydkEARVKE)
 
