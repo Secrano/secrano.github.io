@@ -41,7 +41,8 @@
 - Duplicate git display in tabular fashion (book samples).
 - Push to inner world (game concept proposal rito MMO), contrast to reality.
 - Black and white approach to art from ancient worlds (AI).
-    
+- Zero-shot Chess w/o endgame (free dimension, no Battle Chess).
+      
 # ---
 - Hello world.
 # ---
