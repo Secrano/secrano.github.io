@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> WebP Image Git Display 2 BW </title>
+    <style>
+        body {
+            background-color: #1a1a1a;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .image-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        .image-container {
+            background-color: #2a2a2a;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .image-container img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="image-grid" id="imageGrid"></div>
+
+    <script>
+        const images = [
+            'https://secrano.github.io/archive/subpages/imagePa.webp',
+            'https://secrano.github.io/archive/subpages/imagePb.webp'
+        ];
+
+        const imageGrid = document.getElementById('imageGrid');
+
+        // Function to create and append image elements
+        function displayImages(count) {
+            imageGrid.innerHTML = '';
+            for (let i = 0; i < count; i++) {
+                if (i < images.length) {
+                    const container = document.createElement('div');
+                    container.className = 'image-container';
+
+                    const img = document.createElement('img');
+                    img.src = images[i];
+                    img.alt = `Image ${i + 1}`;
+
+                    container.appendChild(img);
+                    imageGrid.appendChild(container);
+                }
+            }
+        }
+
+        // Initially display 2 images
+        displayImages(2);
+
+        // You can change the number of displayed images by calling displayImages(n)
+        // where n is 2, 3, or 4
+        // For example: displayImages(4);
+    </script>
+</body>
+</html>
