@@ -29,7 +29,6 @@
 - Ref img, source: [twt@x](https://x.com/ShouldHaveCat/status/1840866753582121316)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=-QACREXoI9w)
 - Ref img, source: [twt@](https://x.com/birdman46049238/status/1840709470974013670)
