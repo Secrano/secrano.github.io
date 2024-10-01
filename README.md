@@ -4,6 +4,33 @@
 
 # ---
 
+- Ref img, source: [twt@x](https://x.com/blader/status/1841198030051229831)
+- Ref img, source: [twt@x](https://x.com/Mhdfattal111Al/status/1841156840635208181)
+- Ref img, source: [twt@x](https://x.com/Miyandraw/status/1841149134453018624)
+- Ref img, source: [twt@x](https://x.com/PostsOfCats/status/1840989101756916002)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/realpewpiece/status/1841121831320703070)
+- Ref img, source: [twt@x](https://x.com/beensmoked/status/1840984870190821578)
+- Ref img, source: [twt@x](https://x.com/views09/status/1841023555972014173)
+- Ref img, source: [twt@x](https://x.com/buitengebieden/status/1840827265124282687)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/Miyandraw/status/1841158247073689696)
+- Ref img, source: [twt@x](https://x.com/miboso__/status/1841171253316751362)
+- Ref img, source: [twt@x](https://x.com/tifastrfe/status/1841138734399643716)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/kamipapa2/status/1840918042865516858)
+- Ref img, source: [twt@x](https://x.com/jammybear21/status/1841055517067919799)
+- Ref img, source: [twt@x](https://x.com/ShouldHaveCat/status/1840866753582121316)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=-QACREXoI9w)
 - Ref img, source: [twt@](https://x.com/birdman46049238/status/1840709470974013670)
 
