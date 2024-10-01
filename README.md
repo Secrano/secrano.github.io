@@ -4,6 +4,37 @@
 
 # ---
 
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=-QACREXoI9w)
+- Ref img, source: [twt@](https://x.com/birdman46049238/status/1840709470974013670)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Hahm_Taena/status/1840756414031302716)
+- Ref img, source: [twt@](https://x.com/zampy68/status/1840700537185952232)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/black_hound1980/status/1840995029453791297)
+- Ref img, source: [twt@](https://x.com/ArtFromRachel/status/1840823547264188523)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/DanKantori/status/1840841571278725606)
+- Ref img, source: [twt@](https://x.com/int6wn/status/1840939957378261144)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/cIoudgf/status/1840638997359476881)
+- Ref img, source: [twt@](https://x.com/DNordhaug/status/1840753245049749576)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Sreliata/status/1840785630378266885)
+- Ref img, source: [twt@](https://x.com/miboso__/status/1840968362240930251)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=wMtcTwWS1mI)
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=ZF4T833lln4)
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=IIrCrGAX03Y)
