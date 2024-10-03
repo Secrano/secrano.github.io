@@ -4,6 +4,14 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/sanomikeycult/status/1841525284358782997)
+- Ref img, source: [twt@](https://x.com/Psyphm/status/1841745542726263084)
+- Ref img, source: [twt@](https://x.com/Psyphm/status/1841441651560218668)
+- Ref img, source: [twt@](https://x.com/GAx5jx8Lsq4mBIn/status/1841959596933710005)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/beensmoked/status/1841632957447983385)
 - Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1841539625866952754)
 
