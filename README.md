@@ -6,13 +6,7 @@
 
 - Ref img, source: [twt@](https://www.youtube.com/shorts/HEDuQr7Y0c0)
 - Ref img, source: [twt@](https://www.youtube.com/shorts/UC4ia-KAwng)
-
-<br/>
-
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=pVVhOgBNp00)
-
-<br/>
-
 - Ref img, source: [twt@](https://x.com/Yoda4ever/status/1841895998018486466)
 - Ref img, source: [twt@](https://x.com/Romanticaps_/status/1841982394208809253)
 - Ref img, source: [twt@](https://x.com/BlWXy8UGxye6FM8/status/1841781997892730954)
