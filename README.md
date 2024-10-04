@@ -4,6 +4,19 @@
 
 # ---
 
+- Ref img, source: [twt@](https://www.youtube.com/shorts/HEDuQr7Y0c0)
+- Ref img, source: [twt@](https://www.youtube.com/shorts/UC4ia-KAwng)
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=pVVhOgBNp00)
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1841895998018486466)
+- Ref img, source: [twt@](https://x.com/Romanticaps_/status/1841982394208809253)
+- Ref img, source: [twt@](https://x.com/BlWXy8UGxye6FM8/status/1841781997892730954)
+- Ref img, source: [twt@](https://x.com/shitposts_mp4/status/1841750067054596230)
+- Ref img, source: [twt@](https://x.com/hereliesdoa/status/1841909149850075265)
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=EdQOLC_P1nI&t)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/sanomikeycult/status/1841525284358782997)
 - Ref img, source: [twt@](https://x.com/Psyphm/status/1841745542726263084)
 - Ref img, source: [twt@](https://x.com/Psyphm/status/1841441651560218668)
