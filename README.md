@@ -18,7 +18,6 @@
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=EdQOLC_P1nI&t)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/sanomikeycult/status/1841525284358782997)
 - Ref img, source: [twt@](https://x.com/Psyphm/status/1841745542726263084)
