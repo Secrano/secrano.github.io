@@ -1,1 +1,93 @@
-Hello World.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Player Data Loading Progress </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .progress-container {
+            background-color: #f0f0f0;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+        .progress-bar {
+            width: 0;
+            height: 20px;
+            background-color: #4CAF50;
+            border-radius: 5px;
+            transition: width 0.3s ease-in-out;
+        }
+        .progress-label {
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    Hello World.
+
+    <h1> Data Uploading Progress </h1>
+
+    <h2> Player Data </h2>
+    <div class="progress-container">
+        <div class="progress-bar" id="userProgress"></div>
+    </div>
+    <div class="progress-label" id="userLabel">0%</div>
+
+    <h2> Settings </h2>
+    <div class="progress-container">
+        <div class="progress-bar" id="settingsProgress"></div>
+    </div>
+    <div class="progress-label" id="settingsLabel">0%</div>
+
+    <h2> Downloaded Data Sequence </h2>
+    <div class="progress-container">
+        <div class="progress-bar" id="uploadProgress"></div>
+    </div>
+    <div class="progress-label" id="uploadLabel">0%</div>
+
+    <script>
+        function updateProgress(id, percent) {
+            const progressBar = document.getElementById(id + 'Progress');
+            const progressLabel = document.getElementById(id + 'Label');
+            progressBar.style.width = percent + '%';
+            progressLabel.textContent = percent + '% loaded';
+        }
+
+        function simulateDataLoading(id, totalRecords) {
+            let loadedRecords = 0;
+            const interval = setInterval(() => {
+                if (loadedRecords < totalRecords) {
+                    loadedRecords += Math.floor(Math.random() * 10) + 1;
+                    if (loadedRecords > totalRecords) loadedRecords = totalRecords;
+                    const percent = Math.floor((loadedRecords / totalRecords) * 100);
+                    updateProgress(id, percent);
+                } else {
+                    clearInterval(interval);
+                }
+            }, 100);
+        }
+
+        // Simulate loading data for each type
+        simulateDataLoading('user', 1000);
+        simulateDataLoading('settings', 500);
+        simulateDataLoading('upload', 2000);
+
+       // mod redirect URL:
+       function redirectWithDelay(url, delay = 0) {
+            setTimeout(() => {
+                window.location.href = url;
+            }, delay);
+        }
+
+	// https://example.com
+	// redirectWithDelay('index_image-sequence-display_mod_stop_last_img2.html', 10000);
+	redirectWithDelay('https://secrano.github.io/archive/subpages/zoro/sub0L4.html', 10000);
+    </script>
+</body>
+</html>
