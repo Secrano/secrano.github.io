@@ -1,5 +1,50 @@
 # secrano.github.io
 
+--- Git Day: L6 - Hancock..
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Leleo2211/status/1842537464495571201)
+- Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1842406941546414490)
+- Ref img, source: [twt@](https://x.com/Ria_neearts/status/1842171142577987847)
+- Ref img, source: [twt@](https://x.com/teamspeak/status/1842633352630739382)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/RobinFlours/status/1842719068140552364)
+- Ref img, source: [twt@](https://x.com/realpewpiece/status/1842757435397660687)
+- Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1842603140622819689)
+- Ref img, source: [twt@](https://x.com/miniapeur/status/1842747615294742683)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/iFireMonkey/status/1842639535894823288)
+- Ref img, source: [twt@](https://x.com/miniapeur/status/1842746466646757851)
+- Ref img, source: [twt@](https://x.com/PostsOfCats/status/1842602996527452203)
+- Ref img, source: [twt@](https://x.com/NAMIYONCE/status/1842668824178667981)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/hourIynami/status/1842548434164715892)
+- Ref img, source: [twt@](https://x.com/Mykkafichy/status/1842634674079948800)
+- Ref img, source: [twt@](https://x.com/opdaiIy/status/1842489658535481646)
+- Ref img, source: [twt@](https://x.com/MangaContexts/status/1842662045688139977)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ParasiticEager2/status/1842578478325186731)
+- Ref img, source: [twt@](https://x.com/Psyphm/status/1842716403910259072)
+- Ref img, source: [twt@](https://x.com/lunamiholic/status/1842602756160528527)
+- Ref img, source: [twt@](https://x.com/ParasiticEager2/status/1842578478325186731)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Rimeyon/status/1842593258733801974)
+- Ref img, source: [twt@](https://x.com/opdaiIy/status/1842610457204466132)
+- Ref img, source: [twt@](https://x.com/TastefulManga/status/1842478984770027889)
+
+# ---
+
 --- Git Day: L4 - Zoro (and D).
 
 # ---
