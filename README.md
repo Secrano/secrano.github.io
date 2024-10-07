@@ -1,5 +1,21 @@
 # secrano.github.io
 
+--- Git Day: L8 - Fav ep - C mf.
+
+- Ref img, source: [twt@](https://x.com/DandanShots/status/1843029210782421262)
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=hGVees71vMA)
+
+<br/>
+
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=MnKas07tYu8) || 4th great war Naruto
+
+<br/>
+
+- Ref img, source: [twt@](https://www.youtube.com/shorts/3KRS9Udlok8) || JJK intro
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=Yh0W2yiWlwo) || Scissor Seven
+
+# ---
+
 --- Git Day: L6 - Hancock..
 
 # ---
