@@ -1,6 +1,26 @@
 # secrano.github.io
 
+--- Git Day: M0 - Homework.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/twaniimals/status/1843117329116467543)
+- Ref img, source: [twt@](https://x.com/JujutsuTwts/status/1843444971996885061)
+- Ref img, source: [twt@](https://x.com/zosandthpact/status/1843267826347593741)
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1843292708145910028)
+- Ref img, source: [twt@](https://x.com/opdaiIy/status/1843350079081435612)
+- Ref img, source: [twt@](https://x.com/zentrix_o/status/1843273358575861764)
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1843514792340009067)
+- Ref img, source: [twt@](https://x.com/buitengebieden/status/1843358350651863426)
+- Ref img, source: [twt@](https://x.com/opdaiIy/status/1843516423882104947)
+- Ref img, source: [twt@](https://x.com/starsbit1/status/1843278575258190205)
+- Ref img, source: [twt@](https://x.com/namihourlyy/status/1843296020438159428)
+
+# ---
+
 --- Git Day: L8 - Fav ep - C mf.
+
+# ---
 
 - Ref img, source: [twt@](https://x.com/DandanShots/status/1843029210782421262)
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=hGVees71vMA)
