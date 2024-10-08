@@ -1,5 +1,33 @@
 # secrano.github.io
 
+--- Git Day: M2 - Tic Tac toe.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/DailyAnimesPics/status/1843539267727040819)
+- Ref img, source: [twt@](https://x.com/etiennejcb/status/1843683876696404328)
+- Ref img, source: [twt@](https://x.com/DailyAnimesPics/status/1843635420350878026)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/DailyAnimesPics/status/1843308228945609131)
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1843358185048187069)
+- Ref img, source: [twt@](https://x.com/DailyAnimesPics/status/1843554597140607194)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/contextdogs/status/1843557188586942774)
+- Ref img, source: [twt@](https://x.com/GAx5jx8Lsq4mBIn/status/1843711306924470605)
+- Ref img, source: [twt@](https://x.com/miboso__/status/1843481643178500383)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/opdaiIy/status/1843607024359063596)
+- Ref img, source: [twt@](https://x.com/NickyBoiYT/status/1843500836061884624)
+- Ref img, source: [twt@](https://x.com/DailyAnimesPics/status/1843403586606420410)
+
+# ---
+
 --- Git Day: M0 - Homework.
 
 # ---
