@@ -4,6 +4,15 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/DailyAnimesPics/status/1844504268218433614)
+- Ref img, source: [twt@](https://x.com/nocontextscats/status/1844622207324127363)
+- Ref img, source: [twt@](https://x.com/PhoneWaIlpapers/status/1844526425644134691)
+- Ref img, source: [twt@](https://x.com/altphotos_pl/status/1844717226110107762)
+- Ref img, source: [twt@](https://x.com/DailyAnimesPics/status/1844630217630810285)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/FutureJurvetson/status/1844581737793216513)
 - Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1844072485819408473)
 - Ref img, source: [twt@](https://x.com/cthuwucult/status/1844387163024261209)
