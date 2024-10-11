@@ -1,5 +1,38 @@
 # secrano.github.io
 
+--- Git Day: N0 - Another weekend.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/FutureJurvetson/status/1844581737793216513)
+- Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1844072485819408473)
+- Ref img, source: [twt@](https://x.com/cthuwucult/status/1844387163024261209)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/lovecthuwu/status/1844387275146396039)
+- Ref img, source: [twt@](https://x.com/womenpostingws/status/1844450072995709164)
+- Ref img, source: [twt@](https://x.com/puppiesDoglover/status/1844361681201447115)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/sara21222122/status/1844334063408283819)
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1844478010973618520)
+- Ref img, source: [twt@](https://x.com/astralbaes/status/1844522720404308030)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/gardenoutro/status/1844475022561378761)
+- Ref img, source: [twt@](https://x.com/TastefulManga/status/1844283075502739544)
+- Ref img, source: [twt@](https://x.com/buitengebieden/status/1844374383579759049)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/narutmz/status/1844439594286318014)
+- Ref img, source: [twt@](https://x.com/howdyyonline/status/1844463725664940141)
+
+# ---
+
 --- Git Day: M2 - Tic Tac toe.
 
 # ---
