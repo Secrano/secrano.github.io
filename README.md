@@ -4,6 +4,14 @@
 
 # ---
 
+- Ref img, source: [twt@](https://www.youtube.com/shorts/NvX4_vjVUhE)
+- Ref img, source: [twt@](https://x.com/realpewpiece/status/1844352674998911462)
+- Ref img, source: [twt@](https://x.com/_RustyRooster/status/1845007853502820811)
+- Ref img, source: [twt@](https://x.com/corviknight2678/status/1844409999688335772)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/DailyAnimesPics/status/1844504268218433614)
 - Ref img, source: [twt@](https://x.com/nocontextscats/status/1844622207324127363)
 - Ref img, source: [twt@](https://x.com/PhoneWaIlpapers/status/1844526425644134691)
