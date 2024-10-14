@@ -1,5 +1,15 @@
 # secrano.github.io
 
+--- Git Day: N8 - Inner demon.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/puppiesDoglover/status/1845651375243272217)
+- Ref img, source: [twt@](https://x.com/ColaSip28429/status/1845755624669184277)
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1845489679136854474)
+
+# ---
+
 --- Git Day: N0 - Another weekend.
 
 # ---
