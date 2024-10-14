@@ -4,6 +4,17 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/CuteCatsMagic/status/1845756399847878821)
+- Ref img, source: [twt@](https://x.com/rinnegaara/status/1845651073526026274)
+- Ref img, source: [twt@](https://x.com/yarichintaroo/status/1845721726149349623)
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1845806767583773067)
+- Ref img, source: [twt@](https://x.com/puppiesDoglover/status/1845299990672863294)
+- Ref img, source: [twt@](https://x.com/puppiesDoglover/status/1845299016218611872)
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1845757957268537546)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/puppiesDoglover/status/1845651375243272217)
 - Ref img, source: [twt@](https://x.com/ColaSip28429/status/1845755624669184277)
 - Ref img, source: [twt@](https://x.com/Yoda4ever/status/1845489679136854474)
