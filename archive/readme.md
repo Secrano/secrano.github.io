@@ -45,7 +45,7 @@
 
 ### - Part 4:
 
-- Static slides of AI images (Luffy and Zoro). BW animation siluettes.
+- Static slides of AI images. BW animation siluettes.
   
 # ---
 - Hello world.
