@@ -12,8 +12,6 @@
 - Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1847253213302677810)
 - Ref img, source: [twt@](https://x.com/NeuralParadox/status/1847213532288270677)
 
-<br/>
-
 - Ref img, source: [twt@](https://x.com/emiru/status/1847377846236532803)
 - Ref img, source: [twt@](https://x.com/sakugacontent/status/1847275963458969794)
 - Ref img, source: [twt@](https://x.com/zhngy275240/status/1847313800141422907)
