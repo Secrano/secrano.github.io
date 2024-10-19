@@ -1,5 +1,16 @@
 # secrano.github.io
 
+--- Git Day: O6 - Late appointment.
+
+# --- 
+
+- Ref img, source: [twt@](https://x.com/ai_zerara/status/1847646385061188041)
+- Ref img, source: [twt@](https://x.com/y5art/status/1847306729719005635)
+- Ref img, source: [twt@](https://x.com/RandomTheGuy_/status/1847591718859796752)
+- Ref img, source: [twt@](https://x.com/PookiePiece/status/1847655330794082400)
+
+# ---
+
 --- Git Day: N8 - Inner demon.
 
 # --- BBQ.
