@@ -2,6 +2,24 @@
 
 --- Git Day: N8 - Inner demon.
 
+# --- BBQ.
+
+- Ref img, source: [twt@](https://x.com/greg16676935420/status/1847345215889428857)
+- Ref img, source: [twt@](https://x.com/dontcallmechae/status/1847298232160022728)
+- Ref img, source: [twt@](https://x.com/Chandler0Hayden/status/1847055619607408731)
+- Ref img, source: [twt@](https://x.com/ClownWorld_/status/1847051077046387146)
+- Ref img, source: [twt@](https://x.com/sigmarshanks/status/1846896569578058113)
+- Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1847253213302677810)
+- Ref img, source: [twt@](https://x.com/NeuralParadox/status/1847213532288270677)
+
+- Ref img, source: [twt@](https://x.com/emiru/status/1847377846236532803)
+- Ref img, source: [twt@](https://x.com/sakugacontent/status/1847275963458969794)
+- Ref img, source: [twt@](https://x.com/zhngy275240/status/1847313800141422907)
+- Ref img, source: [twt@](https://x.com/Hinaaa_Uzumaki_/status/1847018442781610343)
+- Ref img, source: [twt@](https://x.com/jnkrated/status/1847540551333060735)
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1847577006919111062)
+
+# ---
 # --- T1.
 
 - Ref img, source: [twt@](https://x.com/shitpost_2077/status/1847012206967509440)
