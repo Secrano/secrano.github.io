@@ -2,6 +2,22 @@
 
 --- Git Day: O6 - Late appointment.
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/khaki_pin/status/1847516069252255877)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Anthony_Bonato/status/1847627068701376969)
+- Ref img, source: [twt@](https://x.com/nocontextscats/status/1848020852182319407)
+- Ref img, source: [twt@](https://x.com/pewpiece/status/1848060325544821044)
+- Ref img, source: [twt@](https://x.com/FlyQuest/status/1848030490931925488)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/kazunoko_zunoco/status/1847601896372261090)
+
+# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/onepiecedaiIys/status/1847811466302304766)
