@@ -4,6 +4,21 @@
 
 # --- 
 
+- Ref img, source: [twt@](https://x.com/onepiecedaiIys/status/1847811466302304766)
+- Ref img, source: [twt@](https://x.com/CeoofRomcom/status/1847710441008746985)
+- Ref img, source: [twt@](https://x.com/aluctoria/status/1836827600599101908)
+- Ref img, source: [twt@](https://x.com/depressionlesss/status/1847631285017338293)
+- Ref img, source: [twt@](https://x.com/whatcatsdid/status/1847777058258096584)
+- Ref img, source: [twt@](https://x.com/DreadnaughtDark/status/1847835883648798916)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/sasukeKantana/status/1847784107226378614)
+- Ref img, source: [twt@](https://x.com/sskkonohagakure/status/1847869270643941756)
+
+# ---
+# --- 
+
 - Ref img, source: [twt@](https://x.com/ai_zerara/status/1847646385061188041)
 - Ref img, source: [twt@](https://x.com/y5art/status/1847306729719005635)
 - Ref img, source: [twt@](https://x.com/RandomTheGuy_/status/1847591718859796752)
