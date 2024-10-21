@@ -1,5 +1,17 @@
 # secrano.github.io
 
+--- Git Day: Qo - Christian.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/nalu_slayer/status/1847944724633571440)
+- Ref img, source: [twt@](https://x.com/beensmoked/status/1848067338572362221)
+
+- Ref img, source: [twt@](https://x.com/yingying520025/status/1847858022636535963)
+- Ref img, source: [twt@](https://x.com/DailyAnimesPics/status/1848142489645195497)
+
+# ---
+
 --- Git Day: O6 - Late appointment.
 
 # ---
