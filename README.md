@@ -4,6 +4,11 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/chaesuart/status/1848370939311857933)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/nalu_slayer/status/1847944724633571440)
 - Ref img, source: [twt@](https://x.com/beensmoked/status/1848067338572362221)
 
