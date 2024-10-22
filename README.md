@@ -4,6 +4,16 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/messedupfoods/status/1848435640960000426)
+
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=sjO6Ff3xLpU)
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=Mb8Cuqh3jPU)
+- Ref img, source: [twt@](https://x.com/Promithean11/status/1848610876678381821)
+- Ref img, source: [twt@](https://x.com/JohanLibert69/status/1848392839433957743)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/chaesuart/status/1848370939311857933)
 
 # ---
