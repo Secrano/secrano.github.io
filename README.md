@@ -4,6 +4,20 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/artkailin/status/1848814383801282625)
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1848736069048799483)
+- Ref img, source: [twt@](https://x.com/BessWisty/status/1848754250114879653)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/TFT/status/1848801589718323459)
+- Ref img, source: [twt@](https://x.com/Ghostcrawler/status/1848783541276201059)
+- Ref img, source: [twt@](https://x.com/LeagueOfLegends/status/1848741106961297759)
+- Ref img, source: [twt@](https://x.com/DreadnaughtDark/status/1848713966538920421)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/messedupfoods/status/1848435640960000426)
 
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=sjO6Ff3xLpU)
