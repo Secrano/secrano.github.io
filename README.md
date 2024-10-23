@@ -4,6 +4,33 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/apples_jimmy/status/1849195567085392152)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/roydanroy/status/1849069976583311850)
+- Ref img, source: [twt@](https://x.com/TFT/status/1849178943146143746)
+- Ref img, source: [twt@](https://x.com/somewhat_irked/status/1848933982915776774)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/kinaaach/status/1848877415394914729)
+- Ref img, source: [twt@](https://x.com/ShitpostGate/status/1849092162073550871)
+- Ref img, source: [twt@](https://x.com/HeartfiliaDaily/status/1849175642023322013)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/marmalade_icons/status/1848673348517040481)
+- Ref img, source: [twt@](https://x.com/SyliconDreams/status/1849125591099859406)
+- Ref img, source: [twt@](https://x.com/wallerspic/status/1848822966408102182)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/miboso__/status/1849165048771723435)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/DailyNelliel/status/1848485385988362735)
 - Ref img, source: [twt@](https://x.com/sosukefiles/status/1848729770500231407)
 - Ref img, source: [twt@](https://x.com/ccdailyy/status/1848731785279967474)
