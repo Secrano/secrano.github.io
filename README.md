@@ -4,6 +4,19 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/DailyNelliel/status/1848485385988362735)
+- Ref img, source: [twt@](https://x.com/sosukefiles/status/1848729770500231407)
+- Ref img, source: [twt@](https://x.com/ccdailyy/status/1848731785279967474)
+- Ref img, source: [twt@](https://x.com/twetsfyp/status/1848597620865864123)
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1848387344988348679)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/miboso__/status/1848979002343690704)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/artkailin/status/1848814383801282625)
 - Ref img, source: [twt@](https://x.com/Yoda4ever/status/1848736069048799483)
 - Ref img, source: [twt@](https://x.com/BessWisty/status/1848754250114879653)
