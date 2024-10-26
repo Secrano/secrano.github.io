@@ -9,7 +9,6 @@
 - Ref img, source: [twt@](https://x.com/sakugacontent/status/1850201585650905405)
 
 # ---
-// Music: "[Dota 2: Axe in the Spotlight AI](https://www.youtube.com/watch?v=PjlQteaTGuU)" uploaded by Futurograph
 # ---
 
 - Ref img, source: [twt@](https://x.com/chaesuart/status/1849888537123991823)
