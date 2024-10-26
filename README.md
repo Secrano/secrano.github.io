@@ -4,6 +4,14 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/ccreayus/status/1850211008192901149)
+- Ref img, source: [twt@](https://x.com/Promithean11/status/1850189463109922994)
+- Ref img, source: [twt@](https://x.com/sakugacontent/status/1850201585650905405)
+
+# ---
+// Music: "[Dota 2: Axe in the Spotlight AI](https://www.youtube.com/watch?v=PjlQteaTGuU)" uploaded by Futurograph
+# ---
+
 - Ref img, source: [twt@](https://x.com/chaesuart/status/1849888537123991823)
 - Ref img, source: [twt@](https://x.com/kumattoforest/status/1849571578654359670)
 - Ref img, source: [twt@](https://x.com/jizell_7/status/1849708382095393085)
