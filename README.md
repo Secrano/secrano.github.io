@@ -1,6 +1,6 @@
 # secrano.github.io
 
---- Git Day: r4 - Shuffled (W).
+--- Git Day: r4 - Shuffled.
 
 # ---
 
