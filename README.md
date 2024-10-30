@@ -1,7 +1,22 @@
 # secrano.github.io
 
---- Git Day: r4 - Shuffled (W).
+--- Git Day: r4 - Shuffled (BW).
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/ancotsubu/status/1850807370169139224)
+- Ref img, source: [twt@](https://x.com/AiWithYou1/status/1850832103413538854)
+- Ref img, source: [twt@](https://x.com/Solithra/status/1850838022364782743)
+- Ref img, source: [twt@](https://x.com/othingstodo_com/status/1850875915322237042)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/cocoa744/status/1850881718175351273)
+- Ref img, source: [twt@](https://x.com/MacTuitui/status/1851404781819933132)
+- Ref img, source: [twt@](https://x.com/asteroid_ill/status/1851245287144321446)
+- Ref img, source: [twt@](https://x.com/Imaginary__Cat/status/1851096313661718728)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/Irrrsby/status/1851515029507711372)
