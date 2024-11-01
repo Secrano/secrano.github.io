@@ -28,7 +28,6 @@
 
 <br/>
 
-- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1851970099558613252)
 - Ref img, source: [twt@](https://x.com/majeliskucing/status/1851912495583138202)
 - Ref img, source: [twt@](https://x.com/ffairyanaaa/status/1852195215601471776)
 - Ref img, source: [twt@](https://x.com/archi_reum/status/1852144030697554219)
