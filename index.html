@@ -1,1 +1,76 @@
-Hello World.
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Image Sequence Display (EMPs). </title>
+    <style>
+        body {
+            background-color: #1a1a1a;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .image-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        .image-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 95vh;
+            overflow: hidden;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin: auto;
+        }
+        .image-container img {
+            max-width: 95%;
+            max-height: 95%;
+            display: none;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="image-container" id="imageContainer">
+        <img src="https://secrano.github.io/archive/subpages/imageEMP1.webp" alt="hollow 1">
+        <img src="https://secrano.github.io/archive/subpages/imageEMP2.webp" alt="hollow 2">
+        <img src="https://secrano.github.io/archive/subpages/imageEMP3.webp" alt="hollow 3">
+        <img src="https://secrano.github.io/archive/subpages/imageEMP4.webp" alt="hollow 4">
+        <img src="https://secrano.github.io/archive/subpages/imageEMP1.webp" alt="hollow 3">
+        <img src="https://secrano.github.io/archive/subpages/imageEMP5.webp" alt="hollow 4">
+        <img src="https://secrano.github.io/archive/subpages/imageEMP1.webp" alt="hollow 5">
+        <img src="https://secrano.github.io/archive/subpages/imageEMP2.webp" alt="hollow 6">
+    </div>
+    <script>
+        const images = document.querySelectorAll('#imageContainer img');
+        let currentIndex = 0;
+        let slideshowTimer;
+
+        function showNextImage() {
+            images[currentIndex].style.display = 'none';
+            currentIndex++;
+
+            if (currentIndex >= images.length) {
+                // We've reached the end of the slideshow
+                clearTimeout(slideshowTimer);
+                console.log("Slideshow ended");
+                images[currentIndex-1].style.display = 'block';
+                return;
+            }
+
+            images[currentIndex].style.display = 'block';
+            slideshowTimer = setTimeout(showNextImage, 2750); // 5000 milliseconds = 5 seconds
+        }
+
+        // Start the sequence
+        images[currentIndex].style.display = 'block';
+        slideshowTimer = setTimeout(showNextImage, 2750);
+    </script>
+</body>
+</html>
