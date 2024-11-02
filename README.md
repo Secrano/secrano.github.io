@@ -4,6 +4,51 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/de3STl2EUdK5o0p/status/1852421489070600414)
+- Ref img, source: [twt@](https://x.com/miboso__/status/1852630382199394784)
+- Ref img, source: [twt@](https://x.com/nam_man3/status/1850472356885475582)
+- Ref img, source: [twt@](https://x.com/ayapani_ai/status/1852532313470689570)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ai_anime_mia/status/1852577752135950553)
+- Ref img, source: [twt@](https://x.com/yingying520025/status/1852609022320366071)
+- Ref img, source: [twt@](https://x.com/yeye0923/status/1845811348116312500)
+- Ref img, source: [twt@](https://x.com/ALT3R4TI0N/status/1851848198572425336)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/SHOWROOMarchive/status/1852296350404350334)
+- Ref img, source: [twt@](https://x.com/miboso__/status/1852571584369954913)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/kirachem/status/1851830957621367184)
+- Ref img, source: [twt@](https://x.com/miniapeur/status/1852516119782863186)
+- Ref img, source: [twt@](https://x.com/keiuzuki/status/1852471730796720398)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/miboso__/status/1852511570053767587)
+- Ref img, source: [twt@](https://x.com/TabootieCosplay/status/1852493058048393401)
+- Ref img, source: [twt@](https://x.com/X/status/1852491617334141377)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/HYPEX/status/1852482853776323021)
+- Ref img, source: [twt@](https://x.com/laurenxburch/status/1852457938977497164)
+- Ref img, source: [twt@](https://x.com/majeliskucing/status/1852354155182166382)
+- Ref img, source: [twt@](https://x.com/majeliskucing/status/1852369255070904655)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/KaiCenat/status/1852499872676733357)
+- Ref img, source: [twt@](https://x.com/archi_reum/status/1852501150165033046)
+- Ref img, source: [twt@](https://x.com/miboso__/status/1852429781385785351)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/AKIRASHINMEI02/status/1851966875531698406)
 - Ref img, source: [twt@](https://x.com/Cheesecake_N1/status/1851816832962789541)
 - Ref img, source: [twt@](https://x.com/bunnygirljuno/status/1851467685474840791)
