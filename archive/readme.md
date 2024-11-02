@@ -46,7 +46,8 @@
 ### - Part 4:
 
 - Static slides of AI images. BW animation siluettes.
-  
+- Single shot assisted AI generation (expanded dimension abstraction).
+
 # ---
 - Hello world.
 # ---
