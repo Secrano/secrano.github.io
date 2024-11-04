@@ -1,5 +1,31 @@
 # secrano.github.io
 
+--- Git Day: S8 - PNut.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/DanKantori/status/1853407357012746460)
+- Ref img, source: [twt@](https://x.com/kitirna/status/1853180396629819620)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/IsabellaMDeLuca/status/1853442073401201030)
+- Ref img, source: [twt@](https://x.com/SunhiLegend/status/1853491610727698563)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1853361855311270312)
+- Ref img, source: [twt@](https://x.com/khyleri/status/1853478071594336498)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/LuffyDram/status/1853134840180167039)
+- Ref img, source: [twt@](https://x.com/spoopyone/status/1853199953377550621)
+
+<br/>
+
+# ---
+
 --- Git Day: R4 - H. Haven.
 
 # --- 
