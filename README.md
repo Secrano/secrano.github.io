@@ -22,9 +22,6 @@
 - Ref img, source: [twt@](https://x.com/LuffyDram/status/1853134840180167039)
 - Ref img, source: [twt@](https://x.com/spoopyone/status/1853199953377550621)
 
-<br/>
-
-# ---
 # ---
 
 --- Git Day: R4 - H. Haven.
