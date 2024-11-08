@@ -4,6 +4,49 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/RealAlexJones/status/1854631934355194176)
+- Ref img, source: [twt@](https://x.com/CouRageJD/status/1854597402831036694)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/amalaekpunobi/status/1854304932234764571)
+- Ref img, source: [twt@](https://x.com/LilyPichu/status/1854655039090180399)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/rosuuri/status/1854683480380104932)
+- Ref img, source: [twt@](https://x.com/buitengebieden/status/1854285000641859694)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/yingying520025/status/1854703942959329560)
+- Ref img, source: [twt@](https://x.com/stclairashley/status/1854686451927060629)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PicturesFoIder/status/1854572557694832834)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/NickEh30/status/1854666661556629715)
+- Ref img, source: [twt@](https://x.com/poi______1/status/1854720504302625220)
+- Ref img, source: [twt@](https://x.com/addictionbaddie/status/1854592780430868683)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/masami777777/status/1854594139196989543)
+- Ref img, source: [twt@](https://x.com/yes__darling/status/1854549884587962750)
+- Ref img, source: [twt@](https://x.com/The25thNigga/status/1854563789351567419)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/HumansNoContext/status/1854479004247416949)
+- Ref img, source: [twt@](https://x.com/MrAreku/status/1854458284830241091)
+- Ref img, source: [twt@](https://x.com/TheFabraxxx/status/1854575526066737212)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/AlirezaGhods2/status/1854195107450470488)
 - Ref img, source: [twt@](https://x.com/000chun000_/status/1853788916144607394)
 - Ref img, source: [twt@](https://x.com/Psyphm/status/1853920225584206324)
