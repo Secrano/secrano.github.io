@@ -4,6 +4,17 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/SetsuManga2/status/1855010973788389781)
+- Ref img, source: [twt@](https://x.com/zampy68/status/1855121597742399612)
+- Ref img, source: [twt@](https://x.com/DreadnaughtDark/status/1855203933930893327)
+- Ref img, source: [twt@](https://x.com/sonwooang/status/1855104352261955629)
+- Ref img, source: [twt@](https://x.com/The25thNigga/status/1854966397564338311)
+- Ref img, source: [twt@](https://x.com/peronyawns/status/1854694096255729816)
+- Ref img, source: [twt@](https://x.com/Drowsy_sheep/status/1855084833309179911)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/RealAlexJones/status/1854631934355194176)
 - Ref img, source: [twt@](https://x.com/CouRageJD/status/1854597402831036694)
 
