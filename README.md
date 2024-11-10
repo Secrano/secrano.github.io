@@ -4,6 +4,15 @@
 
 # ---
 
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=0m8mDr6cidA)
+- Ref img, source: [twt@](https://x.com/boysaviuh/status/1855200317937234007)
+- Ref img, source: [twt@](https://x.com/boysaviuh/status/1855198103919272408)
+- Ref img, source: [twt@](https://x.com/Lemtun1/status/1855130588111687751)
+- Ref img, source: [twt@](https://x.com/spydermxn/status/1855179521885896944)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/SetsuManga2/status/1855010973788389781)
 - Ref img, source: [twt@](https://x.com/zampy68/status/1855121597742399612)
 - Ref img, source: [twt@](https://x.com/DreadnaughtDark/status/1855203933930893327)
