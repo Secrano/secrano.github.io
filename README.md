@@ -4,6 +4,12 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/TFT/status/1855147122473013755)
+- Ref img, source: [twt@](https://x.com/Timmy_Tommy_1/status/1855631249068691654)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=0m8mDr6cidA)
 - Ref img, source: [twt@](https://x.com/boysaviuh/status/1855200317937234007)
 - Ref img, source: [twt@](https://x.com/boysaviuh/status/1855198103919272408)
