@@ -4,6 +4,14 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/TFTLatam/status/1856366913246364119)
+- Ref img, source: [twt@](https://x.com/DualBladesSkill/status/1856333577824170026)
+- Ref img, source: [twt@](https://x.com/assblastinator/status/1856298845879111933)
+- Ref img, source: [twt@](https://x.com/thesmuffy1/status/1856447670161928458)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/TFT/status/1855147122473013755)
 - Ref img, source: [twt@](https://x.com/Timmy_Tommy_1/status/1855631249068691654)
 
