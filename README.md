@@ -1,6 +1,6 @@
 # secrano.github.io
 
---- Git Day: U2 - teepa merge.
+--- Git Day: U2 - teepa.
 
 # ---
 
