@@ -4,6 +4,26 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/shunsuithegoat/status/1856855550836764838)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/DandanShots/status/1857149042083426432)
+- Ref img, source: [twt@](https://x.com/9431116/status/1857200113388855679)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/nftbadger/status/1857050020547039578)
+- Ref img, source: [twt@](https://x.com/ShadowrealmArts/status/1857166542644892033)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1857209648266564011)
+- Ref img, source: [twt@](https://x.com/_vaatu/status/1857169158376726970)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/RaidenWgt/status/1856370144936628547)
 - Ref img, source: [twt@](https://x.com/Cellexion/status/1856768380919058487)
 
