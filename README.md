@@ -4,6 +4,16 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/NetflixGeeked/status/1857604503547122006)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/d4vddd/status/1857884069276823954)
+- Ref img, source: [twt@](https://x.com/Macbaconai/status/1857839793230549243)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/sevenotsu/status/1729308200539967901)
 
 <br/>
