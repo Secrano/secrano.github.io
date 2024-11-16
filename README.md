@@ -2,7 +2,7 @@
 
 --- Git Day: U2 - teepa.
 
-# ---
+# --- GTFO.
 
 - Ref img, source: [twt@](https://x.com/NetflixGeeked/status/1857604503547122006)
 
