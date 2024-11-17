@@ -2,6 +2,20 @@
 
 --- Git Day: U2 - teepa.
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/eveangelicall/status/1857805396590592472)
+- Ref img, source: [twt@](https://x.com/Plumy_S2/status/1858144322274886138)
+- Ref img, source: [twt@](https://x.com/minima_ai/status/1857756198763901301)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/WomenBeingAwful/status/1857842391329145012)
+- Ref img, source: [twt@](https://x.com/weirddalle/status/1857717747129495902)
+- Ref img, source: [twt@](https://x.com/skipsurprise/status/1857770911841104365)
+
+# ---
+
 # --- GTFO.
 
 - Ref img, source: [twt@](https://x.com/NetflixGeeked/status/1857604503547122006)
