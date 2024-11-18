@@ -4,6 +4,37 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Macbaconai/status/1858459757910073452)
+- Ref img, source: [twt@](https://x.com/dalleOnlyJesus/status/1858142193858281709)
+- Ref img, source: [twt@](https://x.com/yingying520025/status/1858484454844670138)
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1858389680976273893)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Catshealdeprsn/status/1858200931642351738)
+- Ref img, source: [twt@](https://x.com/puppiesDoglover/status/1858344589062475936)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/puppiesDoglover/status/1857954928255226199)
+- Ref img, source: [twt@](https://x.com/puppiesDoglover/status/1857954928255226199)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1858288150608744756)
+- Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1858142933825851685)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/MangaContexts/status/1858274926198768050)
+- Ref img, source: [twt@](https://x.com/MangaContexts/status/1858274926198768050)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/qiandaiyiyu/status/1858136249510265201)
+- Ref img, source: [twt@](https://x.com/KayneGiordano/status/1858132638600470601)
+- Ref img, source: [twt@](https://x.com/ai_zerara/status/1858080914754138266)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/eveangelicall/status/1857805396590592472)
 - Ref img, source: [twt@](https://x.com/Plumy_S2/status/1858144322274886138)
 - Ref img, source: [twt@](https://x.com/minima_ai/status/1857756198763901301)
