@@ -4,6 +4,30 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/TheFigen_/status/1858919611070378227)
+- Ref img, source: [twt@](https://x.com/FoxyReine/status/1858992368139251862)
+- Ref img, source: [twt@](https://x.com/hallloweenqueen/status/1859051381019295905)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Pirat_Nation/status/1858986191120724243)
+- Ref img, source: [twt@](https://x.com/missbazill2/status/1859094235594592494)
+- Ref img, source: [twt@](https://x.com/panpianoatelier/status/1859160308377616397)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/historyinmemes/status/1859152954420580835)
+- Ref img, source: [twt@](https://x.com/LoLUKN/status/1859173231711674546)
+- Ref img, source: [twt@](https://x.com/_GVNTHER_/status/1859138572869345485)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/DanKantori/status/1858988159008469439)
+- Ref img, source: [twt@](https://x.com/ChShersh/status/1858851380166889717)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Macbaconai/status/1858459757910073452)
 - Ref img, source: [twt@](https://x.com/dalleOnlyJesus/status/1858142193858281709)
 - Ref img, source: [twt@](https://x.com/yingying520025/status/1858484454844670138)
