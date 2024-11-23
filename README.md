@@ -4,6 +4,12 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/___OTINTIN/status/1860227216258555949)
+- Ref img, source: [twt@](https://x.com/SunhiLegend/status/1860367837799346613)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/TheFigen_/status/1858919611070378227)
 - Ref img, source: [twt@](https://x.com/FoxyReine/status/1858992368139251862)
 - Ref img, source: [twt@](https://x.com/hallloweenqueen/status/1859051381019295905)
