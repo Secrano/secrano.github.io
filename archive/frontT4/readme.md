@@ -26,8 +26,6 @@ Archive
 - Ref img, source: [twt@](https://x.com/SunhiLegend/status/1860367837799346613)
 
 # ---
-
-# ---
 Archive
 # ---
 
