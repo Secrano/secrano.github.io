@@ -4,6 +4,18 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Julex_Gameplays/status/1861547354597310690)
+- Ref img, source: [twt@](https://x.com/JuanEdits/status/1861198830475018588)
+- Ref img, source: [twt@](https://x.com/timelyjade/status/1861417579325067640)
+- Ref img, source: [twt@](https://x.com/Baswa_/status/1861336160003383374)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/kiuvtae/status/1861413603045208139)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/xChocoBars/status/1860516871533167018)
 
 <br/>
