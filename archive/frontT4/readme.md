@@ -6,6 +6,35 @@ Archive
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Julex_Gameplays/status/1861547354597310690)
+- Ref img, source: [twt@](https://x.com/JuanEdits/status/1861198830475018588)
+- Ref img, source: [twt@](https://x.com/timelyjade/status/1861417579325067640)
+- Ref img, source: [twt@](https://x.com/Baswa_/status/1861336160003383374)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/kiuvtae/status/1861413603045208139)
+
+# ---
+# ---
+
+- Ref img, source: [twt@](https://x.com/xChocoBars/status/1860516871533167018)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/___OTINTIN/status/1860227216258555949)
+- Ref img, source: [twt@](https://x.com/SunhiLegend/status/1860367837799346613)
+
+# ---
+
+# ---
+Archive
+# ---
+
+--- Git Day: U2 - teepa.
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/TheFigen_/status/1858919611070378227)
 - Ref img, source: [twt@](https://x.com/FoxyReine/status/1858992368139251862)
 - Ref img, source: [twt@](https://x.com/hallloweenqueen/status/1859051381019295905)
