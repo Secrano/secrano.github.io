@@ -17,8 +17,6 @@
 - Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1863322026326302857)
 - Ref img, source: [twt@](https://x.com/PunchingCat/status/1863280155906687466)
 
-<br/>
-
 # ---
 
 - Ref img, source: [twt@](https://x.com/FlSHSTlCK/status/1863402118352093228)
