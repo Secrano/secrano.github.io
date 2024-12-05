@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Emma_198900/status/1864695187576148281)
+
+- Ref img, source: [twt@](https://x.com/TruthGrayson/status/1864399767092031978)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=s21alYlu4aw)
 
 <br/>
