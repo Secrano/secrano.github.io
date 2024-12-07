@@ -4,6 +4,17 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/kawaii_xgirl/status/1865203252129624115)
+- Ref img, source: [twt@](https://x.com/fxckzinx/status/1865454041934758058)
+
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1865276593473753266)
+- Ref img, source: [twt@](https://x.com/FortniteGame/status/1865395948362293652)
+
+- Ref img, source: [twt@](https://x.com/eraser_creater/status/1865003258558738895)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Emma_198900/status/1864695187576148281)
 
 - Ref img, source: [twt@](https://x.com/TruthGrayson/status/1864399767092031978)
