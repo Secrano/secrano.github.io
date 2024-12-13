@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/TEKKEN/status/1867396970622435404)
+- Ref img, source: [twt@](https://x.com/DarkSoulsGame/status/1867384137361043506)
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1867251652551749830)
+- Ref img, source: [twt@](https://x.com/berserksouls/status/1867386205387538934)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/Iroha_ai_japan/status/1866693541025681759)
 - Ref img, source: [twt@](https://x.com/BepoCarrot/status/1866714821384868279)
 - Ref img, source: [twt@](https://x.com/EDMIRE2k/status/1866890151114244514)
