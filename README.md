@@ -2,7 +2,6 @@
 
 --- Git Day: X0
 
-Huge dino soup.
 # ---
 
 - Ref img, source: [twt@](https://x.com/RiotSherman/status/1868249731014791338)
