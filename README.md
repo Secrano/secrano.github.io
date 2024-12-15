@@ -2,6 +2,36 @@
 
 --- Git Day: X0
 
+Huge dino soup.
+# ---
+
+- Ref img, source: [twt@](https://x.com/RiotSherman/status/1868249731014791338)
+- Ref img, source: [twt@](https://x.com/sydneyfiles/status/1868047751734530138)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/armouredelf/status/1867986802537296309)
+- Ref img, source: [twt@](https://x.com/andrew_n_carr/status/1868334412678500810)
+- Ref img, source: [twt@](https://x.com/mavgx/status/1867977772947382747)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/FortniteGame/status/1868310113749987832)
+- Ref img, source: [twt@](https://x.com/Gaspafv/status/1868060902689255931)
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1868068454215073981)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1867683497608933761)
+- Ref img, source: [twt@](https://x.com/finalsaga/status/1868326623436804257)
+- Ref img, source: [twt@](https://x.com/TheGregYang/status/1868184764521541801)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/gigitataps/status/1868096677808369799)
+- Ref img, source: [twt@](https://x.com/3m1ru/status/1868053618026561850)
+- Ref img, source: [twt@](https://x.com/Rayditzfn/status/1868141513181724759)
+
 # ---
 
 - Ref img, source: [twt@](https://x.com/TEKKEN/status/1867396970622435404)
