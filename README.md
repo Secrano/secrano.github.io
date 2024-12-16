@@ -4,6 +4,23 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Iroha_ai_japan/status/1868647445728748031)
+
+- Ref img, source: [twt@](https://x.com/some1else45/status/1867937942444077201)
+- Ref img, source: [twt@](https://x.com/Garnet546223147/status/1868451445223334291)
+
+- Ref img, source: [twt@](https://x.com/37bannAI/status/1868566740302536803)
+- Ref img, source: [twt@](https://x.com/eternals/status/1868331300421066952)
+
+- Ref img, source: [twt@](https://x.com/twaniimals/status/1868056660830486797)
+- Ref img, source: [twt@](https://x.com/betanonbeet/status/1868242465205195127)
+
+- Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1868420272245940391)
+- Ref img, source: [twt@](https://x.com/Coharrie_AI/status/1868354585783624117)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/RiotSherman/status/1868249731014791338)
 - Ref img, source: [twt@](https://x.com/sydneyfiles/status/1868047751734530138)
 
