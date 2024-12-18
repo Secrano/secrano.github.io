@@ -4,6 +4,37 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/RiotKDan/status/1869414230287643070)
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1869145569538842894)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/dog_rates/status/1869095026233594192)
+- Ref img, source: [twt@](https://x.com/chesscom/status/1869127235527234032)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1869427914388963329)
+- Ref img, source: [twt@](https://x.com/FnBrunoMars/status/1869365747048403330)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ayeejuju/status/1868829092742938978)
+- Ref img, source: [twt@](https://x.com/HumansNoContext/status/1869144584258805831)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/buitengebieden/status/1869089055658615172)
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1869403592538435736)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/aliqiess/status/1869442297856979033)
+- Ref img, source: [twt@](https://x.com/ShiinaBR/status/1869360793583817048)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Iroha_ai_japan/status/1868647445728748031)
 
 <br/>
