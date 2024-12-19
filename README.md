@@ -1,14 +1,11 @@
 # secrano.github.io
 
---- Git Day: X0
-
-Constantine (2005).
+--- Git Day: X0 - Constantine (2005).
 
 # ---
 
 - Ref img, source: [twt@](https://x.com/ThatFoxxGirl3/status/1869519192351035871)
 
-# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/RiotKDan/status/1869414230287643070)
