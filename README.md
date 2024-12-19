@@ -1,6 +1,6 @@
 # secrano.github.io
 
---- Git Day: X0 - Constantine (2005).
+--- Git Day: X0
 
 # ---
 
