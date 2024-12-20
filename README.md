@@ -2,6 +2,26 @@
 
 --- Git Day: X0
 
+# --- 
+
+- Ref img, source: [twt@](https://x.com/SaiWestwood/status/1803496776399307209)
+- Ref img, source: [twt@](https://x.com/SaiWestwood/status/1870190523178234012)
+- Ref img, source: [twt@](https://x.com/keiuzuki/status/1870070008040034443)
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1870108773995442390)
+- Ref img, source: [twt@](https://x.com/keiuzuki/status/1869772990743023791)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/FightFactory/status/1869787037223793144)
+- Ref img, source: [twt@](https://x.com/ShadzMangaOnly/status/1869800441141415951)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/buitengebieden/status/1869992612251238455)
+- Ref img, source: [twt@](https://x.com/popitforpoppa/status/1869801185760424012)
+- Ref img, source: [twt@](https://x.com/PostsOfCats/status/1869870815535149544)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/ThatFoxxGirl3/status/1869519192351035871)
