@@ -2,8 +2,6 @@
 
 --- Git Day: X0
 
-Forbidden Kingdom (2008).
-
 # ---
 
 - Ref img, source: [twt@](https://x.com/KIAI4RT/status/1869658821196664986)
