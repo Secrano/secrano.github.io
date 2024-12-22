@@ -4,6 +4,51 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1870693213381816811)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1870682680599453868)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1869986087684190563)
+- Ref img, source: [twt@](https://x.com/buitengebieden/status/1870573819519475774)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/qyraxos/status/1870112929749532782)
+- Ref img, source: [twt@](https://x.com/BrianRoemmele/status/1870519632630796523)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/sersa_h/status/1870312721700602023)
+- Ref img, source: [twt@](https://x.com/twaniimals/status/1870311050865774678)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/37bannAI/status/1870423981821411577)
+- Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1870667799535968476)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/keiuzuki/status/1870671587084832931)
+- Ref img, source: [twt@](https://x.com/MiyaviRed/status/1870503221212450833)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ryoryoxxxxxx/status/1870470579737985358)
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1870393784653201622)
+- Ref img, source: [twt@](https://x.com/MiyaviRed/status/1870503221212450833)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1855106988189036980)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1870665569055486361)
+
+# ---
+Music: "[Hanh trinh tro ve](https://www.youtube.com/watch?v=zh6WiPF9Cho&t)" uploaded by Hoa Xuan Ca
+# ---
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/KIAI4RT/status/1869658821196664986)
 - Ref img, source: [twt@](https://x.com/hengki24/status/1870332857878778031)
 
