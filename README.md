@@ -4,6 +4,33 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/catturd2/status/1871914259535569096)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1871699815178055742)
+- Ref img, source: [twt@](https://x.com/lindayaX/status/1872024264070910253)
+- Ref img, source: [twt@](https://x.com/lalisamgger/status/1871841027033809085)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/kurahu_capten/status/1871843828266864812)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1872076982487494827)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/LoLUKN/status/1871903734462050613)
+- Ref img, source: [twt@](https://x.com/mayemusk/status/1872015303003299982)
+- Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1871832466731991466)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ProdCM_/status/1871731850319962196)
+- Ref img, source: [twt@](https://x.com/CreationsLevi/status/1872020642528416081)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/AiartYasshy/status/1870937362135711969)
 - Ref img, source: [twt@](https://x.com/depressionlesss/status/1870933579968213139)
 
