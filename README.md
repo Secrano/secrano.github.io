@@ -1,6 +1,6 @@
 # secrano.github.io
 
---- Git Day: X0 - X-mas
+--- Git Day: X0
 
 # ---
 
