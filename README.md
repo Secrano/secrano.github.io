@@ -1,7 +1,15 @@
 # secrano.github.io
 
---- Git Day: X0
+--- Git Day: X0 (DL6)
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1873740858031497242)
+- Ref img, source: [twt@](https://x.com/ADHDForReal/status/1873623256424677740)
+- Ref img, source: [twt@](https://x.com/khyleri/status/1873763905044095305)
+- Ref img, source: [twt@](https://x.com/MangaContexts/status/1873706607986532732)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/catturd2/status/1871914259535569096)
