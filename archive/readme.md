@@ -48,7 +48,8 @@
 - Static slides of AI images. BW animation siluettes.
 - Single shot assisted AI generation (expanded dimension abstraction).
 - Simple redirection page. Card game w/number values and triangular shapes.
-  
+- Pepe of the Roman Empire 0-100 BC (fan fiction).
+
 # ---
 - Hello world.
 # ---
