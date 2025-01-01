@@ -2,7 +2,7 @@
 
 --- Git Day: X0 (DM2)
 
-Naruto The last.
+- Naruto The last.
 
 # ---
 
