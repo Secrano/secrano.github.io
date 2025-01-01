@@ -2,6 +2,14 @@
 
 --- Git Day: X0 (DM2)
 
+Naruto The last.
+
+# ---
+
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=FapY1wiKGts)
+- Ref img, source: [twt@](https://x.com/AscendantNexus/status/1874465935106666546)
+- Ref img, source: [twt@](https://x.com/chicolantern/status/1874455465859686621)
+  
 # ---
 
 - Ref img, source: [twt@](https://x.com/zampy68/status/1873783721285001598)
