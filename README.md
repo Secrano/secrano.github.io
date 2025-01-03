@@ -2,7 +2,10 @@
 
 --- Git Day: X0 (DM2)
 
-- Naruto The last.
+# ---
+
+- Ref img, source: [twt@](https://www.youtube.com/shorts/mP0Fdwkz5uI)
+- Ref img, source: [twt@](https://x.com/_vaatu/status/1874936920318636090)
 
 # ---
 
