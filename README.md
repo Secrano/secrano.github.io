@@ -4,6 +4,11 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/keiuzuki/status/1875077157153841160)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://www.youtube.com/shorts/mP0Fdwkz5uI)
 - Ref img, source: [twt@](https://x.com/_vaatu/status/1874936920318636090)
 
