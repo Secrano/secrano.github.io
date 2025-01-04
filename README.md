@@ -29,7 +29,6 @@
 - Ref img, source: [twt@](https://x.com/___chanoto___/status/1833780581102236095)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/keiuzuki/status/1875077157153841160)
 
