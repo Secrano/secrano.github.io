@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://www.youtube.com/shorts/vfuCf3ab6tA)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/nettcentral/status/1875346883457249444)
 - Ref img, source: [twt@](https://x.com/selmacashmoney/status/1875355143325335788)
