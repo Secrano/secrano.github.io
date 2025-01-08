@@ -4,8 +4,8 @@
 
 # ---
 
-- Ref img, source: [twt@](https://x.com/RichardHanania/status/1876835206306373974)
 - Ref img, source: [twt@](https://x.com/NyoFuyu__/status/1876874721955897704)
+- Ref img, source: [twt@](https://x.com/RichardHanania/status/1876835206306373974)
 - Ref img, source: [twt@](https://x.com/KittenguinCat/status/1877024104789811223)
 - Ref img, source: [twt@](https://x.com/andrewkimmel/status/1877011612940308567)
 - Ref img, source: [twt@](https://x.com/artofchinara/status/1876792161489822063)
