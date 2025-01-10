@@ -25,7 +25,7 @@
 
 <br/>
 
-- Ref img, source: [twt@](https://x.com/i/bookmarks?post_id=1877490537239896259)
+- Ref img, source: [twt@](https://x.com/LoLJPOfficial/status/1877490537239896259)
 - Ref img, source: [twt@](https://x.com/LeagueOfLegends/status/1877490537155948592)
 - Ref img, source: [twt@](https://x.com/puppiesDoglover/status/1877201875553988608)
 - Ref img, source: [twt@](https://x.com/PostsOfCats/status/1877214823185830186)
