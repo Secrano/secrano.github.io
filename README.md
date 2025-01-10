@@ -41,7 +41,7 @@
 
 <br/>
 
-- Ref img, source: [twt@](https://x.com/i/bookmarks?post_id=1877457316347523222)
+- Ref img, source: [twt@](https://x.com/SUtanokami/status/1877457316347523222)
 - Ref img, source: [twt@](https://x.com/BuffGigas/status/1877160713367535884)
 - Ref img, source: [twt@](https://x.com/beholdhex/status/1877067399700050025)
 
