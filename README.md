@@ -35,7 +35,7 @@
 <br/>
 
 - Ref img, source: [twt@](https://x.com/RadioGenoa/status/1877448632913289495)
-- Ref img, source: [twt@](https://x.com/i/bookmarks?post_id=1877450420831842753)
+- Ref img, source: [twt@](https://x.com/konkopito/status/1877450420831842753)
 - Ref img, source: [twt@](https://x.com/inviz0/status/1877441898140369120)
 - Ref img, source: [twt@](https://x.com/beholdhex/status/1877067399700050025)
 
