@@ -4,6 +4,47 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/MidgetSpinner0/status/1877816771736141851)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/kaniiberry/status/1877873340590817473)
+- Ref img, source: [twt@](https://x.com/nam_man3/status/1877875573231591916)
+- Ref img, source: [twt@](https://x.com/First_alphas/status/1877613567505023033)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/downbadcomment/status/1877852960253735297)
+- Ref img, source: [twt@](https://x.com/xhemyd/status/1877497494633926832)
+- Ref img, source: [twt@](https://x.com/jasikyu/status/1877861856548716654)
+- Ref img, source: [twt@](https://x.com/Latinashsb/status/1877493121182740962)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/keiuzuki/status/1877644245546184886)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/velvet__daze/status/1877602143819202818)
+- Ref img, source: [twt@](https://x.com/thefeelsgood13/status/1877757033811689497)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/AiartYasshy/status/1877613177669824955)
+- Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1877272263961059763)
+- Ref img, source: [twt@](https://x.com/Irenefish02/status/1877667303648628758)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/faedoll0/status/1877456343172300859)
+- Ref img, source: [twt@](https://x.com/FerzoFurrencio/status/1877469661689692382)
+- Ref img, source: [twt@](https://x.com/khyleri/status/1877759953093693933)
+- Ref img, source: [twt@](https://x.com/daahcos/status/1877541875692831125)
+- Ref img, source: [twt@](https://x.com/SUtanokami/status/1877815929670664407)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/soullig/status/1877155133533851740)
 - Ref img, source: [twt@](https://x.com/soullig/status/1877155133533851740)
 - Ref img, source: [twt@](https://x.com/ShockingKarma/status/1877359673105588480)
