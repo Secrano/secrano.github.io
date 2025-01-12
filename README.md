@@ -4,7 +4,7 @@
 
 # ---
 
-- Ref img, source: [twt@x](https://x.com/daph_vt/status/1878117587172663643)
+- Ref img, source: [twt@](https://x.com/daph_vt/status/1878117587172663643)
 
 <br/>
 
