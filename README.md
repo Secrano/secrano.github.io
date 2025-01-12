@@ -4,6 +4,54 @@
 
 # ---
 
+- Ref img, source: [twt@x](https://x.com/daph_vt/status/1878117587172663643)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ValorantUpdated/status/1878183458721386986)
+- Ref img, source: [twt@](https://x.com/TheeDarkCircle/status/1878058615887573318)
+- Ref img, source: [twt@](https://x.com/photo5065/status/1878021481340272838)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/photo5065/status/1878023804074520887)
+- Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1877834185773113425)
+- Ref img, source: [twt@](https://x.com/CensoredLeak/status/1877872300563038474)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/kirawontmiss/status/1878170157186498815)
+- Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1877984514070176101)
+- Ref img, source: [twt@](https://x.com/NoContextCrap/status/1878078157481521183)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/photo5065/status/1878078789332218304)
+- Ref img, source: [twt@](https://x.com/ciindae/status/1878178393050554632)
+- Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1878000763064229892)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/yoxics/status/1878239692442784092)
+- Ref img, source: [twt@](https://x.com/ywuukii/status/1878253384328741149)
+- Ref img, source: [twt@](https://x.com/katieguo/status/1878214227187609714)
+- Ref img, source: [twt@](https://x.com/TheCatsX/status/1877938289182908478)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1878199399932653759)
+- Ref img, source: [twt@](https://x.com/polinadubrey/status/1878071132512809123)
+- Ref img, source: [twt@](https://x.com/meowri/status/1878164339263160655)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1878003174272811078)
+- Ref img, source: [twt@](https://x.com/vidsthatgohard/status/1878209519638938031)
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1877856354846589130)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/MidgetSpinner0/status/1877816771736141851)
 
 <br/>
