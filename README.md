@@ -4,6 +4,39 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/evieleemikomin/status/1878866820196896907)
+- Ref img, source: [twt@](https://x.com/squidgame/status/1878819294085009842)
+- Ref img, source: [twt@](https://x.com/TaigsVS/status/1878896393156477206)
+- Ref img, source: [twt@](https://x.com/coupllememes/status/1878828723925106976)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/munou_ac/status/1878986969784676489)
+- Ref img, source: [twt@](https://x.com/Catshealdeprsn/status/1879008034090786952)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/depressionlesss/status/1878400279907098647)
+- Ref img, source: [twt@](https://x.com/VixxieVie/status/1876660216328343827)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/hourly_shitpost/status/1878641874694496578)
+- Ref img, source: [twt@](https://x.com/wecanbedoit/status/1878735534639706559)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/AiartYasshy/status/1878879694491185366)
+- Ref img, source: [twt@](https://x.com/contextdogs/status/1878886328869556725)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/toopixoxo/status/1878759140962795563)
+- Ref img, source: [twt@](https://x.com/Micah_Alhadeff/status/1878826902120784138)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/daph_vt/status/1878117587172663643)
 
 <br/>
