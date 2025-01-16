@@ -1,5 +1,14 @@
 # secrano.github.io
 
+--- Git Day: DN6
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/pastpassengers/status/1879368883334959336)
+- Ref img, source: [twt@](https://x.com/yoginnnnnn/status/1879162014377087397)
+
+# ---
+
 --- Git Day: X0 (DM9)
 
 # ---
