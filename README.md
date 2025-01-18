@@ -4,6 +4,37 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/philazora/status/1880585939182899487)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/x103p/status/1880364904546463920)
+- Ref img, source: [twt@](https://x.com/CatWorkers/status/1880241178370797848)
+- Ref img, source: [twt@](https://x.com/supersonic16023/status/1880393202072711374)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/butterywaterboi/status/1880453341186257090)
+- Ref img, source: [twt@](https://x.com/cxxsomig/status/1880187534594187558)
+- Ref img, source: [twt@](https://x.com/Vityafk49/status/1880360810041823341)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/contextdogs/status/1880298280812507258)
+- Ref img, source: [twt@](https://x.com/buitengebieden/status/1880380928050213339)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/SuperSnkrdoodle/status/1880463606975984128)
+- Ref img, source: [twt@](https://x.com/Catsillyness/status/1880335930713858550)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/NoContextCrap/status/1880478976574951548)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/pastpassengers/status/1879368883334959336)
 - Ref img, source: [twt@](https://x.com/yoginnnnnn/status/1879162014377087397)
 
