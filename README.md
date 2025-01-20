@@ -1,5 +1,23 @@
 # secrano.github.io
 
+--- Git Day: DO3 - Kenshin X
+
+# ---
+
+- Ref img, source: [twt@x](https://x.com/000chun000_/status/1881291514573439139)
+- Ref img, source: [twt@x](https://x.com/TocaWildRift/status/1880982288609239106)
+
+<br/>
+
+- Ref img, source: [twt@x](https://x.com/rxze_xo/status/1881088239723057274)
+- Ref img, source: [twt@x](https://x.com/ryosuketarou/status/1880617360484336049)
+
+</br>
+
+- Ref img, source: [twt@x](https://www.youtube.com/watch?v=-fK_J2SI-3k)
+
+# ---
+
 --- Git Day: DN6
 
 # ---
