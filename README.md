@@ -19,8 +19,6 @@
 
 ---
 
-<br/>
-
 - Ref img, source: [twt@](https://x.com/RyuPixelAi/status/1881465815784149175)
 - Ref img, source: [twt@](https://x.com/zampy68/status/1881399796956856336)
 - Ref img, source: [twt@](https://x.com/ta5ylp/status/1881394336526643445)
