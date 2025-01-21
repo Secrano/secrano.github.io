@@ -13,13 +13,12 @@
 - Ref img, source: [twt@](https://x.com/CombatASemitism/status/1881456719911621006)
 - Ref img, source: [twt@](https://x.com/EricRWeinstein/status/1881548382449303742)
 
----
-
 <br/>
 
 - Ref img, source: [twt@](https://x.com/tkasasagi/status/1881673001420374048)
 
 <br/>
+---
 
 - Ref img, source: [twt@](https://x.com/RyuPixelAi/status/1881465815784149175)
 - Ref img, source: [twt@](https://x.com/zampy68/status/1881399796956856336)
