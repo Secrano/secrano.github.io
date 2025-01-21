@@ -4,6 +4,40 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/cb_doge/status/1881493458361446464)
+- Ref img, source: [twt@](https://x.com/uncledoomer/status/1881484443808051632)
+- Ref img, source: [twt@](https://x.com/AB84/status/1881385067215532376)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/CombatASemitism/status/1881456719911621006)
+- Ref img, source: [twt@](https://x.com/EricRWeinstein/status/1881548382449303742)
+
+---
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/tkasasagi/status/1881673001420374048)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/RyuPixelAi/status/1881465815784149175)
+- Ref img, source: [twt@](https://x.com/zampy68/status/1881399796956856336)
+- Ref img, source: [twt@](https://x.com/ta5ylp/status/1881394336526643445)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/AnimexTwts/status/1881480657458901480)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/MorningBrew/status/1881373121518911717)
+- Ref img, source: [twt@](https://x.com/NekoSurfAI/status/1881454520888369191)
+
+# ---
+
+# ---
+
 - Ref img, source: [twt@x](https://x.com/000chun000_/status/1881291514573439139)
 - Ref img, source: [twt@x](https://x.com/TocaWildRift/status/1880982288609239106)
 
