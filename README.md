@@ -4,6 +4,14 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/KyleKulinski/status/1881732052992860661)
+- Ref img, source: [twt@](https://x.com/lynk0x/status/1881846485417136542)
+- Ref img, source: [twt@](https://x.com/PeterSchiff/status/1881770557223682309)
+- Ref img, source: [twt@](https://x.com/majeliskucing/status/1881632326385385509)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/cb_doge/status/1881493458361446464)
 - Ref img, source: [twt@](https://x.com/uncledoomer/status/1881484443808051632)
 - Ref img, source: [twt@](https://x.com/AB84/status/1881385067215532376)
@@ -17,7 +25,7 @@
 
 - Ref img, source: [twt@](https://x.com/tkasasagi/status/1881673001420374048)
 
----
+<br/>
 
 - Ref img, source: [twt@](https://x.com/RyuPixelAi/status/1881465815784149175)
 - Ref img, source: [twt@](https://x.com/zampy68/status/1881399796956856336)
