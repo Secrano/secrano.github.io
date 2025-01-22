@@ -1,6 +1,6 @@
 # secrano.github.io
 
---- Git Day: DO3 - Kenshin X
+--- Git Day: DO3 - Kenshin X.
 
 # ---
 
