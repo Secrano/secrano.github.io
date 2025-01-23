@@ -4,6 +4,12 @@
 
 # ---
 
+- Ref img, source: [twt@x](https://x.com/opdaiIy/status/1882133384983359599)
+- Ref img, source: [twt@x](https://x.com/SUtanokami/status/1882406931090055390)
+
+# ---
+# ---
+
 - Ref img, source: [twt@x](https://x.com/anime_twits/status/1881948785309372681)
 - Ref img, source: [twt@x](https://www.youtube.com/shorts/5J1qdIOFUGM)
 - Ref img, source: [twt@x](https://x.com/opdaiIy/status/1882073014981812238)
