@@ -4,6 +4,15 @@
 
 # ---
 
+- Ref img, source: [twt@x](https://x.com/anime_twits/status/1881948785309372681)
+- Ref img, source: [twt@x](https://www.youtube.com/shorts/5J1qdIOFUGM)
+- Ref img, source: [twt@x](https://x.com/opdaiIy/status/1882073014981812238)
+- Ref img, source: [twt@x](https://x.com/opdaiIy/status/1881891792473207072)
+- Ref img, source: [twt@x](https://x.com/animel7316/status/1882012375588782196)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/KyleKulinski/status/1881732052992860661)
 - Ref img, source: [twt@](https://x.com/lynk0x/status/1881846485417136542)
 - Ref img, source: [twt@](https://x.com/PeterSchiff/status/1881770557223682309)
