@@ -4,6 +4,15 @@
 
 # ---
 
+- Ref img, source: [twt@xxx](https://x.com/nad_01x/status/1882514502035681310)
+- Ref img, source: [twt@xxx](https://www.youtube.com/watch?v=a3sQIjbrMQw)
+- Ref img, source: [twt@xxx](https://x.com/pasthistoryx/status/1882530037565645171)
+- Ref img, source: [twt@xxx](https://www.youtube.com/shorts/hqgeJKmZ2b8)
+- Ref img, source: [twt@xxx](https://www.youtube.com/shorts/yWqCPwIQImg)
+
+# ---
+# ---
+
 - Ref img, source: [twt@xx](https://x.com/eraser_creater/status/1882171882377765029)
 - Ref img, source: [twt@xx](https://x.com/dr000mi/status/1882421733140865256)
 - Ref img, source: [twt@xx](https://x.com/PunchingCat/status/1882263575282188541)
