@@ -4,11 +4,11 @@
 
 # ---
 
-- Ref img, source: [twt@xxx](https://x.com/nad_01x/status/1882514502035681310)
-- Ref img, source: [twt@xxx](https://www.youtube.com/watch?v=a3sQIjbrMQw)
-- Ref img, source: [twt@xxx](https://x.com/pasthistoryx/status/1882530037565645171)
-- Ref img, source: [twt@xxx](https://www.youtube.com/shorts/hqgeJKmZ2b8)
-- Ref img, source: [twt@xxx](https://www.youtube.com/shorts/yWqCPwIQImg)
+- Ref img, source: [twt@x](https://x.com/nad_01x/status/1882514502035681310)
+- Ref img, source: [twt@x](https://www.youtube.com/watch?v=a3sQIjbrMQw)
+- Ref img, source: [twt@x](https://x.com/pasthistoryx/status/1882530037565645171)
+- Ref img, source: [twt@x](https://www.youtube.com/shorts/hqgeJKmZ2b8)
+- Ref img, source: [twt@x](https://www.youtube.com/shorts/yWqCPwIQImg)
 
 # ---
 # ---
