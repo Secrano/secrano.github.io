@@ -3,6 +3,12 @@
 --- Git Day: DO3 - Kenshin X.
 
 # ---
+# ---
+
+- Ref img, source: [twt@](https://x.com/qiandaiyiyu/status/1883146153287676009)
+- Ref img, source: [twt@](https://x.com/proresulove7878/status/1882959204903952634)
+
+# ---
 
 - Ref img, source: [twt@](https://x.com/Iroha_ai_japan/status/1882767585835688404)
 
