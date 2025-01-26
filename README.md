@@ -3,6 +3,33 @@
 --- Git Day: DO3 - Kenshin X.
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/proresulove7878/status/1883408434730762409)
+- Ref img, source: [twt@](https://x.com/kirawontmiss/status/1883331544515056046)
+- Ref img, source: [twt@](https://x.com/mRHo9csmBDPJojY/status/1882979631659426237)
+- Ref img, source: [twt@](https://x.com/momentsofence/status/1883152850102161864)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/docmilanfar/status/1883401462304457146)
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1882778044664066060)
+- Ref img, source: [twt@](https://x.com/Mortdog/status/1883478633551130639)
+- Ref img, source: [twt@](https://x.com/reddhairshanks/status/1883201391235404157)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/homutan1/status/1883017972270408091)
+- Ref img, source: [twt@](https://x.com/Catshealdeprsn/status/1882857147219812806)
+- Ref img, source: [twt@](https://x.com/Catsillyness/status/1883167096630383074)
+- Ref img, source: [twt@](https://x.com/nzxt_cam/status/1883472256111972581)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/000chun000_/status/1883445329225564375)
+- Ref img, source: [twt@](https://x.com/majeliskucing/status/1883140263029432765)
+- Ref img, source: [twt@](https://x.com/Zikin_x/status/1882442698445181244)
+- Ref img, source: [twt@](https://x.com/000chun000_/status/1883472148246958452)
+
 # ---
 
 - Ref img, source: [twt@](https://x.com/qiandaiyiyu/status/1883146153287676009)
