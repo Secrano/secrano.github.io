@@ -4,6 +4,36 @@
 
 # ---
 
+- Ref img, source: [twt@x](https://x.com/FortniteGame/status/1883530500918141414)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PostsOfCats/status/1883519012459405620)
+- Ref img, source: [twt@](https://x.com/rogerlmaoo/status/1883530285599568209)
+
+<br/>
+
+Hu tao skin
+- Ref img, source: [twt@](https://x.com/stormz67/status/1883542407360466966)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1883718541607846349)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/LoLUKN/status/1883839631931900165)
+- Ref img, source: [twt@](https://x.com/pewpiece/status/1883833388093882478)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/endomame_uc/status/1883780848522260836)
+- Ref img, source: [twt@](https://x.com/SydusArts/status/1883850558597128243)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/isma3iloiso/status/1883472006793854992)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/cathode_dreams/status/1883614689441247627)
 - Ref img, source: [twt@](https://x.com/ACustomframing/status/1883433152141754552)
 
