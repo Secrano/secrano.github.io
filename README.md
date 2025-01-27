@@ -4,7 +4,7 @@
 
 # ---
 
-- Ref img, source: [twt@x](https://x.com/FortniteGame/status/1883530500918141414)
+- Ref img, source: [twt@](https://x.com/FortniteGame/status/1883530500918141414)
 
 <br/>
 
@@ -13,7 +13,6 @@
 
 <br/>
 
-Hu tao skin
 - Ref img, source: [twt@](https://x.com/stormz67/status/1883542407360466966)
 - Ref img, source: [twt@](https://x.com/PunchingCat/status/1883718541607846349)
 
