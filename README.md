@@ -1,5 +1,18 @@
 # secrano.github.io
 
+--- Git Day: DP0 (W).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/cathode_dreams/status/1883614689441247627)
+- Ref img, source: [twt@](https://x.com/ACustomframing/status/1883433152141754552)
+
+<br/>
+
+- Ref img, source: [twt@](https://www.youtube.com/shorts/oaxULj0U55U)
+
+# ---
+
 --- Git Day: DO3 - Kenshin X.
 
 # ---
