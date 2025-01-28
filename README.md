@@ -3,6 +3,32 @@
 --- Git Day: DP0 (W).
 
 # ---
+# ---
+
+- Ref img, source: [twt@](https://x.com/HAL09999/status/1884175028729831637)
+- Ref img, source: [twt@](https://x.com/stimograph/status/1884293478634659883)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/stimograph/status/1884293481180598521)
+- Ref img, source: [twt@](https://x.com/stimograph/status/1883956411706773849)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/stimograph/status/1883925569903223112)
+- Ref img, source: [twt@](https://x.com/stimograph/status/1883569256572559610)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/KellytoyDK/status/1884189360469500077)
+- Ref img, source: [twt@](https://x.com/ArtsRayne/status/1884283408597278744)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/AerithCloud3/status/1884120677399290169)
+
+# ---
+# ---
 
 - Ref img, source: [twt@](https://x.com/FortniteGame/status/1883530500918141414)
 
