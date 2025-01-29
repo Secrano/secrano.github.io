@@ -4,6 +4,31 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/MangaContexts/status/1884397047782031629)
+- Ref img, source: [twt@](https://x.com/Coharrie_AI/status/1884648199606116727)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PookiePiece/status/1884624891799908378)
+- Ref img, source: [twt@](https://x.com/graceart0518/status/1884388493608247400)
+- Ref img, source: [twt@](https://x.com/emzberry/status/1884353058349723736)
+- Ref img, source: [twt@](https://x.com/traffycore/status/1883958672621285473)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Hyeon_sonic/status/1884401803858710820)
+- Ref img, source: [twt@](https://x.com/i_love__lesbian/status/1884527192295846072)
+- Ref img, source: [twt@](https://x.com/IAmAaronWill/status/1884165423077417100)
+- Ref img, source: [twt@](https://x.com/angelos_archive/status/1884240012910420287)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/pixelated_robin/status/1883955694875070670)
+- Ref img, source: [twt@](https://x.com/ironmouse/status/1884095980938879000)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/AerithCloud3/status/1884123696908099876)
 - Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1884343609303900479)
 - Ref img, source: [twt@](https://x.com/Heartbreak_Juan/status/1884453265993076909)
