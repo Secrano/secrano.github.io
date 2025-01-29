@@ -15,7 +15,6 @@
 - Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1884548667241378215)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/HAL09999/status/1884175028729831637)
 - Ref img, source: [twt@](https://x.com/stimograph/status/1884293478634659883)
