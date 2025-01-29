@@ -3,6 +3,18 @@
 --- Git Day: DP0 (W).
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/AerithCloud3/status/1884123696908099876)
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1884343609303900479)
+- Ref img, source: [twt@](https://x.com/Heartbreak_Juan/status/1884453265993076909)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/panpianoatelier/status/1884548667996316118)
+- Ref img, source: [twt@](https://x.com/docmilanfar/status/1884434614900408416)
+- Ref img, source: [twt@](https://x.com/NoCatsNoLife_m/status/1884548667241378215)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/HAL09999/status/1884175028729831637)
