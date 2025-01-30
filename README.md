@@ -3,6 +3,24 @@
 --- Git Day: DP0 (W).
 
 # ---
+# ---
+
+- Ref img, source: [twt@](https://x.com/000chun000_/status/1884951191366562292)
+- Ref img, source: [twt@](https://x.com/hourly_shitpost/status/1884953465866100744)
+- Ref img, source: [twt@](https://x.com/DailyAnimesPics/status/1884737154905002207)
+- Ref img, source: [twt@](https://x.com/DailyAnimesPics/status/1884948463583937003)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/DailyAnimesPics/status/1884674736753365272)
+- Ref img, source: [twt@](https://x.com/DailyAnimesPics/status/1884393108596514923)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Miu_ryy/status/1884315222334382162)
+
+# ---
+# ---
 
 - Ref img, source: [twt@](https://x.com/MangaContexts/status/1884397047782031629)
 - Ref img, source: [twt@](https://x.com/Coharrie_AI/status/1884648199606116727)
