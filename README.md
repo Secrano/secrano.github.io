@@ -4,6 +4,12 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/cz_binance/status/1885654397218337137)
+- Ref img, source: [twt@](https://x.com/Kalisami1/status/1885542874722324738)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/stimograph/status/1885026190118793557)
 - Ref img, source: [twt@](https://x.com/mangakagome/status/1885446965569479147)
 
