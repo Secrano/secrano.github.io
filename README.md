@@ -4,6 +4,18 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/anime_twits/status/1885591517344968881)
+- Ref img, source: [twt@](https://www.youtube.com/shorts/m_3Hc8lbIk4)
+- Ref img, source: [twt@](https://www.youtube.com/shorts/deeas62iXGw)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/sorotu/status/1885639895521325289)
+- Ref img, source: [twt@](https://www.youtube.com/shorts/BmrSAwDfIqw)
+- Ref img, source: [twt@](https://www.youtube.com/shorts/15I7Yzd5sDY)
+
+<br/>
+
 - Ref img, source: [twt@](https://x.com/cz_binance/status/1885654397218337137)
 - Ref img, source: [twt@](https://x.com/Kalisami1/status/1885542874722324738)
 
