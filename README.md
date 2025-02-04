@@ -1,5 +1,14 @@
 # secrano.github.io
 
+--- Git Day: DP7 (W2).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/PostsOfCats/status/1886482481056022779)
+- Ref img, source: [twt@](https://x.com/twibuznews/status/1886537095348719983)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1886625809198407726)
+- Ref img, source: [twt@](https://x.com/PostsOfCats/status/1886453537955037615)
+
 --- Git Day: DP0 (W).
 
 # ---
