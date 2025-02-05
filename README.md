@@ -4,7 +4,7 @@
 
 # ---
 
-- Ref img, source: [twt@x](https://x.com/PunchingCat/status/1886887894649803058)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1886887894649803058)
 
 # ---
 
