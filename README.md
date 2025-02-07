@@ -10,7 +10,6 @@
 - Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1887449695447830919)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/PunchingCat/status/1886887894649803058)
 
