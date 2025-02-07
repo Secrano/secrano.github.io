@@ -4,6 +4,14 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/oysi_mysi_/status/1885617374805852459)
+- Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1887543407695868385)
+- Ref img, source: [twt@](https://x.com/kltt3y/status/1887524154447901025)
+- Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1887449695447830919)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/PunchingCat/status/1886887894649803058)
 
 # ---
