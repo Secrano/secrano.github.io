@@ -16,8 +16,6 @@
 
 <br/>
 
-|| - Ref img, source: [twt@](https://x.com/fishifiedfish/status/1888200876864786627)
-
 - Ref img, source: [twt@](https://x.com/opdaiIy/status/1888052385219494191)
 - Ref img, source: [twt@](https://x.com/kuchan_AI/status/1888186351574769787)
 - Ref img, source: [twt@](https://x.com/tttsnf/status/1887927509418918267)
