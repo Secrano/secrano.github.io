@@ -1,5 +1,14 @@
 # secrano.github.io
 
+--- Git Day: DQ4 (W3).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/mangakagome/status/1888063790719316108)
+- Ref img, source: [twt@](https://x.com/YeMoments/status/1888418158207181032)
+
+# ---
+
 --- Git Day: DP7 (W2).
 
 # ---
