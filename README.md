@@ -59,7 +59,6 @@
 - Ref img, source: [twt@](https://x.com/ryoryoxxxxxx/status/1888995263890837998)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/mangakagome/status/1888063790719316108)
 - Ref img, source: [twt@](https://x.com/YeMoments/status/1888418158207181032)
