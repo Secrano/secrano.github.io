@@ -4,6 +4,63 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/babs69420/status/1888696793442988219)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/anime_twits/status/1888747300672901176)
+- Ref img, source: [twt@](https://x.com/hourly_shitpost/status/1889049221669495254)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Timeless_aiart/status/1888917969893490732)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/YourAnonCentral/status/1888696513548919051)
+- Ref img, source: [twt@](https://x.com/piitures/status/1888679669169574025)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/permabulla/status/1888745937306321029)
+- Ref img, source: [twt@](https://x.com/SUtanokami/status/1888787402933870911)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/anime_twits/status/1888762366550053357)
+- Ref img, source: [twt@](https://x.com/TatsuyaBot/status/1887707548024987687)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/zampy68/status/1888825822175203828)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/sssirxn/status/1888674719769211215)
+- Ref img, source: [twt@](https://x.com/_GVNTHER_/status/1888988653764190345)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/daydream_jpeg/status/1888684105401033084)
+- Ref img, source: [twt@](https://x.com/NyoFuyu__/status/1888775249996754972)
+- Ref img, source: [twt@](https://x.com/MrBusby4o8/status/1888817091085468103)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ghostaof/status/1888678953273200980)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/pastpassengers/status/1888995973856182625)
+- Ref img, source: [twt@](https://x.com/Tracy2062640/status/1888707537769234501)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ryoryoxxxxxx/status/1888995263890837998)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/mangakagome/status/1888063790719316108)
 - Ref img, source: [twt@](https://x.com/YeMoments/status/1888418158207181032)
 
