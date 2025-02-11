@@ -4,6 +4,31 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/AshleyKang/status/1889045985093189966)
+- Ref img, source: [twt@](https://x.com/crittersz/status/1889110116005236864)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/finalfAIntasy/status/1889427177558417794)
+- Ref img, source: [twt@](https://x.com/qweed/status/1889413398372515909)
+- Ref img, source: [twt@](https://x.com/DanKantori/status/1889055631522369668)
+- Ref img, source: [twt@](https://x.com/fairyycattt/status/1889175254460780730)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/YeMoments/status/1889089857051300206)
+- Ref img, source: [twt@](https://x.com/GenshinUniverse/status/1889166502227562536)
+- Ref img, source: [twt@](https://x.com/StreetFighter/status/1889374591895613565)
+- Ref img, source: [twt@](https://x.com/finalfAIntasy/status/1889375599761719634)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/_3aem/status/1889362205164052634)
+- Ref img, source: [twt@](https://x.com/gigiutsu/status/1889347018411081937)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/babs69420/status/1888696793442988219)
 
 <br/>
