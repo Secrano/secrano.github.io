@@ -4,6 +4,40 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/keenanisalive/status/1889771504620957772)
+- Ref img, source: [twt@](https://x.com/nfr_podcast/status/1889731427287089607)
+- Ref img, source: [twt@](https://x.com/ayeejuju/status/1889749302336979382)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Fortnite/status/1889660819794715008)
+- Ref img, source: [twt@](https://x.com/cyberanimegf/status/1889746300670787967)
+- Ref img, source: [twt@](https://x.com/twibuznews/status/1889625822606102727)
+- Ref img, source: [twt@](https://x.com/rosuuri/status/1889852963704938701)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/duolingo/status/1889666619003097427)
+- Ref img, source: [twt@](https://x.com/fiverr/status/1889746703999193400)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/BAD_Marketers/status/1889689664757313585)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/masoq095/status/1889783413525115382)
+- Ref img, source: [twt@](https://x.com/senyamiku0/status/1889956917755387995)
+- Ref img, source: [twt@](https://x.com/kirawontmiss/status/1889850081760952638)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/miniapeur/status/1889898797863673955)
+- Ref img, source: [twt@](https://x.com/kirawontmiss/status/1889748077675716654)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/AshleyKang/status/1889045985093189966)
 - Ref img, source: [twt@](https://x.com/crittersz/status/1889110116005236864)
 
