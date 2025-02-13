@@ -4,6 +4,14 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/isma3iloiso/status/1890029708802408875)
+- Ref img, source: [twt@](https://x.com/DreadnaughtDark/status/1890151713325412642)
+- Ref img, source: [twt@](https://x.com/altphotos_pl/status/1889798385068023893)
+
+# ---
+<br/>
+# ---
+
 - Ref img, source: [twt@](https://x.com/keenanisalive/status/1889771504620957772)
 - Ref img, source: [twt@](https://x.com/nfr_podcast/status/1889731427287089607)
 - Ref img, source: [twt@](https://x.com/ayeejuju/status/1889749302336979382)
