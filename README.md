@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/PunchingCat/status/1890854153037267045)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/Nexus_AiAcademy/status/1890470046264119631)
 - Ref img, source: [twt@](https://x.com/ai_zerara/status/1890421989489131968)
