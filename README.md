@@ -4,6 +4,22 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Nexus_AiAcademy/status/1890470046264119631)
+- Ref img, source: [twt@](https://x.com/ai_zerara/status/1890421989489131968)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/DimaZeniuk/status/1890441996780650985)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1890451879009599833)
+
+<br/>
+
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=EOwhuTlxE54)
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=TN43sBBqlK8)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/isma3iloiso/status/1890029708802408875)
 - Ref img, source: [twt@](https://x.com/DreadnaughtDark/status/1890151713325412642)
 - Ref img, source: [twt@](https://x.com/altphotos_pl/status/1889798385068023893)
