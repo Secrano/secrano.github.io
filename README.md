@@ -1,5 +1,82 @@
 # secrano.github.io
 
+--- Git Day: DR1 (W4).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/solisolsoli/status/1891548172364939604)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/shivon/status/1891587630854209768)
+- Ref img, source: [twt@](https://x.com/kritipraks/status/1891635162586173467)
+- Ref img, source: [twt@](https://x.com/vamchale/status/1891130287322534293)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1891501345166819619)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1891359420619137400)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/DemizuPosuka/status/1891133451392217363)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/yurari_banri/status/1890160270095339597)
+- Ref img, source: [twt@](https://x.com/yurari_banri/status/1890522909145182419)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/opdaiIy/status/1889894555773751785)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1891528947126485287)
+- Ref img, source: [twt@](https://x.com/arinco0808/status/1891470440163418542)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ck_ksry_jm/status/1891532304796766691)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/zyakulo/status/1891428811226415202)
+- Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1891826757449265368)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1891822115235692694)
+- Ref img, source: [twt@](https://x.com/hakaelll/status/1891158833227087904)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1891821102567129271)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1891671543899431159)
+- Ref img, source: [twt@](https://x.com/0xluffyb/status/1891717850588393530)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/BellMod3/status/1891820207662039238)
+- Ref img, source: [twt@](https://x.com/aat_ai40683/status/1891511675557118315)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/scary_susu/status/1891628540673524143)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/meltenx/status/1891507467185504309)
+- Ref img, source: [twt@](https://x.com/hengki24/status/1891834115558711715)
+
+# ---
+
 --- Git Day: DQ4 (W3).
 
 # ---
