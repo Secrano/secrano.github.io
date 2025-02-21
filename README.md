@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Ato10Gallery/status/1892439484840530354)
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1892610205990760527)
+- Ref img, source: [twt@](https://x.com/billelis/status/1892630137927082423)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/black_hound1980/status/1892579378506138054)
 - Ref img, source: [twt@](https://x.com/TFT/status/1892574939732926777)
 - Ref img, source: [twt@](https://x.com/opdaiIy/status/1892612494352408841)
