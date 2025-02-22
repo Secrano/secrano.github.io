@@ -18,7 +18,6 @@
 - Ref img, source: [twt@](https://x.com/lilydisease/status/1893058115886821633)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/Ato10Gallery/status/1892439484840530354)
 - Ref img, source: [twt@](https://x.com/Yoda4ever/status/1892610205990760527)
