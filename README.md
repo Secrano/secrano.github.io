@@ -4,6 +4,12 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/000chun000_/status/1893617863384269305)
+- Ref img, source: [twt@](https://x.com/ACustomframing/status/1893635913554735286)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/KaiCenat/status/1893074281703133345)
 - Ref img, source: [twt@](https://x.com/chartreux_AIart/status/1893068897223581857)
 
