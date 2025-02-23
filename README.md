@@ -4,6 +4,30 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/KaiCenat/status/1893074281703133345)
+- Ref img, source: [twt@](https://x.com/chartreux_AIart/status/1893068897223581857)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/tanaka_tatsuya/status/1893420502791704865)
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1893319839650877884)
+- Ref img, source: [twt@](https://x.com/kurumatani_n/status/1893442220881256831)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ttt_zegu952/status/1892418817600663856)
+- Ref img, source: [twt@](https://x.com/tifastrfe/status/1893352002505076855)
+- Ref img, source: [twt@](https://x.com/zodyls/status/1893080108493148168)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1893299711647608909)
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1893302222441849332)
+- Ref img, source: [twt@](https://x.com/spooky_nature/status/1893170989678371271)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Hevaaak/status/1892929929655824788)
 - Ref img, source: [twt@](https://x.com/imo00_2/status/1892953234165395593)
 
