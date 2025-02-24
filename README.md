@@ -1,5 +1,51 @@
 # secrano.github.io
 
+--- Git Day: DR8 (W5).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1893777096331125022)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/SkintyalFia/status/1893405165308309858)
+- Ref img, source: [twt@](https://x.com/AI_Artworks_/status/1893480913729732996)
+- Ref img, source: [twt@](https://x.com/Thereisnocat_/status/1893679008924991788)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1893770719470793074)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Macbaconai/status/1893712068013903936)
+- Ref img, source: [twt@](https://x.com/raikko_9/status/1893460967046184973)
+- Ref img, source: [twt@](https://x.com/ShouldHavePetAi/status/1893337454784192952)
+- Ref img, source: [twt@](https://x.com/SekAI_AIart/status/1893782897057730822)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/bluepaints/status/1893402833610776995)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/LEC/status/1893778381751157164)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1893768852359770579)
+- Ref img, source: [twt@](https://x.com/keiuzuki/status/1893782933778927896)
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1893744529452290427)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Hisokinhaa44/status/1893492867290505499)
+- Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1893551015065964613)
+- Ref img, source: [twt@](https://x.com/suaverotic/status/1893696489580360168)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Sinozick/status/1893717872834220289)
+
+# ---
+
 --- Git Day: DR1 (W4).
 
 # ---
