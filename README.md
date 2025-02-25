@@ -4,6 +4,17 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/tifastrfe/status/1894118588648141090)
+- Ref img, source: [twt@](https://x.com/ItsLucasKim/status/1894173427486863376)
+- Ref img, source: [twt@](https://x.com/Schrodingersba4/status/1894157115079758312)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/SafaiaArt/status/1894397749996785801)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/nitezintodreamz/status/1893883143234502684)
 - Ref img, source: [twt@](https://x.com/rebelagnt/status/1893750455676604558)
 - Ref img, source: [twt@](https://x.com/pastelstrife/status/1893766055308226783)
