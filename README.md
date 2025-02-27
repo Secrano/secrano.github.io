@@ -2,6 +2,72 @@
 
 --- Git Day: DR8 (W5).
 
+# --- 
+
+- Ref img, source: [twt@](https://x.com/BuffGigas/status/1895034546107842740)
+- Ref img, source: [twt@](https://x.com/EverythingCloti/status/1895066039072797182)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/aerithsclouds/status/1895161852587393143)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/vancssasbeckett/status/1895152921274372229)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1895212400007356562)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Ryui7104/status/1894930173939659159)
+- Ref img, source: [twt@](https://x.com/kunii_tv/status/1895170760567627993)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1895218352626528659)
+- Ref img, source: [twt@](https://x.com/RealActarium/status/1894929746011509020)
+- Ref img, source: [twt@](https://x.com/arcaneframe/status/1895202416695357705)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ohKayBunny/status/1895020007270293639)
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1894875123481538937)
+- Ref img, source: [twt@](https://x.com/ai_for_success/status/1895137996745384300)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/DevilMayCry/status/1894915513743995374)
+- Ref img, source: [twt@](https://x.com/hannahowo_real/status/1895166034895679954)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/smeepsx/status/1895220740376666385)
+- Ref img, source: [twt@](https://x.com/JDMvibes_/status/1894777761924878725)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1895217347872624691)
+- Ref img, source: [twt@](https://x.com/cIoudgf/status/1894929339189215410)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/jirosan77/status/1894771679228018843)
+- Ref img, source: [twt@](https://x.com/aerithsclouds/status/1895101454051897355)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/NekoSurfAI/status/1895140607124988265)
+- Ref img, source: [twt@](https://x.com/DiscussingFilm/status/1895144826200355148)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/autoass/status/1894854616447439270)
+- Ref img, source: [twt@](https://x.com/sairaspooks/status/1895173559514996984)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/batmancurated/status/1894766438004462051)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/tifastrfe/status/1894118588648141090)
