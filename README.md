@@ -14,7 +14,6 @@
 
 - Ref img, source: [twt@](https://x.com/sageixx/status/1895137503306473540)
 
-# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/BuffGigas/status/1895034546107842740)
