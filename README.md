@@ -6,6 +6,10 @@
 
 - Ref img, source: [twt@](https://x.com/kay_i_art/status/1895557110857084977)
 
+<br/>
+
+- Ref img, source: [twt@](https://x.com/junkiyoshi/status/1895433724206145555)
+
 # ---
 # ---
 
