@@ -5,8 +5,6 @@
 # ---
 
 - Ref img, source: [twt@](https://x.com/kay_i_art/status/1895557110857084977)
-- Ref img, source: [twt@](https://x.com/Coharrie_AI/status/1895807732114211328)
-- Ref img, source: [twt@](https://x.com/eraser_creater/status/1895580233354657837)
 
 # ---
 # ---
