@@ -8,6 +8,41 @@
 
 - Ref img, source: [twt@](https://x.com/junkiyoshi/status/1895433724206145555)
 
+<br/>
+
+- Ref img, source: [twt@](https://x.com/aerithchive/status/1895993408671658255)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/OoCPokemon/status/1895987421113958579)
+- Ref img, source: [twt@](https://x.com/tilenx_/status/1895721027159933263)
+- Ref img, source: [twt@](https://x.com/CatWorkers/status/1895972439315644587)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/deadlyheadley_/status/1895914659901030617)
+- Ref img, source: [twt@](https://x.com/blackdreamvibes/status/1896153521046671406)
+- Ref img, source: [twt@](https://x.com/blackdreamvibes/status/1896062914416533702)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/greendreaams/status/1895937954620875201)
+- Ref img, source: [twt@](https://x.com/gIoomyweather/status/1895893427604410739)
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1895960418432282970)
+- Ref img, source: [twt@](https://x.com/Cat_Auras/status/1896023385962135728)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Backtopoints/status/1895960909685932236)
+- Ref img, source: [twt@](https://x.com/MargotXCloud/status/1896160165604507925)
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1895832682669453491)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Faira_Star/status/1895782707315294260)
+- Ref img, source: [twt@](https://x.com/nocontextscats/status/1895913428562104609)
+- Ref img, source: [twt@](https://x.com/Aurumek_/status/1896200182565646495)
+
 # ---
 # ---
 
