@@ -1,5 +1,13 @@
 # secrano.github.io
 
+--- Git Day: DS5 (W6).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/aerithsclouds/status/1896647488851087461)
+
+# ---
+
 --- Git Day: DR8 (W5).
 
 # ---
