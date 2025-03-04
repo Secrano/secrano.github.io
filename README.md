@@ -6,6 +6,11 @@
 
 - Ref img, source: [twt@](https://x.com/aerithsclouds/status/1896647488851087461)
 
+<br/>
+ 
+- Ref img, source: [twt@](https://www.youtube.com/shorts/PLnNt9KCFlM)
+- Ref img, source: [twt@](https://www.youtube.com/shorts/jeYrMy-LgkM)
+
 # ---
 
 --- Git Day: DR8 (W5).
