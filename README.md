@@ -16,7 +16,6 @@
 - Ref img, source: [twt@](https://x.com/julzzess/status/1897393443984511326)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/aerithsclouds/status/1896647488851087461)
 - Ref img, source: [twt@](https://www.youtube.com/shorts/PLnNt9KCFlM)
