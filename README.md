@@ -2,6 +2,14 @@
 
 --- Git Day: DS5 (W6).
 
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/kamui_117_/status/1897697597491384531)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1897725875300565407)
+- Ref img, source: [twt@](https://x.com/TypeRamza/status/1897512896835260766)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://www.youtube.com/shorts/mZhlnQovM2Y)
