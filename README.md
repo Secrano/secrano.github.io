@@ -2,7 +2,37 @@
 
 --- Git Day: DS5 (W6).
 
+# ---
 
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1897961596481044590)
+- Ref img, source: [twt@](https://x.com/batzdu/status/1898031869251211704)
+- Ref img, source: [twt@](https://x.com/nooan_art/status/1898059860685758958)
+- Ref img, source: [twt@](https://x.com/momowaaai/status/1897707842406346817)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/momowaaai/status/1897837075602587763)
+- Ref img, source: [twt@](https://x.com/wyverian_MH/status/1898054462922490305)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1898117959736049976)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1897995655534043227)
+- Ref img, source: [twt@](https://x.com/iolite_aoto/status/1897995651985949064)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/0__11Xx/status/1897847673572802565)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/haru_sorara/status/1898025135850111413)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/WayOfTheSAMRAI/status/1897661698389008618)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/kamui_117_/status/1897697597491384531)
