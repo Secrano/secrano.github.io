@@ -10,7 +10,6 @@
 - Ref img, source: [twt@](https://x.com/LocalBateman/status/1898116450415706223)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1897961596481044590)
 - Ref img, source: [twt@](https://x.com/batzdu/status/1898031869251211704)
