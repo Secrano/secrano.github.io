@@ -4,6 +4,14 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/ACustomframing/status/1898381440116830673)
+- Ref img, source: [twt@](https://x.com/cIoudgf/status/1898393749224353941)
+- Ref img, source: [twt@](https://x.com/catshealdeprsn/status/1898154194185421252)
+- Ref img, source: [twt@](https://x.com/LocalBateman/status/1898116450415706223)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1897961596481044590)
 - Ref img, source: [twt@](https://x.com/batzdu/status/1898031869251211704)
 - Ref img, source: [twt@](https://x.com/nooan_art/status/1898059860685758958)
