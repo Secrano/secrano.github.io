@@ -9,6 +9,14 @@
 - Ref img, source: [twt@](https://x.com/catshealdeprsn/status/1898154194185421252)
 - Ref img, source: [twt@](https://x.com/LocalBateman/status/1898116450415706223)
 
+<br/>
+
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1898445919642628582)
+- Ref img, source: [twt@](https://x.com/b1sexualpanic/status/1898514691124613574)
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1898700291836461319)
+- Ref img, source: [twt@](https://x.com/junkiyoshi/status/1898698137226908124)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1897961596481044590)
