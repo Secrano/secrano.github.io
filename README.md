@@ -1,5 +1,15 @@
 # secrano.github.io
 
+--- Git Day: DT2.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/ryaw_2523/status/1898618991477977185)
+- Ref img, source: [twt@](https://x.com/umisida/status/1898798438604755183)
+- Ref img, source: [twt@](https://x.com/NateDHernandez/status/1898689334376608174)
+
+# ---
+
 --- Git Day: DS5 (W6).
 
 # ---
