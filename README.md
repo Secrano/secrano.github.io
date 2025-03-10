@@ -1,7 +1,20 @@
 # secrano.github.io
 
---- Git Day: DT2.
+--- Git Day: DT2 (W7).
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/VV_A13A/status/1898685985074069792)
+- Ref img, source: [twt@](https://x.com/clotivault/status/1898817650861679024)
+- Ref img, source: [twt@](https://x.com/CLily027/status/1898790638025351237)
+- Ref img, source: [twt@](https://x.com/MorosAinos/status/1898359201577009154)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/cleritharchive/status/1898787685394710784)
+- Ref img, source: [twt@](https://x.com/kuchan_AI/status/1899021740749250617)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/ryaw_2523/status/1898618991477977185)
