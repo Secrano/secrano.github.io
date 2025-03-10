@@ -4,6 +4,39 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/comfortffvii/status/1898865603953221655)
+- Ref img, source: [twt@](https://x.com/theyenvyme444/status/1898721779587174406)
+- Ref img, source: [twt@](https://x.com/Amazewalll/status/1898634263375081562)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/MisamiMisao/status/1898522313982910863)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/acidqz/status/1898894432650305910)
+- Ref img, source: [twt@](https://x.com/ACustomframing/status/1899058756954288166)
+- Ref img, source: [twt@](https://x.com/LM38linolino/status/1899071157883764852)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/kurahu_capten/status/1899022918018830341)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Macbaconai/status/1899172476690616369)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/AllaAisling/status/1898855565394079808)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/HAL09999/status/1898854642571722815)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/VV_A13A/status/1898685985074069792)
 - Ref img, source: [twt@](https://x.com/clotivault/status/1898817650861679024)
 - Ref img, source: [twt@](https://x.com/CLily027/status/1898790638025351237)
