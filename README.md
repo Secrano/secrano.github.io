@@ -15,7 +15,6 @@
 - Ref img, source: [twt@](https://x.com/kuchan_AI/status/1899021740749250617)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/ryaw_2523/status/1898618991477977185)
 - Ref img, source: [twt@](https://x.com/umisida/status/1898798438604755183)
