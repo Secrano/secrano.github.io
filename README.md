@@ -4,6 +4,68 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Tradigital3D/status/1899453620476629035)
+- Ref img, source: [twt@](https://x.com/Sreliata/status/1899483552795840781)
+
+# --- 
+
+- Ref img, source: [twt@](https://x.com/cleritharchive/status/1899244373491032469)
+- Ref img, source: [twt@](https://x.com/aerithsbabe/status/1899511693509624153)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/crittersz/status/1899151202085929258)
+- Ref img, source: [twt@](https://x.com/pastelstrife/status/1899387903609856214)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/evermore0401/status/1899518117216203044)
+- Ref img, source: [twt@](https://x.com/22LE0/status/1899497129837560075)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/kamui_117_/status/1899497168425140616)
+- Ref img, source: [twt@](https://x.com/mimi_aiart/status/1899430106998972908)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/IdeaSimulated/status/1899509386235769141)
+- Ref img, source: [twt@](https://x.com/Stepheroth25/status/1898881379103838251)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Coinchoii/status/1899140908240744538)
+- Ref img, source: [twt@](https://x.com/Sanjoh253871164/status/1899369702532718889)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/zampy68/status/1899332243870331225)
+- Ref img, source: [twt@](https://x.com/AidenR0/status/1899230130137887088)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/beautyshowcase/status/1899219527579127952)
+- Ref img, source: [twt@](https://x.com/auroradiation_/status/1899320494861783439)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/refisan17/status/1899436427219181614)
+- Ref img, source: [twt@](https://x.com/BigSkonk/status/1899428672635023450)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/w23752946/status/1899252534700847139)
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1899384811329913055)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/099MADS/status/1899540440937906391)
+- Ref img, source: [twt@](https://x.com/abuzaki1978/status/1899536553409479073)
+
+# ---
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/nocontextscats/status/1899042033928712195)
 - Ref img, source: [twt@](https://x.com/solisolsoli/status/1898954467837714836)
 - Ref img, source: [twt@](https://x.com/fatzhai86/status/1899078717378543889)
