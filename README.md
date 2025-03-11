@@ -21,7 +21,6 @@
 - Ref img, source: [twt@](https://x.com/TylorHepnerArt/status/1899177492419584181)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/comfortffvii/status/1898865603953221655)
 - Ref img, source: [twt@](https://x.com/theyenvyme444/status/1898721779587174406)
@@ -53,7 +52,6 @@
 
 - Ref img, source: [twt@](https://x.com/HAL09999/status/1898854642571722815)
 
-# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/VV_A13A/status/1898685985074069792)
