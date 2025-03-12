@@ -25,7 +25,6 @@
 - Ref img, source: [twt@](https://x.com/eyesaluna/status/1899777912305549804)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/Tradigital3D/status/1899453620476629035)
 - Ref img, source: [twt@](https://x.com/Sreliata/status/1899483552795840781)
