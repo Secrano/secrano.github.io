@@ -4,6 +4,15 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Coharrie_AI/status/1900018982809461196)
+- Ref img, source: [twt@](https://x.com/zapeyahh/status/1899831643432689846)
+- Ref img, source: [twt@](https://x.com/ACustomframing/status/1899935933614772593)
+- Ref img, source: [twt@](https://x.com/SimzArts/status/1899894927921995904)
+
+# ---
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/philazora/status/1899594606335127893)
 - Ref img, source: [twt@](https://x.com/1cShen/status/1899341201502798266)
 
