@@ -18,7 +18,6 @@
 
 # ---
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/Coharrie_AI/status/1900018982809461196)
 - Ref img, source: [twt@](https://x.com/zapeyahh/status/1899831643432689846)
