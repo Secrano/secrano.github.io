@@ -2,6 +2,12 @@
 
 --- Git Day: DT2 (W7).
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/SpaceX/status/1900745213041344849)
+- Ref img, source: [twt@](https://x.com/kanyewest/status/1900857171451240755)
+
+# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/cIoudgf/status/1900751956672426466)
