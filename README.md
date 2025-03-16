@@ -4,6 +4,94 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/foraerti/status/1900954464208441439)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/tifavalentines/status/1900976821123813468)
+- Ref img, source: [twt@](https://x.com/lovemsae/status/1901006764755058846)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/TifaTheMonk/status/1901153527327846835)
+- Ref img, source: [twt@](https://x.com/lovelypatootie/status/1900801164645470431)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/arcaneframe/status/1901166698582978880)
+- Ref img, source: [twt@](https://x.com/hasanthehun/status/1901069260446986535)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Oscar7666622133/status/1900891402273194072)
+- Ref img, source: [twt@](https://x.com/Diorgirlx/status/1900845071005520163)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Camilla_ara1/status/1900879693454135679)
+- Ref img, source: [twt@](https://x.com/litupemma/status/1900993004724515173)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/JOKAQARMY1/status/1900826678579826966)
+- Ref img, source: [twt@](https://x.com/ReneeCarey15606/status/1900918415662936294)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/datboijuanhtx/status/1900855886295261588)
+- Ref img, source: [twt@](https://x.com/YorzTrulyJuice/status/1901082690972963031)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Diorgirlx/status/1901186050074054759)
+- Ref img, source: [twt@](https://x.com/kimdanluvr/status/1900176605080617179)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/0xulta/status/1900885330170900568)
+- Ref img, source: [twt@](https://x.com/nori31291404/status/1900826528415707299)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ReinaZolanski/status/1900963565881745578)
+- Ref img, source: [twt@](https://x.com/tifatwt/status/1901106223086530572)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/maddizzlee/status/1901114051205500983)
+- Ref img, source: [twt@](https://x.com/InternetH0F/status/1900955215005712489)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/radraddles/status/1900951538228719645)
+- Ref img, source: [twt@](https://x.com/HumansNoContext/status/1900880999153651869)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/itsKatchii/status/1901050224962916755)
+- Ref img, source: [twt@](https://x.com/huhyunjinpics/status/1901012639406583917)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/foraerti/status/1901095056934605007)
+- Ref img, source: [twt@](https://x.com/_Iconicmovies/status/1900924504487948387)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Jonathzn/status/1900957972886392900)
+- Ref img, source: [twt@](https://x.com/norafawn/status/1901002285230043137)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/R5K8m/status/1900937874423640075)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/000chun000_/status/1901170228060627219)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/SpaceX/status/1900745213041344849)
 - Ref img, source: [twt@](https://x.com/kanyewest/status/1900857171451240755)
 
