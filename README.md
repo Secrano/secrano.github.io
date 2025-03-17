@@ -4,6 +4,14 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/clotiOTP/status/1901550639429415220)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1901413167403536420)
+- Ref img, source: [twt@](https://x.com/Haich_AI/status/1901692282060845424)
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=lp_bWkfbH14)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/sephdaily/status/1901231975538536616)
 - Ref img, source: [twt@](https://x.com/clotivault/status/1901373334266184124)
 - Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1901214747887903196)
