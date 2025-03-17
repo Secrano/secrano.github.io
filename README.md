@@ -4,6 +4,17 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/sephdaily/status/1901231975538536616)
+- Ref img, source: [twt@](https://x.com/clotivault/status/1901373334266184124)
+- Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1901214747887903196)
+- Ref img, source: [twt@](https://x.com/ACustomframing/status/1901485166532415728)
+- Ref img, source: [twt@](https://x.com/crazyclips_/status/1900955154951926216)
+- Ref img, source: [twt@](https://x.com/YUDHO_XYZ/status/1901282705725390984)
+- Ref img, source: [twt@](https://x.com/Julex_Gameplays/status/1901276591247724649)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/foraerti/status/1900954464208441439)
 
 <br/>
