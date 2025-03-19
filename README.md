@@ -3,6 +3,55 @@
 --- Git Day: DT9 (W8).
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/BKCearns/status/1902451090651836433)
+- Ref img, source: [twt@](https://x.com/togehpi/status/1902465303092535621)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/TFT/status/1902420290405331064)
+- Ref img, source: [twt@](https://x.com/jermitron/status/1902459397567103137)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/miao_xAI/status/1902440364339830994)
+- Ref img, source: [twt@](https://x.com/cIoudgf/status/1902450951241208170)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/clotiOTP/status/1902172694554259514)
+- Ref img, source: [twt@](https://x.com/katyaaeliza/status/1898816259703398476)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/LilNyachtyy/status/1902472725085712608)
+- Ref img, source: [twt@](https://x.com/istealurgromp/status/1902112351408533925)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/OnePieceDubClip/status/1902389606600815098)
+- Ref img, source: [twt@](https://x.com/Cristiano/status/1902468420106440970)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/tifabro/status/1902308359006458178)
+- Ref img, source: [twt@](https://x.com/MoleculeLOL/status/1902460007419146510)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/clotiOTP/status/1902174719715242039)
+- Ref img, source: [twt@](https://x.com/AiAniAlchemist/status/1902465469661217245)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Mgata_official/status/1902143401614622911)
+- Ref img, source: [twt@](https://x.com/ok_but_yyy/status/1902312545685532939)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1902376566514213374)
+
+# ---
  
 - Ref img, source: [twt@](https://x.com/BlueBloodBearer/status/1902057972127429051)
 
