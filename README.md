@@ -1,5 +1,13 @@
 # secrano.github.io
 
+--- Git Day: DT9 (W8).
+
+# ---
+ 
+- Ref img, source: [twt@](https://x.com/BlueBloodBearer/status/1902057972127429051)
+
+# ---
+
 --- Git Day: DT2 (W7).
 
 # ---
