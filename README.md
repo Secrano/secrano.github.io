@@ -4,6 +4,25 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/bigsoupimeko/status/1902415603320664410)
+- Ref img, source: [twt@](https://x.com/bigsoupimeko/status/1902824129616810148)
+- Ref img, source: [twt@](https://x.com/bigsoupimeko/status/1902790371404550430)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/bigsoupimeko/status/1902296052369162735)
+- Ref img, source: [twt@](https://x.com/bigsoupimeko/status/1902086650118992321)
+- Ref img, source: [twt@](https://x.com/bigsoupimeko/status/1901678261261701313)
+
+<br/>
+
+- Ref img, source: [twt@](https://www.youtube.com/shorts/BhRfbfkNrTQ)
+- Ref img, source: [twt@](https://x.com/bigsoupimeko/status/1901688522743898607)
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=QK7UP_JFxG8)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/BKCearns/status/1902451090651836433)
 - Ref img, source: [twt@](https://x.com/togehpi/status/1902465303092535621)
 
