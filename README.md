@@ -21,7 +21,6 @@
 - Ref img, source: [twt@](https://www.youtube.com/watch?v=QK7UP_JFxG8)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/BKCearns/status/1902451090651836433)
 - Ref img, source: [twt@](https://x.com/togehpi/status/1902465303092535621)
