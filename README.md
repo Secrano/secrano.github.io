@@ -4,6 +4,17 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/ai_zerara/status/1903567480108528039)
+- Ref img, source: [twt@](https://x.com/tifavalentines/status/1903521345788428514)
+- Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1903392810457587906)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/blackdreamvibes/status/1903494884838850887)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/bigsoupimeko/status/1902415603320664410)
 - Ref img, source: [twt@](https://x.com/bigsoupimeko/status/1902824129616810148)
 - Ref img, source: [twt@](https://x.com/bigsoupimeko/status/1902790371404550430)
