@@ -1,7 +1,28 @@
 # secrano.github.io
 
---- Git Day: DU6 
+--- Git Day: DU6 (W9).
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/BigHazelEyedDoe/status/1904239327259066604)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1903986624767344777)
+- Ref img, source: [twt@](https://x.com/FaZeAdapt/status/1904013947336007680)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/wilplatypus/status/1904030122455322927)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1904128061995733233)
+- Ref img, source: [twt@](https://x.com/jasontheween/status/1904216032190869677)
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1904241129417322969)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/yunglava_/status/1903950285879337051)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/RealNovaSparks/status/1903674306187415826)
