@@ -1,5 +1,13 @@
 # secrano.github.io
 
+--- Git Day: DU6 
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/RealNovaSparks/status/1903674306187415826)
+
+# ---
+
 --- Git Day: DT9 (W8).
 
 # ---
