@@ -23,7 +23,6 @@
 - Ref img, source: [twt@](https://x.com/yunglava_/status/1903950285879337051)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/RealNovaSparks/status/1903674306187415826)
 
