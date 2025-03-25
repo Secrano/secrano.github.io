@@ -4,6 +4,52 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Boldyboy1975/status/1903923143741460842)
+- Ref img, source: [twt@](https://x.com/SteveInmanUIC/status/1904308613839225092)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/RegretVid3os/status/1904204321157497323)
+- Ref img, source: [twt@](https://x.com/Mappy6984/status/1904168377276371149)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/MattWallace888/status/1904336121183776900)
+- Ref img, source: [twt@](https://x.com/cooltechtipz/status/1904091137742368798)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/awkwardgoogle/status/1904362350439956680)
+- Ref img, source: [twt@](https://x.com/naiivememe/status/1904162534791225458)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/yoxics/status/1904405771498238206)
+- Ref img, source: [twt@](https://x.com/Ham165hhhh/status/1904250991752655279)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/TheeDarkCircle/status/1904207244637708342)
+- Ref img, source: [twt@](https://x.com/lynk0x/status/1904132998154297415)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/R18sok/status/1904167044951445947)
+- Ref img, source: [twt@](https://x.com/HumansNoContext/status/1904149270862676315)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/twtZero_/status/1904148664324620632)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1904413565509108088)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1904253134794596363)
+- Ref img, source: [twt@](https://x.com/maniaUFO/status/1904146326729679221)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/BigHazelEyedDoe/status/1904239327259066604)
 
 <br/>
