@@ -4,6 +4,57 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Sanjoh253871164/status/1904503541361971246)
+- Ref img, source: [twt@](https://x.com/h0neyndmilk/status/1904262399764607396)
+- Ref img, source: [twt@](https://x.com/saintlyalchemy/status/1904469840242397296)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Garcia1978Dani/status/1904565681195999725)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/lwordnadrar/status/1904240721592488088)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/swordandland/status/1904446719607087269)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/dawninadan/status/1904379136971247751)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/TastefulManga/status/1904436534826475941)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/toomuchliving/status/1904292991554232653)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/vpllu1/status/1904318719830192492)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/uhicr/status/1904642930830434694)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/b1sexualpanic/status/1904568325964718219)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1904564127089013219)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/xxdao_xyz/status/1904218150582780216)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Boldyboy1975/status/1903923143741460842)
 - Ref img, source: [twt@](https://x.com/SteveInmanUIC/status/1904308613839225092)
 
