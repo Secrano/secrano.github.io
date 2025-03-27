@@ -4,6 +4,20 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/bygen_ai/status/1905237124527300846)
+- Ref img, source: [twt@](https://x.com/raspberryvape/status/1904921283722174899)
+- Ref img, source: [twt@](https://x.com/gabeeegoooh/status/1905322099318947877)
+- Ref img, source: [twt@](https://x.com/cIoudgf/status/1905347035563188548)
+- Ref img, source: [twt@](https://x.com/ZavvyGamer/status/1905083676276240874)
+- Ref img, source: [twt@](https://x.com/M_A_OAI/status/1905159673600172525)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Backtopoints/status/1905334091869753533)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/vv_iv2/status/1904646732081709106)
 
 - Ref img, source: [twt@](https://x.com/LoLUKN/status/1904909961286619441)
