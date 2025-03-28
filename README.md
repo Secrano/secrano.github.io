@@ -4,6 +4,34 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/000chun000_/status/1905631437283623375)
+- Ref img, source: [twt@](https://x.com/BananaPIEArt/status/1905633223465382236)
+- Ref img, source: [twt@](https://x.com/mirexmoses/status/1905635131278123169)
+- Ref img, source: [twt@](https://x.com/tifastrfe/status/1905653785235784061)
+- Ref img, source: [twt@](https://x.com/Macbaconai/status/1905658624610840586)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/unonumero_56/status/1905363930702381261)
+- Ref img, source: [twt@](https://x.com/hakaelll/status/1905388411470356584)
+- Ref img, source: [twt@](https://x.com/anime_twits/status/1905507820239241678)
+- Ref img, source: [twt@](https://x.com/anbacagh/status/1905318693678067962)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/002lux/status/1905316626372632646)
+- Ref img, source: [twt@](https://x.com/loversphotoss/status/1905326456034439320)
+- Ref img, source: [twt@](https://x.com/goalssintimacy/status/1905015403908116806)
+- Ref img, source: [twt@](https://x.com/hakaelll/status/1905294589499408892)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/eatyoulikeapill/status/1905356174305976414)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1905622407156826504)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Backtopoints/status/1389738325716705286)
 - Ref img, source: [twt@](https://x.com/sydneycrave/status/1905281476393930752)
 - Ref img, source: [twt@](https://x.com/88rising/status/1905294334683210033)
