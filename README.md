@@ -4,6 +4,21 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/8lumxxn/status/1906079370143252540)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/142aw/status/1906298643520655602)
+- Ref img, source: [twt@](https://x.com/ladyoforien/status/1906429503242440877)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/b1sexualpanic/status/1906699085014278654)
+- Ref img, source: [twt@](https://x.com/b1sexualpanic/status/1906680414690775137)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/ai_zerara/status/1906466468898001137)
 
 <br/>
