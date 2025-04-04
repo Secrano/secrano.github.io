@@ -4,6 +4,37 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Kiyoon/status/1907970748074872978)
+- Ref img, source: [twt@](https://x.com/Emseu_En_Tivan_/status/1907693252163285130)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/kAInegiordano/status/1907806221840580612)
+- Ref img, source: [twt@](https://x.com/ChiseHatoriBan/status/1907636904100516151)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Macbaconai/status/1907833934437585231)
+- Ref img, source: [twt@](https://x.com/pichitime/status/1907451044105191703)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Geiger_Capital/status/1907533792916500656)
+- Ref img, source: [twt@](https://x.com/pichitime/status/1907451044105191703)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1907856751183192536)
+- Ref img, source: [twt@](https://x.com/ACustomframing/status/1907784790813847668)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/aerithsbabe/status/1907503492949823896)
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=v218CgeAHIU)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/aitaikimochi/status/1907428736435442115)
 - Ref img, source: [twt@](https://x.com/tnypaws/status/1907436580169560411)
 - Ref img, source: [twt@](https://x.com/ung0liant/status/1907385620348969058)
