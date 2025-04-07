@@ -7,7 +7,7 @@
 - Ref img, source: [twt@](https://x.com/OldInternetFeel/status/1909017459295744102)
 - Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1908998166973669599)
 
-- <br/>
+<br/>
 
 - Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1909169283856539796)
 - Ref img, source: [twt@](https://x.com/PunchingCat/status/1908537178487160929)
