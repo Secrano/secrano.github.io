@@ -2,6 +2,17 @@
 
 --- Git Day: DW0 (Easter prep).
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/es_nio_arts/status/1908982367114362967)
+- Ref img, source: [twt@](https://x.com/RealNovaSparks/status/1909058298558533885)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/zzznah/status/1909174953271763337)
+- Ref img, source: [twt@](https://x.com/outrunyouth/status/1908900391267254750)
+
+# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/OldInternetFeel/status/1909017459295744102)
