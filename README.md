@@ -1,13 +1,19 @@
 # secrano.github.io
 
---- Git Day: DW0 (WB).
+--- Git Day: DW0 (Easter prep).
 
-# --- (Easter prep).
+# --- 
 
 - Ref img, source: [twt@](https://x.com/OldInternetFeel/status/1909017459295744102)
 - Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1908998166973669599)
+
+- <br/>
+
 - Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1909169283856539796)
 - Ref img, source: [twt@](https://x.com/PunchingCat/status/1908537178487160929)
+
+<br/>
+
 - Ref img, source: [twt@](https://x.com/b1sexualpanic/status/1909014287663722940)
 - Ref img, source: [twt@](https://x.com/b1sexualpanic/status/1909001587097219407)
 
