@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/AnnaCramling/status/1909298929352474753)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/satansbvby/status/1909064668594725006)
 
