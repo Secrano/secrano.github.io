@@ -7,6 +7,30 @@
 - Ref img, source: [twt@](https://x.com/AnnaCramling/status/1909298929352474753)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/OnigiriEn_/status/1910217936012489015)
+- Ref img, source: [twt@](https://x.com/interesting_aIl/status/1910626897882390811)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/hourly_shitpost/status/1910626394507247931)
+- Ref img, source: [twt@](https://x.com/Haich_AI/status/1910320638746620195)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/nixeuart/status/1910295150124822565)
+- Ref img, source: [twt@](https://x.com/b1sexualpanic/status/1910341081092259929)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Haich_AI/status/1910403312509141051)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1910147721715233164)
+- Ref img, source: [twt@](https://x.com/shitpost_2077/status/1910339485180772800)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/satansbvby/status/1909064668594725006)
