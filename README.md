@@ -4,6 +4,30 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Haich_AI/status/1910794531160924441)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ScenesInFilm/status/1910582958265614359)
+- Ref img, source: [twt@](https://x.com/Haich_AI/status/1910771768194740684)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/tinysoulgame/status/1910623546344460578)
+- Ref img, source: [twt@](https://x.com/offutoonasana/status/1910164220945355108)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/AuraWithCats/status/1910177371883545053)
+- Ref img, source: [twt@](https://x.com/b1sexualpanic/status/1910137663413166474)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1910409761197072417)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/AnnaCramling/status/1909298929352474753)
 
 # ---
