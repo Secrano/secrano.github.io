@@ -4,6 +4,60 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/_IDVL/status/1911059479619354852)
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=phNfZfdkcRU)
+
+- Ref img, source: [twt@](https://x.com/ScenesInFilm/status/1911071311561900115)
+- Ref img, source: [twt@](https://x.com/slvppy/status/1910844510441005227)
+
+---
+
+- Ref img, source: [twt@](https://x.com/NoContextCrap/status/1911061241034097034)
+- Ref img, source: [twt@](https://x.com/LocalBateman/status/1910966119705567737)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/videosinfolder/status/1911087092425170978)
+- Ref img, source: [twt@](https://x.com/dvorahfr/status/1911196329218625890)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/yunus_arslan_ya/status/1911060660248551555)
+- Ref img, source: [twt@](https://x.com/litteralyme0_/status/1911101506172100930)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/frameworkdaisy/status/1911116777272283495)
+- Ref img, source: [twt@](https://x.com/AnimeSpirit_/status/1910688066895044798)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/CJBrEngLeo/status/1911039176327201244)
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1910844196925166004)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/shitpost_2077/status/1911245456505553130)
+- Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1911282227129807096)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/uniquemoviemom/status/1911021042480316664)
+- Ref img, source: [twt@](https://x.com/TheFigen_/status/1911140358030795219)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1911361217517740242)
+- Ref img, source: [twt@](https://x.com/luluixixix/status/1908241898533511472)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1911363734322262127)
+- Ref img, source: [twt@](https://x.com/8rami2ki/status/1910988967039934942)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Haich_AI/status/1910794531160924441)
 
 <br/>
