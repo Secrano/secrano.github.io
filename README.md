@@ -1,5 +1,34 @@
 # secrano.github.io
 
+--- Git Day: DW6 (Easter chicken).
+
+# --- Greg Akorn. 
+
+- Ref img, source: [twt@](https://x.com/LeagueOfLeaks/status/1911519783356449025)
+- Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1911813086702416180)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/kaxishk/status/1911794032738459970)
+- Ref img, source: [twt@](https://x.com/LoLUKN/status/1911804137949327427)
+
+</br>
+
+- Ref img, source: [twt@](https://x.com/TheGregYang/status/1911878747579666542)
+- Ref img, source: [twt@](https://x.com/itsme_urstruly/status/1911528138368229698)
+
+</br>
+
+- Ref img, source: [twt@](https://x.com/IAmLilRico/status/1911638555849339179)
+- Ref img, source: [twt@](https://x.com/b1sexualpanic/status/1911967292637802645)
+
+</br>
+
+- Ref img, source: [twt@](https://x.com/cIoudgf/status/1911836398300045513)
+- Ref img, source: [twt@](https://x.com/LoLUKN/status/1911807911161979319)
+
+# ---
+
 --- Git Day: DW0 (Easter prep).
 
 # ---
