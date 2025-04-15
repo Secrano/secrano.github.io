@@ -2,7 +2,7 @@
 
 --- Git Day: DW6 (Easter chicken).
 
-# --- Greg Akorn. 
+# --- 
 
 - Ref img, source: [twt@](https://x.com/LeagueOfLeaks/status/1911519783356449025)
 - Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1911813086702416180)
