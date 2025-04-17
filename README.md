@@ -2,6 +2,51 @@
 
 --- Git Day: DW6 (Easter chicken).
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/Valkyrae/status/1912645355348578513)
+- Ref img, source: [twt@](https://x.com/iGumdrop/status/1912638476715200867)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/leperdiyebiri/status/1912421779378745691)
+- Ref img, source: [twt@](https://x.com/hoodcrazy_/status/1912581764951789768)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/yoxics/status/1912653225263612095)
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1912400855199887560)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/RinSS_HI/status/1912597044746760384)
+- Ref img, source: [twt@](https://x.com/interesting_aIl/status/1912721599515721777)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/NoContextHumans/status/1912449639200223734)
+- Ref img, source: [twt@](https://x.com/PunadiyaX/status/1912371881581150256)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1912576577839247515)
+- Ref img, source: [twt@](https://x.com/yoxics/status/1912647265967350003)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/filmzwanda/status/1912146795393925444)
+- Ref img, source: [twt@](https://x.com/PicturesFoIder/status/1912440227320181177)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/rosuuri/status/1339742789945462785)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/wildrift/status/1912687492819529911)
+- Ref img, source: [twt@](https://x.com/TheFigen_/status/1912566980256637125)
+
+# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/LeagueOfLeaks/status/1911519783356449025)
