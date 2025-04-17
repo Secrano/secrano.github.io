@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Interactive Geometry Canvas </title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        canvas { border: 1px solid black; }
+        .controls { margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <h2> Interactive Geometry Canvas </h2>
+    <canvas id="geometryCanvas" width="600" height="400"></canvas>
+    <div class="controls">
+        <label>Shape: </label>
+        <select id="shapeSelect">
+            <option value="dot">Dot</option>
+            <option value="line">Line</option>
+            <option value="triangle">Triangle</option>
+            <option value="circle">Circle</option>
+        </select>
+        <button onclick="clearCanvas()">Clear Canvas</button>
+        <label>Grid: </label>
+        <input type="checkbox" id="gridToggle" onclick="toggleGrid()">
+    </div>
+
+    <script>
+        const canvas = document.getElementById("geometryCanvas");
+        const ctx = canvas.getContext("2d");
+        let shape = "dot";
+        let showGrid = false;
+        document.getElementById("shapeSelect").addEventListener("change", (e) => shape = e.target.value);
+
+        let points = [];
+
+        canvas.addEventListener("click", (e) => {
+            let x = e.offsetX;
+            let y = e.offsetY;
+
+            if (shape === "dot") {
+                drawDot(x, y);
+            } else if (shape === "line" || shape === "triangle") {
+                points.push({ x, y });
+                if ((shape === "line" && points.length === 2) || (shape === "triangle" && points.length === 3)) {
+                    drawShape(points);
+                    points = []; // Reset after drawing
+                }
+            } else if (shape === "circle") {
+                if (points.length === 0) {
+                    points.push({ x, y }); // Store center point
+                } else {
+                    let radius = Math.hypot(points[0].x - x, points[0].y - y);
+                    drawCircle(points[0].x, points[0].y, radius);
+                    points = []; // Reset after drawing
+                }
+            }
+        });
+
+        function drawDot(x, y) {
+            ctx.fillStyle = "black";
+            ctx.beginPath();
+            ctx.arc(x, y, 3, 0, Math.PI * 2);
+            ctx.fill();
+        }
+
+        function drawShape(points) {
+            ctx.strokeStyle = "blue";
+            ctx.beginPath();
+            ctx.moveTo(points[0].x, points[0].y);
+            for (let i = 1; i < points.length; i++) {
+                ctx.lineTo(points[i].x, points[i].y);
+            }
+            if (points.length === 3) ctx.closePath(); // Close triangle
+            ctx.stroke();
+        }
+
+        function drawCircle(x, y, radius) {
+            ctx.strokeStyle = "red";
+            ctx.beginPath();
+            ctx.arc(x, y, radius, 0, Math.PI * 2);
+            ctx.stroke();
+        }
+
+        function clearCanvas() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            if (showGrid) drawGrid();
+        }
+
+        function toggleGrid() {
+            showGrid = !showGrid;
+            clearCanvas();
+            if (showGrid) drawGrid();
+        }
+
+        function drawGrid() {
+            const gridSize = 20;
+            ctx.strokeStyle = "#ddd";
+            ctx.beginPath();
+            for (let x = 0; x < canvas.width; x += gridSize) {
+                ctx.moveTo(x, 0);
+                ctx.lineTo(x, canvas.height);
+            }
+            for (let y = 0; y < canvas.height; y += gridSize) {
+                ctx.moveTo(0, y);
+                ctx.lineTo(canvas.width, y);
+            }
+            ctx.stroke();
+        }
+    </script>
+</body>
+</html>
