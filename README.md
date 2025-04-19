@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/HAL09999/status/1913709086241079488)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/philazora/status/1913164646108041316)
 - Ref img, source: [twt@](https://x.com/contextdogs/status/1913050602872971503)
