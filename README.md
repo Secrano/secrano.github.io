@@ -4,6 +4,86 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Floridagirl0850/status/1914138447226298380)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1914137111395176532)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1914125180047073408)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ChiseHatoriBan/status/1913882610201403690)
+- Ref img, source: [twt@](https://x.com/InsaneRealitys/status/1914192257017663909)
+- Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1914216181927387280)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/hanridge/status/1914236613401653479)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/KittyCatEmpire/status/1914009181176189201)
+- Ref img, source: [twt@](https://x.com/PicturesFoIder/status/1913890024484987142)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/TheBigBlackJosh/status/1913950295769362519)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/itsme_urstruly/status/1913891408458772668)
+- Ref img, source: [twt@](https://x.com/PicturesFoIder/status/1913868683207655712)
+- Ref img, source: [twt@](https://x.com/khyleri/status/1913986022234530052)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PunadiyaX/status/1914003309779620291)
+- Ref img, source: [twt@](https://x.com/PicturesFoIder/status/1914109690083942869)
+- Ref img, source: [twt@](https://x.com/NoContextHumans/status/1914125683485524250)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/TimbalJesus/status/1913969536874995850)
+- Ref img, source: [twt@](https://x.com/nohandhuman/status/1913871068579897488)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Daffydre2/status/1913455747423150165)
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1914006366756438313)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1913933603588669556)
+- Ref img, source: [twt@](https://x.com/MBk6g/status/1913896171694698851)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Jiji_Byte/status/1913904597464240451)
+- Ref img, source: [twt@](https://x.com/EpicClipVault/status/1913959661201445074)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Pixiedust_be/status/1913931193327800613)
+- Ref img, source: [twt@](https://x.com/RobertMSterling/status/1914040664767041680)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/TheFigen_/status/1913953346370568673)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1914065034021675475)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PicturesFoIder/status/1914096876963442843)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/TopGyaru/status/1914001367850426643)
+- Ref img, source: [twt@](https://x.com/PicturesFoIder/status/1914001955233337771)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/HAL09999/status/1913709086241079488)
 
 # ---
