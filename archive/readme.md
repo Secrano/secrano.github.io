@@ -53,7 +53,3 @@
 ### - Part 5:
 
 - Math: The Geometric Canvas.
-  
-# ---
-- Hello world.
-# ---
