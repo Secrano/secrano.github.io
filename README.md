@@ -1,5 +1,49 @@
 # secrano.github.io
 
+--- Git Day: DX4 (Black P).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1914766228385677481)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/kAInegiordano/header_photo)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/cIoudgf/status/1914492420047151501)
+- Ref img, source: [twt@](https://x.com/mathladyhazel/status/1914515434922975536)
+- Ref img, source: [twt@](https://x.com/mignly/status/1914516647895032201)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/WhiteHouse/status/1914718330935459873)
+- Ref img, source: [twt@](https://x.com/WhiteHouse/status/1914718341672886560/photo/4)
+- Ref img, source: [twt@](https://x.com/butterywaterboi/status/1914728912523022595)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/KittyCatEmpire/status/1914415498671825312)
+- Ref img, source: [twt@](https://x.com/LoLUKN/status/1914688392853356547)
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1907991519874720215)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/cIoudgf/status/1914490543846953287)
+- Ref img, source: [twt@](https://x.com/AuraWithCats/status/1914519634889597283)
+- Ref img, source: [twt@](https://x.com/SirRappa/status/1914378655557730585)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/solisolsoli/status/1914423646681968861)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/solisolsoli/status/1914537146356212013)
+
+# ---
+
 --- Git Day: DW6 (Easter chicken).
 
 # ---
