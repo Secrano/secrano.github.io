@@ -4,6 +4,21 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/AuraWithCats/status/1915044010571477280)
+- Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1915392201917685851)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/cdoll/status/1915396634466255124)
+- Ref img, source: [twt@](https://x.com/TheCatsX/status/1915100652503703612)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/someonelovemin/status/1915294120119353697)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/000chun000_/status/1915205466692476990)
 - Ref img, source: [twt@](https://x.com/PunchingCat/status/1915212343828492407)
 - Ref img, source: [twt@](https://x.com/katyaaeliza/status/1915170988821799070)
