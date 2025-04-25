@@ -1,8 +1,8 @@
 # secrano.github.io
 
---- Git Day: DX4 (Black P).
+--- Git Day: DX4 (Black Pals).
 
-# --- ducklings
+# --- 
 
 - Ref img, source: [twt@](https://x.com/shitpost_2049/status/1915738159830257709)
 - Ref img, source: [twt@](https://x.com/Yoda4ever/status/1915407889482633272)
