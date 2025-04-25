@@ -2,6 +2,20 @@
 
 --- Git Day: DX4 (Black P).
 
+# --- ducklings
+
+- Ref img, source: [twt@](https://x.com/shitpost_2049/status/1915738159830257709)
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1915407889482633272)
+- Ref img, source: [twt@](https://x.com/hopes_revenge/status/1915559130632511813)
+- Ref img, source: [twt@](https://x.com/Kiyoon/status/1915470598454878610)
+- Ref img, source: [twt@](https://x.com/tinysoulgame/status/1915557385730674890)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1915828700685472189)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/sooon_TD/status/1915731187026252232)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/AuraWithCats/status/1915044010571477280)
