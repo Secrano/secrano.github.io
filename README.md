@@ -6,7 +6,6 @@
 
 - Ref img, source: [twt@](https://x.com/AuraWithCats/status/1916004289941549072)
 
-# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/shitpost_2049/status/1915738159830257709)
