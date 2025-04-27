@@ -4,6 +4,17 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/mirexmoses/status/1916163413417374122)
+- Ref img, source: [twt@](https://x.com/gostosas2d/status/1916228688674202104)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/lvstations/status/1915082832843571256)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1916325931297230952)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/AuraWithCats/status/1916004289941549072)
 
 # --- 
