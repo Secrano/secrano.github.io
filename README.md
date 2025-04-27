@@ -1,5 +1,23 @@
 # secrano.github.io
 
+--- Git Day: DY1 (winding cowboy).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/taniaa579/status/1915826016431329316)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/MemeKingx/status/1916240381928144931)
+- Ref img, source: [twt@](https://x.com/wallpapers_tore/status/1916145243973419206)
+- Ref img, source: [twt@](https://x.com/KucingBertweet/status/1916255053591249294)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/animel7316/status/1916458528178593794)
+
+# ---
+
 --- Git Day: DX4 (Black Pals).
 
 # ---
