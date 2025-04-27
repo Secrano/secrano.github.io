@@ -13,7 +13,6 @@
 - Ref img, source: [twt@](https://x.com/PunchingCat/status/1916325931297230952)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/AuraWithCats/status/1916004289941549072)
 
