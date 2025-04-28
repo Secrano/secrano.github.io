@@ -4,6 +4,34 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/hardmaru/status/1916770792852906032)
+- Ref img, source: [twt@](https://x.com/nocturnmachine/status/1916506864595947725)
+- Ref img, source: [twt@](https://x.com/blackdreamvibes/status/1916500080762519824)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/kiittwy/status/1916814345272492376)
+- Ref img, source: [twt@](https://x.com/TFT_Germany/status/1916834120157560899)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/expedition33/status/1916045965481439709)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Jiji_Byte/status/1916566042601525569)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Haich_AI/status/1916542524979585088)
+- Ref img, source: [twt@](https://x.com/RealNovaSparks/status/1916700474989818159)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1916566082393088113)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/taniaa579/status/1915826016431329316)
 
 <br/>
