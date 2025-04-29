@@ -4,6 +4,12 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/cIoudgf/status/1917042465627857175)
+- Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1916849339387048294)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/hardmaru/status/1916770792852906032)
 - Ref img, source: [twt@](https://x.com/nocturnmachine/status/1916506864595947725)
 - Ref img, source: [twt@](https://x.com/blackdreamvibes/status/1916500080762519824)
