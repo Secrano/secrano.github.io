@@ -4,6 +4,30 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/LeagueOfLegends/status/1917262722590220656)
+- Ref img, source: [twt@](https://x.com/szxxnn/status/1917103394990301335)
+- Ref img, source: [twt@](https://x.com/did_the_senswin/status/1917251773741310139)
+- Ref img, source: [twt@](https://x.com/grok/status/1917252252085240286)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/racksonrays/status/1917262218447438311)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/kirawontmiss/status/1917072560627253402)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1917205721726304634)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/FinalFantasy/status/1917202467722506359)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/cIoudgf/status/1917042465627857175)
 - Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1916849339387048294)
 
