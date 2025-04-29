@@ -26,7 +26,6 @@
 - Ref img, source: [twt@](https://x.com/FinalFantasy/status/1917202467722506359)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/cIoudgf/status/1917042465627857175)
 - Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1916849339387048294)
