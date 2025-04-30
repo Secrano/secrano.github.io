@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1916987289496092919)
+- Ref img, source: [twt@](https://x.com/EnterGamesCo/status/1917007329523851727)
+- Ref img, source: [twt@](https://x.com/mark_lj/status/1917508695019212863)
+- Ref img, source: [twt@](https://x.com/askziye/status/1917444582557769920)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/LeagueOfLegends/status/1917262722590220656)
 - Ref img, source: [twt@](https://x.com/szxxnn/status/1917103394990301335)
 - Ref img, source: [twt@](https://x.com/did_the_senswin/status/1917251773741310139)
