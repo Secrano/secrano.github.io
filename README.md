@@ -4,6 +4,22 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/purplate_/status/1917655841412366505)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1917656783960826011)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/sthrts/status/1917615799075754101)
+- Ref img, source: [twt@](https://x.com/ZachWarunek/status/1917402527936700613)
+- Ref img, source: [twt@](https://x.com/AlexOnay/status/1917633679339229372)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Macbaconai/status/1917618709201379642)
+- Ref img, source: [twt@](https://x.com/Macbaconai/status/1917221951191368107)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/PunchingCat/status/1916987289496092919)
 - Ref img, source: [twt@](https://x.com/EnterGamesCo/status/1917007329523851727)
 - Ref img, source: [twt@](https://x.com/mark_lj/status/1917508695019212863)
