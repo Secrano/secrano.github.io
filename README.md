@@ -13,7 +13,7 @@
 
 - Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1917804926580797920)
 - Ref img, source: [twt@](https://x.com/AllenInstitute/status/1918012157343732104)
-- Ref img, source: [twt@](https://x.com/mocouliszt/status/1917504765443072425) ed
+- Ref img, source: [twt@](https://x.com/mocouliszt/status/1917504765443072425)
 - Ref img, source: [twt@](https://x.com/vampyrhart/status/1917968519918215408)
 
 <br/>
