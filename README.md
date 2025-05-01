@@ -4,6 +4,60 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/ClothesAesthe/status/1917451204797559271)
+- Ref img, source: [twt@](https://x.com/modsiwW/status/1917650143215771774)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1917458902066815181)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Hakkentai_pkdn/status/1917540443535073747)
+- Ref img, source: [twt@](https://x.com/MangaContexts/status/1917616026184724954)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/tifastrfe/status/1917690517829345532)
+- Ref img, source: [twt@](https://x.com/MarcMerrill/status/1917698335127003556)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/BigHazelEyedDoe/status/1917684103459033136)
+- Ref img, source: [twt@](https://x.com/nekoranten/status/1917492412848509194)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/DaferQ_/status/1917705306097766507)
+- Ref img, source: [twt@](https://x.com/makio_jroses/status/1917543156502905131)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/pokemonszn/status/1917714899440132498)
+- Ref img, source: [twt@](https://x.com/kamiaristudio/status/1917638950593679483)
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1917776002413125825)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ItsDone2000/status/1917642764591792451)
+- Ref img, source: [twt@](https://x.com/andewitt_art/status/1917305139842494505)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/FaZeAdapt/status/1917414292074463452)
+- Ref img, source: [twt@](https://x.com/Crain1Art/status/1917299140473528398)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/pokemon_twts/status/1917568009557676089)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1917778261792415893)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/purplate_/status/1917655841412366505)
 - Ref img, source: [twt@](https://x.com/PunchingCat/status/1917656783960826011)
 
