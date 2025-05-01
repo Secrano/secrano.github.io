@@ -4,6 +4,39 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/xharinism/status/1917778382818857208)
+- Ref img, source: [twt@](https://x.com/vampyrhart/status/1917718687295090937/photo/1)
+- Ref img, source: [twt@](https://x.com/lycheenotes/status/1917780723689296337)
+- Ref img, source: [twt@](https://x.com/TobynJacobs/status/1918003007498948808)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1917804926580797920)
+- Ref img, source: [twt@](https://x.com/AllenInstitute/status/1918012157343732104)
+- Ref img, source: [twt@](https://x.com/vampyrhart/status/1917968519918215408)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/DreamArtist09/status/1917646363283841528)
+- Ref img, source: [twt@](https://x.com/sevenotsu/status/1917784513448665208)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/b1sexualpanic/status/1917757397008880124)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/anime_twits/status/1917708153388503132)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1917714833295966236)
+
+# ---
+Music: "[An Eternal Empire](https://www.youtube.com/watch?v=4SYwkTVD7gw)" by Philippe Briand.
+# ---
+
+<br/>
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/ClothesAesthe/status/1917451204797559271)
 - Ref img, source: [twt@](https://x.com/modsiwW/status/1917650143215771774)
 
