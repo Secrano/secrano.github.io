@@ -4,6 +4,22 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/zerithslut/status/1918060246980833445)
+- Ref img, source: [twt@](https://x.com/RealEmirHan/status/1918075609067999311)
+- Ref img, source: [twt@](https://x.com/vikare06/status/1918026791114908034)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/TopGyaru/status/1918079266916601863)
+- Ref img, source: [twt@](https://x.com/TheFabraxxx/status/1918090465888321825)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1918200023004922197)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/xharinism/status/1917778382818857208)
 - Ref img, source: [twt@](https://x.com/vampyrhart/status/1917718687295090937/photo/1)
 - Ref img, source: [twt@](https://x.com/lycheenotes/status/1917780723689296337)
