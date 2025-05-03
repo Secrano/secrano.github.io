@@ -4,6 +4,18 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/PlayRuneterra/status/1918338592826442036)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/lycheemilkpee/status/1918430698723262810)
+- Ref img, source: [twt@](https://x.com/namirina97/status/1918387541947850962)
+- Ref img, source: [twt@](https://x.com/inviz0/status/1918429632698921008)
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1918546062425637273)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/zerithslut/status/1918060246980833445)
 - Ref img, source: [twt@](https://x.com/RealEmirHan/status/1918075609067999311)
 - Ref img, source: [twt@](https://x.com/vikare06/status/1918026791114908034)
