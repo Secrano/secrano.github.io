@@ -4,6 +4,57 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Macbaconai/status/1918784013885382844)
+- Ref img, source: [twt@](https://x.com/Macbaconai/status/1918784013885382844)
+- Ref img, source: [twt@](https://x.com/Macbaconai/status/1918784013885382844)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/reformedjessica/status/1918707844053864802)
+- Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1918944618466472117)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/supersub_aka/status/1918598168444608767)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/shintake_photo/status/1918787660627488793)
+- Ref img, source: [twt@](https://x.com/KittyCatEmpire/status/1918670698991530438)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/miu_wallp/status/1918726712499601794)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/elemmiressoul/status/1918729563011518665)
+- Ref img, source: [twt@](https://x.com/meeeetsu/status/1918800109275369594)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/philazora/status/1918946353620582814)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/srishtiest/status/1918693716891455704)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/precious_miru/status/1918721115998044631)
+- Ref img, source: [twt@](https://x.com/Riot_Kassadin/status/1918660323097108566)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/DreadnaughtDark/status/1918938899587752383)
+- Ref img, source: [twt@](https://x.com/_lycrus/status/1918772537036578845)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Macbaconai/status/1918341803423461533)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1918566321198948594)
 - Ref img, source: [twt@](https://x.com/jhygg77/status/1918538779557564459)
 - Ref img, source: [twt@](https://x.com/namiarchive_/status/1918772480392519951)
