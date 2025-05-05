@@ -4,6 +4,33 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/PicturesFoIder/status/1919077152986685700)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1919118331203948605)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Yoda4ever/status/1919062138036818387)
+- Ref img, source: [twt@](https://x.com/succubunny1/status/1919001896607440945)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/KevinNaughtonJr/status/1919092703272280211)
+- Ref img, source: [twt@](https://x.com/KittyCatEmpire/status/1919067622517129281)
+- Ref img, source: [twt@](https://x.com/CuteAdorableCat/status/1919014150874988742)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/anime_twits/status/1919157710362132980)
+- Ref img, source: [twt@](https://x.com/dailyanidala/status/1919041520381939825)
+- Ref img, source: [twt@](https://x.com/Dinasaur_0_0_/status/1919085053155418310)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/unonumero_56/status/1919038544665829764)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Macbaconai/status/1918784013885382844)
 - Ref img, source: [twt@](https://x.com/Macbaconai/status/1918784013885382844)
 - Ref img, source: [twt@](https://x.com/Macbaconai/status/1918784013885382844)
