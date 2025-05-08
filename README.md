@@ -4,10 +4,6 @@
 
 # ---
 
-- Ref img, source: [twt@](https://x.com/666KArt/status/1920499171217256527)
-
-<br/>
-
 - Ref img, source: [twt@](https://x.com/RinSS_HI/status/1920220089380380958)
 - Ref img, source: [twt@](https://x.com/PunchingCat/status/1920465277139235016)
 - Ref img, source: [twt@](https://x.com/interesting_aIl/status/1920320811333820536)
@@ -19,7 +15,6 @@
 
 - Ref img, source: [twt@](https://x.com/wlopwangling/status/1920493241050313197)
 - Ref img, source: [twt@](https://x.com/CarmesJocelin/status/1920506561337676275)
-- Ref img, source: [twt@](https://x.com/suma_nainainai/status/1920439397859651664)
 
 # ---
 
