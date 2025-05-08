@@ -20,6 +20,11 @@
 - Ref img, source: [twt@](https://x.com/wlopwangling/status/1920493241050313197)
 - Ref img, source: [twt@](https://x.com/CarmesJocelin/status/1920506561337676275)
 
+<br/>
+
+- Ref img, source: [twt@](https://x.com/suma_nainainai/status/1920439397859651664)
+- Ref img, source: [twt@](https://x.com/labyrinth_rito/status/1920450643409400056)
+
 # ---
 
 - Ref img, source: [twt@](https://x.com/Stuz0r/status/1919787401045578064)
