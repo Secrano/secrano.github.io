@@ -4,6 +4,44 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/ZxckFair_/status/1920562998004891697)
+- Ref img, source: [twt@](https://x.com/namiarchive_/status/1920851917179068627)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/xuchuan25/status/1920692650480390467)
+- Ref img, source: [twt@](https://x.com/suaverotic/status/1920833963683147853)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Eluny_/status/1920702320326664689)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Haich_AI/status/1920850830116172230)
+- Ref img, source: [twt@](https://x.com/shitpost_2049/status/1920624838340735117)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1920856789702373839)
+- Ref img, source: [twt@](https://x.com/zerithslut/status/1920655116111126971)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/interesting_aIl/status/1920842469362536779)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/suaverotic/status/1920833846154547625)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ChiseHatoriBan/status/1920708848681119912)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/vGumiho/status/1920551027545199069)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1920675088845992362)
 - Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1920723958007058707)
 - Ref img, source: [twt@](https://x.com/suaverotic/status/1920434351856099336)
