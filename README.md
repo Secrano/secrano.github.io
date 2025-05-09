@@ -42,8 +42,7 @@
 <br/>
 
 - Ref img, source: [twt@](https://x.com/HoDaRaKe/status/1920609154642657762)
-  
-# ---
+
 # ---
 
 - Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1920675088845992362)
