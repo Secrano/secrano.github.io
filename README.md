@@ -39,6 +39,10 @@
 
 - Ref img, source: [twt@](https://x.com/vGumiho/status/1920551027545199069)
 
+<br/>
+
+- Ref img, source: [twt@](https://x.com/HoDaRaKe/status/1920609154642657762)
+  
 # ---
 # ---
 
