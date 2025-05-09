@@ -11,7 +11,6 @@
 - Ref img, source: [twt@](https://x.com/InternetH0F/status/1920539631117885636)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/annibale_sic/status/1920547035171655709)
 
