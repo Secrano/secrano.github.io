@@ -4,6 +4,93 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/000chun000_/status/1921158869989888169)
+- Ref img, source: [twt@](https://x.com/TheCinesthetic/status/1920769712742613399)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/historyinmemes/status/1921144683444793479)
+- Ref img, source: [twt@](https://x.com/Pino_AIart/status/1921159799359549867)
+- Ref img, source: [twt@](https://x.com/TiffanyMayCry/status/1920844143091143027)
+- Ref img, source: [twt@](https://x.com/eatsleep1111/status/1921152439622713360)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/HumansNoContext/status/1920937130966049059)
+- Ref img, source: [twt@](https://x.com/CatKnowsNth/status/1920843678936867299)
+- Ref img, source: [twt@](https://x.com/Jbanklestankle1/status/1920927276062871828)
+- Ref img, source: [twt@](https://x.com/sophiadrafts06/status/1921051265494077548)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/qiandaiyiyu/status/1921150260757369141)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/qiandaiyiyu/status/1921170997324960223)
+- Ref img, source: [twt@](https://x.com/ATRightMovies/status/1920961979952320769)
+- Ref img, source: [twt@](https://x.com/poutidoll/status/1920906908564607450)
+- Ref img, source: [twt@](https://x.com/_zxmw/status/1921005384086499399)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/KittyCatEmpire/status/1920868238394581446)
+- Ref img, source: [twt@](https://x.com/VideosFolder/status/1920993835913523400)
+- Ref img, source: [twt@](https://x.com/Fightflix_/status/1920886485454385554)
+- Ref img, source: [twt@](https://x.com/HumansNoContext/status/1920945336920543523)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/LibertyCappy/status/1921149464888438864)
+- Ref img, source: [twt@](https://x.com/LM38linolino/status/1921146910624076132)
+- Ref img, source: [twt@](https://x.com/HumansNoContext/status/1921136019400712360)
+- Ref img, source: [twt@](https://x.com/Alphafox78/status/1920985789741363575)
+- Ref img, source: [twt@](https://x.com/MohiniWealth/status/1920854043028541649)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/HowThingsWork_/status/1921118278568513944)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/LM38linolino/status/1921147222361588064)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/catshealdeprsn/status/1920907873275797968)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/byrong84721153/status/1921070642574533015)
+- Ref img, source: [twt@](https://x.com/itotweets_/status/1921084553034121498)
+- Ref img, source: [twt@](https://x.com/interesting_aIl/status/1921059140262109485)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/MyLordBebo/status/1920856564996444670)
+- Ref img, source: [twt@](https://x.com/sonwooang/status/1921110500651249961)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ai_zerara/status/1921128078375317633)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/aftermath_dev/status/1920897303402906089)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/BigHazelEyedDoe/status/1921132568218378558)
+- Ref img, source: [twt@](https://x.com/nocontextscats/status/1920888999545041067)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/brigarzzza/status/1921063435992764773)
+- Ref img, source: [twt@](https://x.com/kazanori901/status/1921115114251358380)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/ZxckFair_/status/1920562998004891697)
 - Ref img, source: [twt@](https://x.com/namiarchive_/status/1920851917179068627)
 
