@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Galaxy Particle Simulation Extended </title>
+    <title> Galaxy Particle Simulation Enhanced 2 </title>
     <style>
         body {
             margin: 0;
@@ -28,10 +28,12 @@
         camera.position.z = 80;
 
         const galaxies = [];
+        const obstacles = [];
         const blackHoleStrength = 0.0005;
         const particleInteractionStrength = 0.001;
-        const mouseAttractionStrength = 0.002;
+        const obstacleGravityStrength = 0.002;
         let mousePressed = false;
+        let gravityEnabled = true;
 
         const mouse = new THREE.Vector2();
         const mouse3D = new THREE.Vector3();
@@ -43,6 +45,15 @@
 
         window.addEventListener('mousedown', () => { mousePressed = true; });
         window.addEventListener('mouseup', () => { mousePressed = false; });
+
+        window.addEventListener('keydown', (event) => {
+            if (event.key === 'g') {
+                gravityEnabled = !gravityEnabled;
+            }
+        });
+
+        const gradientColors = [0xff0000, 0xff7f00, 0xffff00, 0x7fff00, 0x00ff00];
+        let colorIndex = 0;
 
         class Galaxy {
             constructor(particleCount, centerX, centerY, centerZ) {
@@ -72,44 +83,46 @@
                     const py = positions[i + 1];
                     const pz = positions[i + 2];
 
-                    const dx = this.center.x - px;
-                    const dy = this.center.y - py;
-                    const dz = this.center.z - pz;
-                    const dist = Math.sqrt(dx * dx + dy * dy + dz * dz) + 0.1;
+                    for (const obstacle of obstacles) {
+                        const dx = obstacle.position.x - px;
+                        const dy = obstacle.position.y - py;
+                        const dz = obstacle.position.z - pz;
+                        const dist = Math.sqrt(dx * dx + dy * dy + dz * dz) + 0.1;
 
-                    // Black hole gravity effect
-                    this.velocities[i] += (dx / dist) * blackHoleStrength;
-                    this.velocities[i + 1] += (dy / dist) * blackHoleStrength;
-                    this.velocities[i + 2] += (dz / dist) * blackHoleStrength;
+                        if (gravityEnabled) {
+                            this.velocities[i] += (dx / dist) * obstacleGravityStrength;
+                            this.velocities[i + 1] += (dy / dist) * obstacleGravityStrength;
+                            this.velocities[i + 2] += (dz / dist) * obstacleGravityStrength;
+                        }
+                    }
 
-                    // Particle movement
                     positions[i] += this.velocities[i];
                     positions[i + 1] += this.velocities[i + 1];
                     positions[i + 2] += this.velocities[i + 2];
-
-                    // Mouse attraction when pressed
-                    if (mousePressed) {
-                        mouse3D.set(mouse.x * 80, mouse.y * 80, 0);
-                        const mouseDx = mouse3D.x - px;
-                        const mouseDy = mouse3D.y - py;
-                        const mouseDz = mouse3D.z - pz;
-                        const mouseDist = Math.sqrt(mouseDx ** 2 + mouseDy ** 2 + mouseDz ** 2) + 0.1;
-
-                        this.velocities[i] += (mouseDx / mouseDist) * mouseAttractionStrength;
-                        this.velocities[i + 1] += (mouseDy / mouseDist) * mouseAttractionStrength;
-                        this.velocities[i + 2] += (mouseDz / mouseDist) * mouseAttractionStrength;
-                    }
                 }
                 this.particles.geometry.attributes.position.needsUpdate = true;
             }
         }
 
-        // Initialize galaxies
+        window.addEventListener('click', (event) => {
+            const obstacleGeometry = new THREE.SphereGeometry(2, 32, 32);
+            colorIndex = (colorIndex + 1) % gradientColors.length;
+            const obstacleMaterial = new THREE.MeshStandardMaterial({ color: gradientColors[colorIndex], emissive: 0x111111 });
+            const obstacle = new THREE.Mesh(obstacleGeometry, obstacleMaterial);
+
+            mouse3D.set(mouse.x * 80, mouse.y * 80, 0);
+            obstacle.position.copy(mouse3D);
+            obstacles.push(obstacle);
+            scene.add(obstacle);
+        });
+
         galaxies.push(new Galaxy(5000, 0, 0, 0));
         galaxies.push(new Galaxy(5000, 40, 40, 0));
         galaxies.push(new Galaxy(5000, -40, -40, 0));
 
-        // Animation loop
+        const ambientLight = new THREE.AmbientLight(0x404040);
+        scene.add(ambientLight);
+
         function animate() {
             requestAnimationFrame(animate);
             galaxies.forEach(galaxy => galaxy.update());
