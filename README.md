@@ -1,11 +1,20 @@
 # secrano.github.io
 
---- Git Day: DZ5 (3rd eye).
+--- Git Day: L203 (2nd round).
 
 # ---
 
-- Ref img, source: [twt@](https://x.com/mochi_12_love/status/1921140450703954248)
-- Ref img, source: [twt@](https://x.com/eraser_creater/status/1921218672825156063)
-- Ref img, source: [twt@](https://x.com/yunglava_/status/1921148099973558545)
+- Ref img, source: [twt@](https://x.com/nzxt_cam/status/1921498012259439005)
+- Ref img, source: [twt@](https://x.com/milk_g0re/status/1921499741688357037)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/TuhafAmaGercek/status/1921188474541273254)
+- Ref img, source: [twt@](https://x.com/SomaKazima/status/1921282968733057369)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/BlazeBinges/status/1921381019795456477)
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1921521808744075745)
 
 # ---
