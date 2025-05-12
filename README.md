@@ -4,6 +4,41 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/NoahJ_Poole/status/1921649452411933049)
+- Ref img, source: [twt@](https://x.com/Haich_AI/status/1922006831309652226)
+- Ref img, source: [twt@](https://x.com/clairemwc/status/1921918406191624582)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/BESTofFFXFFX2/status/1921885932283634108)
+- Ref img, source: [twt@](https://x.com/_xAinaa/status/1921789725704085995)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/OfflineTV/status/1921667633033662736)
+- Ref img, source: [twt@](https://x.com/RespectfulMemes/status/1921967825188696173)
+- Ref img, source: [twt@](https://x.com/tureliies/status/1921605220657672415)
+- Ref img, source: [twt@](https://x.com/OutPeru/status/1921694548511645733)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/sprksfIy13/status/1921667045877293083)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Haich_AI/status/1921874888295420037)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Haich_AI/status/1921938896981561700)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1922044593199079595)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/uniquemoviemom/status/1921650470864506956)
 - Ref img, source: [twt@](https://x.com/wonderofscience/status/1921589867995103489)
 - Ref img, source: [twt@](https://x.com/LostMemeArchive/status/1921464792533123316)
