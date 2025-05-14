@@ -1,5 +1,28 @@
 # secrano.github.io
 
+--- Git Day: L2A0 (another round).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/AnimexTwts/status/1922101319105495408)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/forgets91/status/1922067498666451312)
+- Ref img, source: [twt@](https://x.com/Sneakyone75/status/1922093912203649169)
+- Ref img, source: [twt@](https://x.com/RaidenWgt/status/1922351682924519845)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/gracelyra666/status/1922176859556528358)
+- Ref img, source: [twt@](https://x.com/Voaleine/status/1922376013557698932)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/aat_ai40683/status/1922327211253612808)
+
+# ---
+
 --- Git Day: L203 (2nd round).
 
 # ---
