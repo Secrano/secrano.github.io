@@ -5,7 +5,18 @@
 # ---
 
 - Ref img, source: [twt@](https://x.com/b1sexualpanic/status/1922452725150707814)
+  
+<br/>
 
+- Ref img, source: [twt@](https://www.youtube.com/shorts/BUMydTu2SkA)
+- Ref img, source: [twt@](https://x.com/qiandaiyiyu/status/1922955236701823303)
+- Ref img, source: [twt@](https://x.com/AkramBham/status/1922940019389428060)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/tibetanshark/status/1922768311277813893)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/AnimexTwts/status/1922101319105495408)
