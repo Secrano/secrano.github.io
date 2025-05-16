@@ -56,6 +56,8 @@
 - High order dimension math: Particle simulation of galaxies as wallpaper with effects.
 - Three focal points continuum: 1st attempt on gravitational pull.
 - Free gravitation toggle (G): Freedom of choice, when model miss param dim and gradient descents.
+- Poem by gpt. ad infinitum simple decorative.
 
 # ---
+Hello world.
 # ---
