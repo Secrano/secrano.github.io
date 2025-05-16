@@ -17,6 +17,11 @@
 - Ref img, source: [twt@](https://x.com/tibetanshark/status/1922768311277813893)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/noctwong/status/1922955743927447573)
+- Ref img, source: [twt@](https://x.com/SpideyStrife/status/1923116433598271528)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/AnimexTwts/status/1922101319105495408)
