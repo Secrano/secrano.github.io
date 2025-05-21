@@ -4,6 +4,11 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/apostraphi/status/1924834798977114620)
+- Ref img, source: [twt@](https://x.com/cIoudgf/status/1924980386532094441)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/Haich_AI/status/1924552111838089650)
 - Ref img, source: [twt@](https://x.com/scarVii/status/1924156941921571226)
 
