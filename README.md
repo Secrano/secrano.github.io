@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/ai_zerara/status/1925896741078884680)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/Basil_Pepper/status/1925170563661942998)
 - Ref img, source: [twt@](https://x.com/ito_ito_18/status/1925122363173265619)
