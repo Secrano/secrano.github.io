@@ -37,7 +37,6 @@
 - Ref img, source: [twt@](https://x.com/AIFischermann/status/1926325492937859441)
 - Ref img, source: [twt@](https://x.com/natsume0v0/status/1926627019590189509)
 
-<br/>
 # ---
 
 - Ref img, source: [twt@](https://x.com/coffee2hai/status/1926613193037672627)
