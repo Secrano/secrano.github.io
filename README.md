@@ -4,6 +4,50 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/000chun000_/status/1926444611657953748)
+- Ref img, source: [twt@](https://x.com/hourly_shitpost/status/1926684747926818894)
+- Ref img, source: [twt@](https://x.com/interesting_aIl/status/1926686014057152609)
+- Ref img, source: [twt@](https://x.com/Catsillyness/status/1926294581835882948)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/AuraWithCat/status/1926525815086252058)
+- Ref img, source: [twt@](https://x.com/Myth_/status/1926341665834377462)
+- Ref img, source: [twt@](https://x.com/MissMikkaa/status/1926636041961627774)
+- Ref img, source: [twt@](https://x.com/luxnoira/status/1926415019173896533)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PunchingCat/status/1926625804366061646)
+- Ref img, source: [twt@](https://x.com/sonwooang/status/1926654422425149458)
+- Ref img, source: [twt@](https://x.com/skkaka3k/status/1926424769127235844)
+- Ref img, source: [twt@](https://x.com/000chun000_/status/1926653691014099292)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/02121976_yama2/status/1926656315524333601)
+- Ref img, source: [twt@](https://x.com/tokio0131/status/1926579711712374955)
+- Ref img, source: [twt@](https://x.com/ginotty/status/1926646816881229910)
+- Ref img, source: [twt@](https://x.com/milkissecret/status/1926676273373294774)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/AuraWithCat/status/1926481268583043472)
+- Ref img, source: [twt@](https://x.com/000chun000_/status/1926471517337948477)
+- Ref img, source: [twt@](https://x.com/AIFischermann/status/1926325492937859441)
+- Ref img, source: [twt@](https://x.com/natsume0v0/status/1926627019590189509)
+
+<br/>
+# ---
+
+- Ref img, source: [twt@](https://x.com/coffee2hai/status/1926613193037672627)
+- Ref img, source: [twt@](https://x.com/RUby_KiRi/status/1926649316015259891)
+- Ref img, source: [twt@](https://x.com/lovecouplsx/status/1926424433968775535)
+- Ref img, source: [twt@](https://x.com/Anime_Frieren/status/1926559202052317316)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/seekorplatypus/status/1925981202738983415)
 - Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1926221260993749015)
 - Ref img, source: [twt@](https://x.com/refocusmateria/status/1922043515619385731)
