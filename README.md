@@ -4,6 +4,12 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Haich_AI/status/1926896915561549919)
+- Ref img, source: [twt@](https://x.com/kristtnne/status/1921028841717256662)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/000chun000_/status/1926444611657953748)
 - Ref img, source: [twt@](https://x.com/hourly_shitpost/status/1926684747926818894)
 - Ref img, source: [twt@](https://x.com/interesting_aIl/status/1926686014057152609)
