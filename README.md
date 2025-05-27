@@ -4,6 +4,19 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/thecinnaminion/status/1927382033677914269)
+- Ref img, source: [twt@](https://x.com/Kaynichiwa_X/status/1927345186524320109)
+- Ref img, source: [twt@](https://x.com/mcrnyx/status/1927245941205033419)
+- Ref img, source: [twt@](https://x.com/LeagueOfLegends/status/1927386864794603769)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/LeagueOfLegends/status/1927409351829950491)
+- Ref img, source: [twt@](https://x.com/mcrnyx/status/1927073867186467169)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/AuraWithCat/status/1926891205419270539)
 - Ref img, source: [twt@](https://x.com/Sco_ttie/status/1926967582340399225)
 
