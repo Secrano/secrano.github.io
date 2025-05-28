@@ -4,6 +4,18 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/tifavalentines/status/1927421152106037683)
+- Ref img, source: [twt@](https://x.com/Haich_AI/status/1927596847016591813)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/LilyPichu/status/1927496638605709648)
+- Ref img, source: [twt@](https://x.com/gyuriths/status/1927421251481407915)
+- Ref img, source: [twt@](https://x.com/keinuseeme/status/1927457556135318015)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/thecinnaminion/status/1927382033677914269)
 - Ref img, source: [twt@](https://x.com/Kaynichiwa_X/status/1927345186524320109)
 - Ref img, source: [twt@](https://x.com/mcrnyx/status/1927245941205033419)
