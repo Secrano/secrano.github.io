@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/Pastel_Illust_/status/1927838541196964237)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/dailystrifes/status/1927014889131839612)
 - Ref img, source: [twt@](https://x.com/julien_cossette/status/1927476463881593114)
