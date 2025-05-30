@@ -15,7 +15,6 @@
 - Ref img, source: [twt@](https://x.com/ashiartwork/status/1928227856540402069)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/Haich_AI/status/1928109067840487520)
 - Ref img, source: [twt@](https://x.com/ItsEndyy/status/1927666163376423134)
