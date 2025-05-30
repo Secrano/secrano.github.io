@@ -4,6 +4,19 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/philazora/status/1928239335792427496)
+- Ref img, source: [twt@](https://x.com/contextdogs/status/1928179932179431735)
+- Ref img, source: [twt@](https://x.com/Dexerto/status/1928376091422396521)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Fortnite/status/1928496721010536860)
+- Ref img, source: [twt@](https://x.com/philazora/status/1928469440582086940)
+- Ref img, source: [twt@](https://x.com/ashiartwork/status/1928227856540402069)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Haich_AI/status/1928109067840487520)
 - Ref img, source: [twt@](https://x.com/ItsEndyy/status/1927666163376423134)
 
