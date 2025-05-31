@@ -1,5 +1,49 @@
 # secrano.github.io
 
+--- Git Day: L2B4 (future n).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/yunglava_/status/1928573324449206565)
+- Ref img, source: [twt@](https://x.com/TheCatsX/status/1928470913772585119)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/pickynprissy/status/1928616736061866105)
+- Ref img, source: [twt@](https://x.com/nobody1000p/status/1928616807734059444)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/AI_raccoondog/status/1928705311851872654)
+- Ref img, source: [twt@](https://x.com/luxlo_xo/status/1928498707596505338)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/redifyys/status/1928688008783384910)
+- Ref img, source: [twt@](https://x.com/inviciblelore/status/1928644434293567578)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/TheDemocrats/status/1928460701632168355)
+- Ref img, source: [twt@](https://x.com/ZabiMasurao/status/1928404025549971876)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/AuraWithCat/status/1928473039152271595)
+- Ref img, source: [twt@](https://x.com/LacyHimself/status/1928574938413154499)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/LacyHimself/status/1928574938413154499)
+- Ref img, source: [twt@](https://x.com/AI_raccoondog/status/1928704646501249388)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/yunglava_/status/1928389683894968753)
+- Ref img, source: [twt@](https://x.com/ayeejuju/status/1928617225923023108)
+
+# ---
+
 --- Git Day: L2A7 (ad infinity).
 
 # ---
