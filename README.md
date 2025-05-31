@@ -34,7 +34,7 @@
 
 <br/>
 
-- Ref img, source: [twt@](https://x.com/LacyHimself/status/1928574938413154499)
+- Ref img, source: [twt@](https://x.com/StrawderryST/status/1928655328465285592) ed
 - Ref img, source: [twt@](https://x.com/AI_raccoondog/status/1928704646501249388)
 
 <br/>
