@@ -4,6 +4,14 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/b1sexualpanic/status/1928891635611336866)
+- Ref img, source: [twt@](https://x.com/aitaikimochi/status/1928812235817734370)
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1929055309881905276)
+- Ref img, source: [twt@](https://x.com/dem0nslayer7/status/1929088122274320488)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/yunglava_/status/1928573324449206565)
 - Ref img, source: [twt@](https://x.com/TheCatsX/status/1928470913772585119)
 
