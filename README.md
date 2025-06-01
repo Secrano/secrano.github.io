@@ -10,7 +10,6 @@
 - Ref img, source: [twt@](https://x.com/dem0nslayer7/status/1929088122274320488)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/yunglava_/status/1928573324449206565)
 - Ref img, source: [twt@](https://x.com/TheCatsX/status/1928470913772585119)
