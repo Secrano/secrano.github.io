@@ -4,6 +4,19 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/JumpTrailers/status/1928919730884087986)
+- Ref img, source: [twt@](https://x.com/lunara_fawn/status/1929274307420586458)
+- Ref img, source: [twt@](https://x.com/Cristiano/status/1929264580527595613)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/CarmenKingy/status/1929252601008140354)
+- Ref img, source: [twt@](https://x.com/kirawontmiss/status/1929004841667314038)
+- Ref img, source: [twt@](https://x.com/Haich_AI/status/1929248712213111109)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/b1sexualpanic/status/1928891635611336866)
 - Ref img, source: [twt@](https://x.com/aitaikimochi/status/1928812235817734370)
 - Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1929055309881905276)
