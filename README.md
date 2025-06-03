@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/KiryuuDev/status/1929572410413416510)
+- Ref img, source: [twt@](https://x.com/Valkenhine/status/1920921492587487398)
+- Ref img, source: [twt@](https://x.com/nierhart/status/1929981740921344226)
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1929780084887482587)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/Valkenhine/status/1929813015593210015)
   
 # ---
