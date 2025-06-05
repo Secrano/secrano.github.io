@@ -4,6 +4,48 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Tifaloviee/status/1930336414270664799)
+- Ref img, source: [twt@](https://x.com/TomCruise/status/1930682304894239114)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Xavierdespinay/status/1930556339299778679)
+- Ref img, source: [twt@](https://x.com/tifavalentines/status/1930688070178980330)
+- Ref img, source: [twt@](https://x.com/solisolsoli/status/1930278375433875912)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/AuraWithCat/status/1930366228750565612)
+- Ref img, source: [twt@](https://x.com/kamui_117_/status/1930683172892684776)
+- Ref img, source: [twt@](https://x.com/miboso__/status/1930689258916098487)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/maciekwolanski/status/1930573797918126418)
+- Ref img, source: [twt@](https://x.com/666KArt/status/1930656235927519458)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Denis_Istomin_/status/1930628595027722712)
+- Ref img, source: [twt@](https://x.com/SabrinaAnnLynn/status/1930690374315504116)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/nzxt_cam/status/1930672037066121478)
+- Ref img, source: [twt@](https://x.com/BackersGamesF/status/1930655776118313397)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/acnewsitics/status/1930678119587021243)
+- Ref img, source: [twt@](https://x.com/qiandaiyiyu/status/1930567038629716126)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/HYPEX/status/1930674959782658072)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/ODanicaRockwood/status/1930346588893040902)
 
 # ---
