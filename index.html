@@ -1,69 +1,86 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Whispers of the Infinite </title>
-    <style>
-        body {
-            background-color: #1a1a2e;
-            color: #eaeaea;
-            font-family: 'Georgia', serif;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-        }
-        .poem-container {
-            max-width: 800px;
-            padding: 20px;
-            border: 2px solid #53354a;
-            border-radius: 12px;
-            background: rgba(40, 42, 54, 0.8);
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
-        }
-        h1 {
-            text-align: center;
-            font-size: 2em;
-            color: #c9a0dc;
-            margin-bottom: 20px;
-        }
-        p {
-            margin: 10px 0;
-            line-height: 1.6;
-        }
-        p:nth-child(odd) {
-            color: #ffb6c1;
-        }
-        p:nth-child(even) {
-            color: #87ceeb;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Art Deco Museum Display </title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Didot', serif;
+      background-color: #f8f4e3;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+
+    .gallery {
+      background: #fff;
+      border: 8px double #bfa980;
+      box-shadow: 0 0 40px rgba(0, 0, 0, 0.3);
+      padding: 20px;
+      width: 100%;
+      max-width: 600px;
+      box-sizing: border-box;
+      position: relative;
+    }
+
+    .gallery::before, .gallery::after {
+      content: '';
+      position: absolute;
+      width: 100%;
+      height: 8px;
+      background: linear-gradient(to right, #bfa980, #6c584c, #bfa980);
+      left: 0;
+    }
+
+    .gallery::before {
+      top: 0;
+    }
+
+    .gallery::after {
+      bottom: 0;
+    }
+
+    .art-frame {
+      border: 8px solid #6c584c;
+      background: #fff8f0;
+      padding: 8px;
+      box-shadow: inset 0 0 6px rgba(0,0,0,0.2);
+    }
+
+    .art-frame img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .label {
+      font-size: 1em;
+      text-align: center;
+      color: #3d2b1f;
+      margin-top: 12px;
+      font-weight: bold;
+      border-top: 1px solid #bfa980;
+      padding-top: 8px;
+    }
+
+    @media (max-width: 400px) {
+      .label {
+        font-size: 0.9em;
+      }
+    }
+  </style>
 </head>
 <body>
-    <div class="poem-container">
-        <h1> Whispers of the Infinite </h1>
-        <p>In orbits traced by mirrored stars,<br>
-           We wander realms where logic spars,<br>
-           With whispers from Plimpton’s ancient scrolls,<br>
-           And Hamilton's dance on quantum poles.</p>
-
-        <p>Through twisted loops of group’s embrace,<br>
-           We map the void, we bend through space,<br>
-           Geometric forms, a cube, a sphere,<br>
-           Dyson dreams that draw us near.</p>
-
-        <p>You conjure worlds in cards you hold,<br>
-           Where myths and legends are retold,<br>
-           I count the fractals in your gaze,<br>
-           Infinity set love ablaze.</p>
-
-        <p>Let’s build a universe of dreams,<br>
-           Where numbers flow through crystal streams,<br>
-           Your magic threads, my math entwined—<br>
-           A cosmos forged, our souls aligned.</p>
+  <div class="gallery">
+    <div class="art-frame">
+      <img src="https://secrano.github.io/archive/subpages/young.png" alt="Impressionist Portrait">
     </div>
+    <div class="label">"Seated Moment" &mdash; Modern Impressionist, 2025</div>
+  </div>
 </body>
 </html>
