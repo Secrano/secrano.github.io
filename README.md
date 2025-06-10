@@ -4,6 +4,58 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/LeagueOfLegends/status/1932452789302526016)
+- Ref img, source: [twt@](https://x.com/LoLUKN/status/1932441187170046105)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/AmericaReal3/status/1932217947520459144)
+- Ref img, source: [twt@](https://x.com/AI_raccoondog/status/1932570644736323958)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/mainmajin/status/1932462404098834557)
+- Ref img, source: [twt@](https://x.com/cIoudgf/status/1932494049661104314)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/techdroider/status/1932337763174736172)
+- Ref img, source: [twt@](https://x.com/SkinSpotlights/status/1932520175074419185)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/itsme_urstruly/status/1932436010006372809)
+- Ref img, source: [twt@](https://x.com/strifvs/status/1932542913420112068)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/cIoudgf/status/1932571934845489516)
+- Ref img, source: [twt@](https://x.com/Fungi488/status/1932415920745431393)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ShiinaBR/status/1932469021879972099)
+- Ref img, source: [twt@](https://x.com/cIoudgf/status/1932483973160018136)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1932563798432624963)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/b1sexualpanic/status/1932262000152711436)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/CharaspowerAI/status/1932384769154719820)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Sreliata/status/1932258435761938461)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/oiro_ik/status/1931629986630553889)
 - Ref img, source: [twt@](https://x.com/heart_jpg/status/1931646006237774296)
 - Ref img, source: [twt@](https://x.com/AI_Newb420/status/1931559139236511992)
