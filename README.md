@@ -4,6 +4,11 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/fatfatpankocat/status/1932807453605048535)
+- Ref img, source: [twt@](https://x.com/Spideraxe30/status/1932381169842073693)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/LeagueOfLegends/status/1932452789302526016)
 - Ref img, source: [twt@](https://x.com/LoLUKN/status/1932441187170046105)
 
