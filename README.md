@@ -10,7 +10,6 @@
 - Ref img, source: [twt@](https://x.com/FabrizioRomano/status/1932893461180788997)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/fatfatpankocat/status/1932807453605048535)
 - Ref img, source: [twt@](https://x.com/Spideraxe30/status/1932381169842073693)
