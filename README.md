@@ -4,6 +4,14 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/epppuni/status/1932811522276999417)
+- Ref img, source: [twt@](https://x.com/phootoo_/status/1932897407508922622)
+- Ref img, source: [twt@](https://x.com/PeppyCosplay/status/1932845746371387862)
+- Ref img, source: [twt@](https://x.com/FabrizioRomano/status/1932893461180788997)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/fatfatpankocat/status/1932807453605048535)
 - Ref img, source: [twt@](https://x.com/Spideraxe30/status/1932381169842073693)
 
