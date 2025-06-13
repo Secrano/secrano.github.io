@@ -4,6 +4,25 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/zampy68/status/1933202774998552596)
+- Ref img, source: [twt@](https://x.com/agirlunder/status/1933278642567512458)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/cIoudgf/status/1933293269196198155)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/controdicting/status/1933117363861561577)
+- Ref img, source: [twt@](https://x.com/megs_io/status/1933222876913807365)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Haich_AI/status/1933240691917783254)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/epppuni/status/1932811522276999417)
 - Ref img, source: [twt@](https://x.com/phootoo_/status/1932897407508922622)
 - Ref img, source: [twt@](https://x.com/PeppyCosplay/status/1932845746371387862)
