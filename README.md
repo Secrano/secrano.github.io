@@ -21,10 +21,6 @@
 
 # ---
 
-<br/>
-
-# ---
-
 - Ref img, source: [twt@](https://x.com/zampy68/status/1933202774998552596)
 - Ref img, source: [twt@](https://x.com/agirlunder/status/1933278642567512458)
 
