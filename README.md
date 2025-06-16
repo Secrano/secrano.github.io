@@ -47,7 +47,6 @@
 
 # ---
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/Kaynichiwa_X/status/1933635807585178056)
 - Ref img, source: [twt@](https://x.com/ai_zerara/status/1933638006239588827)
