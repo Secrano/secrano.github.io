@@ -4,6 +4,51 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/ha9siro/status/1934158888154321151)
+- Ref img, source: [twt@](https://x.com/ha9siro/status/1934158888154321151)
+- Ref img, source: [twt@](https://x.com/ha9siro/status/1934158888154321151)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/sarasara_aiart/status/1934191124639555870)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Sirhaian/status/1934327932857827563)
+- Ref img, source: [twt@](https://x.com/rswxx/status/1934216130794856800)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/VortexLoreFN/status/1934255535525896247)
+- Ref img, source: [twt@](https://x.com/FranckJonesy/status/1934340673848660220)
+- Ref img, source: [twt@](https://x.com/CrocOclock/status/1934317509152272797)
+- Ref img, source: [twt@](https://x.com/moonahoshinova/status/1934237404589965413)
+- Ref img, source: [twt@](https://x.com/djom900/status/1934169274672951345)
+- Ref img, source: [twt@](https://x.com/YuyuYu946981832/status/1934091241710596586)
+- Ref img, source: [twt@](https://x.com/Haich_AI/status/1934348001608438114)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ShiinaBR/status/1934378442146959675)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/tobeyy_mag/status/1934022986777940086)
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1934445842967982521)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/venturetwins/status/1934434222523171000)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/bongftah/status/1934263092676079693)
+- Ref img, source: [twt@](https://x.com/amarmos_alter/status/1933989077055046007)
+
+# ---
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Kaynichiwa_X/status/1933635807585178056)
 - Ref img, source: [twt@](https://x.com/ai_zerara/status/1933638006239588827)
 - Ref img, source: [twt@](https://x.com/Cloudonachocobo/status/1933551611130876011)
