@@ -4,6 +4,33 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/seri_ai_04/status/1935170615662756152)
+- Ref img, source: [twt@](https://x.com/neo_jpeg/status/1935003806950969587)
+- Ref img, source: [twt@](https://x.com/_KumiRei/status/1934914017094717555)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/kyso_lo/status/1935113723850670509)
+- Ref img, source: [twt@](https://x.com/dote1521383/status/1934965792954896457)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/hehe_samir/status/1934985347420844447)
+- Ref img, source: [twt@](https://x.com/20thcentury/status/1935004649788207300)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/kristy_rein_/status/1934950246020239738)
+- Ref img, source: [twt@](https://x.com/melinoesfrog/status/1935040505953345592)
+- Ref img, source: [twt@](https://x.com/t_hiori_AIart/status/1935092740192350302)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/otennko0061/status/1934898951813296260)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/ha9siro/status/1934158888154321151)
 - Ref img, source: [twt@](https://x.com/ha9siro/status/1934158888154321151)
 - Ref img, source: [twt@](https://x.com/ha9siro/status/1934158888154321151)
