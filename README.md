@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/soogz1/status/1936139129642782882)
+- Ref img, source: [twt@](https://x.com/Sreliata/status/1936087004346753457)
+- Ref img, source: [twt@](https://x.com/0v1234/status/1936167174126571846)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/solisolsoli/status/1935714186950029546)
 - Ref img, source: [twt@](https://x.com/NT62293123/status/1935738066326720956)
 
