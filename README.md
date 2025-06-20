@@ -4,6 +4,12 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/solisolsoli/status/1935714186950029546)
+- Ref img, source: [twt@](https://x.com/NT62293123/status/1935738066326720956)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Harbo_lol/status/1935137812593930274)
 
 # ---
