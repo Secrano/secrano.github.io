@@ -4,6 +4,19 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/eloncoin0x69420/status/1935901220272849137)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/sarasara_aiart/status/1936182526948917593)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/sarasara_aiart/status/1936352387993932164)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/soogz1/status/1936139129642782882)
 - Ref img, source: [twt@](https://x.com/Sreliata/status/1936087004346753457)
 - Ref img, source: [twt@](https://x.com/0v1234/status/1936167174126571846)
