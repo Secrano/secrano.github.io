@@ -1,5 +1,73 @@
 # secrano.github.io
 
+--- Git Day: L2D5 (rain).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/createdbyjas0n/status/1936819648709992448)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/_iOlatunde/status/1936781789135360183)
+- Ref img, source: [twt@](https://x.com/mxtaverse/status/1936645912627134676)
+- Ref img, source: [twt@](https://x.com/GozukaraFurkan/status/1936875008845853063)
+
+- Ref img, source: [twt@](https://x.com/powderski/status/1936922147139526752)
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1924383555783979196)
+- Ref img, source: [twt@](https://x.com/stairwayto3dom/status/1937062841594392739)
+
+- Ref img, source: [twt@](https://x.com/xuanfengbowen/status/1937015651941687360)
+- Ref img, source: [twt@](https://x.com/wynzmanz/status/1936934361594503282)
+- Ref img, source: [twt@](https://x.com/Timeless_aiart/status/1937017028323450976)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/litteralyme0_/status/1936756055289303495)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PicturesFoIder/status/1937084784649314701)
+- Ref img, source: [twt@](https://x.com/yoxics/status/1936983090754372070)
+- Ref img, source: [twt@](https://x.com/_akhaliq/status/1937027152404504625)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/DiamantGlass/status/1936986256275280225)
+- Ref img, source: [twt@](https://x.com/qiandaiyiyu/status/1937089523210756244)
+
+- Ref img, source: [twt@](https://x.com/SmallWeenie_/status/1937042339207532753)
+- Ref img, source: [twt@](https://x.com/SemiXOX/status/1937014280404226456)
+- Ref img, source: [twt@](https://x.com/ArenaXWiccano/status/1937052621392535836)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/stairwayto3dom/status/1937094420320383329)
+- Ref img, source: [twt@](https://x.com/WorldDarkWeb2/status/1936814083472327088)
+
+- Ref img, source: [twt@](https://x.com/yoxics/status/1936927118501548493)
+- Ref img, source: [twt@](https://x.com/PatMcAfeeShow/status/1936964386502980043)
+
+- Ref img, source: [twt@](https://x.com/adgirlMM/status/1936639411183349881)
+- Ref img, source: [twt@](https://x.com/ErlingHaaland/status/1936991814361199073)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ai_zerara/status/1937073157506224482)
+- Ref img, source: [twt@](https://x.com/mia_jp_dayo/status/1937099537509933285)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/cIoudgf/status/1936975020154134770)
+- Ref img, source: [twt@](https://x.com/Ulchete/status/1936937175792099492)
+- Ref img, source: [twt@](https://x.com/b1sexualpanic/status/1936963731348472022)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/CrownaRed/status/1936773443225358404)
+- Ref img, source: [twt@](https://x.com/ArshiQu3311/status/1936752839901999159)
+
+# ---
+
 --- Git Day: L2C8 (hello world).
 
 # ---
