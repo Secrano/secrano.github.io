@@ -1,5 +1,23 @@
 # secrano.github.io
 
+--- Git Day: L2E2 (messiah).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/suzuya_aiart/status/1936807544451936326)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Zuuhl82/status/1937022457304543724)
+- Ref img, source: [twt@](https://x.com/Minimaldex/status/1936843588786368953)
+- Ref img, source: [twt@](https://x.com/AidenR0/status/1936943531039576239)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/aat_ai40683/status/1937105605132685809)
+
+# ---
+
 --- Git Day: L2D5 (rain).
 
 # ---
