@@ -66,6 +66,8 @@
 - Ref img, source: [twt@](https://x.com/CrownaRed/status/1936773443225358404)
 - Ref img, source: [twt@](https://x.com/ArshiQu3311/status/1936752839901999159)
 
+# ---
+
 --- Git Day: L2C8 (hello world).
 
 # ---
