@@ -1,5 +1,21 @@
 # secrano.github.io
 
+--- Git Day: L2F5 (high wind).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/babs69420/status/1937497351314174158)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/sydneysfiles/status/1937269444881055819)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/animel7316/status/1937570041865892207)
+
+# ---
+
 --- Git Day: L2E9 (jakura).
 
 # ---
