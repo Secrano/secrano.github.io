@@ -1,5 +1,17 @@
 # secrano.github.io
 
+--- Git Day: L2E9 (jakura).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/SirRappa/status/1937209109117333900)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/webegga/status/1937234704098558371)
+
+# ---
+
 --- Git Day: L2E2 (messiah).
 
 # ---
