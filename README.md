@@ -1,5 +1,22 @@
 # secrano.github.io
 
+--- Git Day: L2G2 (jobless).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/leaderlooi/status/1937651709653696699)
+- Ref img, source: [twt@](https://x.com/LeagueOfLeaks/status/1937585177674547560)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/josh_uglyasf/status/1936423452401144246)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1937601735146479848)
+
+# ---
+
 --- Git Day: L2F5 (high wind).
 
 # ---
