@@ -1,5 +1,29 @@
 # secrano.github.io
 
+--- Git Day: L2G9 ().
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/b1sexualpanic/status/1937694933554491778)
+- Ref img, source: [twt@](https://x.com/mystikarumai/status/1937694618918764981)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ZxckFair_/status/1937930941877334494)
+- Ref img, source: [twt@](https://x.com/SkinSpotlights/status/1937935840208163276)
+
+br/>
+
+- Ref img, source: [twt@](https://x.com/TheCinesthetic/status/1937741041211441638)
+- Ref img, source: [twt@](https://x.com/animel7316/status/1937884382204952899)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/gracile_jp/status/1937870560945750087)
+- Ref img, source: [twt@](https://x.com/acervofortune/status/1937605337575764415)
+
+# ---
+
 --- Git Day: L2G2 (jobless).
 
 # ---
