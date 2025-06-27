@@ -1,5 +1,20 @@
 # secrano.github.io
 
+--- Git Day: L2H6 (nachos).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/lol_es/status/1938327405224997343)
+- Ref img, source: [twt@](https://x.com/YozuLoL/status/1938325573375295878)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Timeless_aiart/status/1938416000841724392)
+- Ref img, source: [twt@](https://x.com/jasontheween/status/1938320465396994442)
+- Ref img, source: [twt@](https://x.com/siestax_x/status/1938336060188332085)
+
+# ---
+
 --- Git Day: L2G9 ().
 
 # ---
