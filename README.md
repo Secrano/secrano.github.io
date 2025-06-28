@@ -1,5 +1,18 @@
 # secrano.github.io
 
+--- Git Day: L2I3
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1938353676877500453)
+- Ref img, source: [twt@](https://x.com/meltenx/status/1939034237191037271)
+- Ref img, source: [twt@](https://x.com/meltenx/status/1938920751043604895)
+- Ref img, source: [twt@](https://x.com/animel7316/status/1938999348999909430)
+
+# ---
+Music: "[The Grovemother’s Lullaby (feat. Mai Fujisawa)](https://www.youtube.com/watch?v=T6O2SzonZy8)" - League of Legends
+# ---
+
 --- Git Day: L2H6 (nachos).
 
 # ---
