@@ -19,7 +19,6 @@
 - Ref img, source: [twt@](https://x.com/WhitehogIII/status/1939013944573854053)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1938353676877500453)
 - Ref img, source: [twt@](https://x.com/meltenx/status/1939034237191037271)
