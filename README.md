@@ -4,6 +4,23 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Movie_tvshows_/status/1939038900590387636)
+
+- Ref img, source: [twt@](https://x.com/ShouldHaveCat/status/1939129128722010503)
+
+- Ref img, source: [twt@](https://x.com/ReignOfPride/status/1938998487586095191)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/_1mposter/status/1938974916776202735)
+
+- Ref img, source: [twt@](https://x.com/visualscat/status/1939036561133208021)
+
+- Ref img, source: [twt@](https://x.com/WhitehogIII/status/1939013944573854053)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1938353676877500453)
 - Ref img, source: [twt@](https://x.com/meltenx/status/1939034237191037271)
 - Ref img, source: [twt@](https://x.com/meltenx/status/1938920751043604895)
