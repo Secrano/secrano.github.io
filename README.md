@@ -4,6 +4,11 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/takoyoomi/status/1939615680732733641)
+- Ref img, source: [twt@](https://x.com/void_ling/status/1939620758453711354)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/PostsOfCats/status/1939358987134099747)
 - Ref img, source: [twt@](https://x.com/coolyndi/status/1939453436011159573)
 - Ref img, source: [twt@](https://x.com/gnarty_/status/1939500238164631820)
