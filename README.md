@@ -1,5 +1,43 @@
 # secrano.github.io
 
+--- Git Day: L2J0 (school start).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/PostsOfCats/status/1939358987134099747)
+- Ref img, source: [twt@](https://x.com/coolyndi/status/1939453436011159573)
+- Ref img, source: [twt@](https://x.com/gnarty_/status/1939500238164631820)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1933766355997618394)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/dinosaurs1969/status/1939353533242835204)
+- Ref img, source: [twt@](https://x.com/paleobug/status/1939402911634845941)
+- Ref img, source: [twt@](https://x.com/thankyousnext/status/1939419774674731372)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/jjacks14_/status/1939499685804474493)
+- Ref img, source: [twt@](https://x.com/babighoul/status/1939376080680370561)
+- Ref img, source: [twt@](https://x.com/Z3zz4/status/1939503947246633295)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/HozureArt/status/1939513029076631888)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Kaynichiwa_X/status/1939654650384330761)
+- Ref img, source: [twt@](https://x.com/Riot_Kassadin/status/1939278965014925481)
+- Ref img, source: [twt@](https://x.com/SeterMD/status/1939371012011016424)
+
+# ---
+Music: "[Deadline Mode Beats to Crush Your To-Do List | Chillstep Mix](https://www.youtube.com/watch?v=lwXCyKI845E)" - uploaded by Grind & Groove.
+# ---
+
 --- Git Day: L2I3
 
 # ---
