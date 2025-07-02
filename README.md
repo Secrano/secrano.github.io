@@ -1,5 +1,24 @@
 # secrano.github.io
 
+--- Git Day: L2J7 (leg day).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/ha9siro/status/1940251825783153029)
+- Ref img, source: [twt@](https://x.com/aat_ai40683/status/1940428770210681229)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/vampyrhart/status/1940445286897418384)
+
+- Ref img, source: [twt@](https://x.com/nierhart/status/1940461763352482098)
+
+- Ref img, source: [twt@](https://x.com/takeurcoin/status/1940412591295369508)
+
+# ---
+Music: "[2h Sad OST Compilation (4 seasons of Haikyuu)](https://www.youtube.com/watch?v=e7E3NWY0WQY)" - uploaded by @Sorikai_
+# ---
+
 --- Git Day: L2J0 (school start).
 
 # ---
