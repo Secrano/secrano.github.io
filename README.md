@@ -1,5 +1,21 @@
 # secrano.github.io
 
+--- Git Day: L2J7 (forgot my alpha-bet).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Coharrie_AI/status/1941089354111148441)
+- Ref img, source: [twt@](https://x.com/_claiire/status/1940925573741818114)
+- Ref img, source: [twt@](https://x.com/Boostio/status/1940897432344449308)
+- Ref img, source: [twt@](https://x.com/Tifa_Caelum/status/1940863525574135983)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/HumansNoContext/status/1940796444748693554)
+- Ref img, source: [twt@](https://x.com/clotivault/status/1940910394614366516)
+
+# ---
+
 --- Git Day: L2J7 (leg day).
 
 # ---
