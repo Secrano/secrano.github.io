@@ -1,5 +1,39 @@
 # secrano.github.io
 
+--- Git Day: L2L1 (skip json file).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1941376500109893756)
+
+- Ref img, source: [twt@](https://x.com/McMugget/status/1941380194742435990)
+
+- Ref img, source: [twt@](https://x.com/daily_zakkura/status/1941122779421495399)
+
+- Ref img, source: [twt@](https://x.com/strifvs/status/1941561900858564972)
+
+- Ref img, source: [twt@](https://x.com/tblckn/status/1941591786247372802)
+
+- Ref img, source: [twt@](https://x.com/SkyAboveMe_Art/status/1941560880333979649)
+
+- Ref img, source: [twt@](https://x.com/lethic1/status/1941213244267577515)
+
+- Ref img, source: [twt@](https://x.com/starriebun/status/1941285289311469678)
+
+- Ref img, source: [twt@](https://x.com/opdaiIy/status/1941172438034694434)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/animel7316/status/1941568832155550048)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/nanalovesffxv/status/1941226385965805953)
+- Ref img, source: [twt@](https://x.com/mcrnyx/status/1941323399562920361)
+- Ref img, source: [twt@](https://x.com/khyleri/status/1941165208262877570)
+
+# ---
+
 --- Git Day: L2J7 (forgot my alpha-bet).
 
 # ---
