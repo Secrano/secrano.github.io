@@ -13,7 +13,6 @@
 - Ref img, source: [twt@](https://x.com/VinceLoL_/status/1941528731522379792)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1941376500109893756)
 
