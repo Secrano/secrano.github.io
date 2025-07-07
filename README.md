@@ -1,5 +1,21 @@
 # secrano.github.io
 
+--- Git Day: L2L8
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/faeremis/status/1941573369272599032)
+- Ref img, source: [twt@](https://x.com/LM38linolino/status/1942088920398971091)
+- Ref img, source: [twt@](https://x.com/FearedBuck/status/1942251812418891965)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Yuri_SRL/status/1942002658597859799)
+
+# ---
+Music: "[FF7 rebirth + remake music ~ relaxing ~ emotional ~ chill ~ jrpg](https://www.youtube.com/watch?v=nhUEQAj3mG0)" uploaded by quietly harmonic vii.
+# ---
+
 --- Git Day: L2L1 (skip json file).
 
 # ---
