@@ -59,6 +59,10 @@
 - Poem by gpt. ad infinitum simple decorative.
 - Shakespeare today (AI, pen stroke): Davichi or Switch 2.
 
+### - Part 6:
+
+- Soul-like spirit: MTG inspired swap (Drag and drop units with effects).
+
 # ---
 Hello World.
 # ---
