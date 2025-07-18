@@ -4,6 +4,24 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/AidenR0/status/1946008970335846713)
+
+- Ref img, source: [twt@](https://x.com/lilydisease/status/1946042245431586882)
+
+- Ref img, source: [twt@](https://x.com/kanase_rik/status/1946180644025114859)
+
+- Ref img, source: [twt@](https://x.com/gyuriths/status/1946021432229589063)
+
+- Ref img, source: [twt@](https://x.com/000chun000_/status/1946211504304607588)
+
+- Ref img, source: [twt@](https://x.com/mystikarumai/status/1946024368741470315)
+
+# ---
+Music: "[Bleach OST - Soundscape to Ardor (E emo violin Mix)](https://www.youtube.com/watch?v=3Z5H6P_ERRk)" uploaded by SabaNeverland
+# ---
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/Yuri_SRL/status/1945662275937046938)
 - Ref img, source: [twt@](https://x.com/lunartifa/status/1945708698195669415)
 - Ref img, source: [twt@](https://x.com/Cloudonachocobo/status/1945511912021598416)
