@@ -20,8 +20,6 @@
 Music: "[Bleach OST - Soundscape to Ardor (E emo violin Mix)](https://www.youtube.com/watch?v=3Z5H6P_ERRk)" uploaded by SabaNeverland
 # ---
 
-# ---
-
 - Ref img, source: [twt@](https://x.com/Yuri_SRL/status/1945662275937046938)
 - Ref img, source: [twt@](https://x.com/lunartifa/status/1945708698195669415)
 - Ref img, source: [twt@](https://x.com/Cloudonachocobo/status/1945511912021598416)
