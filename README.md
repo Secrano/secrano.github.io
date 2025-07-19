@@ -4,6 +4,43 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/NeuralParadox/status/1946464019835158716)
+
+- Ref img, source: [twt@](https://x.com/sleunch/status/1946261625838707125)
+
+- Ref img, source: [twt@](https://x.com/Mugi_illust0/status/1946307131105505340)
+
+- Ref img, source: [twt@](https://x.com/dene_tri/status/1946223544230449269)
+
+- Ref img, source: [twt@](https://x.com/SDeath0404/status/1946233092144071165)
+
+- Ref img, source: [twt@](https://x.com/nocturnmachine/status/1946229725539819931)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/papyuuno/status/1946276326392115661)
+
+- Ref img, source: [twt@](https://x.com/Whotfismick/status/1946284229744341314)
+
+- Ref img, source: [twt@](https://x.com/aryaz1_/status/1946449023327780933)
+
+- Ref img, source: [twt@](https://x.com/sol_futura/status/1946172588985594284)
+
+- Ref img, source: [twt@](https://x.com/fvryzz/status/1946471956594708780)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/MOONPORN_/status/1946371040877088931)
+
+- Ref img, source: [twt@](https://x.com/rukiaism/status/1946292154290069614)
+
+- Ref img, source: [twt@](https://x.com/invis4yo/status/1946372598226444463)
+
+- Ref img, source: [twt@](https://x.com/Whotfismick/status/1946227645382840345)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/AidenR0/status/1946008970335846713)
 
 - Ref img, source: [twt@](https://x.com/lilydisease/status/1946042245431586882)
