@@ -8,7 +8,7 @@
 - Ref img, source: [twt@](https://x.com/Cita7_Ai/status/1948069414726725683)
 
 # ---
-Music: "[When You Fall | Chill Playlist](https://www.youtube.com/watch?v=yf-nq_MzH10)" uploaded by blume.
+Music: "[(When You Fall | Chill Playlist)](https://www.youtube.com/watch?v=yf-nq_MzH10)" uploaded by blume.
 # ---
 
 --- Git Day: L2N2
