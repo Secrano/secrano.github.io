@@ -16,7 +16,7 @@
 
 - Ref img, source: [twt@](https://x.com/OngAnh12/status/1947917125521444898)
 
-- Ref img, source: [twt@](https://x.com/kentsmulder/status/1947755722177147280) - add
+- Ref img, source: [twt@](https://x.com/kentsmulder/status/1947755722177147280)
   
 - Ref img, source: [twt@](https://x.com/TheDailyHPotter/status/1947757047979905292)
 
