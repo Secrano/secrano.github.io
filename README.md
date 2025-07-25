@@ -3,6 +3,40 @@
 --- Git Day: L2N9
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/lyn_beatz/status/1948057858953658553)
+
+- Ref img, source: [twt@](https://x.com/videosinfolder/status/1947884447908364329)
+
+- Ref img, source: [twt@](https://x.com/GavinVerhey/status/1948082769982317053)
+
+- Ref img, source: [twt@](https://x.com/NintendoAmerica/status/1948080752362463469)
+
+- Ref img, source: [twt@](https://x.com/Haich_AI/status/1948079795629076715)
+
+- Ref img, source: [twt@](https://x.com/OngAnh12/status/1947917125521444898)
+
+- Ref img, source: [twt@](https://x.com/TheDailyHPotter/status/1947757047979905292)
+
+- Ref img, source: [twt@](https://x.com/clotivault/status/1948073552848306402)
+
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1948069739697176857)
+
+- Ref img, source: [twt@](https://x.com/n0velart/status/1948475629600420263)
+
+- Ref img, source: [twt@](https://x.com/rare_jpg/status/1948457988110663774)
+
+- Ref img, source: [twt@](https://x.com/archi_reum/status/1948053260499075544)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/lovecthuwu/status/1948398835304223111)
+
+- Ref img, source: [twt@](https://x.com/chefsevenn/status/1948359176322695626)
+
+- Ref img, source: [twt@](https://x.com/keirenkun/status/1948438974948933870)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/Cita7_Ai/status/1948069414726725683)
