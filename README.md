@@ -4,6 +4,45 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/historyinmemes/status/1949048549427331565)
+
+- Ref img, source: [twt@](https://x.com/TrumpGirlLove/status/1948879678841696287)
+
+- Ref img, source: [twt@](https://x.com/astralbaes/status/1948870012762038482)
+
+- Ref img, source: [twt@](https://x.com/noctfair/status/1948810606418767961)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/FearedBuck/status/1948879807175164052)
+
+- Ref img, source: [twt@](https://x.com/SlyPerformer/status/1948805689998025186)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/MerriamWebster/status/1948822570599424079)
+
+- Ref img, source: [twt@](https://x.com/Haich_AI/status/1948996923542667311)
+
+- Ref img, source: [twt@](https://x.com/aliyawill/status/1948819259133755618)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/wwxwashere/status/1948827509552021514)
+
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1948711345752264951)
+
+- Ref img, source: [twt@](https://x.com/sephirooths/status/1948645657407095093)
+
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1948986646273376759)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ai_zerara/status/1949033571332903096)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Romanticaps_/status/1948131935345058248)
 
 <br/>
