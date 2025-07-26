@@ -1,5 +1,55 @@
 # secrano.github.io
 
+--- Git Day: L2O6
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Romanticaps_/status/1948131935345058248)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/PlethoraAU/status/1948329252879048735)
+
+- Ref img, source: [twt@](https://x.com/rei_fujiwara_x/status/1947933215517512099)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/cutestscats/status/1948024052402286609)
+
+- Ref img, source: [twt@](https://x.com/potato2307/status/1948026018952028400)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/wanko_rori/status/1948694418086920461)
+
+- Ref img, source: [twt@](https://x.com/jelly58207000/status/1948624722700501191)
+
+- Ref img, source: [twt@](https://x.com/aeirti/status/1948543641879724113)
+
+- Ref img, source: [twt@](https://x.com/hashjenni/status/1948816859362721812)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Bakutan_bot1/status/1948185582082945309)
+
+- Ref img, source: [twt@](https://x.com/lalalalack/status/1948312042336866754)
+
+- Ref img, source: [twt@](https://x.com/Nyte_Tyde/status/1948217069478314049)
+
+- Ref img, source: [twt@](https://x.com/sho_ai_img/status/1948125975864369327)
+
+- Ref img, source: [twt@](https://x.com/geodraws_art/status/1948067884481298676)
+
+- Ref img, source: [twt@](https://x.com/tokkihouse/status/1947946466229854262)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/HAL09999/status/1948307614669984170)
+
+- Ref img, source: [twt@](https://x.com/lalalalack/status/1948686428747252006)
+
+# ---
+
 --- Git Day: L2N9
 
 # ---
