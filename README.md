@@ -4,6 +4,15 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/_thoughthub/status/1948941355931045991)
+
+- Ref img, source: [twt@](https://x.com/XMossaico/status/1949017587393691778)
+
+- Ref img, source: [twt@](https://x.com/sprinklehershy/status/1948835814164889760)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/historyinmemes/status/1949048549427331565)
 
 - Ref img, source: [twt@](https://x.com/TrumpGirlLove/status/1948879678841696287)
