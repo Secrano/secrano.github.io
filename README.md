@@ -1,5 +1,53 @@
 # secrano.github.io
 
+--- Git Day: L2P3 (D-G3).
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/MangaContexts/status/1949641963638059235)
+
+- Ref img, source: [twt@](https://x.com/Stuffing_Scone/status/1949411428169032026)
+
+- Ref img, source: [twt@](https://x.com/Racle0502/status/1949874084285755782)
+
+- Ref img, source: [twt@](https://x.com/GermanStrands/status/1949852219626365143)
+
+- Ref img, source: [twt@](https://x.com/kateofbish/status/1949843539786944718)
+
+- Ref img, source: [twt@](https://x.com/b1sexualpanic/status/1949731354368778722)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/HYPEX/status/1949819011790717102)
+
+- Ref img, source: [twt@](https://x.com/NintendoAmerica/status/1949907713997132078)
+
+- Ref img, source: [twt@](https://x.com/geekedworld/status/1949892295999816042)
+
+- Ref img, source: [twt@](https://x.com/LacyHimself/status/1949895306340159965)
+
+- Ref img, source: [twt@](https://x.com/CloudyWolf80/status/1949707517489041453)
+
+- Ref img, source: [twt@](https://x.com/lux_lumis/status/1949634212895793449)
+
+- Ref img, source: [twt@](https://x.com/SafaiaArt/status/1949858762824749321)
+
+- Ref img, source: [twt@](https://x.com/cactuspitt/status/1949697827590004998)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/archi_reum/status/1949865201379025071)
+
+- Ref img, source: [twt@](https://x.com/vivixstar/status/1949893380596781398)
+
+- Ref img, source: [twt@](https://x.com/JackRo_423/status/1949538221639270552)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/pascalblanche/status/1949689515301593528)
+
+# ---
+
 --- Git Day: L2O6
 
 # ---
