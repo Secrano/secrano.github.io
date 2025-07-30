@@ -1,22 +1,29 @@
 # secrano.github.io
 
---- Git Day: L2Q0
+--- Git Day: L2Q7
 
 # ---
 
-- Ref img, source: [twt@](https://x.com/archi_reum/status/1950545707775004684)
+- Ref img, source: [twt@](https://x.com/oripiepie/status/1950656558809141480)
 
-- Ref img, source: [twt@](https://x.com/philazora/status/1950532291911942490)
+- Ref img, source: [twt@](https://x.com/noctisismyking/status/1950640947982942630)
 
-- Ref img, source: [twt@](https://x.com/HawkgirlDCU/status/1950237990367776937)
+- Ref img, source: [twt@](https://x.com/eatsleep1111/status/1950569756014318032)
 
-- Ref img, source: [twt@](https://x.com/animel7316/status/1950548131005022500)
+<br/>
 
-- Ref img, source: [twt@](https://x.com/koko_0316a/status/1950315401570562065)
+- Ref img, source: [twt@](https://x.com/SafaiaArt/status/1950540333206671451)
 
-# ---
-# ---
+- Ref img, source: [twt@](https://x.com/LeagueOfLegends/status/1950261166996951263)
 
-- Ref img, source: [twt@](https://x.com/TheOscarRace/status/1950240603071271259)
+- Ref img, source: [twt@](https://x.com/archi_reum/status/1950532839306379378)
+
+- Ref img, source: [twt@](https://x.com/Narushio_wuwa/status/1950450252177141911)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Narushio_wuwa/status/1950465121559654599)
+
+- Ref img, source: [twt@](https://x.com/chigusa7h/status/1928395992228905443)
 
 # ---
