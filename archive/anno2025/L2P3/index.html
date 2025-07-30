@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title> Mythic Card Showcase </title>
+  <style>
+    body {
+      margin: 0;
+      background: #111;
+      font-family: 'Garamond', serif;
+      padding: 20px;
+    }
+    .card-container {
+      display: flex;
+      gap: 20px;
+      justify-content: center;
+      flex-wrap: wrap;
+      position: relative;
+      z-index: 1;
+    }
+    .card-wrapper {
+      cursor: grab;
+      position: relative;
+    }
+    .card-frame {
+      width: 320px;
+      height: 450px;
+      border-radius: 12px;
+      border: 4px solid #444;
+      background: black;
+      box-shadow: 0 0 20px rgba(255, 255, 255, 0.08);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.3s ease-in-out;
+    }
+    .card-art {
+      flex: 0 0 70%;
+    }
+    .card-art img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-bottom: 2px solid #333;
+    }
+    .card-info {
+      flex: 0 0 30%;
+      padding: 12px;
+      color: #ddd;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .card-title {
+      font-size: 1.1rem;
+      font-weight: bold;
+      color: #f8f4dc;
+      margin-bottom: 8px;
+    }
+    .card-type {
+      font-size: 0.9rem;
+      color: #aaa;
+      margin-bottom: 6px;
+    }
+    .card-text {
+      font-size: 0.85rem;
+      color: #bbb;
+      font-style: italic;
+    }
+    .mythic-border {
+      box-shadow: 0 0 10px #d97b00, 0 0 20px #ff9900 inset;
+      border: 2px solid #ff9900;
+    }
+    .label {
+      text-align: center;
+      color: #ccc;
+      margin-top: 8px;
+      font-size: 0.9rem;
+      font-family: monospace;
+    }
+
+    /* Earthquake + Glow */
+    @keyframes shake {
+      0% { transform: translate(0px, 0px); }
+      20% { transform: translate(-5px, 3px); }
+      40% { transform: translate(4px, -4px); }
+      60% { transform: translate(-3px, 2px); }
+      80% { transform: translate(2px, -5px); }
+      100% { transform: translate(0px, 0px); }
+    }
+
+    @keyframes glow {
+      0%, 100% { box-shadow: 0 0 0px rgba(255,255,255,0); }
+      50% { box-shadow: 0 0 20px rgba(255,255,255,0.3); }
+    }
+
+    .earthquake {
+      animation: shake 0.4s ease, glow 0.8s ease;
+    }
+
+    /* Dust Particles */
+    .particle {
+      position: absolute;
+      width: 6px;
+      height: 6px;
+      background: rgba(255, 200, 150, 0.8);
+      border-radius: 50%;
+      pointer-events: none;
+      animation: explode 0.8s ease-out forwards;
+    }
+
+    @keyframes explode {
+      0% {
+        opacity: 1;
+        transform: translate(0, 0) scale(1);
+      }
+      100% {
+        opacity: 0;
+        transform: translate(var(--x), var(--y)) scale(0.5);
+      }
+    }
+
+    /* Floating Soul Particles */
+    .particle-field {
+      position: fixed;
+      pointer-events: none;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 0;
+      overflow: hidden;
+    }
+
+    .soul-particle {
+      position: absolute;
+      width: 10px;
+      height: 10px;
+      background: radial-gradient(circle, #fbe6a2 0%, #ffb347 80%, transparent 100%);
+      border-radius: 50%;
+      opacity: 0;
+      animation: floatSoul 10s linear infinite;
+      filter: blur(1px);
+    }
+
+    @keyframes floatSoul {
+      0% {
+        transform: translateY(100vh) scale(0.8) rotate(0deg);
+        opacity: 0;
+      }
+      10% {
+        opacity: 0.8;
+      }
+      80% {
+        opacity: 0.3;
+      }
+      100% {
+        transform: translateY(-10vh) scale(1.2) rotate(360deg);
+        opacity: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Floating Background Effect -->
+  <div class="particle-field" id="particleField"></div>
+
+  <div class="card-container" id="cardContainer">
+    <!-- Static HTML Card -->
+    <div class="card-wrapper" draggable="true">
+      <div class="card-frame mythic-border">
+        <div class="card-art">
+          <img src="https://secrano.github.io/archive/subpages/butfly8.webp" alt="Card 1" />
+        </div>
+        <div class="card-info">
+          <div class="card-title">Whispering Moth</div>
+          <div class="card-type">Creature — Spirit Insect</div>
+          <div class="card-text">Glide silently under starlight; vanish before the dawn.</div>
+        </div>
+      </div>
+      <div class="label">Static HTML</div>
+    </div>
+
+    <!-- DTO Card -->
+    <div class="card-wrapper" draggable="true" id="dtoWrapper">
+      <div class="card-frame mythic-border" id="dtoCard">
+        <div class="card-art"><img /></div>
+        <div class="card-info">
+          <div class="card-title"></div>
+          <div class="card-type"></div>
+          <div class="card-text"></div>
+        </div>
+      </div>
+      <div class="label">DTO via JS</div>
+    </div>
+
+    <!-- JSON Card -->
+    <div class="card-wrapper" draggable="true" id="jsonWrapper">
+      <div class="card-frame mythic-border" id="jsonCard">
+        <div class="card-art"><img /></div>
+        <div class="card-info">
+          <div class="card-title"></div>
+          <div class="card-type"></div>
+          <div class="card-text"></div>
+        </div>
+      </div>
+      <div class="label">JSON Rendered</div>
+    </div>
+  </div>
+
+  <script>
+    // DTO setup
+    class CardDTO {
+      constructor(image, title, type, text) {
+        Object.assign(this, { image, title, type, text });
+      }
+    }
+
+    const dto = new CardDTO(
+      "https://secrano.github.io/archive/subpages/butfly8.webp",
+      "Whispering Moth",
+      "Creature — Spirit Insect",
+      "Glide silently under starlight; vanish before the dawn."
+    );
+
+    const dtoCard = document.getElementById("dtoCard");
+    dtoCard.querySelector("img").src = dto.image;
+    dtoCard.querySelector(".card-title").textContent = dto.title;
+    dtoCard.querySelector(".card-type").textContent = dto.type;
+    dtoCard.querySelector(".card-text").textContent = dto.text;
+
+    // JSON setup
+    const jsonData = `{
+      "image": "https://secrano.github.io/archive/subpages/butfly8.webp",
+      "title": "Whispering Moth",
+      "type": "Creature — Spirit Insect",
+      "text": "Glide silently under starlight; vanish before the dawn."
+    }`;
+
+    const json = JSON.parse(jsonData);
+    const jsonCard = document.getElementById("jsonCard");
+    jsonCard.querySelector("img").src = json.image;
+    jsonCard.querySelector(".card-title").textContent = json.title;
+    jsonCard.querySelector(".card-type").textContent = json.type;
+    jsonCard.querySelector(".card-text").textContent = json.text;
+
+    // Drag-and-drop with earthquake effect
+    let dragged = null;
+    const container = document.getElementById("cardContainer");
+
+    function createParticles(parent) {
+      for (let i = 0; i < 25; i++) {
+        const particle = document.createElement("div");
+        particle.className = "particle";
+        const angle = Math.random() * 2 * Math.PI;
+        const radius = 40 + Math.random() * 60;
+        const x = Math.cos(angle) * radius;
+        const y = Math.sin(angle) * radius;
+        particle.style.setProperty("--x", `${x}px`);
+        particle.style.setProperty("--y", `${y}px`);
+        parent.appendChild(particle);
+        setTimeout(() => particle.remove(), 800);
+      }
+    }
+
+    document.querySelectorAll(".card-wrapper").forEach(card => {
+      card.addEventListener("dragstart", e => {
+        dragged = card;
+        card.style.opacity = "0.5";
+      });
+
+      card.addEventListener("dragend", () => {
+        dragged.style.opacity = "1";
+      });
+
+      card.addEventListener("dragover", e => {
+        e.preventDefault();
+        card.classList.add("drag-over");
+      });
+
+      card.addEventListener("dragleave", () => {
+        card.classList.remove("drag-over");
+      });
+
+      card.addEventListener("drop", e => {
+        e.preventDefault();
+        card.classList.remove("drag-over");
+
+        if (dragged !== card) {
+          const children = [...container.children];
+          const draggedIndex = children.indexOf(dragged);
+          const dropIndex = children.indexOf(card);
+          if (dropIndex > draggedIndex) {
+            container.insertBefore(dragged, card.nextSibling);
+          } else {
+            container.insertBefore(dragged, card);
+          }
+
+          // Earthquake + dust
+          [dragged, card].forEach(el => {
+            el.classList.add("earthquake");
+            createParticles(el);
+            setTimeout(() => el.classList.remove("earthquake"), 800);
+          });
+        }
+      });
+    });
+
+    // Floating Soul Particles (Mythic Sparkle Background)
+    const field = document.getElementById("particleField");
+    function spawnSoulParticle() {
+      const particle = document.createElement("div");
+      particle.classList.add("soul-particle");
+
+      const size = Math.random() * 10 + 6;
+      const duration = Math.random() * 10 + 10;
+      const left = Math.random() * 100;
+      const delay = Math.random() * 20;
+
+      particle.style.width = `${size}px`;
+      particle.style.height = `${size}px`;
+      particle.style.left = `${left}%`;
+      particle.style.animationDuration = `${duration}s`;
+      particle.style.animationDelay = `${delay}s`;
+
+      field.appendChild(particle);
+      setTimeout(() => particle.remove(), (duration + delay) * 1000);
+    }
+
+    for (let i = 0; i < 20; i++) {
+      spawnSoulParticle();
+    }
+    setInterval(() => {
+      spawnSoulParticle();
+    }, 1500);
+  </script>
+</body>
+</html>
