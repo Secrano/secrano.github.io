@@ -22,7 +22,7 @@
 
 - Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1951047112210444539)
 
-# --- || Stew that corniflower.
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/oripiepie/status/1950656558809141480)
