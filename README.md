@@ -4,6 +4,27 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/YuyuYu946981832/status/1951041687779942563)
+
+- Ref img, source: [twt@](https://x.com/covenyana/status/1950693338207908317)
+
+- Ref img, source: [twt@](https://x.com/cIoudgf/status/1950960836073136259)
+
+- Ref img, source: [twt@](https://x.com/Riot_Kassadin/status/1950707201569423411)
+
+- Ref img, source: [twt@](https://x.com/LeagueOfLeaks/status/1950923307697496298)
+
+- Ref img, source: [twt@](https://x.com/ZxckFair_/status/1951024021635736051)
+
+- Ref img, source: [twt@](https://x.com/JujuCreepyAIart/status/1950813852247138556)
+
+- Ref img, source: [twt@](https://x.com/vampyrhart/status/1950982562308108479)
+
+- Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1951047112210444539)
+
+# --- || Stew that corniflower.
+# ---
+
 - Ref img, source: [twt@](https://x.com/oripiepie/status/1950656558809141480)
 
 - Ref img, source: [twt@](https://x.com/noctisismyking/status/1950640947982942630)
