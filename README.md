@@ -1,5 +1,33 @@
 # secrano.github.io
 
+--- Git Day: L2R4
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/newzerozeroone/status/1951487081298952537)
+
+- Ref img, source: [twt@](https://x.com/zivsblues/status/1951070511330426899)
+
+- Ref img, source: [twt@](https://x.com/4k1030/status/1951471190738084335)
+
+- Ref img, source: [twt@](https://x.com/mcrnyx/status/1951429879762768220)
+
+- Ref img, source: [twt@](https://x.com/UpdateStable/status/1951422454737355129)
+
+- Ref img, source: [twt@](https://x.com/archi_reum/status/1951336131292774410)
+
+---
+
+- Ref img, source: [twt@](https://x.com/mcrnyx/status/1951363171052142890)
+
+- Ref img, source: [twt@](https://x.com/kayranitup/status/1951398616028889360)
+
+# ---
+
+Music: "[Raven of the Inner Palace](https://www.youtube.com/watch?v=91XqZ159QCA)" uploaded by [YT@user](https://www.youtube.com/@2oliveanimemusic259)
+
+# ---
+
 --- Git Day: L2Q7
 
 # ---
