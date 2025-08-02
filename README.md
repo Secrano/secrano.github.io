@@ -16,7 +16,7 @@
 
 - Ref img, source: [twt@](https://x.com/archi_reum/status/1951336131292774410)
 
----
+<br/>
 
 - Ref img, source: [twt@](https://x.com/mcrnyx/status/1951363171052142890)
 
@@ -24,7 +24,7 @@
 
 # ---
 
-Music: "[Raven of the Inner Palace](https://www.youtube.com/watch?v=91XqZ159QCA)" uploaded by [YT@user](https://www.youtube.com/@2oliveanimemusic259)
+Music: "[Raven of the Inner Palace](https://www.youtube.com/watch?v=91XqZ159QCA)" uploaded by [@user](https://www.youtube.com/@2oliveanimemusic259)
 
 # ---
 
