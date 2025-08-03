@@ -4,6 +4,41 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/YuyuYu946981832/status/1951985551504007176)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/TheCatsX/status/1951707468733563158)
+
+- Ref img, source: [twt@](https://x.com/PowerfulAuraX/status/1951530905882800579)
+
+- Ref img, source: [twt@](https://x.com/ratedreign/status/1951804696005664989)
+
+- Ref img, source: [twt@](https://x.com/rinniwinni_/status/1951643887229178216)
+
+- Ref img, source: [twt@](https://x.com/mercedarchive/status/1951983366657474928)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Dexerto/status/1951702826683683186)
+
+- Ref img, source: [twt@](https://x.com/doremifaso64/status/1951963445705806078)
+
+- Ref img, source: [twt@](https://x.com/PostsOfCats/status/1951760925742027239)
+
+- Ref img, source: [twt@](https://x.com/animel7316/status/1951981995212354005)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Anonamos_701/status/1951814662481461669)
+
+- Ref img, source: [twt@](https://x.com/RamphastoStella/status/1951022302612902106)
+
+- Ref img, source: [twt@](https://x.com/jaesong05/status/1951859478158348679)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/newzerozeroone/status/1951487081298952537)
 
 - Ref img, source: [twt@](https://x.com/zivsblues/status/1951070511330426899)
