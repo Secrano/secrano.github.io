@@ -2,7 +2,21 @@
 
 --- Git Day: L2R4
 
-# ---
+- Ref img, source: [twt@](https://x.com/MythicTalent/status/1952444622028062991)
+
+- Ref img, source: [twt@](https://x.com/animel7316/status/1952542160173289811)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/aat_ai40683/status/1952332399909466183)
+
+- Ref img, source: [twt@](https://x.com/raccoonesthetic/status/1952385790266269885)
+
+- Ref img, source: [twt@](https://x.com/kasa_7/status/1952381698823586241)
+
+- Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1952688382305317279)
+
+<br/>
 
 - Ref img, source: [twt@](https://x.com/DearS_o_n/status/1952050100907221409)
 
