@@ -4,6 +4,31 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/XanozIchimonji/status/1952849885495214385)
+
+- Ref img, source: [twt@](https://x.com/Livingdead_kev/status/1952782808885104754)
+
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1952955435331543468)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/apples_jimmy/status/1952968481810596207)
+
+- Ref img, source: [twt@](https://x.com/animel7316/status/1952977452470550808)
+
+- Ref img, source: [twt@](https://x.com/u_shi_art/status/1952974231375102442)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Eight249/status/1952783289615548843)
+
+- Ref img, source: [twt@](https://x.com/hereticmagicman/status/1952860870230589699)
+
+- Ref img, source: [twt@](https://x.com/YuyuYu946981832/status/1952967168783728686)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/MythicTalent/status/1952444622028062991)
 
 - Ref img, source: [twt@](https://x.com/animel7316/status/1952542160173289811)
