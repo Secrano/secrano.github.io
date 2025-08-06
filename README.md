@@ -27,7 +27,6 @@
 - Ref img, source: [twt@](https://x.com/YuyuYu946981832/status/1952967168783728686)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/MythicTalent/status/1952444622028062991)
 
