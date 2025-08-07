@@ -1,6 +1,6 @@
 # secrano.github.io
 
---- Git Day: L2S1
+--- Git Day: L2S1 (holidays)
 
 # ---
 
