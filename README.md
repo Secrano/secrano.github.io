@@ -4,6 +4,15 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/ToppedStars/status/1953692189571133700)
+
+- Ref img, source: [twt@](https://x.com/AngelaSungArt/status/1953491519135981811)
+
+- Ref img, source: [twt@](https://x.com/ChristianYoungA/status/1953453711650435575)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/loika/status/1953695522734403937)
 
 # ---
