@@ -11,7 +11,6 @@
 - Ref img, source: [twt@](https://x.com/ChristianYoungA/status/1953453711650435575)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/loika/status/1953695522734403937)
 
