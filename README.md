@@ -4,6 +4,25 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/lilydisease/status/1954014899530842553)
+
+- Ref img, source: [twt@](https://x.com/GaryMarcus/status/1953887884341391775)
+
+- Ref img, source: [twt@](https://x.com/Leivonens/status/1954095200394957015)
+
+- Ref img, source: [twt@](https://x.com/AnimexTwts/status/1953847020751376616)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ivw_7/status/1954174377181819116)
+
+- Ref img, source: [twt@](https://x.com/beautyshowcase/status/1953841129490731304)
+
+- Ref img, source: [twt@](https://x.com/gunsnrosesgirl3/status/1953717916769079661)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/ToppedStars/status/1953692189571133700)
 
 - Ref img, source: [twt@](https://x.com/ChristianYoungA/status/1953453711650435575)
