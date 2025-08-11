@@ -17,7 +17,6 @@
 - Ref img, source: [twt@](https://x.com/Ria_neearts/status/1954927184734306519)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/Ps_Calm/status/1954613359657275436)
 
