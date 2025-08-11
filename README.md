@@ -4,6 +4,21 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/cIoudgf/status/1954941807743131728)
+
+- Ref img, source: [twt@](https://x.com/n9867o/status/1954850925530546364)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/legitfnleaks/status/1954867516682994152)
+
+- Ref img, source: [twt@](https://x.com/patloeber/status/1954887103105380361)
+
+- Ref img, source: [twt@](https://x.com/Ria_neearts/status/1954927184734306519)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Ps_Calm/status/1954613359657275436)
 
 - Ref img, source: [twt@](https://x.com/sunouku/status/1954332486718415141)
