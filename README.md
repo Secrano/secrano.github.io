@@ -1,5 +1,15 @@
 # secrano.github.io
 
+--- Git Day: L2S8 (winter)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/jeonghee1414/status/1954832252116066547)
+
+- Ref img, source: [twt@](https://x.com/Haich_AI/status/1955217860130902497)
+
+# ---
+
 --- Git Day: L2S1 (holidays)
 
 # ---
