@@ -11,7 +11,6 @@
 - Ref img, source: [twt@](https://x.com/720nk/status/1955170849356648548)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/jeonghee1414/status/1954832252116066547)
 
