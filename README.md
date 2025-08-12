@@ -4,6 +4,15 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/oipaboya/status/1954769816411324882)
+
+- Ref img, source: [twt@](https://x.com/Sreliata/status/1955309755271897250)
+
+- Ref img, source: [twt@](https://x.com/720nk/status/1955170849356648548)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/jeonghee1414/status/1954832252116066547)
 
 - Ref img, source: [twt@](https://x.com/Haich_AI/status/1955217860130902497)
