@@ -4,6 +4,17 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/PRIxMAL786/status/1955360827571368358)
+
+- Ref img, source: [twt@](https://x.com/AI_CyberDreams/status/1955618592742953343)
+
+- Ref img, source: [twt@](https://x.com/Daodtt/status/1955668683222642702)
+
+- Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1955761308487557301)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/MengxuanLiart/status/1955263962758381754)
 
 - Ref img, source: [twt@](https://x.com/asteroid_ill/status/1955587288312037881)
