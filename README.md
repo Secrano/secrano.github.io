@@ -33,7 +33,6 @@
 - Ref img, source: [twt@](https://x.com/loika/status/1955403559387959688)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/oipaboya/status/1954769816411324882)
 
