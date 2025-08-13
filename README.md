@@ -4,6 +4,37 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/MengxuanLiart/status/1955263962758381754)
+
+- Ref img, source: [twt@](https://x.com/asteroid_ill/status/1955587288312037881)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/SetsuManga2/status/1955406161232138739)
+
+- Ref img, source: [twt@](https://x.com/myameco/status/1955432810661232995)
+
+- Ref img, source: [twt@](https://x.com/misato08280/status/1955233359531217243)
+
+- Ref img, source: [twt@](https://x.com/Iris_of_AI/status/1955086837548191900)
+
+- Ref img, source: [twt@](https://x.com/ddengart/status/1955399702171509075)
+
+- Ref img, source: [twt@](https://x.com/uki_hajime/status/1955243145295524181)
+
+- Ref img, source: [twt@](https://x.com/niji_ai_vision/status/1955184367657160868)
+
+- Ref img, source: [twt@](https://x.com/416781422Xyz/status/1955328857537646659)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/SkyAboveMe_Art/status/1955382368497549809)
+
+- Ref img, source: [twt@](https://x.com/loika/status/1955403559387959688)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/oipaboya/status/1954769816411324882)
 
 - Ref img, source: [twt@](https://x.com/Sreliata/status/1955309755271897250)
