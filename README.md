@@ -1,5 +1,41 @@
 # secrano.github.io
 
+--- Git Day: L2T5 (new years)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Dyingflamez/status/1955814681664479285)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Doonvorcannon/status/1955755022161207529)
+
+- Ref img, source: [twt@](https://x.com/u_shi_art/status/1955857421659713919)
+
+- Ref img, source: [twt@](https://x.com/mew0nai/status/1955751217298333855)
+
+- Ref img, source: [twt@](https://x.com/ALEKUSTN/status/1955681853685522539)
+
+- Ref img, source: [twt@](https://x.com/u_shi_art/status/1955857421659713919)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/marcinignac/status/1955911320773255462)
+
+- Ref img, source: [twt@](https://x.com/u_shi_art/status/1955782931894460444)
+
+- Ref img, source: [twt@](https://x.com/AMAZINGCATSS/status/1955396442547175755)
+
+- Ref img, source: [twt@](https://x.com/nohonkingplz/status/1955851462853947715)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/revelinai/status/1955306652988477591)
+
+- Ref img, source: [twt@](https://x.com/sexualprisoner/status/1955683569713700932)
+
+# ---
+
 --- Git Day: L2S8 (winter)
 
 # ---
