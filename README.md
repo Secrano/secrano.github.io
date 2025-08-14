@@ -4,6 +4,53 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/faewings/status/1955598821934981188)
+
+- Ref img, source: [twt@](https://x.com/visualsofearth1/status/1955598838582165584)
+
+- Ref img, source: [twt@](https://x.com/SSephyr/status/1955524971968729384)
+
+- Ref img, source: [twt@](https://x.com/u_shi_art/status/1955891145206034739)
+
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1955872014440312962)
+
+- Ref img, source: [twt@](https://x.com/xllle_51/status/1955659088383414518)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/GAxCeleb/status/1955776745421799805)
+
+- Ref img, source: [twt@](https://x.com/greeniris_/status/1955200230221140231)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/apriiiciity/status/1955656336525394418)
+
+- Ref img, source: [twt@](https://x.com/greendreamvibes/status/1955739897253556513)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/sephidivaroth/status/1955708782639538234)
+
+- Ref img, source: [twt@](https://x.com/talya9646171863/status/1955656753661743340)
+
+- Ref img, source: [twt@](https://x.com/inreuo/status/1955655405729907147)
+
+- Ref img, source: [twt@](https://x.com/visualsofearth1/status/1955681606284562559)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/maybemno/status/1955794562376720552)
+
+- Ref img, source: [twt@](https://x.com/StockingDaily/status/1955777181432344956)
+
+- Ref img, source: [twt@](https://x.com/Shatha9a/status/1955598867527025082)
+
+- Ref img, source: [twt@](https://x.com/archi_reum/status/1955893662279246093)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/PRIxMAL786/status/1955360827571368358)
 
 - Ref img, source: [twt@](https://x.com/AI_CyberDreams/status/1955618592742953343)
