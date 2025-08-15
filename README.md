@@ -4,6 +4,26 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Karu_wacame/status/1955893403021164665)
+
+- Ref img, source: [twt@](https://x.com/Ps_Calm/status/1956269847098368320)
+
+- Ref img, source: [twt@](https://x.com/yumesyokunin/status/1956188947823902993)
+
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/catshealdeprsn/status/1956023013809512678)
+
+- Ref img, source: [twt@](https://x.com/U80x8Bltm00Rqeo/status/1956215355950686493)
+
+- Ref img, source: [twt@](https://x.com/dodobo_/status/1955969539767771154)
+
+- Ref img, source: [twt@](https://x.com/lilydisease/status/1955826721539940376)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Dyingflamez/status/1955814681664479285)
 
 <br/>
