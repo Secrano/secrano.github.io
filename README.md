@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/GifsAnime_/status/1955972214638964796)
+
+- Ref img, source: [twt@](https://x.com/gentleeeeeeecat/status/1955919972015988946)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Karu_wacame/status/1955893403021164665)
 
 - Ref img, source: [twt@](https://x.com/Ps_Calm/status/1956269847098368320)
