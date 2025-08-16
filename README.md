@@ -4,6 +4,19 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/SayaliB5/status/1956667222799319169)
+
+- Ref img, source: [twt@](https://x.com/_Yuming_Li/status/1956761269954080984)
+
+- Ref img, source: [twt@](https://x.com/Sinozick/status/1956575090054705600)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/HAL09999/status/1956747744711684122)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Basil_Pepper/status/1956356317355851942)
 
 # ---
