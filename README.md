@@ -4,6 +4,15 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/u_shi_art/status/1957184291554963597)
+
+- Ref img, source: [twt@](https://x.com/lunartifa/status/1956818825183117617)
+
+- Ref img, source: [twt@](https://x.com/visualsofearth1/status/1957082416243175628)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/u_shi_art/status/1957017120866517148)
 
 # ---
