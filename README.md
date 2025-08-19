@@ -4,6 +4,19 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/dhekhandelwal/status/1957670591659700602)
+
+- Ref img, source: [twt@](https://x.com/u_shi_art/status/1957184114999885936)
+
+- Ref img, source: [twt@](https://x.com/visualsofearth1/status/1957771891869118808)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/u_shi_art/status/1957536396073398668)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/u_shi_art/status/1957184291554963597)
 
 - Ref img, source: [twt@](https://x.com/lunartifa/status/1956818825183117617)
