@@ -1,1 +1,258 @@
-Hello World
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title> Analog-Inspired Digital Clock </title>
+  <style>
+    :root{
+      --bg: #0a0f1a;
+      --fg: #e6f2ff;
+      --accent: #00e5ff;
+      --accent-2: #9c6bff;
+      --dim: #6b7a90;
+      --glow: 0 0 24px rgba(0, 229, 255, .35), 0 0 64px rgba(156, 107, 255, .25);
+    }
+
+    @media (prefers-color-scheme: light) {
+      :root{
+        --bg: #f6f7fb;
+        --fg: #10121a;
+        --accent: #0066ff;
+        --accent-2: #7a3cff;
+        --dim: #5b6272;
+      }
+    }
+
+    html, body {
+      height: 100%;
+      margin: 0;
+      background: radial-gradient(1200px 800px at 50% 30%, rgba(0,229,255,.08), transparent 60%),
+                  radial-gradient(900px 600px at 30% 80%, rgba(156,107,255,.08), transparent 60%),
+                  var(--bg);
+      color: var(--fg);
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+    }
+
+    .wrap {
+      min-height: 100%;
+      display: grid;
+      place-items: center;
+      padding: clamp(16px, 4vw, 48px);
+    }
+
+    .clock {
+      display: grid;
+      place-items: center;
+      gap: 20px;
+      user-select: none;
+    }
+
+    /* Digital readout with retro-futuristic glow */
+    .time {
+      font-size: clamp(32px, 10vw, 128px);
+      letter-spacing: 0.06em;
+      font-weight: 700;
+      text-shadow: 0 0 1px var(--fg), 0 0 8px rgba(255,255,255,.25), var(--glow);
+    }
+
+    .millis {
+      font-size: 0.25em;
+      opacity: .65;
+      vertical-align: super;
+      margin-left: .25em;
+    }
+
+    .date { color: var(--dim); font-size: clamp(12px, 2.2vw, 18px); letter-spacing: .12em; text-transform: uppercase; }
+    .tz   { color: var(--dim); font-size: clamp(11px, 2vw, 16px); letter-spacing: .16em; }
+
+    .canvas-wrap { position: relative; width: min(86vw, 560px); aspect-ratio: 1/1; }
+    canvas { width: 100%; height: 100%; filter: drop-shadow(0 0 30px rgba(0,229,255,.25)); }
+
+    .controls { display: flex; gap: 12px; align-items: center; justify-content: center; }
+    .btn {
+      background: linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.02));
+      border: 1px solid rgba(255,255,255,.15);
+      color: var(--fg);
+      padding: 10px 14px;
+      border-radius: 14px;
+      cursor: pointer;
+      transition: transform .08s ease, box-shadow .2s ease, border-color .2s ease;
+      box-shadow: var(--glow);
+    }
+    .btn:hover { transform: translateY(-1px); border-color: rgba(255,255,255,.35); }
+    .btn:active { transform: translateY(1px) scale(.98); }
+
+    .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <main class="clock" role="timer" aria-live="polite">
+      <div class="canvas-wrap">
+        <canvas id="ring" aria-hidden="true"></canvas>
+      </div>
+      <div class="time" id="time" title="Digital time with smooth analog sweep">
+        00:00:00<span class="millis">000</span>
+      </div>
+      <div class="date" id="date">—</div>
+      <div class="tz" id="tz">—</div>
+
+      <div class="controls">
+        <button class="btn" id="toggleClock">Switch 24h / 12h</button>
+        <button class="btn" id="toggleMillis">Show / Hide ms</button>
+      </div>
+      <div class="sr-only" id="a11y">Time</div>
+    </main>
+  </div>
+
+  <script>
+    // Analog concept: compute continuous angles for hour/minute/second using
+    // fractions of the larger unit (like geared hands), then draw sweeping arcs.
+    const canvas = document.getElementById('ring');
+    const ctx = canvas.getContext('2d');
+
+    const timeEl = document.getElementById('time');
+    const dateEl = document.getElementById('date');
+    const tzEl = document.getElementById('tz');
+    const a11y = document.getElementById('a11y');
+
+    const toggleClockBtn = document.getElementById('toggleClock');
+    const toggleMillisBtn = document.getElementById('toggleMillis');
+
+    let use12h = false;
+    let showMs = true;
+
+    function resizeCanvas(){
+      const dpr = Math.max(1, Math.min(2, window.devicePixelRatio || 1));
+      const size = Math.min(canvas.parentElement.clientWidth, canvas.parentElement.clientHeight);
+      canvas.width = Math.floor(size * dpr);
+      canvas.height = Math.floor(size * dpr);
+      canvas.style.width = size + 'px';
+      canvas.style.height = size + 'px';
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0); // draw in CSS pixels
+    }
+
+    function pad(n, len=2){ return String(n).padStart(len, '0'); }
+
+    function formatDate(dt){
+      const intlDate = new Intl.DateTimeFormat(undefined, { weekday:'long', year:'numeric', month:'long', day:'numeric' });
+      return intlDate.format(dt);
+    }
+
+    function formatTZ(){
+      try{
+        const tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
+        const offMin = -new Date().getTimezoneOffset();
+        const sign = offMin>=0?'+':'-';
+        const hh = Math.floor(Math.abs(offMin)/60);
+        const mm = Math.abs(offMin)%60;
+        return `${tz} (UTC${sign}${pad(hh)}:${pad(mm)})`;
+      }catch{ return 'Local Time'; }
+    }
+
+    function drawArcs(now){
+      const w = canvas.width / (window.devicePixelRatio || 1);
+      const h = canvas.height / (window.devicePixelRatio || 1);
+      const cx = w/2, cy = h/2;
+      const rBase = Math.min(w, h)/2 - 10;
+
+      ctx.clearRect(0,0,w,h);
+
+      // Backdrop grid rings
+      ctx.save();
+      ctx.translate(cx, cy);
+      const rings = [rBase, rBase*0.78, rBase*0.56];
+      ctx.lineWidth = 10; ctx.lineCap = 'round';
+
+      // Time fractions (continuous) like analog gearing
+      const ms = now.getMilliseconds();
+      const s = now.getSeconds() + ms/1000;
+      const m = now.getMinutes() + s/60;
+      const h24 = now.getHours() + m/60; // smooth hour hand
+
+      const tau = Math.PI*2;
+      const secFrac = s/60;          // 0..1
+      const minFrac = m/60;          // 0..1
+      const hourFrac = (h24%12)/12;  // 0..1
+
+      // Helper to draw an arc sweep
+      function sweep(radius, frac, color){
+        ctx.beginPath();
+        ctx.strokeStyle = color;
+        ctx.globalAlpha = 0.95;
+        ctx.arc(0,0,radius,-Math.PI/2, -Math.PI/2 + tau*frac, false);
+        ctx.stroke();
+      }
+
+      // Base tracks
+      ctx.strokeStyle = 'rgba(255,255,255,.08)';
+      for(const r of rings){ ctx.beginPath(); ctx.arc(0,0,r,0,tau); ctx.stroke(); }
+
+      // Glowing sweeps
+      ctx.shadowBlur = 24; ctx.shadowColor = getComputedStyle(document.documentElement).getPropertyValue('--accent');
+      ctx.strokeStyle = getComputedStyle(document.documentElement).getPropertyValue('--accent');
+      sweep(rings[0], hourFrac, ctx.strokeStyle);
+      ctx.shadowColor = getComputedStyle(document.documentElement).getPropertyValue('--accent-2');
+      sweep(rings[1], minFrac, getComputedStyle(document.documentElement).getPropertyValue('--accent-2'));
+      ctx.shadowColor = 'rgba(255,255,255,.7)';
+      sweep(rings[2], secFrac, 'rgba(255,255,255,.95)');
+
+      // Center dot
+      ctx.shadowBlur = 6; ctx.shadowColor = 'rgba(255,255,255,.5)';
+      ctx.fillStyle = 'rgba(255,255,255,.5)';
+      ctx.beginPath(); ctx.arc(0,0,3.5,0,tau); ctx.fill();
+      ctx.restore();
+    }
+
+    function render(){
+      const now = new Date();
+      // Digital readout
+      let hours = now.getHours();
+      const mins = now.getMinutes();
+      const secs = now.getSeconds();
+      const ms   = now.getMilliseconds();
+
+      let ampm = '';
+      if(use12h){
+        ampm = hours >= 12 ? ' PM' : ' AM';
+        hours = hours % 12; if(hours === 0) hours = 12;
+      }
+
+      const msText = showMs ? `<span class="millis">${pad(ms,3)}</span>` : '';
+      timeEl.innerHTML = `${pad(hours)}:${pad(mins)}:${pad(secs)}${msText}${use12h?ampm:''}`;
+
+      // A11y live region (no ms to avoid verbosity)
+      a11y.textContent = `${pad(hours)}:${pad(mins)}:${pad(secs)}${use12h?ampm:''}`;
+
+      // Date + TZ (update once per second is fine but cheap to set each frame)
+      dateEl.textContent = formatDate(now);
+      tzEl.textContent = formatTZ();
+
+      drawArcs(now);
+      requestAnimationFrame(render);
+    }
+
+    // Init
+    resizeCanvas();
+    window.addEventListener('resize', resizeCanvas);
+    requestAnimationFrame(render);
+
+    // Controls
+    toggleClockBtn.addEventListener('click', () => use12h = !use12h);
+    toggleMillisBtn.addEventListener('click', () => {
+      showMs = !showMs;
+      // force immediate rerender of text without waiting next RAF paint
+      const now = new Date();
+      let h = now.getHours(); if(use12h){ h = h%12 || 12; }
+      timeEl.innerHTML = `${pad(h)}:${pad(now.getMinutes())}:${pad(now.getSeconds())}` + (showMs?`<span class="millis">${pad(now.getMilliseconds(),3)}</span>`:'') + (use12h?(h>=12?' PM':' AM'):'');
+    });
+
+    // Bonus: Visibility-aware animation (saves battery)
+    document.addEventListener('visibilitychange', () => {
+      if(document.hidden){ /* Let RAF pause naturally when tab unfocused */ }
+      else { requestAnimationFrame(render); }
+    });
+  </script>
+</body>
+</html>
