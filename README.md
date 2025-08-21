@@ -4,6 +4,12 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/yu_yiming/status/1958369598061068367)
+
+- Ref img, source: [twt@](https://x.com/TheFabraxxx/status/1958526856010850460)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/nicdunz/status/1958202886082507013)
 
 - Ref img, source: [twt@](https://x.com/gabuchan99/status/1957624602752135562)
