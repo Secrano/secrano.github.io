@@ -13,7 +13,6 @@
 - Ref img, source: [twt@](https://x.com/Coharrie_AI/status/1958004059719491706)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/dhekhandelwal/status/1957670591659700602)
 
