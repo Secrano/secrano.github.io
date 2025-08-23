@@ -13,7 +13,6 @@
 - Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1959056788772594084)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/parametricarch/status/1958893123263685111)
 
