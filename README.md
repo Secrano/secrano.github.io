@@ -4,6 +4,17 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/umimintsune/status/1959305533409607921)
+
+- Ref img, source: [twt@](https://x.com/PlethoraAU/status/1959181167904674106)
+
+- Ref img, source: [twt@](https://x.com/qaHEqxyzUF99214/status/1959258939868242284)
+
+- Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1959056788772594084)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/parametricarch/status/1958893123263685111)
 
 # ---
