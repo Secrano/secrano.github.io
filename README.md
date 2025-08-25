@@ -4,6 +4,17 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/000chun000_/status/1959478594784358871)
+
+- Ref img, source: [twt@](https://x.com/rare_jpg/status/1959672365950157231)
+
+- Ref img, source: [twt@](https://x.com/MielaInk/status/1959389917483782390)
+
+- Ref img, source: [twt@](https://x.com/karumonufu/status/1959420938229030972)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1959386044618694698)
 
 - Ref img, source: [twt@](https://x.com/SarahCAndersen/status/1959277014440931334)
