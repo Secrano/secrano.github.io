@@ -4,6 +4,19 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/FedeItaliano76/status/1960714077648380227)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Sheep_Esports/status/1960359402810057153)
+
+- Ref img, source: [twt@](https://x.com/Julex_Gameplays/status/1960417621884723580)
+
+- Ref img, source: [twt@](https://x.com/sansinvt/status/1960526638535647233)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/pokemon_twts/status/1960013713764921743)
 
 <br/>
