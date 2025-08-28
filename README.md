@@ -20,9 +20,9 @@
 
 <br/>
 
-- Ref img, source: [twt@](https://x.com/Pablo_VGD_/status/1960962358060228932)
-
 - Ref img, source: [twt@](https://x.com/VALORANT/status/1960858604854239273)
+
+- Ref img, source: [twt@](https://x.com/Pablo_VGD_/status/1960962358060228932)
 
 # ---
 # ---
