@@ -65,6 +65,3 @@
 - Bits and bytes: o5 upgrade, 24h clock modifications of origin idea model.
 
 # ---
-# ---
-Hello world.
-# ---
