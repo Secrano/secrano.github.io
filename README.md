@@ -1,5 +1,41 @@
 # secrano.github.io
 
+--- Git Day: L2U9 (summer)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/AerithCloud3/status/1961833762129350897)
+
+- Ref img, source: [twt@](https://x.com/cham246/status/1961801772668010633)
+
+- Ref img, source: [twt@](https://x.com/ZikMaster_X/status/1962093541741490537)
+
+- Ref img, source: [twt@](https://x.com/dodoria97841537/status/1962101595937919372)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/aphneiios/status/1962024771433947335)
+
+- Ref img, source: [twt@](https://x.com/u_shi_art/status/1962101283638452451)
+
+- Ref img, source: [twt@](https://x.com/Emblem_TW/status/1961964332935500088)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/haru_sorara/status/1961816258074353735)
+
+- Ref img, source: [twt@](https://x.com/princessD3mi/status/1961502387702567141)
+
+- Ref img, source: [twt@](https://x.com/horsetwting/status/1961896715411153284)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/TheCatsX/status/1961809887882514831)
+
+- Ref img, source: [twt@](https://x.com/Miaw/status/1961772210768777224)
+
+# ---
+
 --- Git Day: L2U2 (spring)
 
 # ---
