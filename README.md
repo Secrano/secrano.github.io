@@ -38,7 +38,7 @@
 
 - Ref img, source: [twt@](https://x.com/Kanna_YonesWife/status/1963706319296209370)
 
-- Ref img, source: [twt@](https://x.com/EbikoVtuber/status/1963756204154388969) ||
+- Ref img, source: [twt@](https://x.com/EbikoVtuber/status/1963756204154388969)
 
 <br/>
 
