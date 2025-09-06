@@ -1,5 +1,25 @@
 # secrano.github.io
 
+--- Git Day: L2W3 (2nd week, sumting good)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/fiendvenator/status/1964069106786738636)
+
+- Ref img, source: [twt@](https://x.com/CorinnaKopf/status/1964019137333579783)
+
+- Ref img, source: [twt@](https://x.com/animel7316/status/1964197966001926491)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/robinsongz/status/1964045082371498172)
+
+- Ref img, source: [twt@](https://x.com/u_shi_art/status/1964193750441480529)
+
+- Ref img, source: [twt@](https://x.com/rswxx/status/1963889842775118098)
+
+# ---
+
 --- Git Day: L2V6 (1st week, cold winter)
 
 # ---
