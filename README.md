@@ -10,6 +10,4 @@
 
 - Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1965521786029920634)
 
-
-# ---
 # ---
