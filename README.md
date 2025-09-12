@@ -12,7 +12,6 @@
 
 - Ref img, source: [twt@](https://x.com/chaesuart/status/1965956911918116907)
 
-# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/YuyuYu946981832/status/1965773871891767478)
