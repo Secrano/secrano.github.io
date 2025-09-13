@@ -4,6 +4,19 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/neoarty3/status/1966927575202361629)
+
+- Ref img, source: [twt@](https://x.com/YuyuYu946981832/status/1966500501236613406)
+
+- Ref img, source: [twt@](https://x.com/cinderustttr/status/1966485748858728724)
+
+- Ref img, source: [twt@](https://x.com/HAL09999/status/1966860252692799490)
+
+- Ref img, source: [twt@](https://x.com/tamaji599/status/1966885785560642051)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1966432441180299570)
 
 # ---
