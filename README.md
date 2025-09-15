@@ -4,6 +4,17 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/DemizuPosuka/status/1966860785571033374)
+
+- Ref img, source: [twt@](https://x.com/Sakura_Rabbiter/status/1967246186529915032)
+
+- Ref img, source: [twt@](https://x.com/u_shi_art/status/1967361199122866687)
+
+- Ref img, source: [twt@](https://x.com/KyeZzzz/status/1966890445767930229)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/neoarty3/status/1966927575202361629)
 
 - Ref img, source: [twt@](https://x.com/YuyuYu946981832/status/1966500501236613406)
