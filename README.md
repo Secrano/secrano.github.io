@@ -4,6 +4,23 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Spideraxe30/status/1968266029815276015)
+
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1968211595429040524)
+
+- Ref img, source: [twt@](https://x.com/ACustomframing/status/1968254389057106215)
+
+- Ref img, source: [twt@](https://x.com/VictorKeos/status/1968057680540602704)
+
+- Ref img, source: [twt@](https://x.com/kieed23232/status/1968256128556638579)
+
+- Ref img, source: [twt@](https://x.com/archi_reum/status/1968295154202062959)
+
+- Ref img, source: [twt@](https://x.com/ShouldHaveRacc/status/1968016375483601294)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/AkramBham/status/1967534033136685515)
 
 # ---
