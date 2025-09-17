@@ -19,7 +19,6 @@
 - Ref img, source: [twt@](https://x.com/ShouldHaveRacc/status/1968016375483601294)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/AkramBham/status/1967534033136685515)
 
