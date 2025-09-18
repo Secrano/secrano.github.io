@@ -4,6 +4,21 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Haich_AI/status/1968557445464182849)
+
+- Ref img, source: [twt@](https://x.com/ai_zerara/status/1968434797790818640)
+
+- Ref img, source: [twt@](https://x.com/ACustomframing/status/1968619565010546811)
+
+- Ref img, source: [twt@](https://x.com/LilyPichu/status/1968601814481178775)
+
+- Ref img, source: [twt@](https://x.com/BepoCarrot/status/1968483281294209247)
+
+- Ref img, source: [twt@](https://x.com/Pokemon/status/1968390226625314916)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Spideraxe30/status/1968266029815276015)
 
 - Ref img, source: [twt@](https://x.com/Kuroneko__x/status/1968211595429040524)
