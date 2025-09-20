@@ -4,6 +4,11 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/esqurell/status/1969053394854711473)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Haich_AI/status/1968557445464182849)
 
 - Ref img, source: [twt@](https://x.com/ai_zerara/status/1968434797790818640)
