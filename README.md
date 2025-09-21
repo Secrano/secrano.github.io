@@ -2,6 +2,11 @@
 
 --- Git Day: L2X8 - hoe bithc.
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/jimini_shijimi/status/1969356589963571623)
+
+# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/haildhruv/status/1969365859849421294)
