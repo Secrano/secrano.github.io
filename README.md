@@ -1,8 +1,8 @@
 # secrano.github.io
 
---- Git Day: L2X8 - Another week (ai), u can never catch up.
+--- Git Day: L2X8 - hoe bithc.
 
-# --- hoe bithc.
+# --- 
 
 - Ref img, source: [twt@](https://x.com/haildhruv/status/1969365859849421294)
 
