@@ -10,8 +10,6 @@
 
 - Ref img, source: [twt@](https://x.com/archi_reum/status/1970178036734595264)
 
-<br/>
-
 - Ref img, source: [twt@](https://x.com/Spideraxe30/status/1970166314963812769)
 
 - Ref img, source: [twt@](https://x.com/1000_mikan/status/1970140863109255451)
