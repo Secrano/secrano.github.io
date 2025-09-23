@@ -4,6 +4,31 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/GraphiteDesert/status/1969978121761034428)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/FilmUpdates/status/1970130997305081931)
+
+- Ref img, source: [twt@](https://x.com/MarcoGrandFleet/status/1969968895386874142)
+
+- Ref img, source: [twt@](https://x.com/ShiinaBR/status/1970156726428274729)
+
+- Ref img, source: [twt@](https://x.com/OPFANATIC2025/status/1969930163065667741)
+
+- Ref img, source: [twt@](https://x.com/1ofAgnesDigital/status/1970022864763101365)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Aoife_Bee_/status/1970263722032869732)
+
+- Ref img, source: [twt@](https://x.com/oekakiism/status/1970020341348286808)
+
+- Ref img, source: [twt@](https://x.com/koppe200/status/1970122447090577803)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/ziitaa314/status/1969667055973777759)
 
 - Ref img, source: [twt@](https://x.com/Spideraxe30/status/1970168001484701758)
