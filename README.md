@@ -1,5 +1,29 @@
 # secrano.github.io
 
+--- Git Day: L2Y4 - clown.
+
+# --- 
+
+- Ref img, source: [twt@](https://x.com/minima_ai/status/1971141372464988328)
+
+- Ref img, source: [twt@](https://x.com/lilydisease/status/1971137724762685645)
+
+- Ref img, source: [twt@](https://x.com/asagawo_elf/status/1971136270236778718)
+
+- Ref img, source: [twt@](https://x.com/myhppylittlepil/status/1971075728834953370)
+
+- Ref img, source: [twt@](https://x.com/CatsConquer/status/1971171685111115876)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/refisan17/status/1971080531292090832)
+
+- Ref img, source: [twt@](https://x.com/GifsAnime_/status/1971133081215287508)
+
+- Ref img, source: [twt@](https://x.com/mamoriartt/status/1970882832202612989)
+
+# ---
+
 --- Git Day: L2X8 - hoe bithc.
 
 # ---
