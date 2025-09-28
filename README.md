@@ -2,6 +2,17 @@
 
 --- Git Day: L2Y4 - clown.
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/NikMilanovic/status/1971954200478404756)
+
+- Ref img, source: [twt@](https://x.com/8rami2ki/status/1971885077421609197)
+
+- Ref img, source: [twt@](https://x.com/ObsessedLeek/status/1971926996814102626)
+
+- Ref img, source: [twt@](https://x.com/lzndon/status/1971680503544926317)
+
+# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/minima_ai/status/1971141372464988328)
