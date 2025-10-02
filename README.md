@@ -13,6 +13,10 @@
 - Ref img, source: [twt@](https://x.com/yurari_banri/status/1973313436466762093)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/AiWithYou1/status/1973713593129644133)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/MikominCosplay/status/1972748833877815404)
