@@ -63,6 +63,7 @@
 
 - Soul-like spirit: MTG inspired swap (Drag and drop units with effects).
 - Bits and bytes: o5 upgrade, 24h clock modifications of origin idea model.
+- || Mystical Creature Quest: Another pacman game for a princess. 
 
 # ---
 Hello World.
