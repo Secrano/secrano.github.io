@@ -6,6 +6,8 @@
 
 - Ref img, source: [twt@](https://x.com/ha9siro/status/1976167232725205160)
 
+- Ref img, source: [twt@](https://x.com/RichardGrenell/status/1976658161827532889)
+
 # ---
 
 - Ref img, source: [twt@](https://x.com/Clara05sulli/status/1975588242649944485)
