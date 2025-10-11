@@ -1,5 +1,47 @@
 # secrano.github.io
 
+--- Git Day: Books (W).
+
+# --- 
+
+- Ref img, source: [twt@](https://x.com/ssingcoo/status/1976781478513225981)
+
+- Ref img, source: [twt@](https://x.com/mmm_mii_/status/1976670059981685102)
+
+- Ref img, source: [twt@](https://x.com/TFT/status/1976679168814227642)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Amouranth/status/1976811142875087107)
+
+- Ref img, source: [twt@](https://x.com/animeupdates__/status/1976672223760187410)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/emmalauireal/status/1976418581215883744)
+
+- Ref img, source: [twt@](https://x.com/reejsays/status/1976805704792232073)
+
+- Ref img, source: [twt@](https://x.com/mzkhan1044/status/1976582143779258829)
+
+- Ref img, source: [twt@](https://x.com/uzumakielsa/status/1976645956310376880)
+
+- Ref img, source: [twt@](https://x.com/melkoneko/status/1976697671785365543)
+
+- Ref img, source: [twt@](https://x.com/Sp66kys/status/1976836163202896017)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1976661497993728319)
+
+- Ref img, source: [twt@](https://x.com/antwt_x/status/1976758147189506370)
+
+- Ref img, source: [twt@](https://x.com/Jahrihanna/status/1976649079145803952)
+
+- Ref img, source: [twt@](https://x.com/FRIERENcontent/status/1976684091454931169)
+
+# ---
+
 --- Git Day: L2Z1 - No school.
 
 # ---
