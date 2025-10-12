@@ -4,8 +4,19 @@
 
 # ---
 
-- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1977298197715333239)
+- Ref img, source: [twt@](https://x.com/PixelNinjaArt/status/1977092010814456287)
 
+- Ref img, source: [twt@](https://x.com/Elna_ai3/status/1977317612716716110)
+
+- Ref img, source: [twt@](https://x.com/PixelNinjaArt/status/1977092010814456287)
+
+- Ref img, source: [twt@](https://x.com/Elna_ai3/status/1977317612716716110)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/1977298197715333239)
+  
+# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/ssingcoo/status/1976781478513225981)
