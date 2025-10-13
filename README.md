@@ -4,6 +4,11 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/asteroid_ill/status/1977672933641486784)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/ai_zerara/status/1977494491691880500)
 
 # ---
