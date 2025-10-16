@@ -2,7 +2,7 @@
 
 --- Git Day: L2Z8 - Books (W).
 
-# --- 
+# --- cont
 
 - Ref img, source: [twt@](https://x.com/TFT/status/1978905370929062332)
 
@@ -10,11 +10,15 @@
 
 - Ref img, source: [twt@](https://x.com/lychee_snake/status/1978703359436587339)
 
+<br/>
+
 - Ref img, source: [twt@](https://x.com/Timeless_aiart/status/1978802751116374424)
 
 - Ref img, source: [twt@](https://x.com/jiunnkuo/status/1978571380498047041)
 
 - Ref img, source: [twt@](https://x.com/Pastel_Illust_/status/1978675816306282665)
+
+<br/>
 
 - Ref img, source: [twt@](https://x.com/Timeless_aiart/status/1978668953300775186)
 
@@ -22,17 +26,23 @@
 
 - Ref img, source: [twt@](https://x.com/NeneneAI/status/1978589731043598606)
 
+<br/>
+
 - Ref img, source: [twt@](https://x.com/toratoraji/status/1978819489744495057)
 
 - Ref img, source: [twt@](https://x.com/AI_CyberDreams/status/1978721411532198328)
 
 - Ref img, source: [twt@](https://x.com/finalfantasyxvi/status/1978808494188012016)
 
+<br/>
+
 - Ref img, source: [twt@](https://x.com/kirei_yosame/status/1978706251346313345)
 
 - Ref img, source: [twt@](https://x.com/RiotKDan/status/1978837973371101610)
 
 - Ref img, source: [twt@](https://x.com/sho_ai_img/status/1978801950876721279)
+
+<br/>
 
 - Ref img, source: [twt@](https://x.com/animel7316/status/1978867697124336090)
 
