@@ -2,7 +2,7 @@
 
 --- Git Day: L2Z8 - Books (W).
 
-# --- cont
+# ---
 
 - Ref img, source: [twt@](https://x.com/TFT/status/1978905370929062332)
 
