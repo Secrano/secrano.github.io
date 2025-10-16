@@ -2,6 +2,45 @@
 
 --- Git Day: L2Z8 - Books (W).
 
+# --- cont
+
+- Ref img, source: [twt@](https://x.com/TFT/status/1978905370929062332)
+
+- Ref img, source: [twt@](https://x.com/7Leg_Piece/status/1978825308380831894)
+
+- Ref img, source: [twt@](https://x.com/lychee_snake/status/1978703359436587339)
+
+- Ref img, source: [twt@](https://x.com/Timeless_aiart/status/1978802751116374424)
+
+- Ref img, source: [twt@](https://x.com/jiunnkuo/status/1978571380498047041)
+
+- Ref img, source: [twt@](https://x.com/Pastel_Illust_/status/1978675816306282665)
+
+- Ref img, source: [twt@](https://x.com/Timeless_aiart/status/1978668953300775186)
+
+- Ref img, source: [twt@](https://x.com/coffee2hai/status/1978820082374459511)
+
+- Ref img, source: [twt@](https://x.com/NeneneAI/status/1978589731043598606)
+
+- Ref img, source: [twt@](https://x.com/toratoraji/status/1978819489744495057)
+
+- Ref img, source: [twt@](https://x.com/AI_CyberDreams/status/1978721411532198328)
+
+- Ref img, source: [twt@](https://x.com/finalfantasyxvi/status/1978808494188012016)
+
+- Ref img, source: [twt@](https://x.com/kirei_yosame/status/1978706251346313345)
+
+- Ref img, source: [twt@](https://x.com/RiotKDan/status/1978837973371101610)
+
+- Ref img, source: [twt@](https://x.com/sho_ai_img/status/1978801950876721279)
+
+- Ref img, source: [twt@](https://x.com/animel7316/status/1978867697124336090)
+
+- Ref img, source: [twt@](https://x.com/SlyverSoft/status/1978682777244455108)
+
+- Ref img, source: [twt@](https://x.com/QYSThree/status/1978644635607318819)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/blackdreamvibes/status/1978340059418931629)
