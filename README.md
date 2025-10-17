@@ -4,6 +4,8 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/IAmTimNguyen/status/1979153874628808950)
+
 - Ref img, source: [twt@](https://x.com/okomechan991/status/1979020547578110143)
 
 # ---
