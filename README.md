@@ -4,6 +4,11 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/okomechan991/status/1979020547578110143)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/TFT/status/1978905370929062332)
 
 - Ref img, source: [twt@](https://x.com/7Leg_Piece/status/1978825308380831894)
