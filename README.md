@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Sco_ttie/status/1979502723499213278)
+
+- Ref img, source: [twt@](https://x.com/11Herota/status/1979487706234372605)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/nirnarya/status/1978873574065656012)
 
 - Ref img, source: [twt@](https://x.com/kiyuiyume/status/1978688742471721369)
