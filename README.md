@@ -4,8 +4,11 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/ste_talk/status/1980223242133729452)
+
 - Ref img, source: [twt@](https://x.com/VictoryLuode/status/1979663006171881719)
 
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/zichi3150/status/1979155953569161286)
