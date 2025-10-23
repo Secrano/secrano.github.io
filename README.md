@@ -4,6 +4,15 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/dinkndots/status/1981124969020215440)
+
+- Ref img, source: [twt@](https://x.com/pokemon_dailyy/status/1981022007077609795)
+
+- Ref img, source: [twt@](https://x.com/archaeologyart/status/1981397735942029546)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/luxnoira/status/1980371850195791914)
 
 - Ref img, source: [twt@](https://x.com/hypareyli2/status/1980394047199224305)
