@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/tunguz/status/1982139789026423021)
+
+- Ref img, source: [twt@](https://x.com/sarahookr/status/1981897950059180409)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/dinkndots/status/1981124969020215440)
 
 - Ref img, source: [twt@](https://x.com/pokemon_dailyy/status/1981022007077609795)
