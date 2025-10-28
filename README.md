@@ -10,6 +10,14 @@
 
 - Ref img, source: [twt@](https://x.com/laurenxburch/status/1981808665847116081)
 
+<br/>
+
+- Ref img, source: [twt@](https://x.com/NBSaphierMD/status/1982992964885598704)
+
+- Ref img, source: [twt@](https://x.com/SkyAboveMe_Art/status/1983198164363694131)
+
+- Ref img, source: [twt@](https://x.com/ToeiAnimation/status/1983160636679786887)
+
 # ---
 # ---
 
