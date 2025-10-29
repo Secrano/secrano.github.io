@@ -4,6 +4,10 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/kusuriya_info/status/1983374339245519068)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/tunguz/status/1982139789026423021)
 
 - Ref img, source: [twt@](https://x.com/sarahookr/status/1981897950059180409)
