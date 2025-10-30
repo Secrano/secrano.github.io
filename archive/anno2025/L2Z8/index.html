@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Mystical Creature Quest </title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #1a0933 0%, #2d1b4e 50%, #1a0933 100%);
+      color: #e0d4f7;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 10px;
+      overflow: hidden;
+    }
+    
+    .container {
+      max-width: 420px;
+      width: 100%;
+    }
+    
+    .card {
+      background: linear-gradient(145deg, rgba(60,40,90,0.6), rgba(40,25,70,0.7));
+      backdrop-filter: blur(10px);
+      border: 2px solid rgba(180,140,255,0.3);
+      border-radius: 20px;
+      padding: 15px;
+      box-shadow: 0 10px 40px rgba(0,0,0,0.8), 0 0 60px rgba(138,43,226,0.2);
+      margin-bottom: 15px;
+    }
+    
+    h1 {
+      color: #e0b3ff;
+      font-size: 24px;
+      margin-bottom: 8px;
+      font-weight: 700;
+      text-align: center;
+      text-shadow: 0 0 20px rgba(224,179,255,0.6);
+    }
+    
+    .subtitle {
+      text-align: center;
+      font-size: 13px;
+      opacity: 0.8;
+      margin-bottom: 15px;
+      color: #c9b3e0;
+    }
+    
+    .grid-container {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 1;
+      margin: 0 auto;
+      border-radius: 15px;
+      overflow: hidden;
+      box-shadow: inset 0 0 30px rgba(0,0,0,0.6), 0 0 40px rgba(138,43,226,0.3);
+    }
+    
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(11, 1fr);
+      grid-template-rows: repeat(11, 1fr);
+      gap: 1px;
+      background: rgba(10,5,20,0.9);
+      width: 100%;
+      height: 100%;
+    }
+    
+    .cell {
+      background: linear-gradient(135deg, rgba(30,20,50,0.7), rgba(20,10,40,0.8));
+      border: 1px solid rgba(80,50,120,0.3);
+      position: relative;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+    
+    .cell:hover {
+      background: linear-gradient(135deg, rgba(50,35,80,0.9), rgba(35,20,60,0.9));
+      border-color: rgba(180,140,255,0.5);
+      transform: scale(1.05);
+      z-index: 10;
+    }
+    
+    .player {
+      position: absolute;
+      width: 85%;
+      height: 85%;
+      background: radial-gradient(circle at 30% 30%, #fff5f5, #ff6b9d 40%, #c44569);
+      border-radius: 50%;
+      box-shadow: 0 0 15px rgba(255,107,157,0.9), 0 0 30px rgba(196,69,105,0.6);
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 100;
+      animation: playerGlow 2s ease-in-out infinite;
+      border: 2px solid rgba(255,255,255,0.3);
+    }
+    
+    .player::after {
+      content: '⚔️';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 60%;
+    }
+    
+    @keyframes playerGlow {
+      0%, 100% { box-shadow: 0 0 15px rgba(255,107,157,0.9), 0 0 30px rgba(196,69,105,0.6); }
+      50% { box-shadow: 0 0 25px rgba(255,107,157,1), 0 0 50px rgba(196,69,105,0.8); }
+    }
+    
+    .creature {
+      position: absolute;
+      width: 80%;
+      height: 80%;
+      border-radius: 50%;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 50;
+      animation: creatureFloat 3s ease-in-out infinite;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 70%;
+      border: 2px solid rgba(255,255,255,0.2);
+    }
+    
+    .creature.fire {
+      background: radial-gradient(circle at 35% 30%, #fff5e6, #ff8c42 30%, #ff6b35);
+      box-shadow: 0 0 12px rgba(255,140,66,0.8), 0 0 20px rgba(255,107,53,0.5);
+    }
+    
+    .creature.water {
+      background: radial-gradient(circle at 35% 30%, #e6f7ff, #42d4ff 30%, #357eff);
+      box-shadow: 0 0 12px rgba(66,212,255,0.8), 0 0 20px rgba(53,126,255,0.5);
+    }
+    
+    .creature.nature {
+      background: radial-gradient(circle at 35% 30%, #f0ffe6, #7bff42 30%, #35ff6b);
+      box-shadow: 0 0 12px rgba(123,255,66,0.8), 0 0 20px rgba(53,255,107,0.5);
+    }
+    
+    .creature.dark {
+      background: radial-gradient(circle at 35% 30%, #e6e6ff, #9d42ff 30%, #6b35ff);
+      box-shadow: 0 0 12px rgba(157,66,255,0.8), 0 0 20px rgba(107,53,255,0.5);
+    }
+    
+    .creature.light {
+      background: radial-gradient(circle at 35% 30%, #fffef0, #ffe680 30%, #ffd700);
+      box-shadow: 0 0 12px rgba(255,230,128,0.9), 0 0 20px rgba(255,215,0,0.6);
+    }
+    
+    @keyframes creatureFloat {
+      0%, 100% { transform: translate(-50%, -50%) scale(1); }
+      50% { transform: translate(-50%, -55%) scale(1.08); }
+    }
+    
+    .popup {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%) scale(0.8);
+      background: linear-gradient(145deg, rgba(80,50,120,0.98), rgba(60,35,100,0.98));
+      border: 3px solid rgba(255,215,0,0.6);
+      border-radius: 20px;
+      padding: 25px;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.9), 0 0 100px rgba(255,215,0,0.4);
+      z-index: 1000;
+      opacity: 0;
+      pointer-events: none;
+      transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+      max-width: 320px;
+      text-align: center;
+    }
+    
+    .popup.show {
+      opacity: 1;
+      transform: translate(-50%, -50%) scale(1);
+      pointer-events: all;
+    }
+    
+    .popup-icon {
+      font-size: 60px;
+      margin-bottom: 15px;
+      animation: popupBounce 0.6s ease-in-out;
+    }
+    
+    @keyframes popupBounce {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.2); }
+    }
+    
+    .popup-title {
+      font-size: 22px;
+      font-weight: 700;
+      color: #ffe680;
+      margin-bottom: 10px;
+      text-shadow: 0 0 10px rgba(255,230,128,0.6);
+    }
+    
+    .popup-message {
+      font-size: 15px;
+      color: #e0d4f7;
+      margin-bottom: 8px;
+      line-height: 1.5;
+    }
+    
+    .popup-power {
+      font-size: 13px;
+      color: #b8a8d0;
+      font-style: italic;
+      margin-bottom: 15px;
+    }
+    
+    .popup-close {
+      background: linear-gradient(135deg, #7b42ff, #9d42ff);
+      color: white;
+      border: none;
+      padding: 10px 25px;
+      border-radius: 10px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      box-shadow: 0 4px 15px rgba(123,66,255,0.4);
+      transition: all 0.2s;
+    }
+    
+    .popup-close:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(123,66,255,0.6);
+    }
+    
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+      margin-top: 15px;
+    }
+    
+    .stat-item {
+      background: rgba(20,10,40,0.6);
+      padding: 10px 8px;
+      border-radius: 12px;
+      border: 1px solid rgba(180,140,255,0.2);
+      text-align: center;
+    }
+    
+    .stat-label {
+      font-size: 11px;
+      opacity: 0.7;
+      margin-bottom: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    
+    .stat-value {
+      font-size: 20px;
+      font-weight: 700;
+      color: #e0b3ff;
+      text-shadow: 0 0 10px rgba(224,179,255,0.4);
+    }
+    
+    .controls {
+      font-size: 12px;
+      line-height: 1.8;
+      text-align: center;
+      opacity: 0.8;
+    }
+    
+    .controls kbd {
+      background: rgba(180,140,255,0.2);
+      padding: 3px 8px;
+      border-radius: 6px;
+      border: 1px solid rgba(180,140,255,0.3);
+      font-family: monospace;
+      font-size: 11px;
+      margin: 0 2px;
+    }
+    
+    @media (max-width: 450px) {
+      .container { padding: 5px; }
+      .card { padding: 12px; }
+      h1 { font-size: 20px; }
+      .subtitle { font-size: 12px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="card">
+      <h1>✨ Mystical Creature Quest ✨</h1>
+      <div class="subtitle">Capture legendary beings and harness their power!</div>
+      
+      <div class="grid-container">
+        <div class="grid" id="grid"></div>
+      </div>
+      
+      <div class="stats">
+        <div class="stat-item">
+          <div class="stat-label">Captured</div>
+          <div class="stat-value" id="captureCount">0</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-label">Power</div>
+          <div class="stat-value" id="powerLevel">0</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-label">Moves</div>
+          <div class="stat-value" id="moveCount">0</div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="card">
+      <div class="controls">
+        <div><kbd>↑</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> or <kbd>Click</kbd> to move</div>
+        <div style="margin-top: 5px; font-size: 11px; opacity: 0.6;">Capture all creatures to win!</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="popup" id="popup">
+    <div class="popup-icon" id="popupIcon"></div>
+    <div class="popup-title" id="popupTitle"></div>
+    <div class="popup-message" id="popupMessage"></div>
+    <div class="popup-power" id="popupPower"></div>
+    <button class="popup-close" onclick="closePopup()">Continue Quest</button>
+  </div>
+
+  <script>
+    const GRID_SIZE = 11;
+    
+    const CREATURES = [
+      { type: 'fire', icon: '🔥', name: 'Phoenix Flame', message: 'A blazing phoenix spirit joins your quest!', power: 'Grants mastery over fire and rebirth', atk: 5 },
+      { type: 'water', icon: '💧', name: 'Aqua Serpent', message: 'The ancient water serpent bows to your will!', power: 'Commands the tides and depths', atk: 4 },
+      { type: 'nature', icon: '🌿', name: 'Forest Guardian', message: 'The guardian of the wild forest accepts you!', power: 'Channels the life force of nature', atk: 4 },
+      { type: 'dark', icon: '🌙', name: 'Shadow Wraith', message: 'A mysterious wraith emerges from the void!', power: 'Manipulates shadows and secrets', atk: 6 },
+      { type: 'light', icon: '⭐', name: 'Celestial Spirit', message: 'A radiant celestial being descends!', power: 'Illuminates truth and heals wounds', atk: 5 },
+      { type: 'fire', icon: '⚡', name: 'Storm Drake', message: 'The lightning drake recognizes your strength!', power: 'Summons storms and lightning', atk: 7 },
+      { type: 'water', icon: '❄️', name: 'Frost Elemental', message: 'The frost elemental pledges eternal loyalty!', power: 'Freezes time and enemies', atk: 5 },
+      { type: 'nature', icon: '🍃', name: 'Wind Sprite', message: 'A playful wind sprite dances around you!', power: 'Controls the very air itself', atk: 3 },
+      { type: 'dark', icon: '💀', name: 'Lich King', message: 'The undying lich king yields to your command!', power: 'Necromancy and dark magic', atk: 8 },
+      { type: 'light', icon: '🦄', name: 'Unicorn Mystic', message: 'A legendary unicorn chooses you as worthy!', power: 'Pure magic and divine protection', atk: 6 },
+    ];
+    
+    class Game {
+      constructor() {
+        this.gridSize = GRID_SIZE;
+        this.playerX = Math.floor(GRID_SIZE / 2);
+        this.playerY = Math.floor(GRID_SIZE / 2);
+        this.creatures = [];
+        this.captured = 0;
+        this.power = 0;
+        this.moves = 0;
+        this.cellElements = [];
+        
+        this.initGrid();
+        this.spawnCreatures();
+        this.bindControls();
+        this.render();
+        this.startCreatureMovement();
+      }
+      
+      initGrid() {
+        const grid = document.getElementById('grid');
+        for (let y = 0; y < this.gridSize; y++) {
+          for (let x = 0; x < this.gridSize; x++) {
+            const cell = document.createElement('div');
+            cell.className = 'cell';
+            cell.dataset.x = x;
+            cell.dataset.y = y;
+            cell.addEventListener('click', () => this.handleCellClick(x, y));
+            grid.appendChild(cell);
+            this.cellElements.push(cell);
+          }
+        }
+      }
+      
+      spawnCreatures() {
+        const positions = new Set();
+        const center = Math.floor(GRID_SIZE / 2);
+        
+        CREATURES.forEach((template, i) => {
+          let x, y;
+          do {
+            x = Math.floor(Math.random() * this.gridSize);
+            y = Math.floor(Math.random() * this.gridSize);
+          } while (positions.has(`${x},${y}`) || (x === center && y === center));
+          
+          positions.add(`${x},${y}`);
+          this.creatures.push({ ...template, x, y, id: i });
+        });
+      }
+      
+      bindControls() {
+        document.addEventListener('keydown', (e) => {
+          const moves = {
+            'ArrowUp': [0, -1], 'ArrowDown': [0, 1],
+            'ArrowLeft': [-1, 0], 'ArrowRight': [1, 0]
+          };
+          
+          if (moves[e.key]) {
+            e.preventDefault();
+            const [dx, dy] = moves[e.key];
+            this.movePlayer(this.playerX + dx, this.playerY + dy);
+          }
+        });
+      }
+      
+      handleCellClick(x, y) {
+        const dx = Math.sign(x - this.playerX);
+        const dy = Math.sign(y - this.playerY);
+        if (dx !== 0 || dy !== 0) {
+          this.movePlayer(this.playerX + dx, this.playerY + dy);
+        }
+      }
+      
+      movePlayer(x, y) {
+        if (x < 0 || x >= this.gridSize || y < 0 || y >= this.gridSize) return;
+        
+        this.playerX = x;
+        this.playerY = y;
+        this.moves++;
+        
+        this.checkCapture();
+        this.render();
+        this.updateStats();
+      }
+      
+      checkCapture() {
+        for (let i = this.creatures.length - 1; i >= 0; i--) {
+          const creature = this.creatures[i];
+          if (creature.x === this.playerX && creature.y === this.playerY) {
+            this.captureCreature(creature);
+            this.creatures.splice(i, 1);
+          }
+        }
+        
+        if (this.creatures.length === 0) {
+          setTimeout(() => this.showVictory(), 500);
+        }
+      }
+      
+      captureCreature(creature) {
+        this.captured++;
+        this.power += creature.atk;
+        this.showPopup(creature);
+      }
+      
+      showPopup(creature) {
+        document.getElementById('popupIcon').textContent = creature.icon;
+        document.getElementById('popupTitle').textContent = creature.name;
+        document.getElementById('popupMessage').textContent = creature.message;
+        document.getElementById('popupPower').textContent = `${creature.power} • ATK: ${creature.atk}`;
+        document.getElementById('popup').classList.add('show');
+      }
+      
+      showVictory() {
+        document.getElementById('popupIcon').textContent = '👑';
+        document.getElementById('popupTitle').textContent = 'Quest Complete!';
+        document.getElementById('popupMessage').textContent = `You've captured all mystical creatures in ${this.moves} moves!`;
+        document.getElementById('popupPower').textContent = `Total Power: ${this.power} • You are now a Legendary Summoner!`;
+        document.getElementById('popup').classList.add('show');
+      }
+      
+      moveCreatures() {
+        this.creatures.forEach(creature => {
+          const dirs = [[-1,-1],[0,-1],[1,-1],[-1,0],[1,0],[-1,1],[0,1],[1,1]];
+          const [dx, dy] = dirs[Math.floor(Math.random() * dirs.length)];
+          const newX = creature.x + dx;
+          const newY = creature.y + dy;
+          
+          if (newX >= 0 && newX < this.gridSize && newY >= 0 && newY < this.gridSize) {
+            const occupied = this.creatures.some(c => c !== creature && c.x === newX && c.y === newY);
+            if (!occupied) {
+              creature.x = newX;
+              creature.y = newY;
+            }
+          }
+        });
+        
+        this.checkCapture();
+        this.render();
+      }
+      
+      render() {
+        this.cellElements.forEach(el => el.innerHTML = '');
+        
+        this.creatures.forEach(creature => {
+          const idx = creature.y * this.gridSize + creature.x;
+          const el = document.createElement('div');
+          el.className = `creature ${creature.type}`;
+          el.textContent = creature.icon;
+          el.title = creature.name;
+          this.cellElements[idx].appendChild(el);
+        });
+        
+        const playerIdx = this.playerY * this.gridSize + this.playerX;
+        const playerEl = document.createElement('div');
+        playerEl.className = 'player';
+        this.cellElements[playerIdx].appendChild(playerEl);
+      }
+      
+      updateStats() {
+        document.getElementById('captureCount').textContent = this.captured;
+        document.getElementById('powerLevel').textContent = this.power;
+        document.getElementById('moveCount').textContent = this.moves;
+      }
+      
+      startCreatureMovement() {
+        setInterval(() => this.moveCreatures(), 1200);
+      }
+    }
+    
+    function closePopup() {
+      document.getElementById('popup').classList.remove('show');
+    }
+    
+    const game = new Game();
+  </script>
+</body>
+</html>
