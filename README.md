@@ -1,5 +1,13 @@
 # secrano.github.io
 
+--- Git Day: L3A2 - chaos of dawn.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/sevenotsu/status/1984147842118905902)
+
+# ---
+
 --- Git Day: L305 - Sun god.
 
 # --- 
