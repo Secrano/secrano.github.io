@@ -4,6 +4,8 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/GuapoKami/status/1984660081464533455)
+
 - Ref img, source: [twt@](https://x.com/corpseJ2/status/1984213699301872055)
 
 # ---
