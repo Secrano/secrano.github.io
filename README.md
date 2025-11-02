@@ -2,7 +2,7 @@
 
 --- Git Day: L3A2 - chaos of dawn.
 
-# —-
+# ---
 
 - Ref img, source: [twt@](https://x.com/mochi_byte0/status/1984684945328181303)
 
