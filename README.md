@@ -4,6 +4,12 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/sevenotsu/status/1983761986883367194)
+
+- Ref img, source: [twt@](https://x.com/sevenotsu/status/1981874491979633067)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/GuapoKami/status/1984660081464533455)
 
 - Ref img, source: [twt@](https://x.com/corpseJ2/status/1984213699301872055)
