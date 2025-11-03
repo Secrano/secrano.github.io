@@ -4,6 +4,12 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Nightcrowing/status/1984929422429032692)
+
+- Ref img, source: [twt@](https://x.com/lishali88/status/1984384225223852269)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/mochi_byte0/status/1984684945328181303)
 
 # ---
