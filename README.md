@@ -4,6 +4,31 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/everymovieplug/status/1986240770169504055)
+
+- Ref img, source: [twt@](https://x.com/PuppiesIover/status/1986169842437603555)
+
+- Ref img, source: [twt@](https://x.com/NolanAnalyst/status/1986169119499341831)
+
+- Ref img, source: [twt@](https://x.com/venom1s/status/1986423004822385135)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/qtctwt/status/1986174650536370214)
+
+- Ref img, source: [twt@](https://x.com/Timcast/status/1986239641666670593)
+
+- Ref img, source: [twt@](https://x.com/BarackObama/status/1986475370363687393)
+
+- Ref img, source: [twt@](https://x.com/CosmicGaiaX/status/1986414532504240312)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/potato_maltipoo/status/1986393714449916143)
+	
+# ---	
+# ---
+
 - Ref img, source: [twt@](https://x.com/ai_zerara/status/1986082324371456094)
 
 - Ref img, source: [twt@](https://x.com/leecronin/status/1985021627294224892)
