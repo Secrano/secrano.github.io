@@ -4,6 +4,29 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/everymovieplug/status/1986644776528322697)
+
+- Ref img, source: [twt@](https://x.com/KyeZzzz/status/1986546609640055171)
+
+- Ref img, source: [twt@](https://x.com/AMAZlNGNATURE/status/1986177449873293719)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/dovitimebomb/status/1986475927455617379)
+
+- Ref img, source: [twt@](https://x.com/ACustomframing/status/1986750679256629483)
+
+- Ref img, source: [twt@](https://x.com/ksw_arman/status/1986219518579060823)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Varhan_Zuhair/status/1986645042749219123)
+
+- Ref img, source: [twt@](https://x.com/Yakumo_Alchemy/status/1986793600362094734)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/everymovieplug/status/1986240770169504055)
 
 - Ref img, source: [twt@](https://x.com/PuppiesIover/status/1986169842437603555)
