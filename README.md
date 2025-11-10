@@ -4,6 +4,15 @@
 
 # --- 
 
+- Ref img, source: [twt@](https://x.com/ai_zerara/status/1987882944342454668)
+
+- Ref img, source: [twt@](https://x.com/LeagueOfLegends/status/1987913144241385687)
+
+- Ref img, source: [twt@](https://x.com/MaiNguyen0294/status/1987938497961832698)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/oshiruko_s2/status/1987437712027308372)	
 
 - Ref img, source: [twt@](https://x.com/rihanna/status/1987653995004067906)
