@@ -14,7 +14,6 @@
 
 - Ref img, source: [twt@](https://x.com/gracile_jp/status/1988138929657389231)
 
-# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/ai_zerara/status/1987882944342454668)
