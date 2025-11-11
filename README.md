@@ -4,6 +4,19 @@
 
 # --- 
 
+- Ref img, source: [twt@](https://x.com/cherrycrushTV/status/1988305724360061198)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/yurari_banri/status/1987280721015173368)
+
+- Ref img, source: [twt@](https://x.com/SecretFj520/status/1987868573805744232)
+
+- Ref img, source: [twt@](https://x.com/gracile_jp/status/1988138929657389231)
+
+# ---
+# --- 
+
 - Ref img, source: [twt@](https://x.com/ai_zerara/status/1987882944342454668)
 
 - Ref img, source: [twt@](https://x.com/LeagueOfLegends/status/1987913144241385687)
