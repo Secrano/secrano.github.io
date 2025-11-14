@@ -2,6 +2,15 @@
 
 --- Git Day: L3A9 - tft new start (dawn).
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/DNordhaug/status/1989023081134780768)
+
+- Ref img, source: [twt@](https://x.com/itswords_/status/1988871850986807410)
+
+- Ref img, source: [twt@](https://x.com/hosirousoku/status/1988574553891811687)
+
+# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/cherrycrushTV/status/1988305724360061198)
