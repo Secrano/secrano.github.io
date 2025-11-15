@@ -4,6 +4,39 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/MrLaalpotato/status/1989214965694361897)
+
+br/>
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1989665644326129813)
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1989581236306595889)
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1989581632479633660)
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1989589184806605109)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Sco_ttie/status/1989287443514716545)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/grandia42783429/status/1988869340788039789)
+
+- Ref img, source: [twt@](https://x.com/grandia42783429/status/1983462484343435324)
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1989616598857228775)
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1989673692406710561)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/1989672113175756996)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/DNordhaug/status/1989023081134780768)
 
 - Ref img, source: [twt@](https://x.com/itswords_/status/1988871850986807410)
