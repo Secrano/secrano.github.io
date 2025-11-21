@@ -4,6 +4,19 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/lydiaviolettv/status/1991515726809821413)
+
+- Ref img, source: [twt@](https://x.com/pmitu/status/1991567727451070499)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/birdabo/status/1991740508465689097)
+
+- Ref img, source: [twt@](https://x.com/7H4ZE/status/1991855385666523178)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/robinsongz/status/1991298213505298563)
 
 <br/>
