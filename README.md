@@ -2,6 +2,10 @@
 
 --- Git Day: L3B6 - mid week.
 
+# ---
+
+ Ref img, source: [twt@](https://x.com/dahnikz/status/1993073351905231008)
+
 # --- 
 
 - Ref img, source: [twt@](https://x.com/sundayogura/status/1992085078558888012)
