@@ -6,7 +6,7 @@
 
 - Ref img, source: [twt@](https://x.com/mark_lj/status/1994107495514820814)
 
-# ---
+<br/>
 
 - Ref img, source: [twt@](https://x.com/genshincuisine/status/1993339834547790012)
 
