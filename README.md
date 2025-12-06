@@ -4,6 +4,15 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/asteroid_ill/status/1996530396662845687)
+
+- Ref img, source: [twt@](https://x.com/sachichuu/status/1997010698593824806)
+
+- Ref img, source: [twt@](https://x.com/architectvibes/status/1996784079547912254)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/mocha708/status/1996157713596940727)
 
 # ---
