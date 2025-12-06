@@ -6,8 +6,6 @@
 
 - Ref img, source: [twt@](https://x.com/MOONXADDICT/status/1996579462226329603)
 
-# ---
-
 - Ref img, source: [twt@](https://x.com/tai2m/status/1997164604871639339)
 
 # ---
