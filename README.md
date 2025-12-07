@@ -49,7 +49,6 @@
 - Ref img, source: [twt@](https://x.com/yugioh7/status/1997224174163767722)
 
 # ---
-
 # ---
 
 - Ref img, source: [twt@](https://x.com/MOONXADDICT/status/1996579462226329603)
