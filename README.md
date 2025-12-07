@@ -4,6 +4,54 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/shiina_1001/status/1997139552511889844)
+
+- Ref img, source: [twt@](https://x.com/pwppyqirl/status/1997436388359209187)
+
+- Ref img, source: [twt@](https://x.com/baffyLol/status/1997300273275195857)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/imbunnz/status/1997435403993776478)
+
+- Ref img, source: [twt@](https://x.com/CDawgVA/status/1997429502025359567)
+
+- Ref img, source: [twt@](https://x.com/MOONXADDICT/status/1997278297995297247)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Iithosphere/status/1997224557699072219)
+
+- Ref img, source: [twt@](https://x.com/magatama_111/status/1997246319677808649)
+
+- Ref img, source: [twt@](https://x.com/tamitami020343/status/1997253756447273428)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ironmouse/status/1997064778770985051)
+
+- Ref img, source: [twt@](https://x.com/Whotfismick/status/1997012405210022320)
+
+- Ref img, source: [twt@](https://x.com/rosy_nightmare/status/1997311441553309737)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/raccoonesthetic/status/1997191524875112691)
+
+- Ref img, source: [twt@](https://x.com/sonic1nstinct/status/1997396189528928589)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/Wanderlustluca/status/1997395655883428235)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/yugioh7/status/1997224174163767722)
+
+# ---
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/MOONXADDICT/status/1996579462226329603)
 
 - Ref img, source: [twt@](https://x.com/tai2m/status/1997164604871639339)
