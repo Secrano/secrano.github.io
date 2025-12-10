@@ -2,6 +2,21 @@
 
 --- Git Day: L3D0 - strings.
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/asteroid_ill/status/1998743814073455038)
+
+- Ref img, source: [twt@](https://x.com/QuokkaSmiles87/status/1998585459669442898)
+
+- Ref img, source: [twt@](https://x.com/__Shezi/status/1998275738852815327)
+
+- Ref img, source: [twt@](https://x.com/yu_yiming/status/1998601902632874177)
+
+- Ref img, source: [twt@](https://x.com/sarasara_aiart/status/1998512992124629056)
+
+- Ref img, source: [twt@](https://x.com/TFT/status/1998422447687610606)
+
+# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/StellaChuuuuu/status/1997451891983409543)
