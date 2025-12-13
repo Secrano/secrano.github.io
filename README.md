@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/BreezeChai/status/1999491309338558807)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/asteroid_ill/status/1998743814073455038)
 
