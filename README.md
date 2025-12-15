@@ -4,6 +4,12 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/washanapple/status/1988838339382779939)
+
+- Ref img, source: [twt@](https://x.com/washanapple/status/1983093675342344701)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/BreezeChai/status/1999491309338558807)
 
 # ---
