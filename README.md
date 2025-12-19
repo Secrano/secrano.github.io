@@ -10,6 +10,10 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Sco_ttie/status/2001985870795084116)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/washanapple/status/1988838339382779939)
 
 - Ref img, source: [twt@](https://x.com/washanapple/status/1983093675342344701)
