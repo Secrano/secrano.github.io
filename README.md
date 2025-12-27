@@ -20,7 +20,7 @@
 
 - Ref img, source: [twt@](https://x.com/nock5115/status/2003480738805796938)
 
-# --- add bot fn
+# ---
 
 - Ref img, source: [twt@](https://x.com/Rainmaker1973/status/2004726425694412979)
 
