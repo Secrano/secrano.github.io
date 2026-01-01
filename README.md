@@ -4,6 +4,77 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/MacTuitui/status/2006502502506836107)
+
+- Ref img, source: [twt@](https://x.com/siiitano/status/2006484521622061391)
+
+- Ref img, source: [twt@](https://x.com/gracile_jp/status/2006621526653911415)
+
+- Ref img, source: [twt@](https://x.com/chodepressivo/status/2006349623494164943)
+
+- Ref img, source: [twt@](https://x.com/branch_roads/status/2006113776660029945)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/abakcus/status/2005848716385681476)
+
+- Ref img, source: [twt@](https://x.com/lion_sey/status/2006289475077546117)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/kindfishfriend/status/2006388159785976066)
+
+- Ref img, source: [twt@](https://x.com/ChibiReviews/status/2006369843168354623)
+
+- Ref img, source: [twt@](https://x.com/haru_same322/status/2006369447309963489)
+
+- Ref img, source: [twt@](https://x.com/tonomyu/status/2006380490769719786)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/LerirA9/status/2006325668779532599)
+
+- Ref img, source: [twt@](https://x.com/tuinositone/status/2006289235805180287)
+
+- Ref img, source: [twt@](https://x.com/clubdefansclave/status/2005811614172254325)
+
+- Ref img, source: [twt@](https://x.com/Shiro_Kuro_AI11/status/2006138479529668622)
+
+- Ref img, source: [twt@](https://x.com/Satakara69/status/2006185148941742347)
+
+- Ref img, source: [twt@](https://x.com/AboutMusicYT/status/2006295674883895680)
+
+- Ref img, source: [twt@](https://x.com/na_lumen/status/2006250786318344446)
+
+- Ref img, source: [twt@](https://x.com/vintageforestt/status/2006406312796586275)
+
+- Ref img, source: [twt@](https://x.com/XaiabP/status/2006379853680148858)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/arowana2111/status/2006621005234729032)
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/2006596245272539188)
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/2006598763381506489)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/nekomataokayu/status/2006522619726843977)
+
+- Ref img, source: [twt@](https://x.com/Kaguya_oRi/status/2006379857832559072)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/silenthill_jp/status/2006644061633912875)
+
+- Ref img, source: [twt@](https://x.com/sevenotsu/status/2006329715028906049)
+
+- Ref img, source: [twt@](https://x.com/HoDaRaKe/status/2006347247332798837)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/shirakamifubuki/status/2005638744771375527)
 
 - Ref img, source: [twt@](https://x.com/BonnieUpdatess/status/2005528088223084756)
