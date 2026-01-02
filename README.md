@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/onsenpeople/status/2006740770469065166)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/MacTuitui/status/2006502502506836107)
 
