@@ -7,6 +7,15 @@
 - Ref img, source: [twt@](https://x.com/cocoa744/status/2007062115375542358)
 
 - Ref img, source: [twt@](https://x.com/onsenpeople/status/2006740770469065166)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/ro10261126/status/2007413309663023311)
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/2007408361097367934)
+- Ref img, source: [twt@](https://x.com/yurari_banri/status/2006380326713700815)
+
+<br/>
+
 - Ref img, source: [twt@](https://x.com/onsenpeople/status/2006740770469065166)
 
 - Ref img, source: [twt@](https://x.com/cocoa744/status/2007062115375542358)
