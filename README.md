@@ -8,8 +8,6 @@
 
 - Ref img, source: [twt@](https://x.com/Bakula_0422/status/2013863349641978224)
 
-# ---
-
 - Ref img, source: [twt@](https://x.com/otaku_D_sa/status/2013180910590468172)
 
 # ---
