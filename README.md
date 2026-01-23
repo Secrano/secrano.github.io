@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/winterwifey/status/2014471306813550759)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/RingekoJail/status/2014000295404359727)
 
