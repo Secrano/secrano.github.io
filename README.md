@@ -4,6 +4,15 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/lporiginalg/status/2015650949444825225)
+
+- Ref img, source: [twt@](https://x.com/saimachi1/status/2015724281079251303)
+
+- Ref img, source: [twt@](https://x.com/penko_illust/status/2015484568066048257)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/reddhairshanks/status/2015450206473531896)
 
 # ---
