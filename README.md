@@ -11,7 +11,6 @@
 - Ref img, source: [twt@](https://x.com/penko_illust/status/2015484568066048257)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/reddhairshanks/status/2015450206473531896)
 
