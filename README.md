@@ -4,6 +4,11 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/reddhairshanks/status/2015450206473531896)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/winterwifey/status/2014471306813550759)
 
 # ---
