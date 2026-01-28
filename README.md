@@ -4,6 +4,11 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/ddal_kr/status/2016438123128127661)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/lporiginalg/status/2015650949444825225)
 
 - Ref img, source: [twt@](https://x.com/saimachi1/status/2015724281079251303)
