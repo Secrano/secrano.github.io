@@ -6,6 +6,8 @@
 
 - Ref img, source: [twt@](https://x.com/ddal_kr/status/2016438123128127661)
 
+- Ref img, source: [twt@](https://x.com/reddhairshanks/status/2016479889902247986)
+
 # ---
 # ---
 
