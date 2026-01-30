@@ -1,5 +1,37 @@
 # secrano.github.io
 
+--- Git Day: L3E5 - window.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/twetsfyp/status/2017286756996161546)
+
+- Ref img, source: [twt@](https://x.com/narusekamo/status/2017216329674019018)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/redbullgaming/status/2017221264360849627)
+
+- Ref img, source: [twt@](https://x.com/Nisqy/status/2017341190161444999)
+
+- Ref img, source: [twt@](https://x.com/OpPerfectShots_/status/2017206156834574365)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/eukniv/status/2017085361604776444)
+
+- Ref img, source: [twt@](https://x.com/Universal4karts/status/2017135546489770089)
+
+- Ref img, source: [twt@](https://x.com/sarasara_aiart/status/2017085365727670533)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/DragonBall43ver/status/2017061763531850197)
+
+- Ref img, source: [twt@](https://x.com/Zuuhl82/status/2017030869827949030)
+
+# ---
+
 --- Git Day: L3D7 - sue me.
 
 # --- 
