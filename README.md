@@ -1,5 +1,17 @@
 # secrano.github.io
 
+--- Git Day: L3F1 - passage.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/DragonBall43ver/status/2017456124836905112)
+
+- Ref img, source: [twt@](https://x.com/eatsleep1111/status/2017561540766142860)
+
+- Ref img, source: [twt@](https://x.com/Hiro_LoL9/status/2017348491257741536)
+
+# ---
+
 --- Git Day: L3E5 - window.
 
 # ---
