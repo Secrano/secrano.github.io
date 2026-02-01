@@ -1,68 +1,105 @@
 # secrano.github.io
 
-# ---
-
-- Ref img, source: [twt@](https://x.com/aestheticsguyy/status/2017560515292061751)
-
-# ---
-# ---
-
---- Git Day: L3F1 - passage.
+--- Git Day: XXXX - snow.
 
 # ---
 
-- Ref img, source: [twt@](https://x.com/DragonBall43ver/status/2017456124836905112)
+- Ref img, source: [twt@](https://x.com/Wx4MugBLFBbh3IR/status/2017683522056818835)
 
-- Ref img, source: [twt@](https://x.com/eatsleep1111/status/2017561540766142860)
+- Ref img, source: [twt@](https://x.com/ai_with_shah/status/2017565173859356711)
 
-- Ref img, source: [twt@](https://x.com/Hiro_LoL9/status/2017348491257741536)
+- Ref img, source: [twt@](https://x.com/sugarjammi/status/2017800600096841925)
 
-# ---
-
---- Git Day: L3E5 - window.
+- Ref img, source: [twt@](https://x.com/gracile_jp/status/2017985568676941913)
 
 # ---
 
-- Ref img, source: [twt@](https://x.com/twetsfyp/status/2017286756996161546)
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/2017860925215117798)
 
-- Ref img, source: [twt@](https://x.com/narusekamo/status/2017216329674019018)
+- Ref img, source: [twt@](https://x.com/_xxkhyn/status/2017857999591911869)
 
-# ---
+- Ref img, source: [twt@](https://x.com/nikitabier/status/2017790464884457863)
 
-- Ref img, source: [twt@](https://x.com/redbullgaming/status/2017221264360849627)
+- Ref img, source: [twt@](https://x.com/nmplol/status/2017785647239422393)
 
-- Ref img, source: [twt@](https://x.com/Nisqy/status/2017341190161444999)
+<br/>
 
-- Ref img, source: [twt@](https://x.com/OpPerfectShots_/status/2017206156834574365)
+- Ref img, source: [twt@](https://x.com/Atdan86/status/2017804760683094441)
 
-# ---
-
-- Ref img, source: [twt@](https://x.com/eukniv/status/2017085361604776444)
-
-- Ref img, source: [twt@](https://x.com/Universal4karts/status/2017135546489770089)
-
-- Ref img, source: [twt@](https://x.com/sarasara_aiart/status/2017085365727670533)
+- Ref img, source: [twt@](https://x.com/SayaScarlet01/status/2017846073579237390)
 
 # ---
 
-- Ref img, source: [twt@](https://x.com/DragonBall43ver/status/2017061763531850197)
+- Ref img, source: [twt@](https://x.com/Kurrco/status/2017750850907595104)
 
-- Ref img, source: [twt@](https://x.com/Zuuhl82/status/2017030869827949030)
+- Ref img, source: [twt@](https://x.com/Timmy_Tommy_1/status/2017697238563135882)
+
+- Ref img, source: [twt@](https://x.com/0TV_Fan/status/2017722398888415351)
+
+- Ref img, source: [twt@](https://x.com/yoxics/status/2017616321006211503)
+
+- Ref img, source: [twt@](https://x.com/popsvibe/status/2017726688197501322)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/tunguz/status/2017718049978143129)
+
+- Ref img, source: [twt@](https://x.com/AniTVOfficial/status/2017676664184951063)
+
+- Ref img, source: [twt@](https://x.com/SciPyTip/status/2017632371806269539)
+
+- Ref img, source: [twt@](https://x.com/nasumiroku/status/2017551592879493399)
+
+- Ref img, source: [twt@](https://x.com/beriwiss/status/2017729838849630353)
+
+- Ref img, source: [twt@](https://x.com/drizzyvalentino/status/2017500609164022087)
 
 # ---
 
---- Git Day: L3D7 - sue me.
+- Ref img, source: [twt@](https://x.com/TheCartelDel/status/2017657989797445698)
 
-# --- 
+- Ref img, source: [twt@](https://x.com/TheCartelDel/status/2017309827324907556)
 
-- Ref img, source: [twt@](https://x.com/john_kafka02/status/2015778038219489329)
+- Ref img, source: [twt@](https://x.com/MaryBlog32/status/2017706312562516269)
 
-- Ref img, source: [twt@](https://x.com/john_kafka02/status/2016888991765975443)
+- Ref img, source: [twt@](https://x.com/charli_xcx/status/2017714576129987035)
 
-- Ref img, source: [twt@](https://x.com/raphaelerba/status/2016920761605259683)
+- Ref img, source: [twt@](https://x.com/WhiteHouse/status/2017663821976862768)
 
-- Ref img, source: [twt@](https://x.com/avogado6/status/2016861282239209796)
+<br/>
 
-- Ref img, source: [twt@](https://x.com/vihua6/status/2008146859794039236)
+- Ref img, source: [twt@](https://x.com/strawhatzuffy/status/2017588722670440527)
+
+- Ref img, source: [twt@](https://x.com/NotKennyRogers/status/2017382013129404653)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/uniquemoviemom/status/2017633443165721009)
+
+- Ref img, source: [twt@](https://x.com/WatcherGuru/status/2017693007818993779)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/MovistarKOI_en/status/2017654117921906950)
+
+- Ref img, source: [twt@](https://x.com/k_on_warlord/status/2017626581234069837)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Oratsu_/status/2017617346341261445)
+
+- Ref img, source: [twt@](https://x.com/yeunrlsd/status/2017684623904669808)
+
+- Ref img, source: [twt@](https://x.com/RyLiberty/status/2017655721660502150)
+
+- Ref img, source: [twt@](https://x.com/luffyscenes/status/2017620963769389155)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/apofissx/status/2017637117258575974)
+
+- Ref img, source: [twt@](https://x.com/TFT/status/2011981776231559501)
+
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/2017917939375014065)
 
 # ---
