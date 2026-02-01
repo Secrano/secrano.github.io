@@ -1,6 +1,6 @@
 # secrano.github.io
 
---- Git Day: XXXX - snow.
+--- Git Day: XXXX - snow. 
 
 # ---
 
