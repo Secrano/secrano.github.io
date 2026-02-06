@@ -11,7 +11,6 @@
 - Ref img, source: [twt@](https://x.com/666KArt/status/2019418031563370833)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/Wx4MugBLFBbh3IR/status/2017683522056818835)
 
