@@ -2,7 +2,7 @@
 
 --- Git Day: L3G5 - tik-tok date.
 
-# --- tik-tok date.
+# ---
 
 - Ref img, source: [twt@](https://x.com/Bakula_0422/status/2020098756532900314)
 
@@ -11,6 +11,8 @@
 - Ref img, source: [twt@](https://x.com/kazunoko_zunoco/status/2020097800722346282)
 
 - Ref img, source: [twt@](https://x.com/sarasara_aiart/status/2020044870358851771)
+
+<br/>
 
 - Ref img, source: [twt@](https://x.com/Pastel_Illust_/status/2019826271744889091)
 
