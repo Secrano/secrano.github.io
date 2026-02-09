@@ -1,5 +1,17 @@
 # secrano.github.io
 
+--- Git Day: L3H2
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/rosuuri/status/2020638775005876657)
+
+- Ref img, source: [twt@](https://x.com/shiloroshi/status/2020367404669509966)
+
+- Ref img, source: [twt@](https://x.com/mark_lj/status/2020614019590091047)
+
+# ---
+
 --- Git Day: L3G5 - tik-tok date.
 
 # --- 
