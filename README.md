@@ -4,6 +4,19 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/kiri__tsuki/status/2020816003261739148)
+
+- Ref img, source: [twt@](https://x.com/ProfFeynman/status/2020872131781800014)
+
+- Ref img, source: [twt@](https://x.com/jimmyfallon/status/2020663376636944654)
+
+- Ref img, source: [twt@](https://x.com/sarasara_aiart/status/2020321066481250780)
+
+- Ref img, source: [twt@](https://x.com/AGZAMx/status/2020821843066638696)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/rosuuri/status/2020638775005876657)
 
 - Ref img, source: [twt@](https://x.com/shiloroshi/status/2020367404669509966)
