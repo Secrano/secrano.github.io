@@ -4,6 +4,17 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/yuruyurau/status/2021238125285036136)
+
+- Ref img, source: [twt@](https://x.com/amamitsuki12/status/2021252584544092280)
+
+- Ref img, source: [twt@](https://x.com/lilydisease/status/2020784862794551300)
+
+- Ref img, source: [twt@](https://x.com/Kuragesaibou/status/2021187131926827147)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/kiri__tsuki/status/2020816003261739148)
 
 - Ref img, source: [twt@](https://x.com/ProfFeynman/status/2020872131781800014)
