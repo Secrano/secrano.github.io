@@ -4,6 +4,21 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Dino_illus/status/2021689110738440438)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/cafe25_x/status/2021596858196595192)
+
+- Ref img, source: [twt@](https://x.com/cafe25_x/status/2012577276764852478)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/GF_Saihate/status/2021533709749620821)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/bluedreamvibes/status/2021296557170028801)
 
 - Ref img, source: [twt@](https://x.com/heheheriki/status/2021508150395039950)
