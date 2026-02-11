@@ -4,6 +4,45 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/bluedreamvibes/status/2021296557170028801)
+
+- Ref img, source: [twt@](https://x.com/heheheriki/status/2021508150395039950)
+
+- Ref img, source: [twt@](https://x.com/kur0mimii/status/2021241375925076002)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/_______might/status/2021511351928283262)
+
+- Ref img, source: [twt@](https://x.com/asteroid_ill/status/2021532279869485135)
+
+- Ref img, source: [twt@](https://x.com/makoron117117/status/2021529766739034431)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/ladelsotano_/status/2021381788422053912)
+
+- Ref img, source: [twt@](https://x.com/XorDev/status/2021258388038943162)
+
+- Ref img, source: [twt@](https://x.com/aib_bar/status/2021574188973125930)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/KaiKai2492/status/2021451483045052508)
+
+- Ref img, source: [twt@](https://x.com/kingra_duel/status/2021419223235576296)
+
+- Ref img, source: [twt@](https://x.com/AGZAMx/status/2021500704330809780)
+
+- Ref img, source: [twt@](https://x.com/ramens11/status/2021521430173855842)
+
+- Ref img, source: [twt@](https://x.com/hip_trashh/status/2021381163420405907)
+
+- Ref img, source: [twt@](https://x.com/AGZAMx/status/2021514545492120017)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/yuruyurau/status/2021238125285036136)
 
 - Ref img, source: [twt@](https://x.com/amamitsuki12/status/2021252584544092280)
