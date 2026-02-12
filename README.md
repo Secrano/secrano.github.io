@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/eukniv/status/2021930469172859180)
+
+- Ref img, source: [twt@](https://x.com/kittillusion/status/2021834559608795328)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Dino_illus/status/2021689110738440438)
 
 # ---
