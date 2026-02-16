@@ -4,6 +4,11 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/lavelis_twi/status/2020158109277384990)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/arowana2111/status/2022685169849897211)
 
 # ---
