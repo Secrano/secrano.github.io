@@ -8,7 +8,7 @@
 
 # ---
 
-[Music: "I don’t want to regret the way I lived — Itadori Yuji"](https://www.youtube.com/watch?v=wTduihpxjaY) - uploaded by sakamoto films
+Music: ["I don’t want to regret the way I lived — Itadori Yuji"](https://www.youtube.com/watch?v=wTduihpxjaY) - uploaded by sakamoto films
 
 # ---
 # ---
