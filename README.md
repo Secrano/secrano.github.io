@@ -1,5 +1,17 @@
 # secrano.github.io
 
+--- Git Day: L3H9 - limit.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/sgwr1/status/2023303507496046768)
+
+# ---
+
+[Music: "I don’t want to regret the way I lived — Itadori Yuji"](https://www.youtube.com/watch?v=wTduihpxjaY) - uploaded by sakamoto films
+
+# ---
+
 --- Git Day: L3H2
 
 # ---
