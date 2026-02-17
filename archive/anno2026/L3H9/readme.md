@@ -1,6 +1,6 @@
 # secrano.github.io
 
---- Git Day: L3H9 - limit.
+--- Git Day: L3H9 - limit. 
 
 # ---
 
