@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/KSUWABE/status/2024119961174901223)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/refisan17/status/2024398049691193634)
 
