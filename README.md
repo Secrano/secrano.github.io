@@ -2,6 +2,13 @@
 
 --- Git Day: L4B0 - mint.
 
+# --- 
+
+- Ref img, source: [twt@](https://x.com/cafe25_x/status/2025501124686397905)
+
+- Ref img, source: [twt@](https://x.com/yuruyurau/status/2025603714883743849)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/xiuFyioC0AZYEtb/status/2025383816215626213)
