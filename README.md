@@ -9,7 +9,6 @@
 - Ref img, source: [twt@](https://x.com/yuruyurau/status/2025603714883743849)
 
 # ---
-# --- add below top
 
 - Ref img, source: [twt@](https://x.com/hiseco/status/2025163811330888182)
 
