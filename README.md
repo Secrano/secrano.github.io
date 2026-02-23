@@ -1,5 +1,15 @@
 # secrano.github.io
 
+---# Git Day: L4B7 - daym b. 
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Matcha_o0_/status/2025862011452895700)
+
+- Ref img, source: [twt@](https://x.com/SayaScarlet01/status/2025892100462768452)
+
+# ---
+
 --- Git Day: L4B0 - mint.
 
 # --- 
