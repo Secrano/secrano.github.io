@@ -1,6 +1,6 @@
 # secrano.github.io
 
----# Git Day: L4B7 - daym b. 
+--- Git Day: L4B7 - daym b. 
 
 # ---
 
