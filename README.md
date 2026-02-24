@@ -10,6 +10,10 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/JiaChung_4/status/2026155043318358431)
+
+# ---
+
 --- Git Day: L4B0 - mint.
 
 # --- 
