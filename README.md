@@ -2,6 +2,14 @@
 
 --- Git Day: L4B7 - daym b. 
 
+# --- 
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/2027298367047442852)
+
+- Ref img, source: [twt@](https://x.com/junkiyoshi/status/2026990291564302709)
+
+- Ref img, source: [twt@](https://x.com/himechabin/status/2027055240839827909)
+
 # ---
 
 - Ref img, source: [twt@](https://x.com/VxRender/status/2026220458408911158)
