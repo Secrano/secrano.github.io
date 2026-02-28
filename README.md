@@ -6,7 +6,6 @@
 
 - Ref img, source: [twt@](https://x.com/oshiruko_s2/status/2027666146653335623)
 
-# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/Rainmaker1973/status/2027298367047442852)
