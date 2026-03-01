@@ -6,7 +6,6 @@
 
 - Ref img, source: [twt@](https://x.com/YoheiNishitsuji/status/2027634722348929256)
 
-# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/jvn_artwork/status/2027312580000367056)
