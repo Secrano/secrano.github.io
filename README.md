@@ -2,6 +2,19 @@
 
 --- Git Day: L4C4 - broke(n).
 
+# --- 
+
+- Ref img, source: [twt@](https://x.com/DemizuPosuka/status/2028471259609330140)
+
+- Ref img, source: [twt@](https://x.com/wonderofscience/status/2028461571576627206)
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/2028606282559795257)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/2028513648235184260)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/Kantende_su/status/2027953504984437001)
