@@ -4,6 +4,8 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/AIS_armor_girl/status/2029196175728099728)
+
 - Ref img, source: [twt@](https://x.com/raoutanaka/status/2029113024876036381)
 
 # --- 
