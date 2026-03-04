@@ -6,7 +6,6 @@
 
 - Ref img, source: [twt@](https://x.com/raoutanaka/status/2029113024876036381)
 
-# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/DemizuPosuka/status/2028471259609330140)
