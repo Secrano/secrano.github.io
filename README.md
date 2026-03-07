@@ -2,6 +2,25 @@
 
 --- Git Day: L4C4 - broke(n).
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/Naam_kafi_hai/status/2029859521578029096)
+
+- Ref img, source: [twt@](https://x.com/boom_sate225/status/2030206905940091249)
+
+- Ref img, source: [twt@](https://x.com/IAFsite/status/2030197088345117077)
+
+- Ref img, source: [twt@](https://x.com/LesleyannIrvin1/status/2029934641575063918)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Rainmaker1973/status/2030116233941766209)
+
+- Ref img, source: [twt@](https://x.com/hawn_iee/status/2030112930193191292)
+
+- Ref img, source: [twt@](https://x.com/botchi967/status/2030199088751292793)
+
+# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/Drowsy_sheep/status/2029738866383749525)
