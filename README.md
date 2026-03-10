@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/toriartworks/status/2030237140920287383)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/nigeldanson/status/2030340892972732723)
 
