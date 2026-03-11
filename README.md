@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/Rainmaker1973/status/2031656153071956258)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/toriartworks/status/2030237140920287383)
 
