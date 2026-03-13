@@ -9,7 +9,6 @@
 - Ref img, source: [twt@](https://x.com/tiksca2299/status/2032158838347219246)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/Rainmaker1973/status/2031656153071956258)
 
