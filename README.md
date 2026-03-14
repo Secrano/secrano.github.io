@@ -8,7 +8,6 @@
 
 - Ref img, source: [twt@](https://x.com/8rami2ki/status/2032773729609232552)
 
-# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/sevenotsu/status/2032419269838066107)
