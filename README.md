@@ -2,6 +2,12 @@
 
 --- Git Day: L4D1 - mother nature.
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/giaseeds_/status/2033315791261839762)
+
+- Ref img, source: [twt@](https://x.com/sksk_sakuno/status/2033472087042507211)
+
 # --- 
 
 - Ref img, source: [twt@](https://x.com/junkiyoshi/status/2032745435543343162)
