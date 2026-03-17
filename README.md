@@ -1,5 +1,15 @@
 # secrano.github.io
 
+--- Git Day: L4D8 - hart.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/apofissx/status/2033582250122514835)
+
+- Ref img, source: [twt@](https://x.com/hybrid_jabjong/status/2033378148881166614)
+
+# ---
+
 --- Git Day: L4D1 - mother nature.
 
 # ---
