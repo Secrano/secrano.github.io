@@ -4,6 +4,21 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Nannung_mdr/status/2034140872980529309)
+
+- Ref img, source: [twt@](https://x.com/circle_ueponzu/status/2034102496159756605)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Sco_ttie/status/2017173493050474730)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Sco_ttie/status/2034223538757132478)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/apofissx/status/2033582250122514835)
 
 - Ref img, source: [twt@](https://x.com/hybrid_jabjong/status/2033378148881166614)
