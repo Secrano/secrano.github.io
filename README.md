@@ -4,6 +4,15 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/tekito_chanpon/status/2034486131673419957)
+
+- Ref img, source: [twt@](https://x.com/izumi_huna/status/2034244982480195859)
+
+- Ref img, source: [twt@](https://x.com/HAL09999/status/2034684853602381829)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Nannung_mdr/status/2034140872980529309)
 
 - Ref img, source: [twt@](https://x.com/circle_ueponzu/status/2034102496159756605)
