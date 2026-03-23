@@ -4,6 +4,11 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Polisophy_92/status/2035888202683429365)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/otennko0061/status/2035824178042155380)
 
 # ---
