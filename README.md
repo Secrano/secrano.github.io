@@ -1,7 +1,34 @@
 # secrano.github.io
 
---- Git Day: L4D8 - hart.
+--- Git Day: L4D8 - hart school.
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/otennko0061/status/2035824178042155380)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/matchach/status/2035636796810510385)
+
+- Ref img, source: [twt@](https://x.com/julchay99/status/2035536593197686821)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/arowana2111/status/1967378182472146965)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Nuruuuung/status/1948217462559826206)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Nuruuuung/status/2029493428250427431)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/arowana2111/status/2026531656732127607)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/kohaku_sogo/status/2035703388122579408)
