@@ -1,5 +1,43 @@
 # secrano.github.io
 
+--- Git Day: L4F2 - long dist.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/2036781551090827766)
+
+- Ref img, source: [twt@](https://x.com/k__k__t_/status/2032948179159888374)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/bo0O0od/status/2036642256862716399)
+
+- Ref img, source: [twt@](https://x.com/Sebas_Calleri/status/2032873937621700737)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/CreateByMichael/status/2032999653445349886)
+
+- Ref img, source: [twt@](https://x.com/mewmew_meeowwww/status/2034468459594293615)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Kalli2005/status/2035794818203263208)
+
+- Ref img, source: [twt@](https://x.com/Kalli2005/status/2034700738731864170)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/aki_tatchi/status/2036760010173104247)
+
+- Ref img, source: [twt@](https://x.com/junkiyoshi/status/2036773906338730076)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/cocoa744/status/2036777081019961441)
+
+# ---
+
 --- Git Day: L4E5 - chungus life.
 
 # --- 
