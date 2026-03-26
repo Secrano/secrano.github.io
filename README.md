@@ -9,7 +9,6 @@
 - Ref img, source: [twt@](https://x.com/junkiyoshi/status/2037169102012506596)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/Kuroneko__x/status/2036781551090827766)
 
