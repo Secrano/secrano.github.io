@@ -9,7 +9,6 @@
 - Ref img, source: [twt@](https://x.com/junkiyoshi/status/2037507049987408041)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/wonderofscience/status/2037182032841781628)
 
