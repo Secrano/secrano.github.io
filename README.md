@@ -1,5 +1,19 @@
 # secrano.github.io
 
+--- Git Day: L4F9 - drug.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/ohtani_tani25/status/2038540404996616322)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Drowsy_sheep/status/2038738116312543579)
+
+- Ref img, source: [twt@](https://x.com/imafloof/status/2038656310174961994)
+
+# ---
+
 --- Git Day: L4F2 - long dist.
 
 # ---
