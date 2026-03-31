@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/fn_greenfox/status/2038780754688414041)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/ohtani_tani25/status/2038540404996616322)
 
