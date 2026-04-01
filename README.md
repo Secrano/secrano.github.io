@@ -4,6 +4,23 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/dashase/status/2038853840359842226)
+
+- Ref img, source: [twt@](https://x.com/VideoArtGame/status/2038859083311456435)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Kuroneko__x/status/2039215413230281183)
+
+- Ref img, source: [twt@](https://x.com/ha9siro/status/2039173935326171645)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/2039176118398579023)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/NatlParkService/status/2039050520921305486)
 
 # ---
