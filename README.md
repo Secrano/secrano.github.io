@@ -9,7 +9,6 @@
 - Ref img, source: [twt@](https://x.com/Sco_ttie/status/2039659356627644800)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/dashase/status/2038853840359842226)
 
