@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/RailgunKy/status/2039638816391369197)
+
+- Ref img, source: [twt@](https://x.com/Sco_ttie/status/2039659356627644800)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/dashase/status/2038853840359842226)
 
 - Ref img, source: [twt@](https://x.com/VideoArtGame/status/2038859083311456435)
