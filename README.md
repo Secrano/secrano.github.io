@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/NARUTO_kousiki/status/2040202694196179205)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/wonderofscience/status/2039682761108197623)
 
