@@ -4,6 +4,19 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/osetoiro/status/2040368784830316789)
+
+- Ref img, source: [twt@](https://x.com/mo_9x9/status/2040349254368235558)
+
+- Ref img, source: [twt@](https://x.com/hirography_321/status/2040361297771127160)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Senri_sen1/status/2040385588919259416)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/NARUTO_kousiki/status/2040202694196179205)
 
 # ---
