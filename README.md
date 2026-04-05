@@ -10,8 +10,6 @@
 
 - Ref img, source: [twt@](https://x.com/CCOMCfd83WziJst/status/2040641789833683307)
 
-# ---
-
 - Ref img, source: [twt@](https://x.com/Moi6D6F69/status/2040058632784732211)
 
 - Ref img, source: [twt@](https://x.com/sonota_ab/status/2040393599528182067)
