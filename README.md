@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/dsuV4sW8qYWHQVL/status/2041471060344799579)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/himino_aiart/status/2041285273817117161)
 
