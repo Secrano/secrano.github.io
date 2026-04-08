@@ -1,5 +1,15 @@
 # secrano.github.io
 
+--- Git Day: L4G6 - ice castle.
+
+# --- 
+
+- Ref img, source: [twt@](https://x.com/vap0ris/status/2041924032119898569)
+
+- Ref img, source: [twt@](https://x.com/sarasara_aiart/status/2041879482529874127)
+
+# ---
+
 --- Git Day: L4F9 - drug.
 
 # --- 
