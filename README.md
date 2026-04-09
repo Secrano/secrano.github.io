@@ -14,7 +14,6 @@
 
 - Ref img, source: [twt@](https://x.com/BUspuzPMrropHwh/status/2042123293281677561)
 
-# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/vap0ris/status/2041924032119898569)
