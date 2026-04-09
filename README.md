@@ -2,6 +2,19 @@
 
 --- Git Day: L4G6 - ice castle.
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/AnimexBase/status/2042099686035575057)
+
+- Ref img, source: [twt@](https://x.com/blackvibe/status/2042325926776881610)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/ZZINGZO/status/2042211614049566720)
+
+- Ref img, source: [twt@](https://x.com/BUspuzPMrropHwh/status/2042123293281677561)
+
+# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/vap0ris/status/2041924032119898569)
