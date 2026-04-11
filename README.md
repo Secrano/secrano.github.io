@@ -1,5 +1,17 @@
 # secrano.github.io
 
+--- Git Day: L4H3 -  ice cup.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/cohoochiedust/status/2043043820699328923)
+
+- Ref img, source: [twt@](https://x.com/_6_sr/status/2043009973513523374)
+
+# ---
+
+<br/>
+
 --- Git Day: L4G6 - ice castle.
 
 # ---
