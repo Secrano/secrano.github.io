@@ -15,7 +15,6 @@
 - Ref img, source: [twt@](https://x.com/MAOHyueer/status/2043360344773685654)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/asteroid_ill/status/2043293138891223412)
 
