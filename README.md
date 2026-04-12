@@ -4,6 +4,19 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/mugi_AI_Art/status/2043162194544672911)
+
+- Ref img, source: [twt@](https://x.com/0mmmmm7777777/status/2043357580400169411)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/PimPichc/status/2043313950239125865)
+
+- Ref img, source: [twt@](https://x.com/MAOHyueer/status/2043360344773685654)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/asteroid_ill/status/2043293138891223412)
 
 <br/>
