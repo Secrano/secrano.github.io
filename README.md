@@ -37,7 +37,6 @@
 - Ref img, source: [twt@](https://x.com/sake_maguro/status/2043655693430059377)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/mugi_AI_Art/status/2043162194544672911)
 
