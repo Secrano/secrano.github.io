@@ -4,6 +4,16 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/MikkoTyllinen/status/2043728450653913525)
+
+- Ref img, source: [twt@](https://x.com/koahri1/status/1829262756274729199)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/yoginnnnnn/status/2043873632741667044)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/Qooo003/status/2043695986871243228)
 
 - Ref img, source: [twt@](https://x.com/hazukt1/status/2043644647155896528)
