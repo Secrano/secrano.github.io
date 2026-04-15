@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/ayumi_M580/status/2044333177469297128)
+
+- Ref img, source: [twt@](https://x.com/preatorcz/status/2044085091035689331)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/MikkoTyllinen/status/2043728450653913525)
 
 - Ref img, source: [twt@](https://x.com/koahri1/status/1829262756274729199)
