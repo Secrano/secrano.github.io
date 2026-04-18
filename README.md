@@ -13,6 +13,14 @@
 - Ref img, source: [twt@](https://x.com/deadpool_yuchan/status/2044392675160559920)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/senriash/status/2043990251623068088)
+
+<br/>
+
+- Ref img, source: [twt@](https://x.com/miu_5011/status/2045319167260405857)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/ayumi_M580/status/2044333177469297128)
