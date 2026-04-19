@@ -2,6 +2,11 @@
 
 --- Git Day: L4H3 -  ice cup.
 
+# --- 
+
+- Ref img, source: [twt@](https://x.com/yuhaku__/status/2045559745374007773)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/coob_ba/status/2045588586708492662)
