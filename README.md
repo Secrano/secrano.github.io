@@ -4,6 +4,19 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/141emt/status/2045545696191783234)
+
+- Ref img, source: [twt@](https://x.com/wonderofscience/status/2045545390842282345)
+
+- Ref img, source: [twt@](https://x.com/coob_ba/status/2045588586708492662)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/karmaterasuu/status/2045471038641934613)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/AniOrigin/status/2044136221660852501)
 
 - Ref img, source: [twt@](https://x.com/Kuroneko__x/status/2044450470568001648)
