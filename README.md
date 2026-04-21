@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/koahri1/status/2046691917644128600)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/Floverale/status/2046417135321420041)
 
