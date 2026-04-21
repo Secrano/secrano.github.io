@@ -4,6 +4,14 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Floverale/status/2046417135321420041)
+
+- Ref img, source: [twt@](https://x.com/azume215/status/2046165628214718908)
+
+- Ref img, source: [twt@](https://x.com/Nery_Nli/status/2046528931474612475)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/xxxc1014/status/2046146333921493015)
 
 # ---
