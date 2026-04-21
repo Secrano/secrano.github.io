@@ -1,6 +1,6 @@
 # secrano.github.io
 
---- Git Day: L4I1 - crown
+--- Git Day: L4I1 - crown.
 
 # ---
 
