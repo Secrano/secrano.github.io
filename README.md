@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/rattecs/status/2046582666602963428)
+
+- Ref img, source: [twt@](https://x.com/DemizuPosuka/status/2046950216528724399)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/rosuuri/status/2046541454198092261)
 
 - Ref img, source: [twt@](https://x.com/yurari_banri/status/2045083849622003915)
