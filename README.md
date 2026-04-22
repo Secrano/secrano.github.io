@@ -4,6 +4,12 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/rosuuri/status/2046541454198092261)
+
+- Ref img, source: [twt@](https://x.com/yurari_banri/status/2045083849622003915)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/koahri1/status/2046691917644128600)
 
 # ---
