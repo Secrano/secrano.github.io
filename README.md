@@ -4,6 +4,10 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Nery_Nli/status/2047970031213150239)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/mark_lj/status/2047771692664050112)
 
 # ---
