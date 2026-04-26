@@ -4,6 +4,18 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/rattecs/status/2048350097990152341)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/zangfoxzang/status/2047869955287519412)
+
+- Ref img, source: [twt@](https://x.com/Vercreek/status/2047621912000647664)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/oshiruko_s2/status/2048324541202809188)
+
 - Ref img, source: [twt@](https://x.com/Nery_Nli/status/2047970031213150239)
 
 # ---
