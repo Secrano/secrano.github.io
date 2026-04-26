@@ -4,7 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Mizkichi_BG/status/2048339299553419696)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/rattecs/status/2048350097990152341)
+
+- Ref img, source: [twt@](https://x.com/maplesyrupbeans/status/2048293076435677259)
 
 # ---
 
