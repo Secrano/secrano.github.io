@@ -4,6 +4,22 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Nery_Nli/status/2048749613948219533)
+
+- Ref img, source: [twt@](https://x.com/oichi_desu_/status/2048706351212421496)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/dashase/status/2048703613845844347)
+
+- Ref img, source: [twt@](https://x.com/CarlBovisNature/status/2048799331789025672)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/purelivn/status/2048267829686968645)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/Mizkichi_BG/status/2048339299553419696)
 
 # ---
