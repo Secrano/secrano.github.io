@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/TCUAsnow/status/2048962934630764859)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/koahri1/status/2048503729574257150)
 
