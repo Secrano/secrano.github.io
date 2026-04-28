@@ -4,6 +4,19 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/koahri1/status/2048503729574257150)
+
+- Ref img, source: [twt@](https://x.com/saintdutchess/status/2048190492001632482)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/kingu_ch/status/2048632825747046573)
+
+- Ref img, source: [twt@](https://x.com/reluvy5213/status/2048718807108391067)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Nery_Nli/status/2048749613948219533)
 
 - Ref img, source: [twt@](https://x.com/oichi_desu_/status/2048706351212421496)
