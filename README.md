@@ -1,5 +1,15 @@
 # secrano.github.io
 
+--- Git Day: L4i8 - seven drawfs.
+
+# --- 
+
+- Ref img, source: [twt@](https://x.com/minaqueenu/status/2049582770976964965)
+
+- Ref img, source: [twt@](https://x.com/MitsuArt_/status/2049583889631297623)
+
+# ---
+
 --- Git Day: L4I1 - crown.
 
 # ---
