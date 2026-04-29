@@ -4,6 +4,8 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/kami_shun0505/status/2049441075274879465)
+
 - Ref img, source: [twt@](https://x.com/TCUAsnow/status/2048962934630764859)
 
 # ---
