@@ -4,6 +4,17 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/greenvibe/status/2049522890651967916)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/sevenotsu/status/2050099548778045699)
+
+- Ref img, source: [twt@](https://x.com/rosuuri/status/2050002510686122109)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/iaoseagrass/status/2049749594356195652)
 
 # ---
