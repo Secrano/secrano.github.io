@@ -4,6 +4,35 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/ateli_er_/status/2051304572279566613)
+
+- Ref img, source: [twt@](https://x.com/urswitchbf/status/2050992054885404928)
+
+- Ref img, source: [twt@](https://x.com/deskmatis/status/2051103069832650894)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/deskmatis/status/2051085093272191124)
+
+- Ref img, source: [twt@](https://x.com/reluvy5213/status/2051255520120476139)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/ItoArtLab/status/2051220768969896197)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/ArtorOtherThing/status/2051134725289283870)
+
+- Ref img, source: [twt@](https://x.com/masamasa0055z/status/2051140945924723100)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/M1ncy/status/2051310382099382535)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/OfTheLimbO/status/2050975654175551524)
 
 # ---
