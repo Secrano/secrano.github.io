@@ -4,6 +4,31 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/HAL09999/status/2052070042032873579)
+
+- Ref img, source: [twt@](https://x.com/wonderofscience/status/2052072399064211875)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/apofissx/status/2051710503991365952)
+
+- Ref img, source: [twt@](https://x.com/gracile_jp/status/2052031110713094604)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/asteroid_ill/status/2052024972995121205)
+
+- Ref img, source: [twt@](https://x.com/DemizuPosuka/status/2052012965545779411)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/8rami2ki/status/2051478309897404655)
+
+- Ref img, source: [twt@](https://x.com/controdicting/status/2052033693632364892)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/MANISH1027512/status/2051876176453611951)
 
 # ---
