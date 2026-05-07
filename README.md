@@ -2,6 +2,17 @@
 
 --- Git Day: L4i8 - seven drawfs.
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/jeonghee1414/status/2052405584243335547)
+
+- Ref img, source: [twt@](https://x.com/Rellakinoko/status/2052311884502868029)
+
+- Ref img, source: [twt@](https://x.com/junkiyoshi/status/2052359535420195309)
+
+- Ref img, source: [twt@](https://x.com/almirgusic/status/2052377911248712054)
+
+# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/HAL09999/status/2052070042032873579)
