@@ -4,6 +4,35 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/kuroneko_no_pei/status/2052310970987581775)
+
+- Ref img, source: [twt@](https://x.com/jeonghee1414/status/2049786517284061522)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/asagawo_elf/status/2052361063539343370)
+
+- Ref img, source: [twt@](https://x.com/LilAggyTV/status/2052508346813436277)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Quickcx/status/2052562653369737503)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/zampy68/status/2052437846590394708)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/aemeath_daily/status/2052388402583187557)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/loong_blo/status/2052586276176732575)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/jeonghee1414/status/2052405584243335547)
 
 - Ref img, source: [twt@](https://x.com/Rellakinoko/status/2052311884502868029)
