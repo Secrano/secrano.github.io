@@ -1,5 +1,29 @@
 # secrano.github.io
 
+--- Git Day: L4J4 - quantum ghosts
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/TimpersHD/status/2052484717421683140)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/ARCRaidersGame/status/2052780568505434351)
+
+- Ref img, source: [twt@](https://x.com/sudobunni/status/2052804875214532866)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/FlorkOfCows/status/2052746721289969842)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/onepiecenetflix/status/2052765467178140151)
+
+- Ref img, source: [twt@](https://x.com/apofissx/status/2042652766066159784)
+
+# ---
+
 --- Git Day: L4i8 - seven drawfs.
 
 # ---
