@@ -4,6 +4,12 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/LOTM_WORLD/status/2052789092413243772)
+
+- Ref img, source: [twt@](https://x.com/yuruyurau/status/2053149494439800895)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/TimpersHD/status/2052484717421683140)
 
 # ---
