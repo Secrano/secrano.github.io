@@ -1,5 +1,15 @@
 # secrano.github.io
 
+--- Git Day: L4K1 - momma mothers day smth
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/zampy68/status/2053054390475333886)
+
+- Ref img, source: [twt@](https://x.com/aquarobinn/status/2053502263918731323)
+
+# ---
+
 --- Git Day: L4J4 - quantum ghosts
 
 # ---
