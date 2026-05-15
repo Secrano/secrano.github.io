@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/yureiyks/status/2055264431978741793)
+
+- Ref img, source: [twt@](https://x.com/DanKantori/status/2055402625206534449)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Much118x/status/2054592506520867004)
 
 - Ref img, source: [twt@](https://github.com/Secrano/secrano.github.io/blob/main/archive/anno2026/shadowban/readme.md) (shadowban)
