@@ -6,6 +6,14 @@
 
 - Ref img, source: [twt@](https://x.com/Much118x/status/2054592506520867004)
 
+- Ref img, source: [twt@](https://github.com/Secrano/secrano.github.io/blob/main/archive/anno2026/shadowban/readme.md) (shadowban)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/FuckedUpYogis/status/2055044531909799938)
+
+- Ref img, source: [twt@](https://x.com/nika_volkovna/status/2054991270435512387)
+
 # ---
 # ---
 
