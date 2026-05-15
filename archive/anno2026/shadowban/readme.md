@@ -36,7 +36,7 @@ chi gurls
 
 2nd final stage
 ***
-{./watch?v=vDMOM6etvPs}. <br/>
+{./watch?v=vDMOM6etvPs}. 
 *** blackhole ive kr
 {./watch?v=DM_Uv7eA3V4}.
 
