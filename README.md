@@ -4,6 +4,14 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Nannung_mdr/status/2053376521960878273)
+
+- Ref img, source: [twt@](https://x.com/rita_ava_100/status/1923307550809751967)
+
+- Ref img, source: [twt@](https://x.com/FRIEREN_PR/status/2055573982724903401)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/yureiyks/status/2055264431978741793)
 
 - Ref img, source: [twt@](https://x.com/DanKantori/status/2055402625206534449)
