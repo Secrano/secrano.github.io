@@ -8,7 +8,7 @@ high elo
 
 {./watch?v=IvbprhKtBx8}.
 
-school uni, 
+school uni, <br/>
  keep growing.
 
 {./watch?v=89MV9PHQQCQ}.
@@ -30,6 +30,8 @@ Fckings tard.
 Someone release 
  Mythos please.
 
+<br/>
+
 Someone’s cooking
 ***
 {./shorts/tWoaC2wMZ10}.
@@ -39,6 +41,8 @@ Someone’s cooking
 {.///shorts/ITs6qTRmy7E}.
 ***
 {.////shorts/DI8kpT_xbcs}.
+
+<br/>
 
 Bk to league, huh.
 ***
