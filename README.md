@@ -4,6 +4,32 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/CleanFigarland/status/2056383107901558836)
+
+- Ref img, source: [twt@](https://x.com/lukas_trips/status/2056335012677509456)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/slllimpickins/status/2056214228478861604)
+
+- Ref img, source: [twt@](https://x.com/zampy68/status/2056329229579505759)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/MaryTilesTexas/status/2056466651583823988)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/QBlazedog61029J/status/2056400629178810800)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/sotoumisorato/status/2055987770825584939)
+
+- Ref img, source: [twt@](https://github.com/Secrano/secrano.github.io/blob/main/archive/anno2026/shadowban/readme4.md) (self-mute 2)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/oshiruko_s2/status/2056323602631565338)
 
 # ---
