@@ -4,6 +4,24 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/oshiruko_s2/status/2056323602631565338)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/wonderofscience/status/2056019408183754842)
+
+- Ref img, source: [twt@](https://x.com/yurari_banri/status/2052329342076584129)
+
+- Ref img, source: [twt@](https://x.com/minori_chigusa/status/2056277494979011069)
+
+# ---
+
+- Ref img, source: [twt@](https://github.com/Secrano/secrano.github.io/blob/main/archive/anno2026/shadowban/readme3.md) (self-mute)
+
+- Ref img, source: [twt@](https://x.com/miku_emori/status/2056314085416071252)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/zampy68/status/2056034470600323392) 
 
 - Ref img, source: [twt@](https://x.com/techartist_/status/2056057391482040698)
