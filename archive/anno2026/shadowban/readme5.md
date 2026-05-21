@@ -1,20 +1,20 @@
 /// fck off
 
-good dreamu
+good dreamu <br/>
 {./shorts/zTsALpqwnVc}.
 
 https://youtube.com/shorts/zTsALpqwnVc?is=Yk5VjW3md0P9SGSv
 
 Bro's clueless.
 
-Someone's tampering
+Someone's tampering <br/>
  with my memory.
 
 Or am I recreating them.
 
 Multi-dimensional.
 
-I need to remove it
+I need to remove it <br/>
  from the kids.
 ***
 But I don't know how.
