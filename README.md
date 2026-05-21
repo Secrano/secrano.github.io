@@ -1,5 +1,33 @@
 # secrano.github.io
 
+--- Git Day: L4M2
+
+# --- 
+
+- Ref img, source: [twt@](https://x.com/Secrano/status/2057586184155505123)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/elri1908/status/2057396234357469312)
+
+- Ref img, source: [twt@](https://x.com/YuDai_Tsai/status/2057528933331960186)
+
+- Ref img, source: [twt@](https://x.com/Yuji_48/status/2057428753522016502)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/k1rallik/status/2057522983044825548)
+
+# --- 
+
+- Ref img, source: [twt@](https://x.com/purelivn/status/2057330546280169506)
+
+# ---
+
+- Ref img, source: [twt@](https://github.com/Secrano/secrano.github.io/blob/main/archive/anno2026/shadowban/readme6.md) (cheers)
+
+# ---
+
 --- Git Day: L4L5 - gas chamber.
 
 # --- 
