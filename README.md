@@ -19,3 +19,7 @@
 - Ref img, source: [twt@](https://x.com/c_o_l_a/status/1924409605368758700)
 
 # ---
+
+- Ref img, source: [twt@](https://github.com/Secrano/secrano.github.io/blob/main/archive/anno2026/shadowban/readme5.md) (last shadowban)
+
+# ---
