@@ -1,6 +1,6 @@
 # secrano.github.io
 
---- Git Day: L4M2
+--- Git Day: L4M2 - collision detection.
 
 # --- 
 
@@ -24,7 +24,7 @@
 
 # ---
 
-- Ref img, source: [twt@](https://github.com/Secrano/secrano.github.io/blob/main/archive/anno2026/shadowban/readme6.md) (cheers)
+- Ref img, source: [twt@](https://github.com/Secrano/secrano.github.io/blob/main/archive/anno2026/shadowban/readme6.md) (cheers 2 meta)
 
 # ---
 
