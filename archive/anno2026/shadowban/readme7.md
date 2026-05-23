@@ -111,3 +111,77 @@ C: Think all artists are gone.
 
 ---
 ---
+
+--- express plane ex
+
+{.//watch?v=pykdDgWX7-M}.
+
+Mega Greninja ex
+ plus Mega Starmie ex.
+
+Free nw decks smth.
+
+// more da rand hm
+
+{./watch?v=qB4MYtaL4Gs}.
+
+Why did you bring me bk.
+
+I don't even know who I am.
+
+Bro's a poker player.
+
+{./shorts/DRFQwM0TwFI}.
+
+What does it mean to be free.
+
+solo smth
+
+{./watch?v=dYY2JBp_xlQ}.
+
+triple it gurl
+
+{./watch?v=LSb3pZ24VX4}.
+
+wow
+
+{./watch?v=OJ3MfCV4iv8}.
+
+{./watch?v=OJ3MfCV4iv8}.
+
+exhaustion
+
+{./watch?v=5PqjKxj-0Lo}.
+
+omg
+
+{./watch?v=5PqjKxj-0Lo}.
+
+ shrimp corner walk.
+
+poker casino.
+
+gf.
+
+Not letting her go.
+
+naked beaches.
+
+iberico ham bitch.
+
+slap.
+
+It’s thai rice.
+***
+{./watch?v=E0PYkY5b3A8}.
+***
+{.//shorts/y9Ld8YouQIQ}.
+***
+{./watch?v=iObaKETaGRc}.
+***
+{.//shorts/Lp9hQTQsdes}.
+***
+{./shorts/asS5hFVi17g}.
+
+---
+---
