@@ -4,7 +4,7 @@
 
 # --- 
 
-- Ref img, source: [twt@](https://github.com/Secrano/secrano.github.io/blob/main/archive/anno2026/shadowban/readme7.md) (smth)
+- Ref img, source: [twt@](https://github.com/Secrano/secrano.github.io/blob/main/archive/anno2026/shadowban/readme7.md) (smth 2)
   
 # ---
 
