@@ -72,7 +72,7 @@ bb gurl.
 
 cat fa
 
-[./post/Ugkxr23OmnRQvoz
+[./post/Ugkxr23OmnRQvoz <br/>
   ficpU8aE5zQ3gZcKXhDG9].
 
 {./watch?v=DF8ruiKqIos}.
@@ -87,14 +87,14 @@ not lizard
 
 dog fart
 
-[./post/UgkxT5vZEBAr9v
+[./post/UgkxT5vZEBAr9v <br/>
   Flo_2RFyAETRIgAV3kYlvv].
 
 {./shorts/ooPd2JsbwZo}.
 
 {./shorts/l_HJtpkxPXI}.
 
-fn pull common
+fn pull common <br/>
 {./shorts/UGDs6pKZjVs}.
 
 {./shorts/qmXPosYzrlU}.
