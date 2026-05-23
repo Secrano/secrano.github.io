@@ -116,7 +116,7 @@ C: Think all artists are gone.
 
 {.//watch?v=pykdDgWX7-M}.
 
-Mega Greninja ex
+Mega Greninja ex <br/>
  plus Mega Starmie ex.
 
 Free nw decks smth.
@@ -170,6 +170,8 @@ naked beaches.
 iberico ham bitch.
 
 slap.
+
+<br/>
 
 It’s thai rice.
 ***
