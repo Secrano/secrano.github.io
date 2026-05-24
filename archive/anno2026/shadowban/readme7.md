@@ -297,19 +297,13 @@ You're a mix of both.
 ***
 Eating its own tail.
 
-<br/>
-
 Sapporo.
 ***
 {./watch?v=ZAzWT8mRoR0}.
 
-<br/>
-
 Their ego.
 ***
 {./watch?v=8d5QEWdHchk}.
-
-<br/>
 
 If I don't get it, <br/>
  they won't get it.
