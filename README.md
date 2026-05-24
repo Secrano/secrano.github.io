@@ -4,6 +4,18 @@
 
 # --- 
 
+- Ref img, source: [twt@](https://x.com/ta5ylp/status/2058224436248281451)
+
+- Ref img, source: [twt@](https://x.com/H_tora4/status/2057868760732565613)
+
+- Ref img, source: [twt@](https://x.com/ta5ylp/status/2058224436248281451)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Pulaxki/status/2058066599509119004)
+
+# ---
+
 - Ref img, source: [twt@](https://github.com/Secrano/secrano.github.io/blob/main/archive/anno2026/shadowban/readme7.md) (smth 2)
   
 # ---
