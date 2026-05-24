@@ -187,3 +187,124 @@ It’s thai rice.
 
 ---
 ---
+
+cat talk
+https://x.com/beyoncegarden/status/2057938446681850324
+
+ian pp mm fa
+
+https://x.com/H_tora4/status/2057868760732565613
+
+Dragon turtle.
+
+JJ fav tho
+
+https://www.youtube.com/shorts/cnDz4fMyiZY
+
+b akali fn fa
+
+https://x.com/Pulaxki/status/2058066599509119004
+
+overcards overplay flop gg //
+
+https://www.youtube.com/shorts/y4v1dytnaY4
+
+tae yang dance 4
+
+https://youtube.com/shorts/QoqGq7Nb7pY?is=e2hPN1DNhlPyQhQb
+
+bitch not givin up
+
+https://youtube.com/shorts/CDy233XIRvA?is=pBsyFLqJT-Pj0vRN
+
+weird, all- in
+
+https://youtube.com/shorts/uMCQzlCZSMo?is=ZBTwvGDYE5uL3yJY
+
+do i ctrl yt algo too.
+***
+- or is it controlling me.
+
+Follow your likes.
+
+https://youtu.be/yJ-DYSDEt4U?is=SgEYiUysPWF9rPGn
+
+it’s rime.
+
+time.
+
+nw tech bruvs hustlin.
+
+https://youtu.be/0TAwCEy3f-o?is=bopKCB3_7YFvrk0n
+
+math eng degree.
+
+just engineering.
+
+so similar di ing exp prob
+
+https://youtube.com/shorts/ElyuOTloCOE?is=BIL5mH4XcwxKZGQu
+
+https://youtube.com/shorts/fC4slsIcidg?is=XxRWiZO1BRhyTXE1
+
+caught smth
+
+https://youtube.com/shorts/ufRnhg-gQRc?is=F-WxwfeZiR55UJIJ
+
+https://youtube.com/shorts/L8Z2Ryc0VdI?is=XQIiH14S6o-K2iMP
+
+not dis time bb.
+
+pretty pls.
+
+https://youtu.be/xfUkSDVX0aY?is=g0lmYtt0xW99FCom
+
+https://youtu.be/gFQZgwMC1As?is=rUqRZj2tlixqQKYf
+
+hs days.
+***
+- can you find my notebook.
+
+forgot you’re all <br/>
+ in the labyrinth
+
+https://youtu.be/GudSVkwuGyo?is=JftkTpukU9ldRyVl
+
+meditation of all.
+
+https://youtu.be/PbBdBpBsP_s?is=wb4JkMRWDs7np-Hy
+
+// tell me ur res. 
+
+I never lose.
+
+Tell that to your manager.
+
+https://youtu.be/FsKuu-0RUcM?is=r5SdWcixojnsVfLf
+
+Nw layer.
+
+peach.
+
+https://youtu.be/jfNPZqe0kjE?is=ueBE8KyFN9rGLLXv
+
+// any relational <br/>
+ change / expression.
+
+You're a mix of both.
+***
+Eating its own tail.
+
+Sapporo.
+***
+{./watch?v=ZAzWT8mRoR0}.
+
+Their ego.
+***
+{./watch?v=8d5QEWdHchk}.
+
+If I don't get it, <br/>
+ they won't get it.
+
+ ---
+ ---
