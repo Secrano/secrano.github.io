@@ -1,5 +1,18 @@
 # secrano.github.io
 
+--- Git Day: L4O3 - shadowban 8
+
+# --- 
+
+- Ref img, source: [twt@](https://x.com/wooyoomokmin/status/2059076057337319780)
+
+- Ref img, source: [twt@](https://x.com/NicOyereyi/status/2059017598763708664)
+
+- Ref img, source: [twt@](https://x.com/gracile_jp/status/2059191525838569634)
+
+# ---
+
+<br/>
 
 --- Git Day: L4O3 - shadowban 8
 
