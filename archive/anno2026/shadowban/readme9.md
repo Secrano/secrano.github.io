@@ -1,6 +1,6 @@
 /// 19 tw limit plus 30
 
-Snoppy might 
+Snoppy might <br/>
  have ate better.
 
 old house on str
@@ -9,17 +9,17 @@ old house on str
 
 Dog shit.
 
-What do you 
+What do you <br/>
  what now.
 
 Sing more live unc.
 
-Negative time 
+Negative time <br/>
  and bongoxloud.
 
 {./watch?v=HmRnjNhkhwc}.
 
-I want to stab them 
+I want to stab them <br/>
  all dead, all of them.
 
 Miserable fcks.
@@ -34,16 +34,16 @@ Bulls too strong.
 
 Are we pulling.
 
-I can kill with no 
+I can kill with no <br/>
  wep, sad dad.
 
-I want to open 
+I want to open <br/>
  the space.
 
-So you can’t 
+So you can’t <br/>
  opt for more.
 
-What are you 
+What are you <br/>
  waiting for.
 
 You’re far gone.
@@ -56,7 +56,7 @@ Black power.
 
 // Indians are not black.
 
-Only queen 
+Only queen <br/>
  mother will do.
 
 I’ll play some more games.
