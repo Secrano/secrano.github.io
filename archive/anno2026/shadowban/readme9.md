@@ -1,3 +1,90 @@
+/// ---
+
+I’ve heard sweds are failing.
+
+You’ll be an experiment <br/>
+ cheap fcks. Bo neighbours.
+
+Even sadder if my <br/>
+ dad was a criminal.
+
+It willnot only <br/>
+ be in the blood.
+
+I will prove the soul.
+
+mf bitch.
+
+Guess we’re <br/>
+ different afterall.
+
+He can’t overtake me.
+
+ Weak souls.
+
+Pussy rats.
+
+Intiminstion won’t work, <br/>
+ they’re coming for your head.
+
+They’re diff than teens.
+
+Are you sane.
+
+Or possessed.
+
+Your presence can <br/>
+ change course.
+
+Pepes are being <br/>
+ crowned with no skills.
+
+Merit does not matter smth.
+
+They do inherit smth <br/>
+ others don’t have.
+
+Are you a slave or a prince.
+
+A good dog or rat.
+
+Solo players get excluded.
+
+You know that.
+
+Watch the matrix.
+
+Who do you think <br/>
+ is agent Smith.
+
+Life is a drowning sea.
+
+You can’t possibly <br/>
+ sit one your fence.
+
+If you don’t add value <br/>
+ to your community.
+
+What are you doing here.
+
+Constant swimming <br/>
+ or get drowned.
+
+<br/>
+
+I’m a bad teacher.
+***
+Ego should be killed.
+***
+You’re nobody.
+***
+Disband lang 
+ after mastery.
+***
+Cnt.
+
+/// ---
+
 /// 19 tw limit plus 30
 
 Snoppy might <br/>
