@@ -78,7 +78,7 @@ Ego should be killed.
 ***
 You’re nobody.
 ***
-Disband lang <br/>
+Disband lang
  after mastery.
 ***
 Cnt.
