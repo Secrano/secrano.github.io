@@ -2,7 +2,26 @@
 
 --- Git Day: L4P7 - nw day.
 
-# --- 
+# ---
+
+- Ref img, source: [twt@](https://x.com/Yume_dreamyy/status/2060751700869451839)
+
+- Ref img, source: [twt@](https://x.com/aosiai456/status/2060557057091100808)
+
+- Ref img, source: [twt@](https://x.com/tsunderebutt/status/2060395520275693778)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/sennelammens__/status/2060597898987884805)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/srasa018/status/2060707390325194803)
+
+- Ref img, source: [twt@](https://x.com/aquelyrass/status/2060378766178713785)
+
+# ---
+# ---
 
 - Ref img, source: [twt@](https://x.com/FailedArtist786/status/2057867041621864957)
 
