@@ -23,6 +23,23 @@
 # ---
 # ---
 
+- Ref img, source: [twt@](https://x.com/pausecatito/status/2060732107756810554)
+
+- Ref img, source: [twt@](https://x.com/luxnoira/status/2060895366585663713)
+
+- Ref img, source: [twt@](https://github.com/Secrano/secrano.github.io/blob/main/archive/anno2026/shadowban/readmeA.md) (swosh. //)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/CinematicEye_/status/2060786571780264295)
+
+- Ref img, source: [twt@](https://x.com/ton_ton_ai/status/2060572014264643847)
+
+- Ref img, source: [twt@](https://x.com/nor_ni_/status/2060956249882276240)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/FailedArtist786/status/2057867041621864957)
 
 - Ref img, source: [twt@](https://x.com/Kuroneko__x/status/2060657808509444423)
