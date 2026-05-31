@@ -53,14 +53,14 @@ dumb fk
 ***
 A duo.
 
-Green salad is 
+Green salad is <br/>
  actually just carbo.
 
 It's just energy.
 
 It should be solid.
 
-Why are doctors cute,
+Why are doctors cute, <br/>
  smart and handsome.
 
 Ketramose.
