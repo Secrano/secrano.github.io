@@ -1,6 +1,73 @@
 ---
 ---
 
+daym she cooks
+
+{./shorts/0tX-X83QiOM}.
+
+daym math tutor 14mill/y <br/>
+lmao top 1pc smth standfotd
+
+{./shorts/QJiAEOKFc1o}.
+
+m ring
+
+{./shorts/UABUkcy5Fuk}.
+
+daym bitch
+
+{./shorts/Gs6M_N5KDI8}.
+
+dis looks chill
+
+{./watch?v=Hiuugyhts40}.
+
+she’s a freak
+
+bbchick gf
+
+{./shorts/NnnnuKylOrg}.
+
+incepted
+
+{./watch?v=a5R3_ToFRGg}.
+
+{./watch?v=vakHDzCoK_U}.
+
+psychopath.
+***
+{./shorts/whz3Fgk37Tk}.
+***
+{./shorts/8dwz2dUlcWQ}.
+***
+Don’t talk to me, 
+ weirdoz.
+***
+{./watch?v=lXv8CJ54nno}.
+***
+dumb fk
+***
+{./watch?v=_9YyOpMkrCk}.
+***
+A duo.
+
+Green salad is 
+ actually just carbo.
+
+It's just energy.
+
+It should be solid.
+
+Why are doctors cute,
+ smart and handsome.
+
+Ketramose.
+
+Quantum exitations.
+
+---
+---
+
 xosmoc strings similar to photon thicc
 
 {./shorts/NEzjQ1f4hZc}.
