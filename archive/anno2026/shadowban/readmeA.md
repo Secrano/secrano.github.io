@@ -1,6 +1,119 @@
 ---
 ---
 
+m tier list
+
+{./shorts/iUJ_PWNhr-M}.
+
+hottest curry
+
+{./shorts/_IuZVul6kmw}.
+
+alloy
+
+{./shorts/265F8rcA9EE}.
+
+scam packs
+
+{./shorts/aL7sbqSQbxE}.
+
+You know it’s always 1v2z.
+
+Tact or strat.
+
+dis pojo.
+
+I’ll report them all 
+ for strim snuping.
+
+dis was a real team tho
+
+{./shorts/9KQ6jn7e3IQ}.
+
+sloppy
+
+{./watch?v=50a00hqPL_w}.
+
+cat
+
+[./post/UgkxpWzfi6acd0p <br/>
+  -Hob0g6BO09pGYIeFr-PH].
+
+the nw dropkick smth
+
+{./shorts/8ebDq3OVuNA}.
+
+always been, heh.
+
+{./shorts/oWGvQE5fbxk}.
+explain dis
+
+{./shorts/JiGtQDU3TKI}.
+
+wed b
+
+{./shorts/rdEOiT0AlQs}.
+
+jelly b hole bunch
+
+{./shorts/7tKvVWxwP2k}.
+
+dumb bitch
+
+{./watch?v=RwlgFC6S-OE}.
+
+what are these
+
+{./shorts/Bry13-tM2jI}.
+
+db gacha packs
+
+{./shorts/JIstVNL-qMQ}.
+
+goodie skin
+
+{./watch?v=DKiRVewIgAo}.
+
+asmr bitch <br/>
+ gimme moar
+
+{./watch?v=xjyuVbPEbA4}.
+
+what am talkin about
+
+fould’ve paid me 10x
+
+daym
+
+{./shorts/VSFD9pCwpDA}.
+
+i dunno
+
+{./shorts/UaI9s5QE-nI}.
+
+em light tot energy earth
+
+{./watch?v=E0JB-DirSFs}.
+
+similar density form input
+
+sweat
+
+nuke power.
+
+{./shorts/VPx6Ust9H7w}.
+
+{./shorts/ua9AI48ASwc}.
+
+—/
+
+{./watch?v=BOXg_AJOxQI}.
+
+{./watch?v=QERKD90hG98}.
+
+---
+---
+
 daym she cooks
 
 {./shorts/0tX-X83QiOM}.
