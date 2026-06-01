@@ -23,7 +23,7 @@ Tact or strat.
 
 dis pojo.
 
-I’ll report them all <br/>
+I’ll report them all
  for strim snuping.
 
 dis was a real team tho
