@@ -10,5 +10,7 @@
 
 - Ref img, source: [twt@](https://x.com/sciamano240/status/2061828595907977586)
 
+- Ref img, source: [twt@](https://github.com/Secrano/secrano.github.io/blob/main/archive/anno2026/shadowban/readmeB.md) (rat fck)
+
 # ---
 # ---
