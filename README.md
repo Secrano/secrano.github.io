@@ -4,6 +4,12 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/jn3008/status/2062970800366288929)
+
+- Ref img, source: [twt@](https://x.com/dogecoin/status/2062982858315092259)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/HauntedAI/status/2062685836634915313)
 
 - Ref img, source: [twt@](https://x.com/EternalY4869/status/2062679990697947489)
