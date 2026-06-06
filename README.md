@@ -4,6 +4,31 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Deelaw_17/status/2063240350622257441)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/TweekStur/status/2063296663850991856)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Fortnite/status/2063244752317976710)
+
+- Ref img, source: [twt@](https://x.com/StellarBlade/status/2063335112846999636)
+
+- Ref img, source: [twt@](https://x.com/blorgisawesome/status/2063245294742208778)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/FortniteFNLK/status/2063252877821235376)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/dayxtrading/status/2063304270921990412)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/jn3008/status/2062970800366288929)
 
 - Ref img, source: [twt@](https://x.com/dogecoin/status/2062982858315092259)
