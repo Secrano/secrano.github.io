@@ -4,6 +4,21 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/kulema_0709/status/2063573627862421752)
+
+- Ref img, source: [twt@](https://x.com/PKirigami/status/2063569087897457114)
+
+- Ref img, source: [twt@](https://x.com/gracile_jp/status/2063580149480919403)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Kiryu_weeb/status/2063383822926745852)
+
+- Ref img, source: [twt@](https://x.com/arowana2111/status/2063530766127309229)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Deelaw_17/status/2063240350622257441)
 
 # ---
