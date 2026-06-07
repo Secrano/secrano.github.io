@@ -17,7 +17,6 @@
 - Ref img, source: [twt@](https://x.com/arowana2111/status/2063530766127309229)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/Deelaw_17/status/2063240350622257441)
 
