@@ -4,6 +4,14 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/loika/status/2063917070488944663)
+
+- Ref img, source: [twt@](https://x.com/Sco_ttie/status/2061402628676841754)
+
+- Ref img, source: [twt@](https://x.com/minori_chigusa/status/2063885004506321231)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/kulema_0709/status/2063573627862421752)
 
 - Ref img, source: [twt@](https://x.com/PKirigami/status/2063569087897457114)
