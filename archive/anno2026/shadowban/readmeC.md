@@ -27,17 +27,11 @@ Hope you die <br/>
 ***
 Ugly bitches.
 
-<br/>
-
 Rat holes.
-
-<br/>
 
 10 beats left.
 ***
 Go to hell.
-
-<br/>
 
 gut cutting
 
@@ -47,8 +41,6 @@ They want to see <br/>
  blood, make your own.
 
 Maybe sell sum'.
-
-<br/>
 
 No fish today.
 ***
