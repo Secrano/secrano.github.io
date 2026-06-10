@@ -6,6 +6,8 @@
 
 - Ref img, source: [twt@](https://x.com/Sco_ttie/status/1863176466571129013)
 
+- Ref img, source: [twt@](https://github.com/Secrano/secrano.github.io/blob/main/archive/anno2026/shadowban/readmeC.md) (shadowban C)
+
 # ---
 
 - Ref img, source: [twt@](https://x.com/loika/status/2063917070488944663)
