@@ -1,6 +1,11 @@
 ---
 ---
 
+// Bitch.
+
+---
+---
+
 Vora Greatshark. // --- shadowban again transf
 
 Bone to Ashe.
