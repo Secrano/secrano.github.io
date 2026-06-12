@@ -4,6 +4,36 @@
 // Bitch.
 
 ---
+--- 
+
+{./shorts/K8X6nX3tKNs}. // --- shadowban again D let me finish
+
+Redbull cleaning my gut.
+***
+Another summer ed.
+
+- miss u sofi.
+
+Missing Mega Greninja <br/>
+ Alt art last. Meta is changing.
+
+{./shorts/0_gauJnz4Yg}.
+
+Who's flying.
+***
+Are Americans still phat.
+***
+{.//watch?v=vjlZWAQTBGE}.
+***
+{./watch?v=6ubChlLxovQ}.
+
+
+---
+---
+
+// Bitch.
+
+---
 ---
 
 Vora Greatshark. // --- shadowban again transf
