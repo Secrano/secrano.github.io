@@ -3,6 +3,22 @@
 --- Git Day: L4R8
 
 # ---
+# ---
+
+- Ref img, source: [twt@](https://x.com/CarlBovisNature/status/2065683083165061541)
+
+- Ref img, source: [twt@](https://x.com/arowana2111/status/2065616737610117493)
+
+- Ref img, source: [twt@](https://x.com/DanKantori/status/2065653801642578352)
+
+- Ref img, source: [twt@](https://x.com/CarlBovisNature/status/2065683083165061541)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Drowsy_sheep/status/2065629109691244853)
+
+# ---
+# ---
 
 - Ref img, source: [twt@](https://x.com/Sco_ttie/status/1863176466571129013)
 
