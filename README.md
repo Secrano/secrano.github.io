@@ -3,6 +3,9 @@
 --- Git Day: L4R8
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/TigernachTora/status/2066913451478245718)
+
 # ---
 
 - Ref img, source: [twt@](https://x.com/CarlBovisNature/status/2065683083165061541)
