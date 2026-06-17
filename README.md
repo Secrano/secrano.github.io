@@ -4,6 +4,14 @@
 
 # --- 
 
+- Ref img, source: [twt@](https://x.com/EpicTofuChris/status/2062233990170300567)
+
+- Ref img, source: [twt@](https://x.com/zampy68/status/2066830339868180504)
+
+- Ref img, source: [twt@](https://x.com/EpicTofuChris/status/2062234036794253811)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/TigernachTora/status/2066913451478245718)
 
 # ---
