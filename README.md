@@ -7,6 +7,8 @@
 
 - Ref img, source: [twt@](https://x.com/ta5ylp/status/2067288159348519387)
 
+- Ref img, source: [twt@](https://github.com/Secrano/secrano.github.io/blob/main/archive/anno2026/shadowban/readmeD.md) (split D)
+
 - Ref img, source: [twt@](https://x.com/yoru_shiki/status/2066826213247914259)
 
 # ---
