@@ -2,6 +2,26 @@
 
 --- Git Day: L4R8
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/marusan0331/status/2067768509699117079)
+
+- Ref img, source: [twt@](https://x.com/AppleWhite_UK/status/2067932160032469364)
+
+- Ref img, source: [twt@](https://x.com/lexx_aura/status/2067713238125474273)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/rin22cal51yn/status/2067734852791603458)
+
+- Ref img, source: [twt@](https://x.com/Pastel_Illust_/status/2067547348654579891)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/NoContextHumans/status/2068000859254923344)
+
+- Ref img, source: [twt@](https://x.com/RaminNasibov/status/2067993729751822692)
+
 # --- 
 # ---
 
