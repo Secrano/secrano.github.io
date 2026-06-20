@@ -1,5 +1,27 @@
 # secrano.github.io
 
+--- Git Day: L4S5 - nw day butterfly moth.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/zampy68/status/2068378982400106745)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/KalshiFC/status/2068393650908709027)
+
+- Ref img, source: [twt@](https://x.com/Palworld_EN/status/2068136888712540280)
+
+- Ref img, source: [twt@](https://x.com/VALORANT/status/2068383507806617936)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Hsin_Daily/status/2068111928539652327)
+
+- Ref img, source: [twt@](https://x.com/000chun000_/status/2068167956534817207)
+
+# ---
+
 --- Git Day: L4R8
 
 # ---
