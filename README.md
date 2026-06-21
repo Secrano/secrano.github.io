@@ -3,6 +3,16 @@
 --- Git Day: L4S5 - nw day butterfly moth.
 
 # ---
+# ---
+
+- Ref img, source: [twt@](https://x.com/dailyFrieren_/status/2068136758231826593)
+
+- Ref img, source: [twt@](https://x.com/TheJoeySwoll/status/2068427118384726451)
+
+- Ref img, source: [twt@](https://x.com/sssirxn/status/2068396029045526887)
+
+# ---
+# ---
 
 - Ref img, source: [twt@](https://x.com/zampy68/status/2068378982400106745)
 
