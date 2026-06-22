@@ -5,6 +5,21 @@
 # ---
 # ---
 
+- Ref img, source: [twt@](https://x.com/shiny_kanau/status/2068948764640067636)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/DemizuPosuka/status/2069050105274200121)
+
+- Ref img, source: [twt@](https://x.com/PalomarRo/status/2069050022092743053)
+
+- Ref img, source: [twt@](https://x.com/RubyBeautyQueen/status/2068892196728688834)
+
+- Ref img, source: [twt@](https://x.com/JUNGJAE131/status/2068893631013163413)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/dailyFrieren_/status/2068136758231826593)
 
 - Ref img, source: [twt@](https://x.com/TheJoeySwoll/status/2068427118384726451)
