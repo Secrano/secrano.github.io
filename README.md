@@ -3,7 +3,6 @@
 --- Git Day: L4S5 - nw day butterfly moth.
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/shiny_kanau/status/2068948764640067636)
 
