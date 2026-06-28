@@ -42,6 +42,14 @@
 - Ref img, source: [twt@](https://x.com/max358japan/status/2070922609298964645)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/yurari_banri/status/2070810871623045502)
+
+- Ref img, source: [twt@](https://x.com/CarlBovisNature/status/2071069827972931984)
+
+- Ref img, source: [twt@](https://x.com/arowana2111/status/2071207352976728534)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/miagoeswild_x/status/2068779273901523376)
