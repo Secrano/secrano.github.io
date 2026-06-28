@@ -22,7 +22,6 @@
 - Ref img, source: [twt@](https://x.com/ContentViewer9/status/2070229000266346781)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/Ojokelv/status/2070793758669516855)
 
