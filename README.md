@@ -24,6 +24,27 @@
 # ---
 # ---
 
+- Ref img, source: [twt@](https://x.com/Ojokelv/status/2070793758669516855)
+
+- Ref img, source: [twt@](https://x.com/FortniteNwsHub/status/2070945167260217391)
+
+- Ref img, source: [twt@](https://x.com/ProofofMaro/status/2070986311209480649)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/ShiinaBR/status/2070944902670696858)
+
+- Ref img, source: [twt@](https://x.com/ma_yy0707/status/2070801334711030161)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/FerreWeb3/status/2070743470491173351)
+
+- Ref img, source: [twt@](https://x.com/max358japan/status/2070922609298964645)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/miagoeswild_x/status/2068779273901523376)
 
 - Ref img, source: [twt@](https://x.com/mukurout/status/2069321386221617550)
