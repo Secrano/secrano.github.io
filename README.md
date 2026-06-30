@@ -1,5 +1,24 @@
 # secrano.github.io
 
+--- Git Day: L4T2 - nw day esmeone knows futball
+
+# ---
+# ---
+
+- Ref img, source: [twt@](https://x.com/it_Rutie/status/2072035545706906018)
+
+- Ref img, source: [twt@](https://x.com/mii1203apare/status/2071881645393842569)
+
+- Ref img, source: [twt@](https://x.com/Fortnite/status/2071942269360574661)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Sco_ttie/status/2071963169963274482)
+
+# ---
+# ---
+
+
 --- Git Day: L4S5 - nw day butterfly moth.
 
 # ---
