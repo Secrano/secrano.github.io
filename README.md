@@ -15,6 +15,13 @@
 - Ref img, source: [twt@](https://x.com/Sco_ttie/status/2071963169963274482)
 
 # ---
+# ---
+
+- Ref img, source: [twt@](https://x.com/ProofofMaro/status/2072691191183757820)
+
+- Ref img, source: [twt@](https://x.com/wonderofscience/status/2072691066357071918)
+
+# ---
 
 <br/>
 
