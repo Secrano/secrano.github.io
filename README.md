@@ -25,6 +25,7 @@
 # ---
 
 - Ref img, source: [twt@](https://x.com/CarlBovisNature/status/2072987463543357491)
+- Ref img, source: [twt@](https://github.com/Secrano/secrano.github.io/blob/main/archive/anno2026/shadowban/readmeF.md) (limit fcker)
 
 # ---
 # ---
