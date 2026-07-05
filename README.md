@@ -1,5 +1,19 @@
 # secrano.github.io
 
+--- Git Day: L4T9 - nw day clients
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/seuhyo99/status/2073678787594879110)
+
+- Ref img, source: [twt@](https://x.com/sakura900_/status/2073626931892007073)
+
+- Ref img, source: [twt@](https://x.com/ScyanYT/status/2073572537884197027)
+
+# ---
+
+<br/>
+
 --- Git Day: L4T2 - nw day esmeone knows futball
 
 # ---
