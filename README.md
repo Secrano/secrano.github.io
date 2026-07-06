@@ -12,6 +12,10 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/JoyPiper495062/status/2073755699847610722)
+
+# ---
+
 <br/>
 
 --- Git Day: L4T2 - nw day esmeone knows futball
