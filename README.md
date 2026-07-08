@@ -28,6 +28,12 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/juusuu5671030/status/2074411346033291763)
+
+- Ref img, source: [twt@](https://x.com/oceanview0505/status/2074681538583965935)
+
+# ---
+
 <br/>
 
 --- Git Day: L4T2 - nw day esmeone knows futball
