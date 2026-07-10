@@ -33,6 +33,19 @@
 - Ref img, source: [twt@](https://x.com/oceanview0505/status/2074681538583965935)
 
 # ---
+# ---
+
+- Ref img, source: [twt@](https://x.com/mo_kusi/status/2075536047291920642)
+
+- Ref img, source: [twt@](https://x.com/Bitcoin/status/2075562076806709348)
+
+- Ref img, source: [twt@](https://x.com/CarmesJocelin/status/2075550033340961162)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/asteroid_ill/status/2075215734561808446)
+
+# ---
 
 <br/>
 
