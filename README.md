@@ -47,6 +47,18 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/TheInfinitySI/status/2075871457503248462)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/RickD_GK/status/2075920782270603307)
+
+- Ref img, source: [twt@](https://x.com/Zi_Yang_iii/status/1878820756676825286)
+
+- Ref img, source: [twt@](https://x.com/8rami2ki/status/2075892301151494169)
+
+# ---
+
 <br/>
 
 --- Git Day: L4T2 - nw day esmeone knows futball
