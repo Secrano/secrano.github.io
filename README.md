@@ -1,5 +1,15 @@
 # secrano.github.io
 
+--- Git Day: L4v3 - already end of year fn.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/minima_ai/status/2076455726340546940)
+
+- Ref img, source: [twt@](https://x.com/ramdayo1122/status/2076584986577428570)
+
+# ---
+
 --- Git Day: L4u6 - there will be a remake.
 
 # ---
