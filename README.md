@@ -4,6 +4,58 @@
 
 # ---
 
+- Ref img, source: [yt@](https://www.youtube.com/shorts/v5qO_qLifqI)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/TheBestqueenx/status/2076815646919098552)
+
+- Ref img, source: [twt@](https://x.com/pixosly/status/2076748474926735608)
+
+- Ref img, source: [twt@](https://x.com/CensoredTube/status/2076775267855438145)
+
+- Ref img, source: [twt@](https://x.com/MADAOgo/status/2076734906290389287)
+
+- Ref img, source: [twt@](https://x.com/heyymandi/status/2076766006530445729)
+
+- Ref img, source: [twt@](https://x.com/ShiinaBR/status/2076807753486438613)
+
+- Ref img, source: [twt@](https://x.com/nff_landslag/status/2076811030122975428)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/SEONU127616/status/2076819533076234442)
+
+- Ref img, source: [twt@](https://x.com/zoomergirls__/status/2076779122756374538)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Lordofacca/status/2076761362848509965)
+
+- Ref img, source: [twt@](https://x.com/pickover/status/2076483695209218510)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/hannahowo_hot/status/2076743357758333150)
+
+- Ref img, source: [twt@](https://x.com/lilydisease/status/2076788887171870840)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/sama/status/2076824686307271125)
+
+- Ref img, source: [twt@](https://x.com/qiandaiyiyu/status/2076723421757448463)
+
+# ---
+# ---
+
+- Ref img, source: [twt@](https://x.com/virg1nsuicid3/status/2076741314578645230)
+
+- Ref img, source: [twt@](https://x.com/quzhizhanghuzp/status/2076837718588530913)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/macfnyt/status/2076736813985906778)
 
 - Ref img, source: [twt@](https://x.com/RevanHit/status/2076312219953107108)
