@@ -4,6 +4,17 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/ItsBadAni/status/2077328346380198017)
+
+- Ref img, source: [twt@](https://x.com/wonderofscience/status/2077420084591558784)
+
+- Ref img, source: [twt@](https://x.com/sachya2002/status/2077136652699639902)
+
+- Ref img, source: [twt@](https://x.com/gf_0710/status/2074497744908288421)
+
+# ---
+# ---
+
 - Ref img, source: [yt@](https://www.youtube.com/shorts/v5qO_qLifqI)
 
 # ---
