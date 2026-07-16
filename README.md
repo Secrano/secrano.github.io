@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/HYPEX/status/2077691199045947855)
+
+- Ref img, source: [twt@](https://x.com/junkiyoshi/status/2077724676089143461)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/ItsBadAni/status/2077328346380198017)
 
 - Ref img, source: [twt@](https://x.com/wonderofscience/status/2077420084591558784)
