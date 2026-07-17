@@ -4,6 +4,19 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/asteroid_ill/status/2078100293783523473)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/YoheiNishitsuji/status/2078117522638004265)
+
+- Ref img, source: [twt@](https://x.com/matt503ea5sf9z5/status/2077842614368219170)
+
+- Ref img, source: [twt@](https://x.com/FireMonkey/status/2078180895484248087)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/kattlatte/status/2077888577933816272)
 
 - Ref img, source: [twt@](https://x.com/Relishh_/status/2077943646603682012)
