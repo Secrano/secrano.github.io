@@ -4,6 +4,23 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/kattlatte/status/2077888577933816272)
+
+- Ref img, source: [twt@](https://x.com/Relishh_/status/2077943646603682012)
+
+- Ref img, source: [twt@](https://x.com/itsme_urstruly/status/2077707773002109256)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/StephenKing/status/2077864557565935693)
+
+- Ref img, source: [twt@](https://x.com/iquilezles/status/2077884026774569096)
+
+- Ref img, source: [twt@](https://x.com/pickover/status/2077896255766716872)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/HYPEX/status/2077691199045947855)
 
 - Ref img, source: [twt@](https://x.com/junkiyoshi/status/2077724676089143461)
