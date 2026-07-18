@@ -15,6 +15,10 @@
 - Ref img, source: [twt@](https://x.com/FireMonkey/status/2078180895484248087)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/8rami2ki/status/2078427091809558603)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/kattlatte/status/2077888577933816272)
