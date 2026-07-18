@@ -4,6 +4,35 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/ziyangwen/status/2078507222221635810)
+
+- Ref img, source: [twt@](https://x.com/solaceax01/status/2078125267466219598)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/mathemetica/status/2077835156384067871)
+
+- Ref img, source: [twt@](https://x.com/keshiAIart/status/2078326036094476745)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/ShiinaBR/status/2078228691075629171)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/mocha708/status/2078415228409372879)
+
+- Ref img, source: [twt@](https://x.com/MISSILE228apl/status/2078468952901272028)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/mathemetica/status/2077867116993085504)
+
+- Ref img, source: [twt@](https://x.com/materion/status/2078075552099959173)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/asteroid_ill/status/2078100293783523473)
 
 # ---
