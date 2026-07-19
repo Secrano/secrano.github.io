@@ -4,6 +4,17 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Hle_____/status/2078825358280020250)
+
+- Ref img, source: [twt@](https://x.com/yoginnnnnn/status/2078851071259316493)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/ShiinaBR/status/2078903341627658655)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/ziyangwen/status/2078507222221635810)
 
 - Ref img, source: [twt@](https://x.com/solaceax01/status/2078125267466219598)
