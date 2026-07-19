@@ -33,6 +33,57 @@
 # ---
 # ---
 
+- Ref img, source: [twt@](https://x.com/patriciaxlee/status/2078541240950555030)
+
+- Ref img, source: [twt@](https://x.com/zachlieberman/status/2078686878794981713)
+
+- Ref img, source: [twt@](https://x.com/kitasenjudesign/status/2078674849275547980)
+
+- Ref img, source: [twt@](https://x.com/okazz_/status/2078479597008806010)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/mathemetica/status/2078731613366800478)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/vovudebosh/status/2078072542799999451)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/dcfanstv/status/2078711730025443582)
+
+- Ref img, source: [twt@](https://x.com/LensScientific/status/2078505831591731684)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Kontrolzz/status/2078219905380548610)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/PedroEliasFN/status/2078486386118697023)
+
+- Ref img, source: [twt@](https://x.com/acx__/status/2078597986867892241)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Donotairme/status/2078493361145561474)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/sksk_sakuno/status/2078043278490927137)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Blessed_095/status/2078547637515497864)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/wolf_games_vfx/status/2078477207836729576)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/asteroid_ill/status/2078100293783523473)
 
 # ---
