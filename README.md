@@ -20,10 +20,15 @@
 
 - Ref img, source: [twt@](https://x.com/hayasaka_aryan/status/2079015019870667205)
 
-
 # ---
 
 - Ref img, source: [twt@](https://x.com/L197742j0t/status/2078958229468725735)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/literallymej7th/status/2078906468762316961)
+
+- Ref img, source: [twt@](https://x.com/Zenk_Arts/status/2079316519624798568)
 
 # ---
 # ---
