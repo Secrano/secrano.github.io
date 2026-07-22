@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/minori_chigusa/status/2079911297077141914)
+
+- Ref img, source: [twt@](https://x.com/wonderofscience/status/2079595709863485528)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Hle_____/status/2078825358280020250)
 
 - Ref img, source: [twt@](https://x.com/yoginnnnnn/status/2078851071259316493)
