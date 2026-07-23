@@ -9,6 +9,12 @@
 - Ref img, source: [twt@](https://x.com/wonderofscience/status/2079595709863485528)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/ozakiUu_uU/status/2080206747596406830)
+
+- Ref img, source: [twt@](https://x.com/jeonghopark/status/2080059814726582600)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/Hle_____/status/2078825358280020250)
