@@ -15,6 +15,10 @@
 - Ref img, source: [twt@](https://x.com/jeonghopark/status/2080059814726582600)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/Vzgo_007/status/2080293338859635162)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/Hle_____/status/2078825358280020250)
