@@ -25,6 +25,12 @@
 - Ref img, source: [twt@](https://x.com/panahilang/status/2080412642355863709)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/CosmicGaiaX/status/2080290000663396561)
+
+- Ref img, source: [twt@](https://x.com/ojovivoMotion/status/2080624788217692515)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/Hle_____/status/2078825358280020250)
