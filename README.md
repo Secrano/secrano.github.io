@@ -19,6 +19,12 @@
 - Ref img, source: [twt@](https://x.com/Vzgo_007/status/2080293338859635162)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/dominikus/status/2080582540012687360)
+
+- Ref img, source: [twt@](https://x.com/panahilang/status/2080412642355863709)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/Hle_____/status/2078825358280020250)
