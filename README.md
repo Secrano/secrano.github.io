@@ -31,6 +31,16 @@
 - Ref img, source: [twt@](https://x.com/ojovivoMotion/status/2080624788217692515)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/yuruyurau/status/2080977918914969636)
+
+- Ref img, source: [twt@](https://x.com/Rynna0809/status/2080976059072422299)
+
+- Ref img, source: [twt@](https://x.com/tamitami020343/status/2080960688323981810)
+
+- Ref img, source: [twt@](https://x.com/8rami2ki/status/2080965722281492933)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/Hle_____/status/2078825358280020250)
