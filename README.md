@@ -41,6 +41,34 @@
 - Ref img, source: [twt@](https://x.com/8rami2ki/status/2080965722281492933)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/WarneReady/status/2080618999734219229)
+
+- Ref img, source: [twt@](https://x.com/HYPEX/status/2080777895103156399)
+
+- Ref img, source: [twt@](https://x.com/PhilosophyOfPhy/status/2080635357524291715)
+
+- Ref img, source: [twt@](https://x.com/MicrosoftHelps/status/2080759956958007438)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Infinite_Mantra/status/2080855181860733438)
+
+- Ref img, source: [twt@](https://x.com/Nekojira/status/2080831911287771326)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/tari323/status/2080899792717365748)
+
+- Ref img, source: [twt@](https://x.com/_qxaa/status/2080888092035272768)
+
+- Ref img, source: [twt@](https://x.com/Gekikawa_Dbts/status/2080880726778781719)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/macfnyt/status/2080690474952884716)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/Hle_____/status/2078825358280020250)
