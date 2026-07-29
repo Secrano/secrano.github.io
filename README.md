@@ -73,6 +73,18 @@
 - Ref img, source: [twt@](https://x.com/jigyni/status/2081645833867657650)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/Cozypetsoo/status/2082126289566118351)
+
+- Ref img, source: [twt@](https://x.com/WatcherGuru/status/2082347586287976501)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/sashastiles/status/2081733147582964046)
+
+- Ref img, source: [twt@](https://x.com/FireMonkey/status/2082141465665237345)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/Hle_____/status/2078825358280020250)
