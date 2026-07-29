@@ -85,6 +85,14 @@
 - Ref img, source: [twt@](https://x.com/FireMonkey/status/2082141465665237345)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/zukered/status/2082234627582820624)
+
+- Ref img, source: [twt@](https://x.com/rasbt/status/2082101241908249014)
+
+- Ref img, source: [twt@](https://x.com/tensorqt/status/2082535967731097803)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/Hle_____/status/2078825358280020250)
