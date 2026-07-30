@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/arowana2111/status/2082655259433083028)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/minori_chigusa/status/2079911297077141914)
 
