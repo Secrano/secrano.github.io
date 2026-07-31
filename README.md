@@ -101,6 +101,18 @@
 - Ref img, source: [twt@](https://x.com/tari323/status/2082397259451539802)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/pixelflicker_/status/2082702676312436919)
+
+- Ref img, source: [twt@](https://x.com/FireMonkey/status/2083015141579223165)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/herrrneysee/status/2082729442846089653)
+
+- Ref img, source: [twt@](https://x.com/zzznah/status/2083133828835492132)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/Hle_____/status/2078825358280020250)
