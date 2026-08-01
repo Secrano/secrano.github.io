@@ -113,6 +113,16 @@
 - Ref img, source: [twt@](https://x.com/zzznah/status/2083133828835492132)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/FortniteAlertss/status/2083583305484472723)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Ayzacoder/status/2083495849892712864)
+
+- Ref img, source: [twt@](https://x.com/LememeJames/status/2083581820549857288)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/Hle_____/status/2078825358280020250)
