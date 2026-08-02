@@ -123,6 +123,43 @@
 - Ref img, source: [twt@](https://x.com/LememeJames/status/2083581820549857288)
 
 # ---
+# --- //
+
+- Ref img, source: [twt@](https://x.com/mo_kusi/status/2083858414619570590)
+
+- Ref img, source: [twt@](https://x.com/AGO_zabi_USU/status/2083671703784509889)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/franko_ufo/status/2083609402511069221)
+
+- Ref img, source: [twt@](https://x.com/lildjjanet/status/2083740645735158092)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/faeaurosa/status/2083629238339371186)
+
+- Ref img, source: [twt@](https://x.com/SoccerF1fun/status/2083598294568370387)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/justfoxii/status/2083684524857147622)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/arowana2111/status/2083820768669106284)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/interestingaf/status/2083581237176758405)
+
+- Ref img, source: [twt@](https://x.com/sino_eefy/status/2083855938344419424)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/majogm/status/2083510169053307224)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/Hle_____/status/2078825358280020250)
