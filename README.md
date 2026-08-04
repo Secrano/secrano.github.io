@@ -4,6 +4,15 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Kimuzbvw/status/2084549725341077861)
+
+- Ref img, source: [twt@](https://x.com/BATMAN69e/status/2084478228559778226)
+
+- Ref img, source: [twt@](https://x.com/pickover/status/2084686060005503213)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/sshumolly/status/2083921370564771934)
 
 - Ref img, source: [twt@](https://x.com/Ryota_H/status/2084047591575273502)
