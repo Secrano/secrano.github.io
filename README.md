@@ -11,6 +11,27 @@
 # ---
 # ---
 
+- Ref img, source: [twt@](https://x.com/rattan1126/status/2084207564942901479)
+
+- Ref img, source: [twt@](https://x.com/DaNel0325/status/2084419214128124182)
+
+- Ref img, source: [twt@](https://x.com/ivanaginethzc/status/2084442763282837993)
+
+- Ref img, source: [twt@](https://x.com/varien/status/2084430152461660556)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/goldcan6955/status/2084548350045822999)
+
+- Ref img, source: [twt@](https://x.com/arowana2111/status/2084553227052490900)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/pickover/status/2084425601432060345)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/arowana2111/status/2082655259433083028)
 
 # ---
