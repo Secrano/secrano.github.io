@@ -4,6 +4,10 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/pickover/status/2084830132263337996)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/Kimuzbvw/status/2084549725341077861)
 
 - Ref img, source: [twt@](https://x.com/BATMAN69e/status/2084478228559778226)
