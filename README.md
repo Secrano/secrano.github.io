@@ -5,6 +5,25 @@
 # ---
 # ---
 
+- Ref img, source: [twt@](https://x.com/Home_of_Fight/status/2085888365543518543)
+
+- Ref img, source: [twt@](https://x.com/animaleden/status/2085936055405154328)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/wildanimalpis/status/2085917130273513510)
+
+- Ref img, source: [twt@](https://x.com/LensScientific/status/2085903067795628075)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/pickover/status/2086078335495307304)
+
+- Ref img, source: [twt@](https://x.com/hiseco/status/2086030364603224296)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/maxhayart/status/2085513446960017901)
 
 # ---
