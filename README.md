@@ -1,5 +1,18 @@
 # secrano.github.io
 
+--- Git Day: L4W0 - nw pink days.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/matheorems/status/2085884696790270268)
+
+# --
+
+- Ref img, source: [twt@](https://x.com/DanKantori/status/2086148037835976943)
+
+# ---
+# ---
+
 --- Git Day: L4v3 - already end of year fn.
 
 # ---
