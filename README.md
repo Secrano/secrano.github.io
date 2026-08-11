@@ -4,6 +4,18 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/yuruyurau/status/2087125958272909624)
+
+- Ref img, source: [twt@](https://x.com/Sco_ttie/status/1658034735476797440)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Tako0980/status/2087016387189600462)
+
+- Ref img, source: [twt@](https://x.com/sasakura34/status/2086787388723077128)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/DemizuPosuka/status/2086449944668541097)
 
 # ---
@@ -13,6 +25,14 @@
 # --
 
 - Ref img, source: [twt@](https://x.com/DanKantori/status/2086148037835976943)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/_riki_a/status/2086234103431483818)
+
+- Ref img, source: [twt@](https://x.com/Kuvshinov_Ilya/status/2087093057087049842)
+
+- Ref img, source: [twt@](https://x.com/washanapple/status/2087092321519337831)
 
 # ---
 # ---
