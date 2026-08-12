@@ -1,7 +1,31 @@
 # secrano.github.io
 
---- Git Day: L4W0 - nw pink days.
+--- Git Day: L4W0 - nw pink days, next.
 
+# ---
+# ---
+
+- Ref img, source: [twt@](https://x.com/WxNB_/status/2087613536746766684)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/sumeetrm/status/2087534215772479838)
+
+- Ref img, source: [twt@](https://x.com/roydanroy/status/2087639628975153299)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/UpstateOVO/status/2087570503774924948)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Tarquin_Helmet/status/2087490867317690651)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/USArmy/status/2087615099972313349)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/wonderofscience/status/2087223368659484905)
@@ -11,6 +35,32 @@
 - Ref img, source: [twt@](https://x.com/VctorSn70602092/status/2087322196125393285)
 
 - Ref img, source: [twt@](https://x.com/JudahIzHim/status/2087262005778620543)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/fortnow/status/2087565899284840566)
+
+- Ref img, source: [twt@](https://x.com/hknn_mrtt_06/status/2087520934718472693)
+
+- Ref img, source: [twt@](https://x.com/univeral00/status/2087426679278862398)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/petergostev/status/2087527300975714499)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/moonfried/status/2087520003646239229)
+
+- Ref img, source: [twt@](https://x.com/sashikantsingh_/status/2087517132708061335)
+
+- Ref img, source: [twt@](https://x.com/Raclure03/status/2087505001664921660)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/HOUSEPORN___/status/2087315077372244207)
+
+- Ref img, source: [twt@](https://x.com/BackersGamesF/status/2087576728533119195)
 
 # ---
 # ---
