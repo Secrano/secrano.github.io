@@ -7,6 +7,12 @@
 - Ref img, source: [twt@](https://x.com/wonderofscience/status/2087223368659484905)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/VctorSn70602092/status/2087322196125393285)
+
+- Ref img, source: [twt@](https://x.com/JudahIzHim/status/2087262005778620543)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/yuruyurau/status/2087125958272909624)
