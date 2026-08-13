@@ -10,6 +10,18 @@
 - Ref img, source: [twt@](https://x.com/fermatslibrary/status/2087480973780759009)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/Dexerto/status/2087939756541743449)
+
+- Ref img, source: [twt@](https://x.com/HYPEX/status/2087932939963081177)
+
+- Ref img, source: [twt@](https://x.com/operagxofficial/status/2087938644103286846)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/the_frog_mage/status/2087731875053760666)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/sumeetrm/status/2087534215772479838)
