@@ -3,6 +3,26 @@
 --- Git Day: L4W0 - nw pink days, next.
 
 # ---
+# ---
+
+- Ref img, source: [twt@](https://x.com/Number10cat/status/2088381842340680103)
+
+- Ref img, source: [twt@](https://x.com/cuteeanimals0/status/2088186363162366269)
+
+- Ref img, source: [twt@](https://x.com/GijsDeReijke/status/2087849299199529202)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/LeeLinAI123/status/2088099733550096717)
+
+- Ref img, source: [twt@](https://x.com/Dshot_/status/2088286054524583984)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/tamika47488/status/2088185954528121197)
+
+# ---
+# ---
 
 - Ref img, source: [twt@](https://x.com/WxNB_/status/2087613536746766684)
 
