@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/sssirxn/status/2088327000586846524)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/Number10cat/status/2088381842340680103)
 
