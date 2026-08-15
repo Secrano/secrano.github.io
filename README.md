@@ -4,6 +4,18 @@
 
 # --- 
 
+- Ref img, source: [twt@](https://x.com/arowana2111/status/2088765598566318277)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/pnn1008/status/2086865368837230717)
+
+- Ref img, source: [twt@](https://x.com/pnn1008/status/2088665044322304089)
+
+- Ref img, source: [twt@](https://x.com/pnn1008/status/1786829806308577719)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/sssirxn/status/2088327000586846524)
 
 # ---
