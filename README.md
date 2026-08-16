@@ -2,6 +2,33 @@
 
 --- Git Day: L4W0 - nw pink days, next.
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/saisyou_t/status/2088915668682854851)
+
+- Ref img, source: [twt@](https://x.com/Yagi5Art/status/2088589678127833228)
+
+- Ref img, source: [twt@](https://x.com/takoyankee_/status/2088674169038999981)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/JeremyClarkson/status/2088910559773114686)
+
+- Ref img, source: [twt@](https://x.com/latestincosmos/status/2088763415632421093)
+
+- Ref img, source: [twt@](https://x.com/Timeless_aiart/status/2088546485982171432)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/latestincosmos/status/2088285265215299889)
+
+- Ref img, source: [twt@](https://x.com/Sco_ttie/status/1939972498785018106)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/CivortArt/status/2088617540071174162)
+
+# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/arowana2111/status/2088765598566318277)
