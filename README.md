@@ -4,6 +4,12 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/ichikawa_385/status/2089281177026978252)
+
+- Ref img, source: [twt@](https://x.com/ilyassahinMD/status/2088820104070910207)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/saisyou_t/status/2088915668682854851)
 
 - Ref img, source: [twt@](https://x.com/Yagi5Art/status/2088589678127833228)
