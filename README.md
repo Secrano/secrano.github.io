@@ -29,6 +29,24 @@
 - Ref img, source: [twt@](https://x.com/CivortArt/status/2088617540071174162)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/polo_tokki/status/2088572804384129233)
+
+- Ref img, source: [twt@](https://x.com/polo_tokki/status/2087862181429936158)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/rosuuri/status/2088814360026132846)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Dewspiree/status/2089021582757003592)
+
+- Ref img, source: [twt@](https://x.com/silenttearthh/status/2088697690117046433)
+
+- Ref img, source: [twt@](https://x.com/juminhaw777/status/2088812617217540132)
+
+# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/arowana2111/status/2088765598566318277)
