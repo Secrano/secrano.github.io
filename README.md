@@ -4,6 +4,10 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/juusuu5671030/status/2089623343016112632)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/pickover/status/2089480959854862622)
 
 - Ref img, source: [twt@](https://x.com/NightSkyNow/status/2089274883083538820)
