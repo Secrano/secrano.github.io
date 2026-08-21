@@ -2,6 +2,15 @@
 
 --- Git Day: L4W7 - nw shit.
 
+# —-
+
+- Ref img, source: [twt@](https://x.com/aestheticsguyz/status/2090280944892809260)
+
+- Ref img, source: [ig@](https://www.instagram.com/reel/DcRJ3qmxJ8t/?utm_source=ig_web_copy_link&igsi=NTc4MTIwNjQ2YQ==)
+
+- Ref img, source: [twt@](https://x.com/edwin_ducks/status/2090454144054120891)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/juusuu5671030/status/2089623343016112632)
