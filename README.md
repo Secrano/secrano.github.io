@@ -6,7 +6,7 @@
 
 - Ref img, source: [twt@](https://x.com/aestheticsguyz/status/2090280944892809260)
 
-- Ref img, source: [twt@](https://www.instagram.com/reel/DcRJ3qmxJ8t/?utm_source=ig_web_copy_link&igsi=NTc4MTIwNjQ2YQ==) (ig)
+- Ref img, source: [twt@](https://www.instagram.com/reel/DcRJ3qmxJ8t/?utm_source=ig_web_copy_link&igsi=NTc4MTIwNjQ2YQ==)
 
 - Ref img, source: [twt@](https://x.com/edwin_ducks/status/2090454144054120891)
 
