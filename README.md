@@ -6,6 +6,14 @@
 
 - Ref img, source: [twt@](https://x.com/arowana2111/status/2090992570776310122)
 
+# --- 
+
+- Ref img, source: [twt@](https://x.com/samhcarter/status/2090799821900636163)
+
+- Ref img, source: [twt@](https://x.com/NatureScienceA1/status/2091097610279174639)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/apofissx/status/2090877743751626894)
 
 # ---
