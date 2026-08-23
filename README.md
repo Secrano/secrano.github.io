@@ -4,6 +4,15 @@
 
 # ---
 
+- Ref img, source: [twt@](https://www.instagram.com/reel/DcUxmdiRRwE/?utm_source=ig_web_copy_link&igsi=NTc4MTIwNjQ2YQ==) ig
+
+- Ref img, source: [twt@](https://x.com/lizisamused/status/2091240992271987089)
+
+- Ref img, source: [twt@](https://x.com/arowana2111/status/2090076370722533474)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/arowana2111/status/2090992570776310122)
 
 # --- 
