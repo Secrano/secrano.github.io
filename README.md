@@ -3,6 +3,44 @@
 --- Git Day: L4W7 - nw shit.
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/MacTuitui/status/2091943939758493997)
+
+- Ref img, source: [twt@](https://x.com/wonderofscience/status/2091932325965611074)
+
+- Ref img, source: [twt@](https://x.com/wonderofscience/status/2091917729364091106)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/teropa/status/2091902728104497203)
+
+- Ref img, source: [twt@](https://x.com/CoryBooker/status/2091874413981454546)
+
+- Ref img, source: [twt@](https://x.com/adivkfn/status/2091894932663587315)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/TaliaRinger/status/2091979486036119907)
+
+- Ref img, source: [twt@](https://x.com/Klukva_Games/status/2087583401389777016)
+
+- Ref img, source: [twt@](https://x.com/Dexerto/status/2091970617088127278)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/macfnyt/status/2091908891823268083)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/AdnaanJnr/status/2091833992722940284)
+
+- Ref img, source: [twt@](https://x.com/fyzex1/status/2091626517981802825)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/fermatslibrary/status/2091951981665349962)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/HYPEX/status/2091607978591809592)
