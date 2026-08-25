@@ -4,6 +4,17 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/sama/status/2092339694210040187)
+
+- Ref img, source: [twt@](https://x.com/aestheticzhub/status/2092214641456005192)
+
+- Ref img, source: [twt@](https://x.com/apofissx/status/2092301537343078701)
+
+- Ref img, source: [twt@](https://x.com/apofissx/status/2092301537343078701)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Drowsy_sheep/status/2092098840698786133)
 
 - Ref img, source: [twt@](https://x.com/AestheticsAuraa/status/2091926004998586450)
