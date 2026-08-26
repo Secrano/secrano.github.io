@@ -3,6 +3,16 @@
 --- Git Day: L4W7 - nw shit.
 
 # ---
+# ---
+
+- Ref img, source: [twt@](https://x.com/wonderofscience/status/2092243770280382840)
+
+- Ref img, source: [twt@](https://x.com/wiliam_web3/status/2092314524808335772)
+
+- Ref img, source: [twt@](https://x.com/guanzhiboisme/status/2092402645390745746)
+
+# ---
+# ---
 
 - Ref img, source: [twt@](https://x.com/sama/status/2092339694210040187)
 
