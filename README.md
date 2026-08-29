@@ -5,6 +5,19 @@
 # ---
 # ---
 
+- Ref img, source: [twt@](https://x.com/moqme/status/2093669997935825271)
+
+- Ref img, source: [twt@](https://x.com/mochiyuba/status/2093655009741373930)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/yuruyurau/status/2093678090627264739)
+
+- Ref img, source: [twt@](https://x.com/vihua6/status/2093676958362243540)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/ThePokeMD/status/2093337274188546177)
 
 - Ref img, source: [twt@](https://x.com/reinedumalaise/status/2093289596570292392)
