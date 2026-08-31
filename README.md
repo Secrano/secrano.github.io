@@ -4,6 +4,35 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/ScribnerUMCP/status/2094155826671788195)
+
+- Ref img, source: [twt@](https://x.com/catsareblessing/status/2094276159047684120)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/calidaysay/status/2094098843701055569)
+
+- Ref img, source: [twt@](https://x.com/noco3n_com/status/2094367648935211158)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/gtagmemes/status/2094214328106856653)
+
+- Ref img, source: [twt@](https://x.com/StarWarsDaily_/status/2094250558315962778)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Fariimaacoxa/status/2094397042147926292)
+
+- Ref img, source: [twt@](https://x.com/inmylimbo/status/2094382428064268778)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/MacTuitui/status/2094514463151882543)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/gardenofcolours/status/2093709598364414031)
 
 - Ref img, source: [twt@](https://x.com/Heavenlystt/status/2093969469416607806)
