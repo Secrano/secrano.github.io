@@ -3,7 +3,6 @@
 --- Git Day: L4X4 - add nw cnt bitch.
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/gardenofcolours/status/2093709598364414031)
 
