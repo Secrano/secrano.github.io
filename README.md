@@ -4,7 +4,7 @@
 
 # ---
 
-- Ref img, source: [twt@](https://www.instagram.com/p/DczvmwBm7q3/?utm_source=ig_web_copy_link&igsi=NTc4MTIwNjQ2YQ==) // ig
+- Ref img, source: [twt@](https://www.instagram.com/p/DczvmwBm7q3/?utm_source=ig_web_copy_link&igsi=NTc4MTIwNjQ2YQ==)
 
 # ---
 # ---
