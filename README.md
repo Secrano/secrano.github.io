@@ -4,6 +4,43 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/trainersgo2022/status/2095912596649935131)
+
+- Ref img, source: [twt@](https://x.com/pokemon_twts/status/2095812277001703629)
+
+- Ref img, source: [twt@](https://x.com/2323taku/status/2095861564993872371)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/KyleCranmer/status/2095891719103410333)
+
+- Ref img, source: [twt@](https://x.com/CentroLeaks/status/2095942966296686863)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/wallstmemes/status/2095859085992174024)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/realayachen/status/2095902708305957054)
+
+- Ref img, source: [twt@](https://x.com/yourself_44/status/2095881742091685923)
+
+- Ref img, source: [twt@](https://x.com/cowincrisis/status/2095819409071698313)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/BreaksMik/status/2095933681219117210)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/PokeDailyPost/status/2095628614280909181)
+
+- Ref img, source: [twt@](https://x.com/jos06252313/status/2095698338792550513)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://www.instagram.com/p/DczvmwBm7q3/?utm_source=ig_web_copy_link&igsi=NTc4MTIwNjQ2YQ==)
 
 # ---
