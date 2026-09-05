@@ -39,6 +39,10 @@
 - Ref img, source: [twt@](https://x.com/jos06252313/status/2095698338792550513)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/PokemonGOHubNet/status/2096011147010826649)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://www.instagram.com/p/DczvmwBm7q3/?utm_source=ig_web_copy_link&igsi=NTc4MTIwNjQ2YQ==)
