@@ -43,6 +43,20 @@
 - Ref img, source: [twt@](https://x.com/PokemonGOHubNet/status/2096011147010826649)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/grandia42783429/status/2096569467979591861)
+
+- Ref img, source: [twt@](https://x.com/suzuran_ai_/status/2096364865711641019)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/pokemon_fanss/status/2096362487465820605)
+
+- Ref img, source: [twt@](https://x.com/MoYU_7777/status/2096425653767659641)
+
+- Ref img, source: [twt@](https://x.com/starpokepuff/status/2096400760476954857)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://www.instagram.com/p/DczvmwBm7q3/?utm_source=ig_web_copy_link&igsi=NTc4MTIwNjQ2YQ==)
