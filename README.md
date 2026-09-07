@@ -3,6 +3,10 @@
 --- Git Day: L4X4 - add nw cnt bitch.
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/8thproject1/status/2096747425146826779)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/keenanisalive/status/2096687077123596355)
