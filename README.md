@@ -3,6 +3,32 @@
 --- Git Day: L4X4 - add nw cnt bitch.
 
 # ---
+# ---
+
+- Ref img, source: [twt@](https://x.com/keenanisalive/status/2096687077123596355)
+
+- Ref img, source: [twt@](https://x.com/lpachter/status/2096649639525236813)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/pokemon_daily/status/2096596535479792118)
+
+- Ref img, source: [twt@](https://x.com/SvSKC3C2x789866/status/2096568294333718740)
+
+- Ref img, source: [twt@](https://x.com/SoyNonormal/status/2096633941641826402)
+
+# ---
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/Dc3oE7ZCpRV/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==)
+
+- Ref img, source: [twt@](https://www.instagram.com/p/Dcv3OIQSYZY/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/GuruWallpaper1/status/2096467515622776953)
+
+# ---
+# ---
 
 - Ref img, source: [twt@](https://x.com/trainersgo2022/status/2095912596649935131)
 
