@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/OpenAI/status/2097374640582668336)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/asteroid_ill/status/2097266969426993335)
 
