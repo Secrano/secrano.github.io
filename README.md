@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/asteroid_ill/status/2097266969426993335)
+
+- Ref img, source: [twt@](https://x.com/Rhee_BORN/status/2097293884846129558)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/8thproject1/status/2096747425146826779)
 
 # ---
