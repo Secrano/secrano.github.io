@@ -4,6 +4,49 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/pickover/status/2097510397485912238)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/MacTuitui/status/2097773166957375956)
+
+- Ref img, source: [twt@](https://x.com/dominikus/status/2097742037294383318)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/sama/status/2097696043492143157)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/_01_01_01_01_/status/2097626419228459009)
+
+- Ref img, source: [twt@](https://x.com/pokemon_daily/status/2097729000609083461)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/juneymb/status/2097588700406579579)
+
+- Ref img, source: [twt@](https://x.com/kaizu_r/status/2097601435492082002)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/pogo_central/status/2097659192626544855)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/veloriahq/status/2097329044425711623)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Snehalsays_03/status/2097609757473526155)
+
+- Ref img, source: [twt@](https://x.com/Pulaxki/status/2097410626972778770)
+
+- Ref img, source: [twt@](https://x.com/6thgrade4ever/status/2097472575907525039)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/OpenAI/status/2097374640582668336)
 
 # ---
