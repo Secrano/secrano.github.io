@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/mocha708/status/2097612519200452620)
+
+- Ref img, source: [twt@](https://x.com/guluglutton/status/2097335753772818465) //
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/pickover/status/2097510397485912238)
 
 # ---
