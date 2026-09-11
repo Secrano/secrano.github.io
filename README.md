@@ -27,6 +27,12 @@
 - Ref img, source: [twt@](https://x.com/kumaneco_22/status/2097998552488353860)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/SD_syndrome3/status/2098383845905301913)
+
+- Ref img, source: [twt@](https://x.com/myovbee/status/2098391352186970562)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/mocha708/status/2097612519200452620)
