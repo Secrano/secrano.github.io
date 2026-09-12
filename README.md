@@ -10,7 +10,7 @@
 
 - Ref img, source: [twt@](https://x.com/gamgul_1234/status/2098732008822505564)
 
-- Ref img, source: [twt@](https://www.instagram.com/p/DdHYM2tBk04/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==) ig
+- Ref img, source: [twt@](https://www.instagram.com/p/DdHYM2tBk04/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==)
 
 # ---
 
