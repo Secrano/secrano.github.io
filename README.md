@@ -4,6 +4,29 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/pokemon_psts/status/2098407223785381926)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/gamgul_1234/status/2098732008822505564)
+
+- Ref img, source: [twt@](https://www.instagram.com/p/DdHYM2tBk04/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==) ig
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/arowana2111/status/2098757793297953278)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/PaquebotX/status/2098616525577924907)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/natu_a0z0ra/status/2098722439865991377)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/MemoryOffline/status/2098003569853002184)
 
 # ---
