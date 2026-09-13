@@ -4,6 +4,21 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/MacTuitui/status/2098863806365512024)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Saya_Canterbury/status/2098684973545070604)
+
+- Ref img, source: [twt@](https://x.com/MEBARU_545/status/2098721348893946116)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/paya_paya_D/status/2098607537549652336)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/pokemon_psts/status/2098407223785381926)
 
 # ---
