@@ -4,6 +4,25 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/mmocc123/status/2099295995691700232)
+
+- Ref img, source: [twt@](https://x.com/certifits/status/2099224915018711123)
+
+- Ref img, source: [twt@](https://x.com/nyankorooow/status/2098825983340015938)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/miniapeur/status/2099434087039615004)
+
+- Ref img, source: [twt@](https://x.com/DreamLeaf5/status/2099231307192471894)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Kenkenpa5678/status/2099440760873714094)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/CFC_Samzzy1/status/2099155583441993965)
 
 - Ref img, source: [twt@](https://x.com/masaXwhiz/status/2098919510422196415)
