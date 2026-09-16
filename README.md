@@ -4,6 +4,15 @@
 
 # --- 
 
+- Ref img, source: [twt@](https://www.instagram.com/p/Dc9Qil3x8oR/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==) ig
+
+- Ref img, source: [twt@](https://x.com/googlechrome/status/2100272953124364612)
+
+- Ref img, source: [twt@](https://x.com/apofissx/status/2100277449296646225)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/000chun000_/status/2100084439393177993)
 
 # ---
