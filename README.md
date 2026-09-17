@@ -11,7 +11,6 @@
 - Ref img, source: [twt@](https://x.com/apofissx/status/2100277449296646225)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/omochinQ/status/2100515826638180683)
 
