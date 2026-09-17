@@ -13,6 +13,17 @@
 # ---
 # ---
 
+- Ref img, source: [twt@](https://x.com/omochinQ/status/2100515826638180683)
+
+- Ref img, source: [twt@](https://x.com/nena__chick/status/2100569262326702203)
+
+- Ref img, source: [twt@](https://x.com/FredFraiche/status/2100489124222259350)
+
+- Ref img, source: [twt@](https://x.com/talesshinja/status/2100540856755491172)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/000chun000_/status/2100084439393177993)
 
 # ---
