@@ -37,7 +37,7 @@
 # ---
 # ---
 
-- Ref img, source: [twt@](https://www.instagram.com/p/DdGX0jqlCNu/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==) ig
+- Ref img, source: [twt@](https://www.instagram.com/p/DdGX0jqlCNu/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==)
 
 # ---
 # ---
