@@ -21,6 +21,25 @@
 - Ref img, source: [twt@](https://x.com/talesshinja/status/2100540856755491172)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/wonderofscience/status/2100938920213029298)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/SpencerHakimian/status/2100348204772434090)
+
+- Ref img, source: [twt@](https://x.com/angipathy/status/2100616309444673878)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/stimograph/status/2100341749595918648)
+
+# ---
+# ---
+
+- Ref img, source: [twt@](https://www.instagram.com/p/DdGX0jqlCNu/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==) ig
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/000chun000_/status/2100084439393177993)
