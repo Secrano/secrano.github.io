@@ -2,6 +2,23 @@
 
 --- Git Day: L4X4 - add nw cnt bitch.
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/KantoForever/status/2100638465733841239)
+
+- Ref img, source: [twt@](https://x.com/KantoForever/status/2100850759256383530)
+
+- Ref img, source: [twt@](https://x.com/KantoForever/status/2100850484730851536)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/4869ntmmmmm/status/2101297262911725992)
+
+- Ref img, source: [twt@](https://x.com/hiseco/status/2101250888719577405)
+
+- Ref img, source: [twt@](https://x.com/yuruyurau/status/2101319815772397831)
+
+# ---
 # --- 
 
 - Ref img, source: [twt@](https://www.instagram.com/p/Dc9Qil3x8oR/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==)
