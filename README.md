@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/JessisJoker/status/2100999483836555532)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/MacTuitui/status/2101456308176117838)
 
@@ -23,7 +22,6 @@
 
 - Ref img, source: [twt@](https://x.com/MacTuitui/status/2101456308176117838)
 
-# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/JessisJoker/status/2100999483836555532)
