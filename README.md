@@ -6,6 +6,8 @@
 
 - Ref img, source: [twt@](https://x.com/Kadotttt/status/2101599702470762708)
 
+- Ref img, source: [twt@](https://x.com/6moon_0/status/2101683949902987720)
+
 # ---
 # ---
 
