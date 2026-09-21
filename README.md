@@ -9,6 +9,12 @@
 - Ref img, source: [twt@](https://x.com/6moon_0/status/2101683949902987720)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/ligmki8/status/2101973455747072019)
+
+- Ref img, source: [twt@](https://x.com/moqme/status/2102005960546103410)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/JessisJoker/status/2100999483836555532)
