@@ -15,6 +15,10 @@
 - Ref img, source: [twt@](https://x.com/moqme/status/2102005960546103410)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/oshiruko_s2/status/2101589709390823644)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/JessisJoker/status/2100999483836555532)
