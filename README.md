@@ -15,4 +15,8 @@
 - Ref img, source: [twt@](https://x.com/kun_chang_68/status/2102503207222366451)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/spherical_art/status/2102492124050829805)
+
+# ---
 # ---
