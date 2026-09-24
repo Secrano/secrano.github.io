@@ -20,3 +20,24 @@
 
 # ---
 # ---
+
+- Ref img, source: [twt@](https://x.com/SayaScarlet01/status/2103119865615945760)
+
+- Ref img, source: [twt@](https://x.com/wonderofscience/status/2103113774777381021)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/wtfmeech/status/2102937663418560778)
+
+- Ref img, source: [twt@](https://x.com/onijiang00/status/2102990796375146568)
+
+- Ref img, source: [twt@](https://www.youtube.com/watch?v=xcndtHFkERY)
+
+- Ref img, source: [twt@](https://x.com/IGN/status/2103073482166640938)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/DemizuPosuka/status/2103130000832749917)
+
+# ---
+# ---
