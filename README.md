@@ -4,6 +4,12 @@
 
 # ---
 
+- Ref img, source: [twt@](https://www.instagram.com/p/DdizmUikeA4/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ%3D%3D)
+
+- Ref img, source: [twt@](https://x.com/tao15102/status/2103048978002801056)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/pokemon_fanss/status/2103046223594668288)
 
 # ---
