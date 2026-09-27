@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/dominikus/status/2104117327411437933)
+
+- Ref img, source: [twt@](https://x.com/grandia42783429/status/2104068983838409086)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://www.instagram.com/p/DdizmUikeA4/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ%3D%3D)
 
 - Ref img, source: [twt@](https://x.com/tao15102/status/2103048978002801056)
