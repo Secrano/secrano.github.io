@@ -4,6 +4,27 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/gracile_jp/status/2104901003703394459)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/untaneko/status/2104904028362576193)
+
+- Ref img, source: [twt@](https://x.com/junkiyoshi/status/2104918474263027807)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Sco_ttie/status/1612741660945035269)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/pickover/status/2104931104713060521)
+
+- Ref img, source: [twt@](https://x.com/SkallEdit/status/2104845256403632408)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/mathemetica/status/2103683641494622692)
 
 # ---
