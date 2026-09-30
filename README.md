@@ -23,6 +23,16 @@
 - Ref img, source: [twt@](https://x.com/SkallEdit/status/2104845256403632408)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/fermatslibrary/status/2105280565268168977)
+
+- Ref img, source: [twt@](https://x.com/gracile_jp/status/2105256432035918268)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/DemizuPosuka/status/2105289569864474720)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/mathemetica/status/2103683641494622692)
