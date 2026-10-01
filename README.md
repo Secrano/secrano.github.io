@@ -33,6 +33,12 @@
 - Ref img, source: [twt@](https://x.com/DemizuPosuka/status/2105289569864474720)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/rihanna/status/2105670343075741830)
+
+- Ref img, source: [twt@](https://x.com/gracile_jp/status/2105680766760009794)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/mathemetica/status/2103683641494622692)
