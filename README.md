@@ -39,6 +39,20 @@
 - Ref img, source: [twt@](https://x.com/gracile_jp/status/2105680766760009794)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/monschi_art/status/2106103387993317570)
+
+- Ref img, source: [twt@](https://x.com/mathemetica/status/2106061639607075103)
+
+# ---
+
+- Ref img, source: [twt@](https://www.instagram.com/p/Dd9CFdxKGI7/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==)
+
+- Ref img, source: [twt@](https://www.instagram.com/p/Dd9DKqWzxCJ/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==)
+
+- Ref img, source: [twt@](https://www.instagram.com/p/Dd-rKkwqiiY/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/mathemetica/status/2103683641494622692)
