@@ -53,6 +53,10 @@
 - Ref img, source: [twt@](https://www.instagram.com/p/Dd-rKkwqiiY/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/animes3l/status/2106377068514885815)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/mathemetica/status/2103683641494622692)
