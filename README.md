@@ -57,6 +57,18 @@
 - Ref img, source: [twt@](https://x.com/animes3l/status/2106377068514885815)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/Drowsy_sheep/status/2107574648338825484)
+
+- Ref img, source: [twt@](https://x.com/AlexKontorovich/status/2107587119757869149)
+
+- Ref img, source: [twt@](https://x.com/pickover/status/2107482419339366874)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/mathemetica/status/2107415405211836759)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/mathemetica/status/2103683641494622692)
