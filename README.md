@@ -69,6 +69,12 @@
 - Ref img, source: [twt@](https://x.com/mathemetica/status/2107415405211836759)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/TheVixhal/status/2107915907003826222)
+
+- Ref img, source: [twt@](https://x.com/NatGeo/status/2108210811202142349)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/mathemetica/status/2103683641494622692)
