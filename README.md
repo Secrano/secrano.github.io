@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/dominikus/status/2109891988996714802)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/gracile_jp/status/2104901003703394459)
 
