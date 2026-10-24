@@ -4,6 +4,15 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/pickover/status/2113971529134281031)
+
+- Ref img, source: [twt@](https://x.com/FlameKaizerX/status/2113831595912347738)
+
+- Ref img, source: [twt@](https://x.com/Sco_ttie/status/1917897034129936534)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/lilydisease/status/2112302900219408774)
 
 - Ref img, source: [twt@](https://x.com/wonderofscience/status/2112552678819520789)
