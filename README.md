@@ -1,7 +1,24 @@
 # secrano.github.io
 
---- Git Day: L4Y8 -
+--- Git Day: L4Y8 - db pen, step inc, sum eq, fn.
 
+# ---
+
+- Ref img, source: [twt@](https://x.com/krishnagade/status/2114384774521561197)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/hardmaru/status/2114386504177070236)
+
+- Ref img, source: [twt@](https://x.com/mathemetica/status/2114399146841174242)
+
+- Ref img, source: [twt@](https://x.com/wonderofscience/status/2114400535948181772)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/wonderofscience/status/2114382514735268347)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/wonderofscience/status/2114002662731436427)
