@@ -18,7 +18,7 @@
 
 - Ref img, source: [twt@](https://www.instagram.com/p/DeNGCKvDb4n/?utm_source=ig_web_copy_link&dlrf=NTc4MTIwNjQ2YQ==)
 
-# —-
+# ---
 
 - Ref img, source: [twt@](https://x.com/lisyarus/status/2114690998857351653)
 
