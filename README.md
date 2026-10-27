@@ -1,5 +1,16 @@
 # secrano.github.io
 
+--- Git Day: L502 - 
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/wonderofscience/status/2115093852948189518)
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/DezQbI4M2sq/?utm_source=ig_web_copy_link&srtk=NTc4MTIwNjQ2YQ==)
+
+# ---
+# ---
+
 --- Git Day: L4Z5 - ig algo.
 
 # ---
