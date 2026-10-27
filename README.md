@@ -1,6 +1,6 @@
 # secrano.github.io
 
---- Git Day: L502 - 
+--- Git Day: L502 - snowy weather.
 
 # ---
 
