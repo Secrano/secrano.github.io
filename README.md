@@ -4,6 +4,29 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/ema3art/status/2115741412033753121)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/EODHappyCaptain/status/2115887607238328723)
+
+- Ref img, source: [twt@](https://x.com/HalfFriedMedia/status/2115753026547863974)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/AiBattle_/status/2115799778822893795)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/KrusierWeasley/status/2115428377477923174)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Mens_Corner__/status/2115518972393369887)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/Estella_TSOT/status/2115639771137753192)
 
 # ---
