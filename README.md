@@ -16,8 +16,6 @@
 
 - Ref img, source: [twt@](https://x.com/AiBattle_/status/2115799778822893795)
 
-# ---
-
 - Ref img, source: [twt@](https://x.com/KrusierWeasley/status/2115428377477923174)
 
 # ---
