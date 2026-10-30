@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/GadsdenTusk/status/2115970126579421392)
+
+- Ref img, source: [twt@](https://x.com/wonderofscience/status/2116216018381017244)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/ema3art/status/2115741412033753121)
 
 # ---
