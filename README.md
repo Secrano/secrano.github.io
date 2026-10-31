@@ -4,6 +4,22 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/nigeldanson/status/2116498754308276247)
+
+- Ref img, source: [twt@](https://x.com/junkiyoshi/status/2116506025344000252)
+
+- Ref img, source: [twt@](https://x.com/DontKiIIMe_/status/2116471803954782209)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/hiseco/status/2116490808677535920)
+
+- Ref img, source: [twt@](https://x.com/DemizuPosuka/status/2116531291323773270)
+
+- Ref img, source: [twt@](https://x.com/mocha708/status/2116349547152818478)
+
+#---
+
 - Ref img, source: [twt@](https://x.com/GadsdenTusk/status/2115970126579421392)
 
 - Ref img, source: [twt@](https://x.com/wonderofscience/status/2116216018381017244)
