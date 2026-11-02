@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/starstrickenSF/status/2117039593619091716)
+
+- Ref img, source: [twt@](https://x.com/SunhiLegend/status/2116954439999517164)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/ttguweiz/status/2116724768464666958)
 
 - Ref img, source: [twt@](https://x.com/Yesterdaysut/status/2116753851344683095)
