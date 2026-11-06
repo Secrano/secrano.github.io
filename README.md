@@ -4,6 +4,21 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/vamptact/status/2118332878308167817)
+
+- Ref img, source: [twt@](https://x.com/dacc_maxi/status/2118375341689356652)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Paulina_laba/status/2118511455007895890)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/VaibhavLab/status/2118320167721869367)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/moon10o0/status/2016104232135622880)
 
 # ---
