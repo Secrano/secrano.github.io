@@ -4,6 +4,10 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/dagasi_yk/status/2118259677784162490)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/vamptact/status/2118332878308167817)
 
 - Ref img, source: [twt@](https://x.com/dacc_maxi/status/2118375341689356652)
@@ -15,6 +19,12 @@
 # ---
 
 - Ref img, source: [twt@](https://x.com/VaibhavLab/status/2118320167721869367)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/internetarchive/status/2118783455542538615)
+
+- Ref img, source: [twt@](https://x.com/BlondeNerd/status/2118784592077529142)
 
 # ---
 # ---
