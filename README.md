@@ -4,6 +4,23 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/wang_teng75908/status/2118878125249409415)
+
+- Ref img, source: [twt@](https://x.com/zeldaoomf/status/2118914518151475614)
+
+# ---
+# ---
+
+- Ref img, source: [twt@](https://x.com/ShinMegamiTen/status/2119138178976170413)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Nintendeal/status/2110780978188915197)
+
+- Ref img, source: [twt@](https://x.com/Rad_Dudesman/status/2118973745977328081)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/dagasi_yk/status/2118259677784162490)
 
 # ---
@@ -25,6 +42,10 @@
 - Ref img, source: [twt@](https://x.com/internetarchive/status/2118783455542538615)
 
 - Ref img, source: [twt@](https://x.com/BlondeNerd/status/2118784592077529142)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/ayesha_fatiima/status/2118939693299699877)
 
 # ---
 # ---
