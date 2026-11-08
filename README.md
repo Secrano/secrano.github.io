@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/oshiruko_s2/status/2119339176617505160)
+
+- Ref img, source: [twt@](https://x.com/Sco_ttie/status/1664558765394505728)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/wang_teng75908/status/2118878125249409415)
 
 - Ref img, source: [twt@](https://x.com/zeldaoomf/status/2118914518151475614)
