@@ -9,6 +9,12 @@
 - Ref img, source: [twt@](https://x.com/Sco_ttie/status/1664558765394505728)
 
 # ---
+
+- Ref img, source: [twt@](https://x.com/ianelbow/status/2119647662156976484)
+
+- Ref img, source: [twt@](https://x.com/BlondeNerd/status/2119499501753057656)
+
+# ---
 # ---
 
 - Ref img, source: [twt@](https://x.com/wang_teng75908/status/2118878125249409415)
