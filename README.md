@@ -4,6 +4,13 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/minori_chigusa/status/2120428322899591192)
+
+- Ref img, source: [twt@](https://x.com/itsme_urstruly/status/2120236483898675672)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/prd_008/status/2119894036316398055)
 
 - Ref img, source: [twt@](https://x.com/SonicHero3D/status/2119892244920774781)
