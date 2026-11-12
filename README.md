@@ -4,6 +4,26 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/SReaperDraws/status/2120696756560441681)
+
+- Ref img, source: [twt@](https://x.com/orchidvape/status/2120628156822638707)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/TheFreeSeaElf/status/2120697032017129888)
+
+# ---
+# --- 
+
+- Ref img, source: [twt@](https://www.instagram.com/p/Dfme5WDHUrE/?utm_source=ig_web_copy_link&vrfl=NTc4MTIwNjQ2YQ==)
+
+- Ref img, source: [twt@](https://www.instagram.com/p/DfmrPS5z0xn/?utm_source=ig_web_copy_link&rpxt=NTc4MTIwNjQ2YQ==)
+
+- Ref img, source: [twt@](https://www.instagram.com/p/DfJYVnHJuVf/?utm_source=ig_web_copy_link&psln=NTc4MTIwNjQ2YQ==)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/minori_chigusa/status/2120428322899591192)
 
 - Ref img, source: [twt@](https://x.com/itsme_urstruly/status/2120236483898675672)
