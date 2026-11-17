@@ -4,6 +4,23 @@
 
 # --- 
 
+- Ref img, source: [twt@](https://x.com/goodworkmb/status/2122414733085302808)
+
+- Ref img, source: [twt@](https://x.com/Light_88_/status/2122376109224603839)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/premwomp/status/2122334107040690247)
+
+- Ref img, source: [twt@](https://x.com/guideforman/status/2122269742538920146)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/blackoakstake/status/2122342790193656128)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://x.com/mark_lj/status/2121943245991428369)
 
 # ---
