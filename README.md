@@ -4,6 +4,23 @@
 
 # --- 
 
+- Ref img, source: [twt@](https://x.com/0xbenito_/status/2122808426153599200)
+
+- Ref img, source: [twt@](https://x.com/KLdivergence/status/2123029478628605991)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/EthanLevins2/status/2123041382684053982)
+
+- Ref img, source: [twt@](https://www.instagram.com/moonpandaai/reel/Df4mjuBtWkp/)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/wonderofscience/status/2123076953380917642)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://www.instagram.com/reel/Df2TwDIOOVh/?utm_source=ig_web_copy_link&exln=NTc4MTIwNjQ2YQ==)
 
 # ---
