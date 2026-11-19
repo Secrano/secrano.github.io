@@ -2,6 +2,52 @@
 
 --- Git Day: L5A6 - 8th wheel.
 
+# ---
+
+- Ref img, source: [twt@](https://www.instagram.com/p/Df68nXwm1gs/?utm_source=ig_web_copy_link&jplx=NTc4MTIwNjQ2YQ==)
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/Df63r7Dh-ai/?utm_source=ig_web_copy_link&gwpx=NTc4MTIwNjQ2YQ==)
+
+- Ref img, source: [twt@](https://www.instagram.com/p/Df60OJeCWjT/?utm_source=ig_web_copy_link&avpt=NTc4MTIwNjQ2YQ==)
+
+# ---
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/DcVgoQvuyw-/?utm_source=ig_web_copy_link&gwpx=NTc4MTIwNjQ2YQ==)
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/DelQOgEkzxc/?utm_source=ig_web_copy_link&knvt=NTc4MTIwNjQ2YQ==)
+
+# ---
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/DdXsj5RTy-O/?utm_source=ig_web_copy_link&bqrl=NTc4MTIwNjQ2YQ==)
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/Df62PIJTgNy/?utm_source=ig_web_copy_link&knvt=NTc4MTIwNjQ2YQ==)
+
+# ---
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/DdoZU-qMSj-/?utm_source=ig_web_copy_link&dmpr=NTc4MTIwNjQ2YQ==)
+
+# ---
+# ---
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/DfdDZ1rugrb/?utm_source=ig_web_copy_link&knvt=NTc4MTIwNjQ2YQ==)
+
+- Ref img, source: [twt@](https://www.instagram.com/p/DfhT1wQmpFv/?utm_source=ig_web_copy_link&evlk=NTc4MTIwNjQ2YQ==)
+
+# ---
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/DfTpXWBOiPJ/?utm_source=ig_web_copy_link&evlk=NTc4MTIwNjQ2YQ==)
+
+# ---
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/Dcw0a12gjYx/?utm_source=ig_web_copy_link&gwpx=NTc4MTIwNjQ2YQ==)
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/DfhJJcsPSrJ/?utm_source=ig_web_copy_link&dmpr=NTc4MTIwNjQ2YQ==)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/RealKidPoker/status/2123453128591000010)
+
+# ---
 # --- 
 
 - Ref img, source: [twt@](https://x.com/0xbenito_/status/2122808426153599200)
