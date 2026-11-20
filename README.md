@@ -4,6 +4,11 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/Google/status/2123575135232024719)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://www.instagram.com/p/Df68nXwm1gs/?utm_source=ig_web_copy_link&jplx=NTc4MTIwNjQ2YQ==)
 
 - Ref img, source: [twt@](https://www.instagram.com/reel/Df63r7Dh-ai/?utm_source=ig_web_copy_link&gwpx=NTc4MTIwNjQ2YQ==)
@@ -46,6 +51,13 @@
 # ---
 
 - Ref img, source: [twt@](https://x.com/RealKidPoker/status/2123453128591000010)
+
+# ---
+# ---
+
+- Ref img, source: [twt@](https://x.com/aeejazkhan/status/2123337362495373789)
+
+- Ref img, source: [twt@](https://x.com/palkiaorigin/status/2123432320950821139)
 
 # ---
 # --- 
