@@ -7,7 +7,6 @@
 - Ref img, source: [twt@](https://x.com/Google/status/2123575135232024719)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://www.instagram.com/p/Df68nXwm1gs/?utm_source=ig_web_copy_link&jplx=NTc4MTIwNjQ2YQ==)
 
