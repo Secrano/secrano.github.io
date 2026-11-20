@@ -1,5 +1,47 @@
 # secrano.github.io
 
+--- Git Day: L5B3 - gta6 for everyone.
+
+# ---
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/Df92UBtu52X/?utm_source=ig_web_copy_link&jplx=NTc4MTIwNjQ2YQ==)
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/Df9TP4rPVth/?utm_source=ig_web_copy_link&avpt=NTc4MTIwNjQ2YQ==)
+
+# ---
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/Df90zreIOGa/?utm_source=ig_web_copy_link&cnvx=NTc4MTIwNjQ2YQ==)
+
+# ---
+
+- Ref img, source: [twt@](https://www.instagram.com/p/DfwczDJFc_Z/?utm_source=ig_web_copy_link&cnvx=NTc4MTIwNjQ2YQ==)
+
+- Ref img, source: [twt@](https://www.instagram.com/p/Df90Ua1IdgH/?utm_source=ig_web_copy_link&lqvp=NTc4MTIwNjQ2YQ==)
+
+# ---
+
+- Ref img, source: [twt@](https://www.instagram.com/p/DfJw_vQmV9c/?utm_source=ig_web_copy_link&gwpx=NTc4MTIwNjQ2YQ==)
+
+# ---
+# ---
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/Df7JVHXCrJY/?utm_source=ig_web_copy_link&fqnt=NTc4MTIwNjQ2YQ==)
+
+- Ref img, source: [twt@](https://www.instagram.com/p/Dfv8Cngx7b5/?utm_source=ig_web_copy_link&bqrl=NTc4MTIwNjQ2YQ==)
+
+# ---
+
+- Ref img, source: [twt@](https://www.instagram.com/p/DfcBsP6E4JS/?utm_source=ig_web_copy_link&gwpx=NTc4MTIwNjQ2YQ==)
+
+# ---
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/Dd1DqL1sAh8/?utm_source=ig_web_copy_link&hvrq=NTc4MTIwNjQ2YQ==)
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/Df8dMEDBL8Q/?utm_source=ig_web_copy_link&evlk=NTc4MTIwNjQ2YQ%3D%3D)
+
+# ---
+
+
 --- Git Day: L5A6 - 8th wheel.
 
 # ---
