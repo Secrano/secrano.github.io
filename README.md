@@ -52,7 +52,6 @@
 - Ref img, source: [twt@](https://x.com/RealKidPoker/status/2123453128591000010)
 
 # ---
-# ---
 
 - Ref img, source: [twt@](https://x.com/aeejazkhan/status/2123337362495373789)
 
