@@ -4,11 +4,31 @@
 
 # ---
 
+- Ref img, source: [twt@](https://www.instagram.com/reel/DevUvAfujew/?utm_source=ig_web_copy_link&fqnt=NTc4MTIwNjQ2YQ==)
+
+# ---
+
 - Ref img, source: [twt@](https://x.com/EelcoHoog/status/2123825363637731467)
 
 - Ref img, source: [twt@](https://x.com/MacTuitui/status/2123888023246946376)
 
 - Ref img, source: [twt@](https://x.com/MacTuitui/status/2123148461776220437)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/Its_lakshya_ai/status/2124408220613591358)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/washanapple/status/2124492699592184169)
+
+# ---
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/DfHn_cRtkYj/?utm_source=ig_web_copy_link&knvt=NTc4MTIwNjQ2YQ==)
+
+- Ref img, source: [twt@](https://www.instagram.com/p/Df01AGgFTq3/?utm_source=ig_web_copy_link&lqvp=NTc4MTIwNjQ2YQ==)
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/DexfzKrxCWh/?utm_source=ig_web_copy_link&evlk=NTc4MTIwNjQ2YQ==)
 
 # ---
 # ---
