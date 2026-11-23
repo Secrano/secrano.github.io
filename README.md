@@ -1,5 +1,14 @@
 # secrano.github.io
 
+--- Git Day: L5C0 - burn.
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/hengki24/status/2124858075568067024)
+
+# ---
+# ---
+
 --- Git Day: L5B3 - gta6 for everyone.
 
 # ---
