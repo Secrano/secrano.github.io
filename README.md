@@ -1,5 +1,17 @@
 # secrano.github.io
 
+--- Git Day: L5C7 - boi.
+
+# ---
+
+- Ref img, source: [twt@](https://www.instagram.com/p/DgGl8f6B8Hk/?utm_source=ig_web_copy_link&bqrl=NTc4MTIwNjQ2YQ==)
+
+- Ref img, source: [twt@](https://www.instagram.com/reel/DgKSlYKzPoa/?utm_source=ig_web_copy_link&gwpx=NTc4MTIwNjQ2YQ==)
+
+# ---
+
+<br/>
+
 --- Git Day: L5C0 - burn.
 
 # ---
