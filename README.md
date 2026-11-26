@@ -4,6 +4,35 @@
 
 # ---
 
+- Ref img, source: [twt@](https://x.com/AlexKontorovich/status/2125740478368792987)
+
+- Ref img, source: [twt@](https://x.com/xereeto/status/2125541291216027845)
+
+- Ref img, source: [twt@](https://x.com/ScyanYT/status/2125712006720208981)
+
+- Ref img, source: [twt@](https://x.com/wonderofscience/status/2125595775132369075)
+
+# 
+
+- Ref img, source: [twt@](https://x.com/gtasix_/status/2125577693357862945)
+
+#
+
+- Ref img, source: [twt@](https://x.com/LuxeMuseArt/status/2125748780092022860)
+
+- Ref img, source: [twt@](https://x.com/JamesLucasIT/status/2125597237157982717)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/forrestbrazeal/status/2125579163872661964)
+
+# ---
+
+- Ref img, source: [twt@](https://x.com/CaptainInsightX/status/2125795492949070203)
+
+# ---
+# ---
+
 - Ref img, source: [twt@](https://www.instagram.com/p/DgGl8f6B8Hk/?utm_source=ig_web_copy_link&bqrl=NTc4MTIwNjQ2YQ==)
 
 - Ref img, source: [twt@](https://www.instagram.com/reel/DgKSlYKzPoa/?utm_source=ig_web_copy_link&gwpx=NTc4MTIwNjQ2YQ==)
